@@ -1,0 +1,197 @@
+{
+  "info": {
+    "id": 0,
+    "title": "Net Account | نت اكانت",
+    "username": "NetAccount",
+    "photo_url": "https://cdn4.telesco.pe/file/BG1kb-qI3QXRIXHZMdcE6QYh-4ijKIYcaeR47wIH6oclg_htXV9YiA176HHlMtGqdU0z-OYkPs8qLyanGKP-ZOYe_-xD72U3urJN0nlyJNQ73YxptOihsgtWmb2crDSkmLTHlgcDG1aGbuth3T2Andf-ZYkBU7qOjVYVoP8fSJ9GUO90zxs_JxulkCT4fhjAhuuTw16iQ3yxPUdkMOdrlx_ohHmPhoyPeJ6z3pQswbpXZd-K2frrzC73Ry6d54kkeWOQ-nbO_m6U-wzcnTuk1_QukmKnyTnZiEnxEgjvzayx6nvTAQRikYeTl43R1uZqWR83Vii2GOiXpFHOeoRIdQ.jpg"
+  },
+  "posts": [
+    {
+      "id": 0,
+      "message": "برنامه WhiteDNS برای وصل شدن به StormDNS (\u003ca href=\"https://guardnet.ir/f/bffd45b9b60d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک داخلی\u003c/a\u003e)\u003cbr/\u003eنسخه 1 بتای 5، هنوز نسخه 1 به صورت نهایی و پایدار منتشر نشده\u003cbr/\u003e\u003cbr/\u003eآموزش متصل شدن در پست بعدی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-05T19:16:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eآموزش متصل شدن با اپ WhiteDNS (یک کلاینت برای روش StormDNS) روی اندروید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/17364\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود برنامه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e1- بعد از اجرای برنامه، پایین سمت چپ قسمت Profiles رو باز کنید روی Create new connection بزنید و Name رو یه چیز دلخواه بذارید. گزینه های بعدی یعنی Domain و Encryption Key رو میتونید از \u003ca href=\"https://t.me/NetAccount/17362\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین پست\u003c/a\u003e که دامین و انکریپشن‌کی گذاشتیم بردارید بزنید و بعدش سیو کنید. (میتونید چند تا کانکشن به همین شکل بسازید) \u003cbr/\u003e\u003cbr/\u003e2- وارد صفحه اصلی برنامه بشید و توی کادری که آیپی ها هست باید لیست DNS Resolver بذارید که اینجا 120 تا آیپی ریزالور هست کپی کنید و بزنید:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"http://95.38.201.194/\" target=\"_blank\" rel=\"noopener\"\u003e95.38.201.194\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.66/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://178.252.183.2/\" target=\"_blank\" rel=\"noopener\"\u003e178.252.183.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://151.243.11.37/\" target=\"_blank\" rel=\"noopener\"\u003e151.243.11.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.50/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.50\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://195.245.70.210/\" target=\"_blank\" rel=\"noopener\"\u003e195.245.70.210\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.112.0.7/\" target=\"_blank\" rel=\"noopener\"\u003e5.112.0.7\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.176.2/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.176.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.1.19/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.1.19\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.174.2/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.174.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.49.86.202/\" target=\"_blank\" rel=\"noopener\"\u003e185.49.86.202\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.163.1/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.163.1\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.14/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.14\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://194.156.140.62/\" target=\"_blank\" rel=\"noopener\"\u003e194.156.140.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.175.172.98/\" target=\"_blank\" rel=\"noopener\"\u003e79.175.172.98\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://89.144.145.220/\" target=\"_blank\" rel=\"noopener\"\u003e89.144.145.220\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://80.191.163.249/\" target=\"_blank\" rel=\"noopener\"\u003e80.191.163.249\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.91/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.91\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.218.59.14/\" target=\"_blank\" rel=\"noopener\"\u003e217.218.59.14\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://93.118.109.213/\" target=\"_blank\" rel=\"noopener\"\u003e93.118.109.213\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.182.253.245/\" target=\"_blank\" rel=\"noopener\"\u003e2.182.253.245\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.80.180/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.80.180\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://188.75.95.5/\" target=\"_blank\" rel=\"noopener\"\u003e188.75.95.5\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.93/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.93\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.162.200/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.162.200\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.100.55.67/\" target=\"_blank\" rel=\"noopener\"\u003e46.100.55.67\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.130/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.70/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.70\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://95.80.164.11/\" target=\"_blank\" rel=\"noopener\"\u003e95.80.164.11\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://31.7.78.205/\" target=\"_blank\" rel=\"noopener\"\u003e31.7.78.205\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://164.138.17.122/\" target=\"_blank\" rel=\"noopener\"\u003e164.138.17.122\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.91.130/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.91.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.227.78/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.227.78\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.5.207/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.5.207\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.185.144.66/\" target=\"_blank\" rel=\"noopener\"\u003e2.185.144.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://194.225.50.6/\" target=\"_blank\" rel=\"noopener\"\u003e194.225.50.6\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.139.64.9/\" target=\"_blank\" rel=\"noopener\"\u003e185.139.64.9\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.157.36.243/\" target=\"_blank\" rel=\"noopener\"\u003e78.157.36.243\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.119.0.9/\" target=\"_blank\" rel=\"noopener\"\u003e5.119.0.9\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.182.154.105/\" target=\"_blank\" rel=\"noopener\"\u003e94.182.154.105\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.114.0.7/\" target=\"_blank\" rel=\"noopener\"\u003e5.114.0.7\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://89.47.196.50/\" target=\"_blank\" rel=\"noopener\"\u003e89.47.196.50\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://86.107.0.29/\" target=\"_blank\" rel=\"noopener\"\u003e86.107.0.29\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.88.178.196/\" target=\"_blank\" rel=\"noopener\"\u003e185.88.178.196\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.137.130/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.137.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.202.255.17/\" target=\"_blank\" rel=\"noopener\"\u003e5.202.255.17\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.105.101.1/\" target=\"_blank\" rel=\"noopener\"\u003e185.105.101.1\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.198.190.100/\" target=\"_blank\" rel=\"noopener\"\u003e217.198.190.100\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.10.71.13/\" target=\"_blank\" rel=\"noopener\"\u003e185.10.71.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://151.232.36.4/\" target=\"_blank\" rel=\"noopener\"\u003e151.232.36.4\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://95.38.102.86/\" target=\"_blank\" rel=\"noopener\"\u003e95.38.102.86\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.78/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.78\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://80.253.135.5/\" target=\"_blank\" rel=\"noopener\"\u003e80.253.135.5\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.116.163.63/\" target=\"_blank\" rel=\"noopener\"\u003e185.116.163.63\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.182.201.2/\" target=\"_blank\" rel=\"noopener\"\u003e2.182.201.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://85.185.1.10/\" target=\"_blank\" rel=\"noopener\"\u003e85.185.1.10\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.182.35.241/\" target=\"_blank\" rel=\"noopener\"\u003e94.182.35.241\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.236.90.8/\" target=\"_blank\" rel=\"noopener\"\u003e185.236.90.8\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.125.0.20/\" target=\"_blank\" rel=\"noopener\"\u003e5.125.0.20\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.32.25.130/\" target=\"_blank\" rel=\"noopener\"\u003e46.32.25.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.218.62.18/\" target=\"_blank\" rel=\"noopener\"\u003e217.218.62.18\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://93.113.224.118/\" target=\"_blank\" rel=\"noopener\"\u003e93.113.224.118\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.127.65.3/\" target=\"_blank\" rel=\"noopener\"\u003e79.127.65.3\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://62.60.197.85/\" target=\"_blank\" rel=\"noopener\"\u003e62.60.197.85\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://37.32.45.192/\" target=\"_blank\" rel=\"noopener\"\u003e37.32.45.192\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.98/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.98\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.67.130/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.67.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://194.156.140.10/\" target=\"_blank\" rel=\"noopener\"\u003e194.156.140.10\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.16.121.151/\" target=\"_blank\" rel=\"noopener\"\u003e81.16.121.151\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.245.76.162/\" target=\"_blank\" rel=\"noopener\"\u003e46.245.76.162\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.147.0.3/\" target=\"_blank\" rel=\"noopener\"\u003e2.147.0.3\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://77.238.123.179/\" target=\"_blank\" rel=\"noopener\"\u003e77.238.123.179\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.209.157.178/\" target=\"_blank\" rel=\"noopener\"\u003e46.209.157.178\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.86/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.86\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.91.147.3/\" target=\"_blank\" rel=\"noopener\"\u003e81.91.147.3\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.114.66/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.114.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.77.2/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.77.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://80.210.37.100/\" target=\"_blank\" rel=\"noopener\"\u003e80.210.37.100\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://84.47.225.218/\" target=\"_blank\" rel=\"noopener\"\u003e84.47.225.218\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://91.92.214.110/\" target=\"_blank\" rel=\"noopener\"\u003e91.92.214.110\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://178.252.143.130/\" target=\"_blank\" rel=\"noopener\"\u003e178.252.143.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.80.251/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.80.251\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.124.115.2/\" target=\"_blank\" rel=\"noopener\"\u003e185.124.115.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.153.185.3/\" target=\"_blank\" rel=\"noopener\"\u003e185.153.185.3\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.58/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.58\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.56.132.97/\" target=\"_blank\" rel=\"noopener\"\u003e5.56.132.97\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.236.90.12/\" target=\"_blank\" rel=\"noopener\"\u003e185.236.90.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.85/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.85\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.46/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.46\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://212.16.70.8/\" target=\"_blank\" rel=\"noopener\"\u003e212.16.70.8\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.218.59.18/\" target=\"_blank\" rel=\"noopener\"\u003e217.218.59.18\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.62/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.175.172.101/\" target=\"_blank\" rel=\"noopener\"\u003e79.175.172.101\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://80.210.54.68/\" target=\"_blank\" rel=\"noopener\"\u003e80.210.54.68\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.39.227.3/\" target=\"_blank\" rel=\"noopener\"\u003e78.39.227.3\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://194.225.62.80/\" target=\"_blank\" rel=\"noopener\"\u003e194.225.62.80\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.209.32.2/\" target=\"_blank\" rel=\"noopener\"\u003e46.209.32.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.157.45.210/\" target=\"_blank\" rel=\"noopener\"\u003e78.157.45.210\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.92/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.92\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.66.203.211/\" target=\"_blank\" rel=\"noopener\"\u003e217.66.203.211\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.109.61.27/\" target=\"_blank\" rel=\"noopener\"\u003e185.109.61.27\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.123.0.8/\" target=\"_blank\" rel=\"noopener\"\u003e5.123.0.8\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.31.160.34/\" target=\"_blank\" rel=\"noopener\"\u003e81.31.160.34\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://188.75.95.13/\" target=\"_blank\" rel=\"noopener\"\u003e188.75.95.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.218.52.7/\" target=\"_blank\" rel=\"noopener\"\u003e217.218.52.7\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.127.16.5/\" target=\"_blank\" rel=\"noopener\"\u003e5.127.16.5\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.94/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.94\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.29.66/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.29.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.76.102/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.76.102\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://94.184.89.2/\" target=\"_blank\" rel=\"noopener\"\u003e94.184.89.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.84/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.84\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://81.16.125.8/\" target=\"_blank\" rel=\"noopener\"\u003e81.16.125.8\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://188.213.65.54/\" target=\"_blank\" rel=\"noopener\"\u003e188.213.65.54\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://86.107.0.37/\" target=\"_blank\" rel=\"noopener\"\u003e86.107.0.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.209.209.209/\" target=\"_blank\" rel=\"noopener\"\u003e46.209.209.209\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.68/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.68\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://194.41.49.99/\" target=\"_blank\" rel=\"noopener\"\u003e194.41.49.99\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e3- حالا اگه فقط بخواین تلگرام رو باز کنید از بالای برنامه روی Proxy mode بذارین و وصلش کنید و در نهایت وقتی وصل شد به این پروکسی توی تلگرام وصل شید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/socks?server=127.0.0.1\u0026amp;port=10886\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=127.0.0.1\u0026amp;port=10886\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکات:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاگه بخواین کل گوشی از حالت وی پی ان استفاده کنه باید از بالای برنامه گزینه Full VPN رو بزنید و بعد وصل شید اما این روش های مبتنی بر DNS کلا کند هستن، با همون پروکسی مود وصل شین در حد تلگرام باشه کفایت میکنه\u003cbr/\u003e\u003cbr/\u003eزمانی که وصلش میکنید میتونید از پایین برنامه سمت راست قسمت لاگ Logs چک کنید ببینید چندتا ریزالور رو اسکن کرده و اینطوری راحت تر میتونید بفهمید چه زمانی وصل میشه. هروقت تو صفحه اصلی برنامه سبز شد یعنی وصل شده\u003cbr/\u003e\u003cbr/\u003eتوسعه دهنده:\u003cbr/\u003eWhiteDNS",
+      "date": "2026-05-05T19:17:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eآموزش اتصال به StormDNS ویندوز\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/17365\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود برنامه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e1- بعد از دانلود فایل زیپ و اکسترکت، این فایل رو با نوت پد باز کنید:\u003cbr/\u003e\u003ccode\u003eclient_config.toml\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e2- این موارد رو توش تنظیم کنید و سیو کنید: (توی \u003ca href=\"https://t.me/NetAccount/17362\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین پست\u003c/a\u003e چندتا سرور گذاشتیم میتونید جایگذاری کنید)\u003cbr/\u003e\u003cpre\u003eENCRYPTION_KEY = \u0026#34;YOUR_KEY\u0026#34;\u003cbr/\u003eDOMAINS = [\u0026#34;v.example.com\u0026#34;]\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e3- فایل client_resolvers.txt رو با نوت پد باز کنید و ریزالور های خودتونو به این شکل بذارید توش و سیو کنید: (توی \u003ca href=\"https://t.me/NetAccount/17364\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاین پست\u003c/a\u003e 120 تا ریزالور هست)\u003cbr/\u003e\u003cbr/\u003e\u003cpre\u003e8.8.8.8\u003cbr/\u003e95.38.201.194\u003cbr/\u003e2.189.44.66\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e4- برنامه رو اجرا کنید:\u003cbr/\u003e\u003cpre\u003eStormDNS_Client_Windows_AMD64.exe\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e5- باید صبر کنید تا کل ریزالور هارو اسکن کنه و بعدش وصل شه. بعدش بیاید تلگرام و به این پروکسی وصل شید:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/socks?server=127.0.0.1\u0026amp;port=18000\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=127.0.0.1\u0026amp;port=18000\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبا آموزش بالا فقط روی حالت پروکسی برای تلگرام فعال میشه. اگه بخواین مرورگر هم از حالت وی پی ان استفاده کنه باید افزونه Proxy ZeroOmega روی مرورگر نصب کنید و بعد به قسمت آپشنش برید و توی قسمت پروکسی، پروتوکلو بذارید روی Socks5 و سرور هم \u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e و پورت هم 18000 تنظیم و سیو کنید (\u003ca href=\"https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?hl=en\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک افزونه توی کروم استور\u003c/a\u003e) ولی خیلی کند هست و انقد ارزش نداره که باهاش بخواین وب گردی کنین\u003cbr/\u003e\u003cbr/\u003e——————————————\u003cbr/\u003e\u003cbr/\u003eاگر وصل نشد، این موارد مشکل داره:\u003cbr/\u003e\u003cbr/\u003e• ریزالورها خراب یا ناسازگار هستن\u003cbr/\u003e• کلید و دامین (Encryption Key - Domain) اشتباه وارد شدن\u003cbr/\u003e• مقدار MTU بیش از حد بالاست\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/nullroute1970/StormDNS/releases/tag/v2026.04.26.153956-15aedd9\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیتهاب پروژه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتوسعه دهنده:\u003cbr/\u003eNulllRoute1970",
+      "date": "2026-05-05T19:17:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eلیست ربات های کاربردی رایگان که الان به کار میان:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eسرچ در وب:\u003cbr/\u003e\u003ca href=\"https://t.me/WebSearchAiBot\" target=\"_blank\"\u003e@WebSearchAiBot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/pic\" target=\"_blank\"\u003e@pic\u003c/a\u003e (سرچ عکس)\u003cbr/\u003e\u003cbr/\u003eهوش مصنوعی:\u003cbr/\u003e\u003ca href=\"https://t.me/mira\" target=\"_blank\"\u003e@mira\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/JWGPT3_bot\" target=\"_blank\"\u003e@JWGPT3_bot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/grok_gidbot\" target=\"_blank\"\u003e@grok_gidbot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/chat_llm_100_bot\" target=\"_blank\"\u003e@chat_llm_100_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eسرچ در یوتیوب:\u003cbr/\u003e\u003ca href=\"https://t.me/Youtube\" target=\"_blank\"\u003e@Youtube\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/YtWatchBot\" target=\"_blank\"\u003e@YtWatchBot\u003c/a\u003e (میتونید چنل های یوتیوب دلخواه رو اضافه کنید. هر ویدیویی اپلود شه لینکشو براتون میفرسته)\u003cbr/\u003e\u003cbr/\u003eدانلود از اینستا، یوتیوب، تیک تاک، توییتر، پینترست:\u003cbr/\u003e\u003ca href=\"https://t.me/download_it_bot\" target=\"_blank\"\u003e@download_it_bot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/oitubebot\" target=\"_blank\"\u003e@oitubebot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدانلود از توییتر:\u003cbr/\u003e\u003ca href=\"https://t.me/TwitterXMediaDownloaderbot\" target=\"_blank\"\u003e@TwitterXMediaDownloaderbot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eویکی پدیا:\u003cbr/\u003e\u003ca href=\"https://t.me/wiki\" target=\"_blank\"\u003e@wiki\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eمترجم:\u003cbr/\u003e\u003ca href=\"https://t.me/YTranslateBot\" target=\"_blank\"\u003e@YTranslateBot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eتبدیل صوت و ویدیو به متن:\u003cbr/\u003e\u003ca href=\"https://t.me/transcribtiongs_bot\" target=\"_blank\"\u003e@transcribtiongs_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدانلود از گیتهاب:\u003cbr/\u003e\u003ca href=\"https://t.me/GithubGitlabDownloader_bot\" target=\"_blank\"\u003e@GithubGitlabDownloader_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8694.png\u0026#39;)\"\u003e\u003cb\u003e🆔\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/NetAccount\" target=\"_blank\"\u003e@NetAccount\u003c/a\u003e",
+      "date": "2026-05-05T22:30:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "به اینکه ترامپ الان پست گذاشت و گفت \u0026#34;پروژه آزادی\u0026#34; [عبور کشتی ها از تنگه هرمز] رو فعلا متوقف میکنم توجه نداشته باشید. اینجارو دریابید\u003cbr/\u003e\u003cbr/\u003eپستی که امروز سایت رسمی وزارت امور خارجه آمریکا (مارکو روبیو) گذاشته: \u003cbr/\u003e\u003cbr/\u003eایالات متحده قطعنامه‌ای را برای شورای امنیت سازمان ملل متحد جهت دفاع از آزادی دریانوردی و تأمین امنیت تنگه هرمز پیشنهاد می‌دهد\u003cbr/\u003e\u003cbr/\u003eمتن کامل:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eجمهوری اسلامی همچنان با تلاش‌های خود برای بستن تنگه هرمز، تهدید به حمله به کشتی‌ها در تنگه، مین‌گذاری دریایی که خطری برای کشتیرانی محسوب می‌شود و تلاش برای اخذ عوارض برای مهم‌ترین آبراه جهان، اقتصاد جهان را به گروگان گرفته است.\u003cbr/\u003e\u003cbr/\u003eبه دستور رئیس جمهور ترامپ، ایالات متحده به همراه بحرین و شرکای خلیج فارس خود، عربستان سعودی، امارات متحده عربی، کویت و قطر، قطعنامه‌ای را برای شورای امنیت سازمان ملل متحد جهت دفاع از آزادی دریانوردی در تنگه هرمز تدوین کردند.\u003cbr/\u003e\u003cbr/\u003eاین پیش‌نویس قطعنامه از ایران می‌خواهد که حملات، مین‌گذاری و عوارض را متوقف کند. این قطعنامه از ایران می‌خواهد که تعداد و محل مین‌های دریایی که کار گذاشته است را فاش کند و در تلاش‌ها برای حذف آنها همکاری کند، ضمن اینکه از ایجاد یک کریدور بشردوستانه نیز حمایت می‌کند.\u003cbr/\u003e\u003cbr/\u003eایالات متحده مشتاقانه منتظر است تا این قطعنامه در روزهای آینده به رأی گذاشته شود و از حمایت اعضای شورای امنیت و طیف گسترده‌ای از حامیان مشترک برخوردار شود.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eآمریکا و کشورای منطقه یه پیش نویس قطعنامه نوشتن برای شورای امنیت که زمان رای گیری اگه توسط چین و روسیه وتو نشه، جمهوری اسلامی رو طبق قوانین بین الملل موظف میکنه که عقب بکشه و تنگه رو آزاد کنه، در غیر اینصورت حق مشروع برای حمله بهش دارن\u003cbr/\u003eسفری که ترامپ هم 10 روز دیگه به چین داره بی تاثیر نیست و این سفر رو قرار بود یه ماه پیش بره که توی جنگ با جمهوری اسلامی بود و به تعویق انداخت و این توقفی که الان برای عملیات توی تنگه هرمز داده هم میخواد باعث شروع جنگ توی این چند روز نشه\u003cbr/\u003e\u003cbr/\u003eعراق سال 1990 که به کویت حمله کرد یه قطعنامه مشابه این ارائه دادن که رای آورد و بعدش به عراق حمله کردن. قطعنامه 660 شورای امنیت به دلیل نقض صلح و امنیت بین المللی بود. کاری که جمهوری اسلامی با ناامن کردن تنگه هرمز کرده و توی این دو روز هم با پرتاب پهپاد و موشک به امارات انجام داده. مطمئن باشین نمیذارن به این شیوه بمونه وگرنه هرکی نزدیکی هر آبراهی باشه از فردا شروع میکنه به بستن و مین گذاریش و باهاش دنیارو تهدید میکنه، به علاوه اینکه توی این قضیه محاصره برداشته نمیشه و ترامپ فقط اومد این عملیات آزادی رو شروع کرد ببینه واکنش حکومت چیه و الان باعث شد جمهوری اسلامی مقصر شناخته شه که اول حمله کرده. بذارید جمهوری اسلامی توی این تَوَهم کنترل تنگه هرمز بمونه فعلا (:\u003cbr/\u003eالبته ممکنه درگیری های کوچیکی تو روزای آینده هم توی جنوب کشور ادامه پیدا کنه\u003cbr/\u003e\u003cbr/\u003eترامپ میخواد تا حد توان برای حملش تمام مشروعیت هارو بخره و بعدش حمله کنه که کاملا قانونی باشه کارش. اینکه حمله میکنه (میزنه بدم میزنه) هیچ شکی توش نیست ولی روز و ساعت نمیشه براش تعیین کرد چون اون مشخص نیست. به زندگیتون برسید و وقتتونو جوری بگذرونید که انقدر استرس و ناامیدی رو مجبور نباشید تحمل کنید. اونا خوب میدونن چیکار کنن و پلناشونو یه روزه نچیدن که دو روزه هم بخوان منصرف شن. چند صد/هزار نفر سالها روی این برنامه ها وقت گذاشتن. این چند ماه آخریو هم باید یه جوری سپری کرد تا جمهوری نکبت بار اسلامی به زباله دان تاریخ بره. خلاصه که خودتونو اذیت نکنین",
+      "date": "2026-05-06T00:06:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/socks?server=62.220.126.92\u0026amp;port=32092\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=62.220.126.92\u0026amp;port=32092\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/socks?server=62.220.126.56\u0026amp;port=26243\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=62.220.126.56\u0026amp;port=26243\u003c/a\u003e",
+      "date": "2026-05-06T00:28:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "ترکیبی\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://dc4dccda-55c9-480a-9bc1-8edd8e2ccf69@185.213.165.81:48660?security=none\u0026amp;encryption=none\u0026amp;headerType=none\u0026amp;type=tcp#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/16014?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003eآموزش متصل شدن ترکیبی وی تو ری با سایفون\u003c/a\u003e",
+      "date": "2026-05-06T00:48:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "ترکیبی\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://96930f31-8e68-4186-a101-5593f0b2b274@anten.ir:2052?path=%2F\u0026amp;security=none\u0026amp;encryption=none\u0026amp;host=new.nanoline.ir\u0026amp;type=ws#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://4522a3f7-c12e-430c-b428-d59dcb5de811@hostioko.online:443?path=%2FW8IFdbZXc92UUldb1MBYzCwQif0uaX9DL3o%3Fed%3D2560\u0026amp;security=tls\u0026amp;alpn=http%2F1.1\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;host=hostioko.online\u0026amp;fp=chrome\u0026amp;type=ws\u0026amp;allowInsecure=0\u0026amp;sni=hostioko.online#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/16014?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003eآموزش متصل شدن ترکیبی وی تو ری با سایفون\u003c/a\u003e",
+      "date": "2026-05-06T00:53:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "لایو امروز مراد ویسی (بامداد چهارشنبه 16 اردیبهشت | حجم = 6.2 مگ)\u003cbr/\u003e\u003cbr/\u003eعنوان لایو:\u003cbr/\u003eآخرین آرایش نظامی آمریکا در منطقه /ترامپ: اندکی برای توافق صبر می‌کنیم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://punkpaste.ir/f/20260506-NNo1BwyC-90-oe0bn1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک داخلی\u003c/a\u003e | \u003ca href=\"https://www.youtube.com/watch?v=NNo1BwyC-90\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک یوتیوب\u003c/a\u003e",
+      "date": "2026-05-06T01:10:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "پروکسی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/socks?server=45.94.213.213\u0026amp;port=443\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=45.94.213.213\u0026amp;port=443\u003c/a\u003e",
+      "date": "2026-05-06T01:47:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "ترکیبی\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=%2F\u0026amp;security=none\u0026amp;encryption=none\u0026amp;host=sr.novatechsapr.ir\u0026amp;type=ws#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/16014?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003eآموزش متصل شدن ترکیبی وی تو ری با سایفون\u003c/a\u003e",
+      "date": "2026-05-06T10:16:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "کانفیگ برنامه اینجکتور (Http injector)",
+      "date": "2026-05-06T11:42:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "پست جدید ترامپ در تروث:\u003cbr/\u003e\u003cbr/\u003eفرض کنیم ایران (جمهوری اسلامی) اون چیزی که توافق شده رو قبول کنه، البته شاید این یه فرض بزرگ باشه اون وقت این عملیات افسانه‌ای خشم حماسی تموم میشه و تنگه هرمز برای همه باز میشه، حتی خود ایران. اگه توافق نکنن، بمباران شروع میشه، و متأسفانه خیلی شدیدتر از قبل خواهد بود. از توجه شما به این موضوع سپاسگزارم!",
+      "date": "2026-05-06T11:57:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/voNRyDl9Nh5XvABKa0zxAM2FwkSnZkae7H6tOTVeWxIryPLBKbbKM6EKf8mFLihOjaiNWV3H6zfCdGDqDEM7ruWgCPnIMJqgBiU-YnqTz75zC671il-ETR_ENu-ful01PGT-tGmc7vozMxwbcx-NrnOgBTS3UNPj2SDv_rZXn0jEV1YBbbQVel-j4qwI5IJXNmexqK6HZpobbwkpBAlFZpWCl5Lze09p6XhYrPZaGSRklgMcZiXEHqcTukpXcAXWiC_tpT6ggWEH-tjce5KM561_fhq9gbafqAHyiXcach0tvKoaKtztY2hb46fxscPnxZKAZZmkBSq7a57UGLsEjw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نزدیک به 400 ریزالور جدید برای استفاده در WhiteDNS و StormDNS\u003cbr/\u003e\u003cbr/\u003eفایل رو باز کنید و کل ریزالورارو کپی کنید و بزنید\u003cbr/\u003e\u003cbr/\u003eروی پست ریپلای شده، برنامه و آموزش متصل شدن هست",
+      "date": "2026-05-06T12:42:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "ترکیبی\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003esocks://Og@45.94.213.213:443#Tarkib\u003c/code\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/16014?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cbr/\u003eآموزش متصل شدن ترکیبی وی تو ری با سایفون\u003c/a\u003e",
+      "date": "2026-05-06T13:30:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7610,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    }
+  ],
+  "last_updated": 1778088887
+}
