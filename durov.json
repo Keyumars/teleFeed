@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5188481279963715781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The TON blockchain just got upgraded and is now \u003cb\u003e10× faster\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Block rate \u003cb\u003eincreased 6×\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5382194935057372936\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB1.png\u0026#39;)\"\u003e\u003cb\u003e⏱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Transactions are now \u003cb\u003einstant\u003c/b\u003e, \u003cb\u003esubsecond\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296339823005557585\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e This was step \u003cb\u003e1\u003c/b\u003e of \u003cb\u003e7\u003c/b\u003e to \u003cb\u003eMake TON Great Again\u003c/b\u003e (MTONGA). \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eNext step:\u003c/b\u003e cut the already low transaction fees by \u003cb\u003e6×\u003c/b\u003e. \u003ctg-emoji emoji-id=\"5237808360882977239\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C82.png\u0026#39;)\"\u003e\u003cb\u003e✂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-04-09T14:09:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5388849888098268082\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A5.png\u0026#39;)\"\u003e\u003cb\u003e🤥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e WhatsApp’s “encryption” may be the biggest consumer fraud in history — deceiving billions of users. Despite its claims, it reads users’ messages and shares them with third parties. Telegram has never done this — and never will \u003ctg-emoji emoji-id=\"5427127139151397446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-04-09T21:27:05Z",
       "edited": false,
@@ -268,7 +256,7 @@
       "date": "2026-05-05T15:46:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 810000,
+      "views": 856000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +268,7 @@
       "date": "2026-05-06T15:57:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 616000,
+      "views": 705000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,11 +276,23 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Kj2B2ZAE2tMhXIAS4gO-TySgFqzoBAdduPkFXBa-IFMz3V1JKkmCQRq5oTtCsIpIsfSvhOuWCE5QHjaD2j2oifVbQDvF7C6qXvI6d-Y9B-pI_MwGeQ-ueTuTq_ZHRHcot64a8XoQYtPt_yNjJQFxKJ1qs4W_z8D9KoJhe40REW1GS85KgtUAM7VHYc0imEr9A1SfiR1B8Jczo2nlT_grrC-jf0F9WsuY6wwnmzenCEqU2WEmmnv3wHpH2diVL1tgf5X2nnG2bMpJqV15dG7qFz0QUKdA7LM6nQNfM1SIinxjcGVj1hjhb2y1q2qlaXtk5p8ZELouiRjxeI11Gt5UkQ",
+          "url": "https://cdn4.telesco.pe/file/ndVhDd6XJz1zyFjIgKyRLWgaFCl-Tgu6OGJh4fw5rtM7mky5zcrO0dyFM03BsnpXhQwzrV4B0BS5RvKdIi5gRbdBFFVsWATkyixgJk6mDh6M3OWF-Il90Zw7CXQnNIEjALunkrxZojS3mAvQzKHBzJUgaAxztfkCiNd6buedl_eZ7Or7Cw-pMLp9Vv1-akn5EOZh3KQ98W5r3dHTaN8caCNFBHwjs32TgMgcBcnDu4rz_iL5znNoOHJk4HN1qC8RP9n4hJBrDAy4BcrYn5mJSk0KxtM_GpOHZ4HU3-KPR4ygK_yNhU4iv8n2gyDmHr1vixhUuNL8y8XXqc-S6nRZgQ",
           "width": 848
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "Huge Telegram update — 10 major new features, 200+ improvements. \u003ca href=\"https://telegram.org/blog/ai-bot-revolution-11-new-features\" target=\"_blank\" rel=\"noopener\"\u003ehttps://telegram.org/blog/ai-bot-revolution-11-new-features\u003c/a\u003e",
+      "date": "2026-05-07T16:00:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 256000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1778166873
+  "last_updated": 1778174320
 }
