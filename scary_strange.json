@@ -8,11 +8,41 @@
   "posts": [
     {
       "id": 0,
+      "message": "\u003cb\u003e100\u003c/b\u003e فیلم برتر قرن \u003cb\u003e21\u003c/b\u003e میلادی\u003cbr/\u003e\u003cbr/\u003eاین لیست براساس نظرسنجی رسانه نیویورک تایمز از بیش از \u003cb\u003e500\u003c/b\u003e کارگردان، بازیگر و سایر افراد مشهور از هالیوود و سرتاسر جهان تهیه شده.",
+      "date": "2026-04-21T13:01:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5910,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tnq4sfbbgfpZMNauOnNGT_qNs4y7CY01wJilyBZsLHWgBKJwM5S_GcV856JXRxqw4QxGHYbWMUf6MbSiModx4S28KSd7pL-uXqkH-uOz3mY5Ngh8rUeJLaphnyvGirpUisSwh1YiDN_P3pWW_dlImdiPg4tyMw9m5a5_KlZ_AEbX3vP3lMBLCr3wwdDDMZXtw7XJJGIl6VZbDSi2FQ3MU2URm10CA7joLcGPC4ewhYWnNuKG3jp_Oo15qJHVcbw2bb71S9RTmHIj-YyHL8SylAy4TrBOh9DBrmlwABLPoVItJ9_JgBBPq0Jy5plEmoc4SeaYxT5U8581MWAtwCK8Pg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e سخنگوی کاخ سفید: بسیاری از حرف‌های بی‌معنی عمومی از سوی افراد مختلف در رژیم، آن چیزی نیست که ما به صورت خصوصی از آنها می‌شنویم. ما خواهان یک پاسخ متحد هستیم و این همان چیزی است که رئیس‌جمهور در انتظار آن است.",
+      "date": "2026-04-22T20:42:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
       "message": "باورم نمیشه که اینقدر به حقارت افتادیم؛ خدا لعنت کنه باعث و بانیش رو، فک کن لباس 4 قسطه بخری، ته ته ته ته بدبختی یه ایرانیه...",
       "date": "2026-04-23T16:49:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
+      "views": 3210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +60,7 @@
       "date": "2026-04-24T11:33:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 3350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +78,7 @@
       "date": "2026-04-25T10:56:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4220,
+      "views": 4240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +97,7 @@
       "date": "2026-04-26T22:25:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +115,7 @@
       "date": "2026-04-27T09:58:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
+      "views": 3210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +133,7 @@
       "date": "2026-04-28T01:24:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3420,
+      "views": 3450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +151,7 @@
       "date": "2026-04-28T09:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5420,
+      "views": 5440,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +169,7 @@
       "date": "2026-04-28T10:42:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6050,
+      "views": 6080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +181,7 @@
       "date": "2026-04-30T05:28:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8390,
+      "views": 8420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +207,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZTr13FIdJUMz7DudaydDh-VIqoABO2FxgE_Jta_hYf0lTRRIY7FkqvN5kF33W15B_g8NkSSVOF0VRiH7UfsVrwd_GFe1LYyMEH7tZMkIMh1QFDkZLSSH0Gfbrbo7gdSxZHhq3TFnqviyu7I8awkHjpXSeFArScvo5xtRFKVb4avHKhfBh6ZH3yqyjtB1WWinFKy3LqNZJ72YtvqFJXIjA1CNJ0dw5t1wn1inojKz9oa_SSgGuIs2kpfXUD8qZVwSPtqu3Ir64qSPTXLITX_jxoN6b_MluiFGt2H1J2CzPFIzMIjowIe0T56tC20hgokJ8fIfHIsURN8a0wTYYsldiA.jpg"
+          "url": "https://cdn4.telesco.pe/file/DXKO_U8OWg_dRPRbYGEigGG8PpQuPDlOhr-6QUHssp1XDs3ZvUrVb97k6GIRFYFcNsd3rHgkatl3b0gNxpYE7rsHe18ch11P7UyQ_1YDnfIioY1O7T06Ml_X-lLr9h__4E76F2Sg83Y35iU6fHDwOeLhGHyknMQepxY3_KKYwelvv7r72z1KtkRihY5weVs3A7jlAeMySCfp--uMm21K2ujIGztyspiKViE1v9ZpSmkBzBIjbmAAqAM2q54TSD5j8KEtmuRapWZX7Z8-HOrFHxG8fqHK4MxPQKamQIl5U36enER9sGylDhV5lbjr13CG_bLnMAaKD-_HPRYhGI744Q.jpg"
         }
       ]
     },
@@ -195,7 +225,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gRXEfA8UUBrCKaz6HyKLNh6dNpT4gL5IJD6qfqOQQh3YsloFdxqBVsYGqkhsJBH4joiiu2rR1FgLHC4iWVxU3RFTV6B-zVjJ1bWt-1q22MX3a_DVXkUiITvLr6EOy0qtaoFrC8ABgh5n6SlNG8uB_89adBxGQZaGIR4U_QH2CCnIKSQVo3gmdqJ9DHOY5tMM1OuS8CoLoq_S4MeZ7f3nXm1QZt0jKiZBDP6RUnxoTTWWhn8x7j-MMR6f_zNIjZX3ItKYsCG3mJXzRyABB5do7VKpTupE4u7b7yc5IZOoE4fB-xxB4AXqF3IGk14QawprFnHCg0bRp4xJ9J8dlYZUnA.jpg"
+          "url": "https://cdn4.telesco.pe/file/a-fXmJyJIEgjBVuEQT_q0pH30WW4WqV4LddIK9_R9eYh50DOGJsJj8_2hwrpMrCCga9oalF6_iKYV0DQZ5rpsXaT4tGVj09Iinhu1GsI6mQfasNFN3qm_pEOosgN331TPpH0gXMjRKZVThPoWOQiWOPmprH31x709WPRAg6hCTzPVMy6vliv4ufSPACHghTJIP-SM-nUxLUyiha4_xLzeBMXPxvn1SBFYoRdOH1E0shpTkUznld4JSYg4dAym2gFp3CTqh-pjW7oKQimQ0C-2mEivXfgaSPT5tmV397-rD7eoRhgOimFhKyOUp4NpZfSXeYj6CqJ6dAKGKJc4ZmbZA.jpg"
         }
       ]
     },
@@ -205,7 +235,7 @@
       "date": "2026-05-03T13:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3600,
+      "views": 3660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +247,7 @@
       "date": "2026-05-03T14:07:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4140,
+      "views": 4200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +265,7 @@
       "date": "2026-05-06T17:02:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 837,
+      "views": 923,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,29 +279,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eاهل پیش بینی و شرط بندی فوتبالی؟\u003c/b\u003e\u003cbr/\u003eخب پس قطعا نیاز داری به یه کانال که کمکت کنه چون یه راهنما خوب نیاز داری برای سود کردن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانالی \u003cb\u003eبلایندرز\u003c/b\u003e هر روز سیگنال کم ریسک میزاره میتونی روزانه کسب درامد کنی\u003cbr/\u003eحداقل بین 10 تا 50 میلیون\u003ctg-emoji emoji-id=\"6008029175401681008\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DBB.png\u0026#39;)\"\u003e\u003cb\u003e🍻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدیگ فقط بیننده فوتبال نباش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eببین و شرط ببند و پول دربیار\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190758295530397672\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eعضویت محدود هست رفقا حتما عضو شین و کسب درامد شروع کنید\u003ctg-emoji emoji-id=\"4979249740525864097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eP16\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352825278672412291\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+OEKu74EpqmZhMDdk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+OEKu74EpqmZhMDdk\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5352825278672412291\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+OEKu74EpqmZhMDdk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+OEKu74EpqmZhMDdk\u003c/a\u003e",
-      "date": "2026-05-06T22:06:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 467,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ox3DG2ZHjlbv_EbwBpgCwu82H-L6vt07phsS-VpYtRXb6g8qQOLNHd53uouYFQ8hI_GXYF9MiZVhzA-lOAtKUv6B9G2a4Uv94oTVWrm3tqLITh1Pgzavz4J85SRNoyAKrsIcjNHcoWkQPVp4LZFmzJjuYd7Sa2wOIF8z39QKiHnpl9S6VWUQLJ63_xjibTwX7rnF1FdhAipMFU0ghcaNjICk9tbrMWxItQYHo2ABuiVExeaLnOREsHhJZdfVj329Q9B9FBMVa0eabvh0BnA2WAppclgizDJiIheMnt8jxyDKkKqx4S1qsHAPywLJ-aRwsQB6FhrOqOT9W5rHodHo4w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e مقام آمریکایی به اکسیوس: اگر قبل از سفر به چین به توافق نرسیم، ترامپ دست به اقدام نظامی خواهد زد.",
       "date": "2026-05-06T22:07:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 524,
+      "views": 603,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +295,7 @@
       "date": "2026-05-07T09:31:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85,
+      "views": 226,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +313,7 @@
       "date": "2026-05-07T09:31:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 256,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +325,7 @@
       "date": "2026-05-07T09:31:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105,
+      "views": 311,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,19 +336,7 @@
           "url": "https://cdn4.telesco.pe/file/GZkTT3Cz2CqejoeOs9tT0Dvn-BR2yijxtYpbvkD22HKHblDbLJ8SVTr2zwKpVLPoQHGfpmXntBv_1cpTlGb0Z7XZOJP-I9VZ0UQ2kHzeVxEHrVZv7JwAR28R_i9poYIkTXVmN9sWJooxRKdq6vVkq4Mmg63SGLB1yW1KJyl3EsmJMPoshyjawfkiTqRlxBkFtlARWiwEhRNsAETXuRFZKjO2unPevIHCHHbnB2EvTGnN4zmH6FLNIPanqL6qEQNqgeWhOB3_yabmoilAdaDTRFTZ7UlAvFqdaLOp7rAbOmPY88F3O-bkEusb0F_qQXn91Z4ZPzFbh25fyfcGI_A6iw.jpg"
         }
       ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eتنها چنلی که کانفیگ متصل  داره \u003c/b\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+OVgTLbuoOaVlOGUx\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+OVgTLbuoOaVlOGUx\u003c/a\u003e",
-      "date": "2026-05-07T09:48:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
     }
   ],
-  "last_updated": 1778148108
+  "last_updated": 1778156274
 }
