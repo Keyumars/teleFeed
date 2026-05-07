@@ -8,167 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "خوبین؟",
-      "date": "2026-05-07T21:19:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "جالبه\u003cbr/\u003eدقت کردم وقتی جنگ میشه حالتون بهتره!\u003cbr/\u003e\u003cbr/\u003eتعداد لایک ها بالا رفته!",
-      "date": "2026-05-07T21:19:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "خدایا چرا خاورمیانه؟",
-      "date": "2026-05-07T21:21:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "الان پاکستان میاد دخالت میکنه",
-      "date": "2026-05-07T21:23:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "یعنی چی میان میگن حمله از طرف آمریکا بوده ولی به معنای شروع دوباره جنگ نیست خب اصلا چرا حمله کردی پس",
-      "date": "2026-05-07T21:24:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9360,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "در همین لحظه حال نتانیاهو رو خریدارم \u003cbr/\u003e\u003cbr/\u003eبا چه عشقی خبر میخونه الان",
-      "date": "2026-05-07T21:25:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895657600984291785\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال 14 اسرائیل به نقل از مقامات: آتش بس رسماً فروپاشید.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-07T21:25:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895657600984291785\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فووووری؛ گزارش ها حاکی از حضور گسترده جنگنده ها برفراز عراق\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-07T21:25:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "الان ترامپ میاد میگه به احترام خایه های طلایی فیلد مارشال و پاکستان حمله نمیکنیم",
-      "date": "2026-05-07T21:26:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895646575803244166\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895646575803244166\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895646575803244166\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فاکس نیوز: حملات آمریکا به ایران ادامه دارد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-07T21:28:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "صدا جنگنده میاد سمت فومن",
-      "date": "2026-05-07T21:28:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نیروی دریایی سپاه رسما اعلام کرد آتش بس نقض شده!!!\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-07T21:32:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "تا یه ستون دود توی تهران نبینم هیچ‌ خبری درمورد شروع جنگ‌ رو باور نمیکنم",
-      "date": "2026-05-07T21:32:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8310,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی Sport Bad News"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نیروی دریایی سپاه: بعد از حمله آمریکا به نفتکش ایرانی، سپاه یه عملیات بزرگ انجام داد و با موشک و پهپاد به ناوهای آمریکایی زد؛ گفته شده خسارت سنگینی وارد شده و سه ناو آمریکایی عقب‌نشینی کردن.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
       "date": "2026-05-07T21:32:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8300,
+      "views": 12600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +30,7 @@
       "date": "2026-05-07T21:32:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8340,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +42,7 @@
       "date": "2026-05-07T21:37:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +54,7 @@
       "date": "2026-05-07T21:39:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6270,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,12 +80,206 @@
       "date": "2026-05-07T21:41:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5200,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895514720307255384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895271599388501344\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5352759161945867747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9499.png\u0026#39;)\"\u003e\u003cb\u003e🔙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| دو سال پیش تو چنین روزی رئال مادرید با گل های دقیقه 88 و 91 خوسلو تونست در مجموع 4-3 بایرن مونیخ رو شکست بده و راهی فینال چمپیونزلیگ بشه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:04:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pTdsro99X8ZdXDiygBa_wqi58sza5PvZFHeq8hkBx7qDHLQnez5tHuYgSeDPTVKOADIExSTJ_uqmF6ln2Al9SGisN3gg6_Rt4VMlWIGbNTsD2K0vBXWaIptZm9vbKAQVyKg7Gv3DyGcR65FpMXIIxpvUUj7hknAkLRM7KU0-nXwtdLMsrkdr8Cn9fEPoYC9J6ERz_xyGrV8non7AdbmFSyRy3TPKF8uP299sTGm7OGMeaXxYI-CeBH6GBxIvKfYRMISI9y7GcyzBAZvffzlsveozht7r2nddAZU1ZW24M7X3xF7RHZ975lC-JlPQgTc4DEy9YVtTAPoz-aQQXVN2FA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895514720307255384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895271599388501344\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e| به مناسبت همین بازی یادی کنیم از عملکرد فوق‌العاده و شاهکار وینیسیوس جلو بایرن مونیخ تو شبی که اشک کیمیش رو در آورده بود \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eارزش دانلود 20/10\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:08:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/odlepSjqH_wzWuU-UN9gf1WZmXqs4wa63USaQkc0eTI2Fim77NlVrejjP1TJa31Cb8iXHA_Ag5RQO0RYDYUKNA32y-M-ztqsNUD8wS85w8hN0UqmEf1XSkcSY6tnBkXDMS0tm-JHs69Y6b_TcSBgxxlpv35eI7PDyzeb_fi4tnldhiTMRKc480aWbskTC-L0QxULx-BzTstBVCwbcD2G0CAgVE33bp5QtXDDgkI6bEfVsyhmyLAB32uK_BBJL-O0kcW4jCKzngowF9gYOJoMxTE68Gs5V9yxZfVxR5wnhV7hKM0tt5Px_mDy0XVliqmtLrrcNet0T4SyTteg1HX-IA",
+          "width": 576
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e طبق گزارش خبرگزاری مهر، انفجار جدیدی در شهرستان سیریک در جنوب ایران شنیده شد.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:10:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5936110669584669087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رادیو ارتش اسرائیل: تبادل آتش میان ایران و آمریکا تموم شد، هر دو طرف تلاششونو کردن که وضعیت رو تنش‌زا نکنن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:16:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "هر دو طرف جنگ به مواضع همدیگه حمله کردن ولی آتش‌بس نقض نشده، چیه این خاورمیانه واقعا\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:21:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MKu7486QITOX4JG5oGdc_pX8cicnTdNnsMNJ0cnt0mEuy8nnTCsR3pOnNSWjTKHzLu74niw6nH0dqNUp_5nnNcW-YDst-q1WhjoPBhCSukLzDrVw8H4ltdkMtrEFObGAJdPk1mfB1mWJZFkHvWDs7sBnAD46Y3F2d9sQ1mCO-5kE1_ZoqfBr6Glb9gpzo_RUtMIsrtI3dELBj_ENMEg7am6vzjpBGfV9_wfrMxFeMYS41hWA5-95bwQiNKIU5o3BpIQhWz6-TzdtpVHWDaHRhfkGnDD7G_rwiyeAlGWj7gnK9HLLOlICCEnsXCigXbHPac1rp7oQ9WknRbEJ2B1yeg",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "جنگ ۱۲ روزه\u003cbr/\u003eجنگ رمضان\u003cbr/\u003eجنگ نیم ساعته بعد از رمضان",
+      "date": "2026-05-07T22:22:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "به احترام شهباز شریف و ژنرال عاصم منیر که فرد خیلی خیلی خوبیه تصمیم گرفتم که بمباران هارو دوباره شروع نکنم حتی قالیباف و دوستان رو ملانیا گنگ بنگ بزنن بازم میگم اتش بس نقض نشده",
+      "date": "2026-05-07T22:25:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ: آتش‌بس برقرار است\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eخب برید بخوابید\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:28:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5936110669584669087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترامپ: حملات به ایران فقط ضربات نرمی بودن، اما همچنان آتش بس برقرار است\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:30:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "ترامپ: زن و شوهر دعوا کنند، ابلهان باور کنند.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:34:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5827821186704219459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e هنوز داری دنبال لینک می‌گردی؟\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5814498022058368474\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e حرفه‌ای‌ها مستقیم وارد میشن!\u003cbr/\u003eبا ربات وینکوبت، ورود به سایت فقط چند ثانیه زمان می‌بره: \u003c/b\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e بدون فیلتر و دردسر\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e بدون لینک‌های الکی\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e فقط یه کلیک تا ورود\u003c/blockquote\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5811966220441754634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اگه سریع و راحت میخوای وارد شی، این همون چیزیه که دنبالش بودی!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5886254242536104136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبرای اطلاع از تحلیل بازی‌ها و ورود به کانال وینکوبت جوین بدید: \u003c/b\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5812106360929654787\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobetofficial\" target=\"_blank\"\u003e@Wincobetofficial\u003c/a\u003e",
+      "date": "2026-05-07T22:38:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZjwM2IaGHN4MvQdU6_Ti3EihEEINeWzuena36p_-yx-4D0oItu9gqS8mK9DgynlyGfXBpwZEn-ZsERn-9HGzXM4uoyeP75-UypQUepWY4zyCkguOoXoOXzhJgCEpn_VdrJAhmJa7FtgK0cS-Io6Cq1ZuTyLdhkMP4IL3bD0N5bEKC_Z0ZdR-tfgJxwXdHO5CpEb9MxyF1CT_VSJfDsEWrPHn5ThhwqJ1RT027vsAOzWqZq4eBmlX7CoiiLyaLN5wdVsj97TG2MBNCaxDMmL93lOCm_rwWVHZEsxaXBHf4qiPoj88bbLagRoPA423o_5pqqPlOslH2SV67kQt8hYADg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eتوییت اتاق جنگ اسرائیل از این جمله ترامپ: ایران اگه به کشتی های امریکایی حمله کنه از روی زمین محو میشه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e+ داش دیر رسیدی ترامپ گفت آتش بس نقض نشده و خبری از جنگ مجدد نیست\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:38:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uQhS0cGt95CwxliWQafgqlIAZE1lQprak7x8gbeKZ2giIFzyfZrFBlJ3tZlb2n9SGX_oW7rO6w_-oNtMmeDtnUHUF6Yd7MNJVEsyNPzI-BQaghhLHaF4_Iyh1JYPJxlqciEfX_fDqxTkzUTsCKM5ZMcEHvsAMHivJVIwQjWma_2NfN5rAU-t_7L2VZYOMqolJAWLWeFYHNxUQWPZjn8FMVUq1lmmfyinPJkCJJgO1rh4608ptMXMvPUbBVIsorSuJhMnEMfbd0VhpyICje4aMGuSBl4qjlRAzkTUEqGx9excy66peRN_tyDg2cMQVJkPleI_CgSqWkBCQWW8y5Fh_A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5895657600984291785\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ترامپ: سه تا ناوشکن درجه‌یک آمریکایی همین الان خیلی موفق از تنگه هرمز رد شدن، اونم زیر آتیش. هیچ آسیبی به این سه تا ناوشکن نرسید، ولی به مهاجم‌های ایرانی ضربه خیلی سنگینی خورد. اونا کامل نابود شدن، همراه با کلی قایق کوچیک که دارن جای نیروی دریایی کاملاً از بین‌رفته‌شون رو می‌گیرن. این قایق‌ها خیلی سریع و راحت رفتن ته دریا. به ناوشکن‌های ما موشک شلیک شد، ولی خیلی راحت ساقط شدن. همین‌طور پهپادها هم اومدن، ولی تو هوا آتیش گرفتن و نابود شدن. خیلی قشنگ افتادن توی اقیانوس، تقریباً مثل یه پروانه که می‌افته سمت مرگش! یه کشور معمولی اجازه می‌داد این ناوشکن‌ها رد بشن، ولی ایران یه کشور معمولی نیست. دست یه مشت دیوونه‌ست، و اگه فرصتش رو پیدا کنن از سلاح هسته‌ای استفاده می‌کنن، بدون هیچ شکی — ولی هیچ‌وقت همچین فرصتی گیرشون نمیاد و همون‌طور که امروز زدیم نابودشون کردیم، اگه توافقشون رو زود امضا نکنن، دفعه بعد خیلی شدیدتر و خشن‌تر می‌زنیمشون. این سه تا ناوشکن ما با خدمه فوق‌العاده‌شون حالا برمی‌گردن به محاصره دریایی‌مون که واقعاً یه «دیوار فولادی»ه. رئیس‌جمهور دونالد جی ترامپ\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-07T22:39:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cqjS_8F0OPCI7sfCL_XQhl4k9nVVSiZw9bxqTsuYO82fg7Ho98uR1PbmUboeJoti2zqg_9jTolKyC6NgMk7vYtrdl3d2uJpzA81iO490vovVA43vJi7TrBA6oCbqzH5_NzEjlvRP8d6UcMvJD-v_NxhfrtX7xysMgIL3NYGEz_jEGlxnkVimzM0d5P-9-N-1pzhIZJRNnEUd03vkLSXibeXGGPX45xKu9v36xMiiBy7jW8x1L_xg3ZZCTzPlwfKIlOBA5VmqaGy2L0rrOx0eeMqvbwWIcPNo3kKj4ahb1h-HMRuYDqWTdIpvQ_UvFfXHU9yQPWABJI6iFr8TVNHNDA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778191082
+  "last_updated": 1778195012
 }
