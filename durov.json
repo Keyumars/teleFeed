@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5388849888098268082\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A5.png\u0026#39;)\"\u003e\u003cb\u003e🤥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e WhatsApp’s “encryption” may be the biggest consumer fraud in history — deceiving billions of users. Despite its claims, it reads users’ messages and shares them with third parties. Telegram has never done this — and never will \u003ctg-emoji emoji-id=\"5427127139151397446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-04-09T21:27:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E3WrjlU4ZdmF63tETxU7RzN1ix2sJPIFXJbbQcNdnPw3ojBz_mGOi0-6ti1VMayTrSPvmZ6YsalLtlqT2L6Pe4ZvyroGHAiZyEVnY71ihskPLz8zeABmKCmoxNu6fxn8ImCnoEGWa_EhjqZiZCG70reHHPfSMpP3lBt4bWz8I_K7eKaaCbMWu4vqLwOs6yPGXIVYae8LY2AS-vfh2NsXWEim2MjK9YhXZSyE5pxRqnEkNQqoEJX5O-KrU_-OGWVaT_ET7xGc3f0iVKtmkA0bGqrm03cCQHou-Zn4jLvndxaoCxDtpZmwm-6yyWihDptjoHMNw64U6857vUmn0q00Fg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Another proof that Telegram’s Secret Chats are the most secure way to communicate. The FBI \u003ca href=\"https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003egot access\u003c/a\u003e to deleted messages in US gov-funded app Signal just by checking the notifications data. On Telegram, Secret Chats never show message content in push notifications, so, unlike Signal and other supposedly secure apps, we don’t have this risk. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5213147006561692829\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949B.png\u0026#39;)\"\u003e\u003cb\u003e🔛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Turning off notification previews won’t make you safe if you use those apps, because you never know whether the people you message have done the same. So Telegram’s Secret Chats design that forces the absence of notifications previews is the only solution. Obviously, this hurts usability, that’s why Telegram has two types of chats: Secret and Cloud.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5416099162078848958\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B9.png\u0026#39;)\"\u003e\u003cb\u003e🤹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e In general, apps that are trying to provide both security and usability in ONE type of chat end up with ugly compromises — like WhatsApp leaking 95% of messages via unencrypted backups or Signal exposing messages through push notifications. The only way is to have two types of chats: 100% usable (Cloud) and 100% secure (Secret).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433614043006903194\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9386.png\u0026#39;)\"\u003e\u003cb\u003e📆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 12+ years passed since Telegram started the end-to-end encryption revolution by launching Secret Chats. Since then, dozens of apps followed suit and made bold claims about their encryption. But no app has been able to beat our Cloud Chats in usability and our Secret Chats in security. Their try to mix the two and get neither.",
       "date": "2026-04-10T22:24:40Z",
       "edited": false,
@@ -190,7 +172,7 @@
       "date": "2026-04-20T22:55:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
+      "views": 4,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +238,7 @@
       "date": "2026-05-05T15:46:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9,
+      "views": 10,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +274,25 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5008248651038852115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB4.png\u0026#39;)\"\u003e\u003cb\u003e🫴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e TON is \u003cb\u003e#1 in annual staking rewards\u003c/b\u003e among the 50 largest cryptocurrencies. \u003cbr/\u003e\u003cbr/\u003eAnd that’s on top of the coin’s price growth — which doubled over the past week.",
+      "date": "2026-05-08T17:41:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 445000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O8UEnf8o4e1eB95tsIthp7Z9C_fZp5MuMCqJGa03E0Cpffo_1SV5k4Ei2RO5ACWyftGeF6vJpMQx6ynOtK0X41pPA53B4Gnp1XFwCOWwpq54VdSBQwyn0vml3h2xzjrW3mbUVxOmOpuroy1uLR0fOkos4_gx0jn8hFLG1EOWKw-NzxA9xBDMR3rZQIx4E8bonV_ZR0zHizy1i9CoMUVdFPrLZzDuXdGaoKs5YXpNJFpv5wkn2mdqtRTI8MG6yV6AwBDsOxqOq8pzcYy38NPAuVr7sGMVMuo65xVboo2C-Eu48QNAByva7-Wl6lt6WvLnhOvleJQuzDAHUPYEnMUPZA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778259214
+  "last_updated": 1778263903
 }
