@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003e100\u003c/b\u003e فیلم برتر قرن \u003cb\u003e21\u003c/b\u003e میلادی\u003cbr/\u003e\u003cbr/\u003eاین لیست براساس نظرسنجی رسانه نیویورک تایمز از بیش از \u003cb\u003e500\u003c/b\u003e کارگردان، بازیگر و سایر افراد مشهور از هالیوود و سرتاسر جهان تهیه شده.",
-      "date": "2026-04-21T13:01:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fFlkEDKyDljUgjpZk3ya3fzEVPylkM5pJQa8qd-SsQu8mvtl8YwbnIq8Wuh6U0vGfzhaXoq5ghusqE8-m8wFpE0dLyMI6Q8JBnzLwB-TJlM8q55nb0lTURG8jjLTzAy0Uxv5bCg4IEzikMiWlR4x0OzI_lyKWKFM54ES7wexu-x1nCoVveqwKLF3kdO5DJ0gc4fmZKoH-kXJvXyNdDH1bMmeS1fH8S5bze1NHY4FbKGY2eeCQmcEIlwlBKNME1bDJ5PXw_BmAUgpxpfrqAlMwJLur5U3ej-w6XBPbu40bkWaiOleVoJlal-2wNqi2MHdakWD8_4IELVMkDM2JlA77Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e سخنگوی کاخ سفید: بسیاری از حرف‌های بی‌معنی عمومی از سوی افراد مختلف در رژیم، آن چیزی نیست که ما به صورت خصوصی از آنها می‌شنویم. ما خواهان یک پاسخ متحد هستیم و این همان چیزی است که رئیس‌جمهور در انتظار آن است.",
       "date": "2026-04-22T20:42:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4990,
+      "views": 5000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-04-24T11:33:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3460,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +79,7 @@
       "date": "2026-04-26T22:25:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
+      "views": 3000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-04-27T09:58:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3400,
+      "views": 3410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-04-28T01:24:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3670,
+      "views": 3680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +133,7 @@
       "date": "2026-04-28T09:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5730,
+      "views": 5740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +151,7 @@
       "date": "2026-04-28T10:42:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 6330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-04-30T21:55:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-05-03T13:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4120,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +229,7 @@
       "date": "2026-05-03T14:07:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4710,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +247,7 @@
       "date": "2026-05-06T17:02:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1490,
+      "views": 1510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +255,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E8OFgM_chY1V-Jx4IwLSdhlWgZgtu9mqViBbgKA2JxUnFTvbJvXOAStc1IAAfi7lCslZxvrWxw4HGLcI5vzL_i4A_JhdTHfInWG-cv7iN_c78QNzKUiYJV5_aB8Wg-V9fH4TLlUCJYS32fnBOnlR0ISU271QFVHteC8bXpV1joUfnu1_RtGrRmSNLsvKy9qhYNQpAPnK5NZl5TmzyXHwSeXHxc_GFvTgzztHkDYPo0QIxbyh7ZiCODLhQbKTYvCbKMTFOBYcf9GcYIfMmAzRiGPXbLvRcEx3mWutrtnYJMJm0tljfWyrFQByXNA8OPMGqa5cCzIgvH9KbcyR449x8A.jpg"
+          "url": "https://cdn4.telesco.pe/file/qIFfHyqBE8CIysg6YO3pePdXgtW1vhf1uIfmT2aKsDiofJoAqj_HzxStVszL8KdXyXT8cj49orubLIzgjygUHGpiRF7QPyamXrZyh1WjS7iFSIt4xTdW6NrVTwo891CO3U4f_u6qEE-7hQ3QZIXVQDkCEdg3uxyExT3S1xPVS6Yakq5IxNo0oneH9SN9XSaZDMEzXks2aqJHWbWDqORwikJzZOrq6AcgI-MVJ2gWdgFwXoakZuyVyIvVLOlE19t8effz2rlckf9DUToAyusLiTZDCJ5RtIoJJJgSveFzgUBlytcMkLknCjptO8DaDIVsi7dizTf-EPcTTFBzAdbYrQ.jpg"
         }
       ]
     },
@@ -283,7 +265,7 @@
       "date": "2026-05-06T22:07:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +277,7 @@
       "date": "2026-05-07T09:31:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +295,7 @@
       "date": "2026-05-07T18:13:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 923,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +313,7 @@
       "date": "2026-05-07T23:09:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 925,
+      "views": 977,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +324,19 @@
           "url": "https://cdn4.telesco.pe/file/h4JitVB36lAC5AptlhyTmg92HYO9LPPiaMcfgBY8FDt79dnjfxn9Ns2kKywFSmC8mGD69lYy0YVsdxCE9d2hsK8hfCDpc0UXOFuoh6HK-RVYVDpKTHvZge7X4RTjZN1K4YxnsfI_jwZ30g9eWnJdcF0vlgkaH-YgZYt0UMJF7_NJjc6hOP0n-s-sKidZd7n8V_y5-22HuSZPhmGJZ0sqnj7idVZXYbHIpLFlAtilHsZoGWVt5cIYOA484j_rFPkseGHln2ta5gcWwUv45fc9jyXPK7Ctcd1HPkLFVamO5weHzz17eDr83sIhPj41NaKQhA-QRcdmGS2hUmRJB_zLuA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895598300370832890\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاینترنت پرو؟ \u003cbr/\u003eنه ممنون با کانفیگ های اینجا وصل میشم :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+-cMSNzYlNu0yODE0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+-cMSNzYlNu0yODE0\u003c/a\u003e",
+      "date": "2026-05-08T16:19:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 65,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
     }
   ],
-  "last_updated": 1778253937
+  "last_updated": 1778259159
 }
