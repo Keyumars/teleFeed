@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5472308992514464048\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve upgraded Telegram’s anti-censorship protocol. Users in Russia are advised to update their apps to stay connected despite the ban.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Some other advice: stock up on several VPNs/proxies in advance, help your friends and family do the same, and avoid using Russian apps while connected to a VPN (they may report your VPN to authorities for blocking).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388755604976186348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  I’m glad to see most people are already doing this. Thanks to this Digital Resistance, Telegram usage in Russia has remained stable over the past week despite the full ban.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420315771991497307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Keep it up. On our side, we’ll continue improving Telegram’s decentralized anti-censorship tech.",
-      "date": "2026-04-11T12:44:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e WhatsApp’s “End-to-end encryption by default” claim is a giant \u003cb\u003econsumer fraud.\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226512880362332956\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e~95%\u003c/b\u003e of private messages on WhatsApp end up in \u003cb\u003eplain-text backups\u003c/b\u003e on Apple/Google servers — \u003cb\u003enot\u003c/b\u003e E2E-encrypted. Backup encryption is optional, and few people enable it — let alone use strong passwords.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330115548900501467\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eEven if you encrypt your WhatsApp backups with a strong password, your messages still end up in unencrypted cloud backups — because \u003cb\u003e90%+\u003c/b\u003e of the people you message haven’t done the same. Add the fact that WhatsApp stores and discloses who you chat with, and the picture is dire.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433614747381538714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A4.png\u0026#39;)\"\u003e\u003cb\u003e📤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Apple and Google disclose backed-up WhatsApp messages to third parties thousands of times per year. Meanwhile, \u003cb\u003eTelegram hasn’t disclosed a single byte of users’ messages in its entire 12+ year history\u003c/b\u003e \u003ctg-emoji emoji-id=\"6010392463976436009\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-04-12T15:25:09Z",
       "edited": false,
@@ -287,12 +275,30 @@
       "date": "2026-05-09T15:32:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 778000,
+      "views": 842000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA596.png\u0026#39;)\"\u003e\u003cb\u003e🥖\u003c/b\u003e\u003c/i\u003e The French government \u003ca href=\"https://www.wsj.com/tech/elon-musk-summoned-to-france-to-face-criminal-charges-589acd6c\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eis accusing\u003c/a\u003e X and Elon Musk of the very things the French government itself is doing:\u003cbr/\u003e\u003cbr/\u003e- Illegally collecting \u003ca href=\"https://t.me/durov/500\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003epersonal data\u003c/a\u003e\u003cbr/\u003e- Processing personal data \u003ca href=\"https://t.me/durov/497\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ewithout proper security\u003c/a\u003e\u003cbr/\u003e- \u003ca href=\"https://www.rferl.org/a/spying-france-snowden-us-internet-telephone-eavesdropping/25037453.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eExtracting data\u003c/a\u003e from automated systems\u003cbr/\u003e- \u003ca href=\"https://www.theguardian.com/world/2013/jul/04/france-electronic-spying-operation-nsa\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eViolating the secrecy\u003c/a\u003e of electronic communications\u003cbr/\u003e\u003cbr/\u003eThe French government is panicking. They know a major political shift in 2027 will expose their misdeeds. So they’re trying to silence free speech platforms under whatever pretext they think they can get away with.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5305517652721022708\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The free world should stand with Elon and X against this immoral assault by the French state. Telegram supports our brothers and sisters from X in their fight for our freedoms.",
+      "date": "2026-05-09T22:24:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 121000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MtB_a7ciVNDT3zLcEmNGyXVVTZgi3mhkH3iHpUoqjbR2mcLftYpBIhor880CrZwLw3DwtxJV1ftMBt2ZkGET6j3BbzZsydw3P2bTBzbITT3x3eV_I5TnlpOoKHs2HtTyytT5xPQNwujBtDqqRJYKJyAm3PkCR1UAh0cVHtVl8YVPloTalELg3F31OdClTaGmOlvM-DAachQvVQbRt1o_6c785sRaG7BgdMNMjvKClUFjaEggaAlHes1UpUS7knPzrXtNLeM3frHgF537eGL8iy6m1XrRCVFGEyfzlodKX0ARvF4t-64PfuI76O3m03yh-kRbK-2C6jO7OpRYfmADZA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778363040
+  "last_updated": 1778366645
 }
