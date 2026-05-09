@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Another proof that Telegram’s Secret Chats are the most secure way to communicate. The FBI \u003ca href=\"https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003egot access\u003c/a\u003e to deleted messages in US gov-funded app Signal just by checking the notifications data. On Telegram, Secret Chats never show message content in push notifications, so, unlike Signal and other supposedly secure apps, we don’t have this risk. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5213147006561692829\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949B.png\u0026#39;)\"\u003e\u003cb\u003e🔛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Turning off notification previews won’t make you safe if you use those apps, because you never know whether the people you message have done the same. So Telegram’s Secret Chats design that forces the absence of notifications previews is the only solution. Obviously, this hurts usability, that’s why Telegram has two types of chats: Secret and Cloud.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5416099162078848958\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B9.png\u0026#39;)\"\u003e\u003cb\u003e🤹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e In general, apps that are trying to provide both security and usability in ONE type of chat end up with ugly compromises — like WhatsApp leaking 95% of messages via unencrypted backups or Signal exposing messages through push notifications. The only way is to have two types of chats: 100% usable (Cloud) and 100% secure (Secret).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433614043006903194\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9386.png\u0026#39;)\"\u003e\u003cb\u003e📆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 12+ years passed since Telegram started the end-to-end encryption revolution by launching Secret Chats. Since then, dozens of apps followed suit and made bold claims about their encryption. But no app has been able to beat our Cloud Chats in usability and our Secret Chats in security. Their try to mix the two and get neither.",
-      "date": "2026-04-10T22:24:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5472308992514464048\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve upgraded Telegram’s anti-censorship protocol. Users in Russia are advised to update their apps to stay connected despite the ban.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Some other advice: stock up on several VPNs/proxies in advance, help your friends and family do the same, and avoid using Russian apps while connected to a VPN (they may report your VPN to authorities for blocking).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388755604976186348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  I’m glad to see most people are already doing this. Thanks to this Digital Resistance, Telegram usage in Russia has remained stable over the past week despite the full ban.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5420315771991497307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Keep it up. On our side, we’ll continue improving Telegram’s decentralized anti-censorship tech.",
       "date": "2026-04-11T12:44:51Z",
       "edited": false,
@@ -258,7 +246,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/emuAzRW7myG0lew0Ujapn-BGZmQcTHEKf4IQOoOh_ZOwKuncy2Wke6GycRc7JhAtdAnHgbNiNuotbcycLo7rViuu4mfU6S8zDGHsJ5lsHHC85parvB1EvPdBCPOp6-rraT_Wgh9EIPJF-MFTz3KH5fXDk20iRt3Er6rO5Xf2N1Yo88szd96ZKnXTAOPwkbtF1_7w49XMb79q57qxwLnnt6Hvc4JLd6OXGekS09MDhQh_bd-J9CMrqBgKc_F0HoZ1LMEx8w0aHUwOgR6MVL0dMcoeJfx62xvbFD9E9tnEHVZELnCny2ShKXhnnCVZbXoeNk0FurSwOlk2NBQc7BwVkw",
+          "url": "https://cdn4.telesco.pe/file/Fg4tJetpOrcIC86lZPn3Bvp7VrRAM13_VK520mZgMXvTFhGjXu-_IxlFAlGu2KazxCEjuhsWGNELb-8Djezl5-jWTm5xTi6NtTzmUL_TfwYckb73qs8pbHO8134QiXYwZE-m30wT8X3LXFmQ_nA642bQxnrmc5QUxzcGnMSHHXx9VB1iMYdsxMz6KywyeYAeAyRQ2wLFkD1O68hntos8ZP8fQuP7nBoy64UklRy_FkIjnJMcsEbjOuJn_Iu7dgsXulme7kylQKgRJyHeP9MTaKUyrA0JNHa7na-jTePWuKcXTDDb_K1Ksu1b1gNBkUN1CPgiFTvEyO-XUn0GbwHs2A",
           "width": 848
         }
       ]
@@ -292,7 +280,19 @@
           "url": "https://cdn4.telesco.pe/file/O8UEnf8o4e1eB95tsIthp7Z9C_fZp5MuMCqJGa03E0Cpffo_1SV5k4Ei2RO5ACWyftGeF6vJpMQx6ynOtK0X41pPA53B4Gnp1XFwCOWwpq54VdSBQwyn0vml3h2xzjrW3mbUVxOmOpuroy1uLR0fOkos4_gx0jn8hFLG1EOWKw-NzxA9xBDMR3rZQIx4E8bonV_ZR0zHizy1i9CoMUVdFPrLZzDuXdGaoKs5YXpNJFpv5wkn2mdqtRTI8MG6yV6AwBDsOxqOq8pzcYy38NPAuVr7sGMVMuo65xVboo2C-Eu48QNAByva7-Wl6lt6WvLnhOvleJQuzDAHUPYEnMUPZA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve distributed \u003cb\u003e$75,000\u003c/b\u003e among the best designers who imagined a new way to communicate — Telegram Nodes (\u003ca href=\"https://t.me/contest/449\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003esee here\u003c/a\u003e).\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5465602641599930340\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A96.png\u0026#39;)\"\u003e\u003cb\u003e⚖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e I joined the judging process and spent 10+ hours reviewing thousands of designs from nearly 200 participants. Great work! \u003ctg-emoji emoji-id=\"5471921242866981303\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918F.png\u0026#39;)\"\u003e\u003cb\u003e👏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5253767677670862169\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949C.png\u0026#39;)\"\u003e\u003cb\u003e🔜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve now invited the 19 winners to \u003ca href=\"https://t.me/contest/451\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003esuggest improvements\u003c/a\u003e to existing Telegram features. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5435957248314579621\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’re looking for people who — like us — have a burning desire to make Telegram better every day, with no exceptions.",
+      "date": "2026-05-09T15:32:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 318000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1778338874
+  "last_updated": 1778342523
 }
