@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e WhatsApp’s “End-to-end encryption by default” claim is a giant \u003cb\u003econsumer fraud.\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5226512880362332956\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e~95%\u003c/b\u003e of private messages on WhatsApp end up in \u003cb\u003eplain-text backups\u003c/b\u003e on Apple/Google servers — \u003cb\u003enot\u003c/b\u003e E2E-encrypted. Backup encryption is optional, and few people enable it — let alone use strong passwords.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5330115548900501467\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eEven if you encrypt your WhatsApp backups with a strong password, your messages still end up in unencrypted cloud backups — because \u003cb\u003e90%+\u003c/b\u003e of the people you message haven’t done the same. Add the fact that WhatsApp stores and discloses who you chat with, and the picture is dire.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5433614747381538714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A4.png\u0026#39;)\"\u003e\u003cb\u003e📤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Apple and Google disclose backed-up WhatsApp messages to third parties thousands of times per year. Meanwhile, \u003cb\u003eTelegram hasn’t disclosed a single byte of users’ messages in its entire 12+ year history\u003c/b\u003e \u003ctg-emoji emoji-id=\"6010392463976436009\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-04-12T15:25:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5999175959314438812\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97BD.png\u0026#39;)\"\u003e\u003cb\u003e🗽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Anyone \u003cb\u003eunder 25\u003c/b\u003e can win \u003cb\u003e€100,000\u003c/b\u003e for an essay on \u003cb\u003edigital freedoms\u003c/b\u003e. The \u003cb\u003eYouth Liberty Prize 2026\u003c/b\u003e supports young thinkers ready to defend freedom from threats like censorship, surveillance, digital IDs and CBDCs.\u003cbr/\u003e\u003cbr/\u003eStand for freedom and win \u003ctg-emoji emoji-id=\"5305517652721022708\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eFull details: \u003ca href=\"https://www.libertyprize.org/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.libertyprize.org/\u003c/a\u003e",
       "date": "2026-04-13T21:25:34Z",
       "edited": false,
@@ -44,7 +32,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Rj_DrWqIleuRKUVvK3FBAnN4ZMy4jj-MYYO4TG4oymjrPZtSRm3yaW4HhlLav4xV9wFOyW-17g6zMI1kgxNmyaGpYZZgTQu4dN_RE9bfdOgMKNijt_eGAHvckDtrgq0hCPxv6bT7MSMZ4jstPdBTTQJCu-r2SB2y9bw2YBnZwkTkAmI3rzrxI_L6Gaord4fki2habwMKeK0ETOrlcCeoknxSKGB7hc-sTsxOEKMvYcvOs76DwUEYUhFoqXAA5jxqR4khdcEvzuLZbwW2pv3d7ekcVlntnumCDkMBxHF6kTlfIR4z1Fu4y0FqNdZirnImouOmuSSFVBnR54mLR1x6ww",
+          "url": "https://cdn4.telesco.pe/file/rxJyq_66J3bTKw1nwQqoUhIZxEXMy1rMZ6PlF9TCPQX_wjv7RXFP-PNNWaFrDil81prCnYHEuLsprQYI-uVfwg2r4RY0gNYIBZfZHlaBq4KGrw6sVOKZZ71rJsKNqg4XnYvtdDqDcfrERjBFhOHLlrkdoLLX6zbUX6RAEn_xc80V8dGcUUkxHnMnkfaSVB4tgDPfckNRSxFhV143eQpiJzH7PorLuMsQCqjMuW8oCOT6RdMYt2kltMag2Vn72jp0dWHNcE8cjk3x-XiNSxZSNud28sqOSyqX4l1BEchnAWcqnRtPykWAecyIDg7XtL9ZgVnPr1IhNfJwXAR-y9shaQ",
           "width": 1280
         }
       ]
@@ -113,7 +101,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ghBCh1KhvTHs5dLmzCqLTbEIurwloDP5BwQEd6QGE4T5YF3OPHk41Irms3fYvFOQCHz6Vbb8bV88iP47O0ziTfDKzq01vs7a3sjd9QpsloHclXUmFgNJ4_q4qOCa8SUY71svHfEL2uyzVpSKJryDQNWsf9-E-4o32cGtKmRWYuaxrq2cfBnX37a5v80CbhlFFiInoVw_60NnTC5PTIVkdjmAvKSb_o5yvPxoCZ9xYOEppXayxjy1oUcY9P7lq3FSTnk_fdcm1RSD8rjPAwEXw5ue9jxMVJH3L-5d1bdJIGZl4OsnIBf2td8hpaxAMIrYHPq0IwsAHRW1uvB0x6RNYQ",
+          "url": "https://cdn4.telesco.pe/file/kzwqn9cULX8QUxOm9ix95_fTN0VoJzU_s9D3N2BgBhm7_zZYhWkg80zKBG5HihPVzQowJ99AhIPupgc6og9PzS0bAMIV1i5ME6TSWUk0gdx_zfTumnA9qzv48iyHOVfwt3ijGIcto_lCuWG62aJ1dBMvglyYqPZEEu7-q4y5_kSuNqLl7NJ08pM1pDw3tHBi1uTkG4UOJNt1bEwXT538mW2hP2Nh4zYq1CtmNaMd1fBgzIi1vitR4M6R47F3dEfaq959xp_Nf4Ku0sz7iuGhlNzoXgfASpid5wLR8rWyqcT5DeoXAgmN1osglHyI4m6FY6AcrUGLamupevnlmkwJhw",
           "width": 1920
         }
       ]
@@ -298,7 +286,25 @@
           "url": "https://cdn4.telesco.pe/file/MtB_a7ciVNDT3zLcEmNGyXVVTZgi3mhkH3iHpUoqjbR2mcLftYpBIhor880CrZwLw3DwtxJV1ftMBt2ZkGET6j3BbzZsydw3P2bTBzbITT3x3eV_I5TnlpOoKHs2HtTyytT5xPQNwujBtDqqRJYKJyAm3PkCR1UAh0cVHtVl8YVPloTalELg3F31OdClTaGmOlvM-DAachQvVQbRt1o_6c785sRaG7BgdMNMjvKClUFjaEggaAlHes1UpUS7knPzrXtNLeM3frHgF537eGL8iy6m1XrRCVFGEyfzlodKX0ARvF4t-64PfuI76O3m03yh-kRbK-2C6jO7OpRYfmADZA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5231200819986047254\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003eChannel admins can now run massive polls limited to subscribers or specific countries — making fake-vote inflation much harder.\u003cbr/\u003e\u003cbr/\u003eNow people in places like Russia can see real results. For example, \u003ca href=\"https://t.me/cb_economics/24591\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eonly 5% support internet restrictions\u003c/a\u003e — not 52%, as old rigged polls claimed \u003ctg-emoji emoji-id=\"5384214488809490070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-05-10T18:42:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 262000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sfHXGb7W5VqUwMgVeqaPy6bDOLE-lKf0-_Ci97cJOlvU3s5WDi3WTkFCf8HIRMGYix-lAeYRZ2XX_iOLsBAuHsBXncGUAyKNF-vf3-eaiU3Qo5LielDMOm-jrOldzjRVUIr38W5OgEdrikMuA22z7pBUVjbpahfQlExvdYU2u_fC0qw7QKC-W2Vc9tUeI9xNSNR8quJCECa6nsfKnq79sYUd1Xasr_9IP1HCDIX_PdwHNBOUns3bhYc_JPRTvOGteWhk3yO1KM3rkoSyzfyb_VxTtumk0nvL4jULaClMZQ4caffJ6kXbTgcZ0YWC0H06qmyFM3VcRSJBRrXYvEcf9A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778435638
+  "last_updated": 1778439821
 }
