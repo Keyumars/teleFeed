@@ -271,7 +271,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pUc5T4yetpFl76YnbkWsrvA3-7AkZf6c_KdQvwNRgUjpzdvp4M_MMfoCDaCCa9EVMv43-BZXc2DSEPU8bV9NsG0j_RggmM-Y5SGEcpzSKcWqra-90OKYrY65aRytgl95QOMLrvy2iGEZ3fG5q0-4hg8XOMj27UGgSPZRhJLLBOy_pp3nePG65G5YqvYRuKQXPublXLdAfPSv3iN0-3JyKHOxPDJYJkZ_LkrZyvZdSTYzpsYwCuwcpQU3sWWAt0GO5-E7p3MUp7mf7YiAj8ie1NZr99B8gf5DYvmuoiSL9WGKVml9Hu47WS66bdc5Owj1IQ70TcGdNNbebSWSUl4J2Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/ukFjaocaFwfUK2LWMHsVx98LX6Sj7Mhpb3GEEQyNPwIM8228wkamsj7uEqZEBg3NYY_EtdfEZLb6m4G7GywZrVEMLwVYgJrwX8wrkq-EG26D1A8Se9vy-XubdCerwrvIfFzpjzp-i3wlmtEPHFhrhtNEeqQdJ28ePWakSwWdFDo7EjRMCw55kua34gEL24WF7KECI3YzgGnR6qxFRhTJJDv7-x2Tt82-ShmTw7dM72SXb9a9TeNyhCAHChMV7Uwa5P_tsz6QfLooiE6rRCt3v405Q8x5YUgk4PYj8kWPT0mSVLGI5dEOVzRfjDNs64ag7bhUEzpkga2Exvop4MVm1w.jpg"
         }
       ]
     },
@@ -299,12 +299,12 @@
       "date": "2026-05-11T19:32:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 396000,
+      "views": 446000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1778534265
+  "last_updated": 1778538900
 }
