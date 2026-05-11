@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5999175959314438812\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97BD.png\u0026#39;)\"\u003e\u003cb\u003e🗽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Anyone \u003cb\u003eunder 25\u003c/b\u003e can win \u003cb\u003e€100,000\u003c/b\u003e for an essay on \u003cb\u003edigital freedoms\u003c/b\u003e. The \u003cb\u003eYouth Liberty Prize 2026\u003c/b\u003e supports young thinkers ready to defend freedom from threats like censorship, surveillance, digital IDs and CBDCs.\u003cbr/\u003e\u003cbr/\u003eStand for freedom and win \u003ctg-emoji emoji-id=\"5305517652721022708\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eFull details: \u003ca href=\"https://www.libertyprize.org/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.libertyprize.org/\u003c/a\u003e",
-      "date": "2026-04-13T21:25:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "Group admins can assign tags to users — or embrace the chaos and let them assign their own. \u003ctg-emoji emoji-id=\"5215512756152704759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-04-15T01:20:29Z",
       "edited": false,
@@ -32,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rxJyq_66J3bTKw1nwQqoUhIZxEXMy1rMZ6PlF9TCPQX_wjv7RXFP-PNNWaFrDil81prCnYHEuLsprQYI-uVfwg2r4RY0gNYIBZfZHlaBq4KGrw6sVOKZZ71rJsKNqg4XnYvtdDqDcfrERjBFhOHLlrkdoLLX6zbUX6RAEn_xc80V8dGcUUkxHnMnkfaSVB4tgDPfckNRSxFhV143eQpiJzH7PorLuMsQCqjMuW8oCOT6RdMYt2kltMag2Vn72jp0dWHNcE8cjk3x-XiNSxZSNud28sqOSyqX4l1BEchnAWcqnRtPykWAecyIDg7XtL9ZgVnPr1IhNfJwXAR-y9shaQ",
+          "url": "https://cdn4.telesco.pe/file/qAIM8eknqQd_EKUkgR6FIBY9kOOiQwqc_EiFQLauunRUbKi5MRmebwtR33tYtD-_RdoGcUDtYT9XFoLKo57OCXTlBIOyyASXwTwu_4N_Y_mctTMHD3Oizp2PvRx8pdDm3qhfkHAcdIuPLMpOizPSD3P0aWh-Hl7vyp3pwcu4snKdcSopnv6X_GOabDG53mMx-GH-58LoT0-nip02V78dUuTPhIPWt47BmG2jfdaSiMnmZpM_d2FJ2DoZs14hfleu0PNGavsaahQSI3NI1eo8pxoJu71hvXvf0whGKaQP1b2Te4-13F-_Wv6AR_bpK6FCQGz-5S-zAiHH52bo4iUdog",
           "width": 1280
         }
       ]
@@ -82,7 +70,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/D3iKLlgcKe5f-WKMsLdbGxIiSso8wjtBH4V4F1utCRx1qhRng3Ihg98Rf27JJ6mSIK7_UrGrEs6vHMHbNPhCAKRJ2MUah_XQm7tdtvqa_N_-SR81OQE1c4ufPTs5qlJsLxav0vUaS-PhI-4G2mqPwvGQv-fSu9avecDtc8AFWYajhj72zzy8ClwbqN8iLmdYisFTc_LVrWZ8w1I5HMC2VS9QigYk2t2-peXKu7aSKfcPVLl08AedIaCE1fVrSYWfrYlCNYPRgZQxc6Sf_eLNrFIKDSHTw5xjeeY2M3Grt52IdRuZpmTpqn5XNSNtejbxoZSowCy8ZiRaPyOjL32foQ",
+          "url": "https://cdn4.telesco.pe/file/I-7cXTXGKCQElmHvMJVjd-AQpXUzCIKgc9dvW12bP24g0SDcn8auwPmHIEpX9D2hznCm3Wxs8B9-Pi6b-qJDdw5xUk3g7b61McSIeUpoKgCuaZHpKUD3JWfRlMGbw8iPSdsRuA89iRKkG5E4KatovSDk4s0lzJorHm6Ngh9o0w-m0Q6jPhNUPKaiGeIlJo-Bb8vS3HK9ET4K-PyfcS6xwokpox7JRhzWEPta_Um1UmGlSLKc0Sm1Q4AMziCLwUkVmMk9ahMuuuZRCOOu1FJtHJWKWOc8wzL6vasPX2-ZZAW0ffU7AOwpCluSuWyjWKCGriQ9WqQeaAv09rnwpLGZqQ",
           "width": 1920
         }
       ]
@@ -101,7 +89,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/kzwqn9cULX8QUxOm9ix95_fTN0VoJzU_s9D3N2BgBhm7_zZYhWkg80zKBG5HihPVzQowJ99AhIPupgc6og9PzS0bAMIV1i5ME6TSWUk0gdx_zfTumnA9qzv48iyHOVfwt3ijGIcto_lCuWG62aJ1dBMvglyYqPZEEu7-q4y5_kSuNqLl7NJ08pM1pDw3tHBi1uTkG4UOJNt1bEwXT538mW2hP2Nh4zYq1CtmNaMd1fBgzIi1vitR4M6R47F3dEfaq959xp_Nf4Ku0sz7iuGhlNzoXgfASpid5wLR8rWyqcT5DeoXAgmN1osglHyI4m6FY6AcrUGLamupevnlmkwJhw",
+          "url": "https://cdn4.telesco.pe/file/Dw0DEfM2SC6fs09QVgVLpdFL0i6hW4AcHYAa7zXH6sIiYIyYu9Ym1lKZvXOTCbbHsR1Y_DyMCawtWbtaYkqP_SC93o3it8G5HugMb8sD8hglafd6YIm78OV5xAZYwQXBgTYvsDw30sQS7e94UZCtoUbfTvKUGKkN4HK2HjcNDgDuPEDJQlXkQwekXllbB0iFkSXMlZdpX-MNXw6SeFPTrLDvCNU9ilrUnlYad9Tt-zUR63oww4FGgYQv1PdffR7FAru86naUR_tvVgNXHnzo8WvPxTIWHetflxrPpC4ttDDtz6D7wlzOoa8kTTsRlajUjEfUkL-8XlXiTEiiltZkbQ",
           "width": 1920
         }
       ]
@@ -301,10 +289,22 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sfHXGb7W5VqUwMgVeqaPy6bDOLE-lKf0-_Ci97cJOlvU3s5WDi3WTkFCf8HIRMGYix-lAeYRZ2XX_iOLsBAuHsBXncGUAyKNF-vf3-eaiU3Qo5LielDMOm-jrOldzjRVUIr38W5OgEdrikMuA22z7pBUVjbpahfQlExvdYU2u_fC0qw7QKC-W2Vc9tUeI9xNSNR8quJCECa6nsfKnq79sYUd1Xasr_9IP1HCDIX_PdwHNBOUns3bhYc_JPRTvOGteWhk3yO1KM3rkoSyzfyb_VxTtumk0nvL4jULaClMZQ4caffJ6kXbTgcZ0YWC0H06qmyFM3VcRSJBRrXYvEcf9A.jpg"
+          "url": "https://cdn4.telesco.pe/file/JUsyRphaoeejW6A80JlCH3NpMLKOim5WtIUyltAhXgWt6M9WRewqy4MXv9wnVQg75HwRlIjRrO2ah7rt7a7RJ4w5DEqWOoXCGLnFZbBiFlC749nTY2yeVf61dD7W6OIE4gB8-KeA1fWzV47yb23ElQIwS4m68q1ThG7e8MajwFkFcLY4OsSwkLDhThdrrWQ9DFVjSew4fG7pn5e9LzLQtJ3_77PBVSeTUU0O-pA1daQJLZ_k_X-oG8E3voC-sWE_CK3c_3vKp14g_DoxSxYGS6DpfLPV1ZMjyYMWfqWXi_RGgNzlLCWYfO7BRL2wYZGB05kKloihrmpSggbj4QK_Hg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5389060311430999304\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Developing for TON just became \u003cb\u003e10x faster\u003c/b\u003e. The \u003ca href=\"https://ton-blockchain.github.io/acton/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003enew toolchain\u003c/a\u003e makes smart contracts easy to create, test, and deploy.\u003cbr/\u003e\u003cbr/\u003eMost importantly, fully AI-ready.\u003cbr/\u003e\u003cbr/\u003eIt replaces TON’s fragmented tooling stack with one developer flow. Start building!",
+      "date": "2026-05-11T19:32:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 177000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1778522162
+  "last_updated": 1778528821
 }
