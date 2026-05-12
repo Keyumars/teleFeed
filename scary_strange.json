@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003e-نحوه و طبقات اتصال به اینترنت در ایران-\u003c/b\u003e",
-      "date": "2026-04-30T05:28:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9390,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VGRw45wheUqifOATHTmssDL7S-2Q-VDtjhua5SrE3p2y8JjsUH40TJsh5xsDjsQlHRp4lnH9mDZQI7MUjpo8CNmW3cCzJQu3VWr1X-zAGWXUCT6gaM9zM5uGW4j17bKWrSd1vjt_l8z2_0S0gZhJ3GyrPKrzCbEIUyuNsQkAv2u2CRbhuA0q7rGShnuaBKI9MrgFYHCIv8572uQHKpkzW1y1p6aOA7swHZdH82PJtkdY6LKtsXZlEmtgGvHh3XKmuWTdWEsicMS6QuyOn-pN2UeoPKOGzhNuMAfPpXcpcHafzZNNnyqorwzill6u_ObjD3CzW9o-K7TCpMF8RwlWPg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e کاخ سفید : با رهبری ترامپ،ایران هرگز به سلاح هسته‌ای نمیرسه",
-      "date": "2026-04-30T14:21:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/If0GhP4xE8Q0A2iqIcRgfLJfmXoVjhxt1guaNQalU_3uFUXf2e2QQR_f8LBDOAGF6N8Al9icQdRxUIpNN9rlikXQUjWSVAFYqpLqdCTKhjkicJ6fn8QSUnVscoLJWM_Ls4bQdNB0pui6BFOZYinBmzs6KYHxRXorotf5puvR3zBrRUQvbojiMBPV57M9puJvjK_qFDXTIx5L2cc0ffNhBd3p8G3r0-7olYSsrz7i3yVlNMlyCi8__YdcriwD2lY7hEeaG5CfMoVEEtmQmcxMLjYoe3PIQwJAi08cNlQN98v9AULRCqhvO_jkLq1_2oxXQzHGikcN3FKZGi4iCMwYog.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "- وایرال‌ترین سریال ۲۰۲۶ نتفلیکس یه کار برزیلی خوش ساخته که بر اساس یه داستان واقعی در مورد نشت هسته‌ای توی برزیل ساخته شده. این سریال ۵ قسمتی شباهت زیادی به مینی‌سریال چرنوبیل داره و بسیار واقع‌گرایانه و جذاب ساخته شده",
-      "date": "2026-04-30T21:55:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NKrub62yg_w-_PmzWBbHXx5SJCfzDnWmLp2yjvpqLUS-0wUUdMLyxSrkyR5s1fcOgyewG1O-oRQ4MPTk_kcwNhX4DIE-Z58uwfBIejWA0OOeqD39JntoDMfIB-eIEn78Ju68tuT7vDELAh93-2x6tCMANfWjLAO1wffL1yFuOdHPe3mJ5h0jT-Zh0i9KuxJY9bD9VI7XpyihLgF86crfwYTKyT7CutWCaRMOYjEiJjGRoIEGbrUCb7mOeOOzesZvcp80bPB1jRMWVMAqDb022OeDv8jrwS1FI8rLKMeLHo3twheohZru8FEJl4H4kMfaml8ObZy6WyAvQRtFzFuMQA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A2.png\u0026#39;)\"\u003e\u003cb\u003e💢\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eرئیس‌ اتحادیه پیک موتوری تهران: روزانه کُلی نیروی جدید پیک موتوری بهمون اضافه میشه، اکثر افرادی که دارن از کارشون تعدیل میشن میان پیک موتوری میشن!\u003c/b\u003e",
       "date": "2026-05-03T13:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 5280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +24,7 @@
       "date": "2026-05-03T14:07:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
+      "views": 5860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +42,7 @@
       "date": "2026-05-06T17:02:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2790,
+      "views": 2850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +60,7 @@
       "date": "2026-05-06T22:07:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2410,
+      "views": 2450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +72,7 @@
       "date": "2026-05-07T09:31:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
+      "views": 2340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +90,7 @@
       "date": "2026-05-07T18:13:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2420,
+      "views": 2450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tQcwJacPLTJK4ZoYsF9vHxptsijvuUjL5609cBVGK4GMRcIhg9bR9CZX4V_vRAI8RAAS1tqRUiAqOgmGEbKmhvRnzAsIOWC2Piaah67y7QBAnpAtX12RJ_2ocgoNDZ7Jcf3Br4CX4skZA1rIDkyrkos8ZyTE1bbxkDZHTNpqSuXUYxh0sVQSrd8bB3AzmbQBPrsFoohCiUtFdpah6eB71C46VyR-DKX4-9plofCjBAe7K20NPWpJVsKvlufmNrx8Fm5bg_r_CJqQE0WRvDQG5MfYqAN0L3cSlaBOt1q7UW224cQ4RYClvY8aM_q375Y_UJ-ygyNU2_lJjxT3CUa2pQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/b3ZP9MtOn2w29lbUknUWUHGrdlLQu918hmCW7BqiNk684sLZYBnWb4XGjZJfEIZFDzYC-3WFnzJJCuZc3Wb1qeuOmFRxjeGfLtxCkPNkx0f-acb8_cUAM9UszZxWlSWuBZlPQ0AdSB2GaFbn8Ls57ghyix_5555zL1cw71Vr7tehnzvI-GyuWxmxBs1mUEmjh6u8RQl7VFbaSty4OkxkfDaGabENBDr4Mfbhy6CTkKpG1bzq1AX2hv5lwDYee786TBS40dL98ufIFsdyn5DLGrVs_Er7-qvyxeQiBFtqOxDnc5U0i9-_Zjiqa0KPSssBAvX7oUmary_j5sqyPlbFWw.jpg"
         }
       ]
     },
@@ -162,7 +108,7 @@
       "date": "2026-05-07T23:09:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 2650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +126,7 @@
       "date": "2026-05-09T16:33:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1460,
+      "views": 1500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +145,7 @@
       "date": "2026-05-09T22:37:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 1460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +163,7 @@
       "date": "2026-05-10T11:01:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1400,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +181,7 @@
       "date": "2026-05-10T17:49:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1440,
+      "views": 1480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +189,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/leyjLBVkdJp-CWZs7OAdPbKk-PIeBNrVEk9QsNyGaxJXJNKUgCbTjlIUOB2TSVbslIW0pcFqZsIlh7EGLG4xc2sM2QGjjcKwjFeNj010oD5qgUUo8AWInrL7ZiIs_Km9sNRL-TYZyYQecMj-Dd6KnyuJ7ahJWf32rRkjE_vU0sz9ICZi6M9gX_QDO-lkTbMk3GRvmlTOpVK65W8hMp0PF01kyY4p2cW1GK1pK9x9JEKl8qxNPPflemqIOoTwQjT88f2-M1lX3rHM5NSDqNjdTpLXTG9A28rc0GxQh3EIjUn1ed45ah8vBN2KJRAc2E01Iyjn1PM4htt1pErCi_3ihg.jpg"
+          "url": "https://cdn4.telesco.pe/file/enSTQwfrhVgjOPpNn0ldLflXBO4X2iqXkRFCcsgAKAPPgqeNq_JpAc-Z2D3paKSdM9fZ9R4uuVkkaSZ2QvJbPs0G2et7QQ9oykYjMFHXoEXhC4sGLlhxMgEhYUOcL39iOkPAvhp4xUqUBqzFv21vhSWTKP4rZd22jDsqnYoF5lbWWlnLCNAL5AZN8J-J15BexizEcKxuPPkq4uRU6KOZlH5Arm8tdFHq8McnrGzZ0IKK_SSR1I-AIXjHQ-2O7MehapIQr-q9XV5_uKCEzosDuJTrRFLS0ACLGT7SQgI_qgO4gYwWz5nsI5SPOtjDT8pR8wZ7_BHbVVGgPUngEYSvAA.jpg"
         }
       ]
     },
@@ -253,7 +199,7 @@
       "date": "2026-05-12T10:13:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 344,
+      "views": 430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +217,7 @@
       "date": "2026-05-12T10:13:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 358,
+      "views": 435,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +229,7 @@
       "date": "2026-05-12T10:13:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 500,
+      "views": 609,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,23 +243,11 @@
     },
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5841193060574171492\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تا قطع نشدین از رباتمون کانفیگ رایگان 2 گیگی یک ماهه ، اختصاصی خودتون رو دریافت کنین \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/Freeconfigv2bot\" target=\"_blank\"\u003e@Freeconfigv2bot\u003c/a\u003e",
-      "date": "2026-05-12T15:32:26Z",
+      "message": "\u003ctg-emoji emoji-id=\"4979249740525864097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eدنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!\u003c/b\u003e\u003ctg-emoji emoji-id=\"5017122105011995219\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدربی بت همون انتخاب  100%\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4999002445444023072\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویژگی های سایت جهانی Derby Bet:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eامکان شارژ امن با کارت بانکی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eواریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپر اپشن ترین سایت فعال در ایران\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب کمتر از 5 دقیقه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرگشت بخشی از باخت به صورت هفتگی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5819188770590693944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکد هدیه ثبت نام:\u003cb\u003eGG007\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/derbybetm/18554\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای دانلود اپلکیشن کلیک کنید\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5458603043203327669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال دربی بت : G22\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190758295530397672\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+o-nDiVEIXSUxY2Zk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+o-nDiVEIXSUxY2Zk\u003c/a\u003e",
+      "date": "2026-05-12T17:41:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5386399931378440814\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988E.png\u0026#39;)\"\u003e\u003cb\u003e😎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e پینگ کانفیک رایگان 2 گیگی ، دریافتی از ربات\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Freeconfigv2bot\" target=\"_blank\"\u003e@Freeconfigv2bot\u003c/a\u003e",
-      "date": "2026-05-12T15:57:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74,
+      "views": 100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,22 +255,70 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IGDDCTbLdJBUYQOh-AJCYYvkZbCe9LrhGc7Jz5bRXMpS8lHsS6U3VeynBOsEpDmxfMk_vPwFddod5AfO5YNwrR4SqOnDrKxfhUgpYw1SrhMeBv1GiTNvWZNAhajCOs_ONkuykMKsa6UGKmRbJdkrfj9OqfvY40SSfr3Om5FEcPLFvblQc6qoBDFuUL7mPWMNLrH6WC93Cd8ZorlYp5zlTjDVxRh6SYSXAgPYgJiITHQUQWF28hiKdoI1wSRuJmSs5UkgjZVo7heWxPnXDtv-dwJIFMKkwEA_ykzJsZk-fyWU5MQATTOZkCz3P6mA-SKLzZkGlfwzaft5nf2pOSEpgg.jpg"
+          "url": "https://cdn4.telesco.pe/file/mghAb_GhdE6Gww9R8B_sC0kl2HSvOLDVqcLvbeXwKLiqkOSwvosZeo1Clt84kbi2t0KC53SHcrRyLO1J33K4lDKv5cEJF10bL-F5L70Bz0rHZSDzeHvv9cKHkLFIBrPvjTacspV8sde69ZRX1QZaE7EeXTJBvTPWVpsg0HTKUj9cgxYphuUCWsK6ft3zU9cix-hWqPppnPiLOi5uKMpRj9MYsAVevzLm44nNuHjvDTcWmOA2vAanBRqlRRPpyclywcIZdNhFOqRTbEYxqF3oh3VzwTjRHE667THBh8iKcNVgipfvQMv0LwagFo5lYqeUS88jEXpecY-xkM_G79ohGA.jpg"
         }
       ]
     },
     {
       "id": 0,
-      "message": "\u003cb\u003eتعداد 200 تا کانفیگ 2 گیگی رایگان یک ماهه داخل رباتمون شارژ شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Freeconfigv2bot\" target=\"_blank\"\u003e@Freeconfigv2bot\u003c/a\u003e",
-      "date": "2026-05-12T16:31:45Z",
+      "message": "\u003ctg-emoji emoji-id=\"5818928263644322035\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاپلیکیشن اندروید سایت جهانی دربی بت\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5818941887280584008\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956499161319998529\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9880.png\u0026#39;)\"\u003e\u003cb\u003e😀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eTelegram Channel\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eg22\u003cbr/\u003e\u003ca href=\"https://t.me/+o-nDiVEIXSUxY2Zk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+o-nDiVEIXSUxY2Zk\u003c/a\u003e",
+      "date": "2026-05-12T17:41:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17,
+      "views": 110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"tg://proxy?server=62.238.27.70\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=62.238.27.70\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبرای دوستانتون ارسال کنید.",
+      "date": "2026-05-12T17:41:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "هرچی کانفیگ میخری زود حجمش تموم میشه؟ از اینجا نامحدود بگیر برو اینستا منم دعا کن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+B-Z6jckEXBswN2Q0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+B-Z6jckEXBswN2Q0\u003c/a\u003e",
+      "date": "2026-05-12T17:51:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 103,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "بچه ها کلی کانفیگ براتون گذاشتیم زودی برداریدددد\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+B-Z6jckEXBswN2Q0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+B-Z6jckEXBswN2Q0\u003c/a\u003e",
+      "date": "2026-05-12T17:58:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 87,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895598300370832890\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاینترنت پرو؟ \u003cbr/\u003eنه ممنون با کانفیگ های اینجا وصل میشم :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+B-Z6jckEXBswN2Q0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+B-Z6jckEXBswN2Q0\u003c/a\u003e",
+      "date": "2026-05-12T18:12:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 67,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "حقایق عجیب و ترسناک"
     }
   ],
-  "last_updated": 1778603923
+  "last_updated": 1778612174
 }

@@ -8,44 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "Group admins can assign tags to users — or embrace the chaos and let them assign their own. \u003ctg-emoji emoji-id=\"5215512756152704759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-04-15T01:20:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qAIM8eknqQd_EKUkgR6FIBY9kOOiQwqc_EiFQLauunRUbKi5MRmebwtR33tYtD-_RdoGcUDtYT9XFoLKo57OCXTlBIOyyASXwTwu_4N_Y_mctTMHD3Oizp2PvRx8pdDm3qhfkHAcdIuPLMpOizPSD3P0aWh-Hl7vyp3pwcu4snKdcSopnv6X_GOabDG53mMx-GH-58LoT0-nip02V78dUuTPhIPWt47BmG2jfdaSiMnmZpM_d2FJ2DoZs14hfleu0PNGavsaahQSI3NI1eo8pxoJu71hvXvf0whGKaQP1b2Te4-13F-_Wv6AR_bpK6FCQGz-5S-zAiHH52bo4iUdog",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5258203794772085854\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e You can now create agentic bots in \u003cb\u003ejust 2 taps\u003c/b\u003e \u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eAsk the devs of the services you use to support it \u003ctg-emoji emoji-id=\"5305522282695768654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://core.telegram.org/bots/features#managed-bots\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003ehttps://core.telegram.org/bots/features#managed-bots\u003c/u\u003e\u003c/a\u003e",
-      "date": "2026-04-15T20:18:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/g8rh_ouMlvmUVU9nsit5udZv7aW8aeM-z0nsuuVF3VSEfqpdeB32oabgHp45QkX0IGJuYM8CtG52mFl0vMfhUlTCtwH69Emh62o7r4oVGIXanKgKBlgrNPXzI2FZbP19y3IdWF7yHA7EZDeAWI1PoHFviD-VO4XKZ5PCiEyXwnCsNhUY6jKABwusv5GwzNZIRR9p1j4kPq6M5S1ecFaDqXkl-BLvvFBVtV4VgfJS0mMawl97faGRlKa1LP_DkvRHJnVJ9wL1EJsaWcR3qWjpGLvs2STxXin1mLvTosQ99nqAnstC7vcsVryJKiWNFDSSXHjFE-nW5iFaR_HTV0eapQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5228784522924930237\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The EU wants to force mandatory ID checks on anyone using social media — and ban people under 18 from accessing it. To that end, the EU Commission spent over a year building an “age verification app”, which its president pompously unveiled yesterday.\u003cbr/\u003e\u003cbr/\u003eToday, this app \u003ca href=\"https://cybernews.com/security/eu-age-verification-app-hack/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003egot hacked\u003c/a\u003e \u003cb\u003ein just 2 minutes\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eBut don’t rush to laugh at EU bureaucrats.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eTheir age verification app was hackable by design — it trusted the device (that’s instant game over). Unless the EU is run by clowns \u003c/b\u003e\u003ctg-emoji emoji-id=\"5371074117971745503\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e, this is their real plan:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eStep 1\u003c/b\u003e — Present a “privacy-respecting” but hackable app.\u003cbr/\u003e\u003cb\u003eStep 2\u003c/b\u003e — Get hacked (\u003cb\u003e*YOU ARE HERE*\u003c/b\u003e).\u003cbr/\u003e\u003cb\u003eStep 3\u003c/b\u003e — Remove privacy to “fix” the app.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eResult — a surveillance tool sold as “privacy-respecting”.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThe EU bureaucrats needed an excuse to silently start turning their “privacy-respecting” age verification app into a surveillance mechanism over all Europeans using social media. Today’s “surprising hack” just handed this excuse to them.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5323671792286448937\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA687.png\u0026#39;)\"\u003e\u003cb\u003e🦇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eStay vigilant!\u003c/b\u003e",
       "date": "2026-04-17T02:31:54Z",
       "edited": false,
@@ -70,7 +32,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/I-7cXTXGKCQElmHvMJVjd-AQpXUzCIKgc9dvW12bP24g0SDcn8auwPmHIEpX9D2hznCm3Wxs8B9-Pi6b-qJDdw5xUk3g7b61McSIeUpoKgCuaZHpKUD3JWfRlMGbw8iPSdsRuA89iRKkG5E4KatovSDk4s0lzJorHm6Ngh9o0w-m0Q6jPhNUPKaiGeIlJo-Bb8vS3HK9ET4K-PyfcS6xwokpox7JRhzWEPta_Um1UmGlSLKc0Sm1Q4AMziCLwUkVmMk9ahMuuuZRCOOu1FJtHJWKWOc8wzL6vasPX2-ZZAW0ffU7AOwpCluSuWyjWKCGriQ9WqQeaAv09rnwpLGZqQ",
+          "url": "https://cdn4.telesco.pe/file/psSgFE8tyE3bjYyHl4IA8x58VpJNdi1-h5xPG4woCIq9Ki82c7TrsvuKUOWgXKQTE0KipHgHbbir4mRJ92nq5deh5TgDMi5KFBFhZ6n0K34mLOUo-yZGSDNLWH0iulhilGN3dEx05lipWPbgEM4CKikhyo-O1BvogHPtTgRkIeBY5Kj_eT31xY4Ita7-6YLoz-M86_2ThgLuRIPeWHS6c9DrefjRCpmkxQaeFkR1ZxJnx4-AmMmz4YoIqm71gbkhG6VG_6E4xqmJbZAEqDIJ7gi2JuN4uLBjEX_yvKNVsFvFPFBjY4met2KL5jvDaForF1v9eVgRUTZK9baakWcOeg",
           "width": 1920
         }
       ]
@@ -89,7 +51,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Dw0DEfM2SC6fs09QVgVLpdFL0i6hW4AcHYAa7zXH6sIiYIyYu9Ym1lKZvXOTCbbHsR1Y_DyMCawtWbtaYkqP_SC93o3it8G5HugMb8sD8hglafd6YIm78OV5xAZYwQXBgTYvsDw30sQS7e94UZCtoUbfTvKUGKkN4HK2HjcNDgDuPEDJQlXkQwekXllbB0iFkSXMlZdpX-MNXw6SeFPTrLDvCNU9ilrUnlYad9Tt-zUR63oww4FGgYQv1PdffR7FAru86naUR_tvVgNXHnzo8WvPxTIWHetflxrPpC4ttDDtz6D7wlzOoa8kTTsRlajUjEfUkL-8XlXiTEiiltZkbQ",
+          "url": "https://cdn4.telesco.pe/file/KKtcigVPzapvT_oKlf5PVAHzDv0Fo1r-pXcXqtXx58bg4qqTihYonbFijAEZj0Z8AEwhrwELpUPeQ2kda8XF8g0t5zE2Iw9WrTnpt-y6WdYN6aAyKy8mBGgjapz0XDTQlbhtl9JtoErF8jqfk8Hpl_2R6Gyc2iZWLp4BTBuLfVy-L-1MG8ixA01X4ZvK0nazXH7BizO4rYRUCZ3I-BwAl0bAxzHvyYlzXdk_FjLf9Y08fThA0YrCfX2hY0Q05mykBTFa7M-HZJxVvf0mV5EHpc0JEZqgVE1qkPj5RY4N_OB2AfPYa_-ATMzswcuAL7fNy-9VOtoabXjGhGO8YQm5YA",
           "width": 1920
         }
       ]
@@ -241,7 +203,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C7seEKOsB7Mh6hpyy_TTP-zkatNowBIxtSvPS-77YyHPeZW-F6Q7jFxdXkRx-j59Xb3P9Z_9lDmbXwIMGvWTePeCVOWo1O7e1YewQpyQQTH5kBNi5JQXCFK2E2lyrBhWCj66DnwSMkw4chP1Cl9gUIEqCITDbF8x-K4-ZNhRLXsbq9Yp_9g1wVhD-UezPFN5tZgHyuUZO3lUu_6fyFW1M9QbqnrrOb12S52owSC5flsCmFCv1Au7fJx-gCWN-RsS2RN0b4GqLUGm6DB1SFnDA74QjGsfWlDLb518MjObYtWxTqyth0n0SnGca_t_DiRhvFCTQ3SCQ6hgt26Mb6sphg.jpg"
+          "url": "https://cdn4.telesco.pe/file/uWeiMCCLCI5iVl1n_cU_OMi9BnQ8S3IA5eD5X58VdAZanSKzcMzYudwZ4BhhCZe_ev35dumptUATSnUxpTtkq2noBiWtLY2Vy0lFlvytNTZspNz1a0yQtv5kbzXniNDrjK_a9ouG4nTkXoA0lLytAWim4gq1amCDQl5pOtCqcHhZeA-ZZPY1AVn7ESiXTNLse4EyF_gf_lWumd3w4NEEhsCq6jtIiAyC8ofJ9Zd6I1jyCMLBackjQ94_5poGHgBuDdcnnrj76VBuPxZ_kUb01l_HL_3WNWcD-i2J6B6FnSEinQ4J5tWEeYj5Qs3a7O8O6eshYwVJ-8644n1XpJFauQ.jpg"
         }
       ]
     },
@@ -289,7 +251,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JUsyRphaoeejW6A80JlCH3NpMLKOim5WtIUyltAhXgWt6M9WRewqy4MXv9wnVQg75HwRlIjRrO2ah7rt7a7RJ4w5DEqWOoXCGLnFZbBiFlC749nTY2yeVf61dD7W6OIE4gB8-KeA1fWzV47yb23ElQIwS4m68q1ThG7e8MajwFkFcLY4OsSwkLDhThdrrWQ9DFVjSew4fG7pn5e9LzLQtJ3_77PBVSeTUU0O-pA1daQJLZ_k_X-oG8E3voC-sWE_CK3c_3vKp14g_DoxSxYGS6DpfLPV1ZMjyYMWfqWXi_RGgNzlLCWYfO7BRL2wYZGB05kKloihrmpSggbj4QK_Hg.jpg"
+          "url": "https://cdn4.telesco.pe/file/otERyxf2jY08W0iAqVU5rqGp082s3Its4es6xsM-H7c2vzfcInENhxulPC3I5isbiOUNekfCMgeuEfkVdo_TRJ4uSqwzwc9GF_78dpbk8G_xgrIbfbgipdBwU1IiRtRt8-bFw8ZDrkuqRywhncqdM4umMQQmSlKgM99M5nzdWyP6T4n4SwsF8RCAJhZsTbU39KD2mxSYjqPJk2_q6OjHVsolyU18t5Hmgcf_T8dNlsmmvHGs-q0hT0TIaVurQwwJdldfv2TPKjnEfO69kdWxsjexJGCOBRTFNNXtzkltwjsCKoB4a9sWaLFW_SscmtLU2lcxZPJK6efmjdnEvthlfA.jpg"
         }
       ]
     },
@@ -299,12 +261,34 @@
       "date": "2026-05-11T19:32:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 900000,
+      "views": 1,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399898266265475100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e With 400 validators across 6 continents, TON is one of the most decentralized blockchain networks on the planet. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431795571033645908\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e🧑‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram becoming the largest validator opened the door for major exchanges and custodians to stake TON without increasing centralization risk.",
+      "date": "2026-05-12T17:28:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 449000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/boupXLRghYH8NLpv_ueNIyKs6X1gbRswcRAQ7xjbBB1hssnjg4HIBdHK65uzbYvMZwuJFDu_oimO2j3DbkM2_yFROA1jERT7XZkvi_3FYCQ6PMGzHOkNqCOWFT9GlOmkTS42La3PYY0BHiY_aw9T1VhgkgZSRNpIOd4YOKgmYkPVo045EJhJFBqO3dpmCkGBkBC_XuwEIam5BvlxyQtglNS_J3fqODDJJ7Z8gsZGryz90OBkOmtSLZyO4CFrDKeZdM7q3A_lm4j37wBBoc3yJCAySXtGZn4Dlrux0F4TNoCcBJVnRnpthGXfuWj5j9nz25ZVShzTz2-uMwKez4FZ1Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t48sTtTv_2BjTwZkqhBZFQa-MfaPyOykIC93X_E-kNHaXcAREDhzR_l98yLGuOzLI4jz3uMrwXcn734lLyMYD5wu_ycXU8Rg8ZGZcKZtWfwy5F42giQIjp1vjBoc5omeDlY6rnl9_MMef5JN-A23-zl3v6pt4_2yVvufXxhzS5f6Q3Fb2POKKspLKyAggijDT2weJReUjM1iIkwJz39KBRhlXl1T_BIgvjsOYrUI4QpeVogNwJjDnTmK6xWDCU5t4OYmJ2Tls0T8bSC_q0OxQ9u6EWf675iBbPZVGxo6fLIBKHYi8alC9Lbx24ksGHESIg1btbEVT9MvRQ_TeUFZsw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778603980
+  "last_updated": 1778612231
 }
