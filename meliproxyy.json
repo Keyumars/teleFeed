@@ -8,49 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "آموزش اتصال وایت dns در اندروید\u003cbr/\u003e\u003cbr/\u003e1- نرم افزار را از آدرس های زیر یا پیام بعدی دانلود و نصب کنید. (White DNS)\u003cbr/\u003eلینک شبکه داخلی (بدون نیاز به فیلتر شکن)\u003cbr/\u003e\u003ca href=\"https://dl.toolschi.com/view.php?f=48c485b41de6bf08.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://dl.toolschi.com/view.php?f=48c485b41de6bf08.zip\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://guardnet.ir/f/Universal\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehttps://guardnet.ir/f/Universal\u003c/a\u003e\u003cbr/\u003e\u003cblockquote\u003eرمز فایل : 3666\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e2- مطابق تصاویر بالا کانفیگ ها و ریزالوز ها را وارد نرم افزار کرده و تست کنید. \u003cbr/\u003e\u003cbr/\u003eکانفیگ ها :\u003cbr/\u003e\u003cbr/\u003e1- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e دامنه : \u003ccode\u003eob.networks.icu\u003c/code\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e کلید رمزنگاری : \u003ccode\u003e3947d5ac68015a09a53a0b361bd82999\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e2- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e دامنه : \u003ccode\u003ets.networks.icu\u003c/code\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e کلید رمزنگاری : \u003ccode\u003ee0e71e667e5dcfe3b18e3bce659773d2\u003c/code\u003e \u003cbr/\u003e\u003cbr/\u003e3- \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e دامنه : \u003ccode\u003ezw.networks.icu\u003c/code\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9491.png\u0026#39;)\"\u003e\u003cb\u003e🔑\u003c/b\u003e\u003c/i\u003e کلید رمزنگاری : \u003ccode\u003e0798c0e8aa05080125e6c65282fd792b\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبرای دریافت ریزالوزها از dns های روزانه چنل استفاده کنید\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاتصال این نرم افزار در اندروید روی پورت 10886 و لوکال هاست (\u003ca href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\"\u003e127.0.0.1\u003c/a\u003e) است.\u003cbr/\u003e\u003cbr/\u003eپروکسی تلگرام :\u003cbr/\u003e\u003ca href=\"tg://socks?server=127.0.0.1\u0026amp;amp;port=10886\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003etg://socks?server=127.0.0.1\u0026amp;port=10886\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-08T02:05:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ri2w1wC9QkJp40NTBEoNG4iKLGEiVejJMkEjPISjJV3eP_09soH6-MN76-DlnompcbY2LnAdkmkpB-GOct4pInDyZ8lYCXfJujD1oGzlAOnRrf1zMeSduPk4GTJ6KcINQB8zUhACHwRFsqTRvXi4SqIA33QaowXbTA54ibHm1astwWZ9F4qqpOMRZA38KlRvPr3LvSZ1N2MvmU-9D0SwQAZNtr-LgQ241SvLyTJ4BdbAckknoytBgNXbMzsmmo3H_bc9XCn3VV1h6LRNWwWxUG_-Jg4zvpceqvTV6PnxgKYhQ1sFeTsYIsCDVEY13ODOsM6kEm4KDTDZxiAmzxVSpg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vb8tQyehNj_ChDyzZp-eusMxi6973MBSLoi6-p8fndSbd764ypgkxaT23MplYpTxk2-YGHeCTzV_jw8y3gV9SOgw4IlrWRZkI1DT4r2YmEgFfVsJAFYhabuuojdpwF2a_hUV5zPyjvkvQGgRdVJbN1ufiLdh5_KK2qtFfQqssuCuYrpVKskhN2C01bfyW5GHsM-IB1BbQCSx9_CRYem_fIkLYyiLvfAsJ8i1IVfWu7AhTwQ8CHY8Aef0FEq7E5ybB13sNcl5cVEhKVUgGZeS1VdSKK2JHVRHIskWW9wyaMywVLGsP90X3j6lS1fuH9iWQ5UjxWNLqhCtr4imQBV5CA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sT1DdX0PQMmss-km9p-YuoQRtnBQOY86oGlHrwlLsrI8OCZyADLtr4rS9Bx9P9_Srnsy29jH-y8mSr32PLJsvEwwCqy6hvAkCkAaKqcD6VwrI8urkj0zWgKk1Hy_94K2iKpnqWeAQPaFycIJdLqK0jyAk9FI0k0UHHlJFYveLsU4BStzZGxyRTHdqxbo7dXfSk1WpmZ3LC__7ZgVM1C40BTb8HP_1dzPMOtEQLAbCDLUqE_nfTstlER-gN3LwjuvpXuFpWQ7f_EltCkKQm1Qud65dMwtswbhfun1ZABpYBV-3qJWY6FHUixDuWGQ3tDHa1j316GYjClMy7bNxFgt1Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZQyqegDlg32XV0IWWC8ZzTTJCZzQxubLfXEwtGKwFAodJZ4G664Zckv_d3OOJ1tQLULlBxeWhvxzfpMDOjfyx4A81KtMnreO9IEhm7L-tkLeYzoNbWYXVTZ9z9drDKp0njPutEkdy_0v4AjN-9mimht50WLBZpPmxfNYpzOiD57thXIpRMjmTeNdcDSOLWFYd91h6qJKg5SrBwfqQX4EzaymBmXrIiEgbSJCJqXcnYcfDnZwfn0rZrvxLMo1JP0UXb828GPrDcJ-_g938XG_i_CkMmv0p-GGzy8tJTS8CXc4X8ohC-7gKzynwC5j77wsI2PHAMdmwcurCkmNzgyMJw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u_5UBY4PZHGTs105q61weHCuuouB2-5UKW8XoPhRMVAejO0ALPRFLkw3sMAllurEKl9xX0IO1Bv5vuWvwWlV7pMRzk3ljoYQ3lf29OvRzmsXU0iGSeSOTriTTTKcMZOCgeukf5tGffKYhaIgqNcCKKVPwtgrGePO60O_USdjMr7JA2b9bhKsE2Fni-o0ueqBJdBP8MmfVwIe_u49JamFSqvXOIs2LHDR0P4KwuP73KV7cV-I44b9y5wVkVBcBcZsQU4yU1QyUqd8GrenRpdb8nsAZCAZqKtiSkFMHfvYxx7ysHEUXCHMCN-ZuCo8X9DkbiPHvBb9ni-5NE7C1Lo3WQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oCysgAJzGgCnL8gcUJtXwmhdr1eh-SYxyXwmRq2FafIU524Fk0RGSmIuxXPUgCidw9XXtn4yiOtxjDoAQtHbBSWXLBuPKupGD4UOnMuheoN1AyX7ZSeeiJTO1H1MzY7Z1-eq4TmMUH24Q9Dg_O9GFYwb2JfbZGIpekboBeEhHGW3eGL_HQuKm1zgraihsaz2Sf0JbTlMD50MObHu475nX7tLCn8PBLOEjp7fv9H93qYjs_JpB0HLUtCrGa94GlIzBEw4LuNfQAK-FP-qT3MeO4cigD2tbHXetoGM8Wx0kcLXMlSvFBhQgxHAdo5elJU2rlk0bu6AVNjvorzGNxu6ew.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eریزالور جدید برای وایت دی‌ان‌اس Whith DNS\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ccode\u003e185.94.97.1\u003cbr/\u003e194.156.140.111\u003cbr/\u003e2.179.72.78\u003cbr/\u003e2.183.203.2\u003cbr/\u003e2.189.1.1\u003cbr/\u003e2.179.166.58\u003cbr/\u003e2.182.201.10\u003cbr/\u003e2.182.201.220\u003cbr/\u003e2.182.201.221\u003cbr/\u003e2.184.70.50\u003cbr/\u003e2.188.162.72\u003cbr/\u003e2.188.162.74\u003cbr/\u003e2.188.162.76\u003cbr/\u003e2.188.162.77\u003cbr/\u003e2.188.162.78\u003cbr/\u003e2.188.166.74\u003cbr/\u003e2.188.21.23\u003cbr/\u003e2.188.21.100\u003cbr/\u003e2.188.21.130\u003cbr/\u003e2.188.21.190\u003cbr/\u003e2.188.21.200\u003cbr/\u003e2.188.214.200\u003cbr/\u003e2.188.214.201\u003cbr/\u003e2.188.215.103\u003cbr/\u003e2.189.1.1\u003cbr/\u003e2.189.1.2\u003cbr/\u003e2.189.1.10\u003cbr/\u003e2.189.1.15\u003cbr/\u003e2.189.1.19\u003cbr/\u003e2.189.44.44\u003cbr/\u003e2.189.44.68\u003cbr/\u003e2.189.162.250\u003cbr/\u003e5.63.15.2\u003cbr/\u003e5.106.19.116\u003cbr/\u003e5.160.13.82\u003cbr/\u003e5.160.13.83\u003cbr/\u003e5.160.45.138\u003cbr/\u003e5.160.48.53\u003cbr/\u003e5.160.79.56\u003cbr/\u003e5.160.104.6\u003cbr/\u003e5.160.140.16\u003cbr/\u003e5.160.171.36\u003cbr/\u003e5.160.171.47\u003cbr/\u003e5.190.212.245\u003cbr/\u003e5.202.11.235\u003cbr/\u003e5.202.42.193\u003cbr/\u003e5.202.53.22\u003cbr/\u003e5.202.177.196\u003cbr/\u003e5.202.182.222\u003cbr/\u003e5.202.248.119\u003cbr/\u003e5.239.245.245\u003cbr/\u003e10.160.155.9\u003cbr/\u003e10.185.68.113\u003cbr/\u003e10.185.68.114\u003cbr/\u003e31.7.70.68\u003cbr/\u003e31.7.78.205\u003cbr/\u003e31.47.56.59\u003cbr/\u003e31.47.56.60\u003cbr/\u003e31.214.169.254\u003cbr/\u003e37.98.104.129\u003cbr/\u003e37.143.151.60\u003cbr/\u003e37.148.17.255\u003cbr/\u003e37.191.93.222\u003cbr/\u003e37.255.221.16\u003cbr/\u003e37.255.229.99\u003cbr/\u003e37.255.242.252\u003cbr/\u003e45.81.17.27\u003cbr/\u003e45.81.19.10\u003cbr/\u003e45.81.19.16\u003cbr/\u003e45.87.6.72\u003cbr/\u003e45.92.94.208\u003cbr/\u003e45.159.112.79\u003cbr/\u003e45.159.197.99\u003cbr/\u003e46.100.9.184\u003cbr/\u003e46.100.63.28\u003cbr/\u003e46.148.41.105\u003cbr/\u003e46.209.157.18\u003cbr/\u003e46.245.68.179\u003cbr/\u003e62.220.116.100\u003cbr/\u003e77.104.98.70\u003cbr/\u003e77.104.103.130\u003cbr/\u003e77.104.115.176\u003cbr/\u003e77.237.83.30\u003cbr/\u003e77.238.123.237\u003cbr/\u003e78.38.110.82\u003cbr/\u003e78.38.174.30\u003cbr/\u003e78.38.251.250\u003cbr/\u003e78.38.251.252\u003cbr/\u003e78.38.251.253\u003cbr/\u003e78.39.59.246\u003cbr/\u003e78.39.98.28\u003cbr/\u003e79.127.2.89\u003cbr/\u003e79.127.94.114\u003cbr/\u003e79.127.95.133\u003cbr/\u003e80.191.88.90\u003cbr/\u003e80.191.255.22\u003cbr/\u003e80.210.29.132\u003cbr/\u003e80.210.40.54\u003cbr/\u003e80.210.44.187\u003cbr/\u003e81.12.34.188\u003cbr/\u003e81.12.90.74\u003cbr/\u003e81.12.99.102\u003cbr/\u003e81.16.116.138\u003cbr/\u003e81.16.126.112\u003cbr/\u003e81.28.252.59\u003cbr/\u003e81.28.253.252\u003cbr/\u003e81.29.248.101\u003cbr/\u003e81.31.250.133\u003cbr/\u003e81.90.145.122\u003cbr/\u003e81.91.147.3\u003cbr/\u003e82.99.195.82\u003cbr/\u003e84.241.25.187\u003cbr/\u003e84.241.29.70\u003cbr/\u003e85.133.160.236\u003cbr/\u003e85.133.160.240\u003cbr/\u003e85.133.189.11\u003cbr/\u003e85.185.1.10\u003cbr/\u003e85.185.82.34\u003cbr/\u003e87.107.54.79\u003cbr/\u003e87.107.82.213\u003cbr/\u003e91.92.185.232\u003cbr/\u003e91.92.190.84\u003cbr/\u003e91.92.215.132\u003cbr/\u003e93.115.151.184\u003cbr/\u003e93.115.151.189\u003cbr/\u003e93.118.148.30\u003cbr/\u003e93.126.2.252\u003cbr/\u003e93.126.19.125\u003cbr/\u003e93.126.19.246\u003cbr/\u003e95.38.15.247\u003cbr/\u003e95.38.17.247\u003cbr/\u003e95.38.72.23\u003cbr/\u003e95.38.102.94\u003cbr/\u003e95.38.144.250\u003cbr/\u003e95.38.174.195\u003cbr/\u003e95.80.164.5\u003cbr/\u003e95.80.164.6\u003cbr/\u003e95.80.164.10\u003cbr/\u003e109.95.60.157\u003cbr/\u003e109.230.83.155\u003cbr/\u003e109.230.91.228\u003cbr/\u003e130.185.75.205\u003cbr/\u003e176.101.32.2\u003cbr/\u003e178.252.129.30\u003cbr/\u003e178.252.141.73\u003cbr/\u003e178.252.143.133\u003cbr/\u003e178.252.170.218\u003cbr/\u003e178.252.170.222\u003cbr/\u003e185.14.80.238\u003cbr/\u003e185.53.143.13\u003cbr/\u003e185.74.221.14\u003cbr/\u003e185.82.165.110\u003cbr/\u003e185.105.101.58\u003cbr/\u003e185.106.144.149\u003cbr/\u003e185.109.61.102\u003cbr/\u003e185.110.244.150\u003cbr/\u003e185.112.37.128\u003cbr/\u003e185.113.56.1\u003cbr/\u003e185.113.56.11\u003cbr/\u003e185.113.56.19\u003cbr/\u003e185.113.56.30\u003cbr/\u003e185.113.56.35\u003cbr/\u003e185.116.160.27\u003cbr/\u003e185.120.220.194\u003cbr/\u003e185.121.129.170\u003cbr/\u003e185.124.113.224\u003cbr/\u003e185.126.5.40\u003cbr/\u003e185.126.5.41\u003cbr/\u003e185.129.213.185\u003cbr/\u003e185.132.80.64\u003cbr/\u003e185.140.4.79\u003cbr/\u003e185.140.58.2\u003cbr/\u003e185.145.8.254\u003cbr/\u003e185.172.68.72\u003cbr/\u003e185.172.213.211\u003cbr/\u003e185.174.134.66\u003cbr/\u003e185.176.59.209\u003cbr/\u003e185.206.93.50\u003cbr/\u003e185.206.229.31\u003cbr/\u003e185.208.76.101\u003cbr/\u003e185.208.76.104\u003cbr/\u003e185.208.76.105\u003cbr/\u003e185.208.76.106\u003cbr/\u003e185.231.183.26\u003cbr/\u003e185.237.85.5\u003cbr/\u003e185.255.89.57\u003cbr/\u003e188.75.95.66\u003cbr/\u003e188.121.145.94\u003cbr/\u003e188.121.146.226\u003cbr/\u003e188.136.162.211\u003cbr/\u003e188.136.208.244\u003cbr/\u003e193.186.32.32\u003cbr/\u003e195.245.70.210\u003cbr/\u003e212.23.216.123\u003cbr/\u003e212.86.77.54\u003cbr/\u003e213.176.123.5\u003cbr/\u003e213.207.198.180\u003cbr/\u003e217.219.14.162\u003cbr/\u003e217.219.34.66\u003c/code\u003e\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://dl.toolschi.com/up/48c485b41de6bf08.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003eدانلود با نت داخلی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy/36108?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9384.png\u0026#39;)\"\u003e\u003cb\u003e📄\u003c/b\u003e\u003c/i\u003e آموزش کار با وایت‌ دی‌اِن‌اِس\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e",
       "date": "2026-05-08T02:05:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 15600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +24,7 @@
       "date": "2026-05-08T14:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 15900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -70,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fKcPKuzt5HWdtpksGOZBlJbylNJn3BplCbDS1yfdH7WnbF7WmFdxFCKbQ5UXx6gul2nGV-iEo_U1jB5NX3qi_fCktDY5zpqqwjKoNE-kdd5bR_Fk1z7AkoqI_9P_IUe1FtD0vEQuBJ7-6_Sj3o_XJU5YoQyn9qj6KQ7uG5ZXc1pxI1kBtvzxzNOo14WUNN3ZEBR3UAwRoDHsF4OHau6qs68ooEzObiDur1avrnbLoYsSnC2CamtHFBSYn5a87O74GVE6_KKrguG6vMn5YYO3HZVctvIUY8dsNt4-2uJg2oSAdHjiviAZAWBMebUSGHLLlKf7XhztI5ABJnqJURVvzg.jpg"
+          "url": "https://cdn4.telesco.pe/file/rsp_NcwZyUJPAkOMmVKiwonQ5CI_pIm6smC-OPRWjAbfA9xGzHYbCCiPwz2ZhOtk7KoHOvRKizPjpgVjG1Zw0xV1ird6NoO6vyJ5GS4vYLDmZUVGtcTl7QDHCL91dH6zzuU4iptjlmPuZAxWELT6w_qxULTh26AnkgWagPLKvaJbJW6hebmkPxJ2u7nC11qWT0Uyb1LKbdOOdPsLqxtw_IlrthBU9aptbomTiod5vZIQwxIwuKstQn65ozSvHhxcjLMBLHbBBwDiSbMFwP8MvYWuAPiVGHuyjlNy3bnvgFqkmbYdV-2yVrU1FDbq9ctK-oApHh8qPJYYY1Rqk043Yg.jpg"
         }
       ]
     },
@@ -80,7 +42,7 @@
       "date": "2026-05-08T18:50:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +54,7 @@
       "date": "2026-05-08T18:50:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +66,7 @@
       "date": "2026-05-09T12:24:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +78,7 @@
       "date": "2026-05-10T00:10:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +90,7 @@
       "date": "2026-05-10T12:45:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +108,7 @@
       "date": "2026-05-12T08:12:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +120,7 @@
       "date": "2026-05-12T08:59:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +132,7 @@
       "date": "2026-05-12T20:30:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9980,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +144,7 @@
       "date": "2026-05-13T06:59:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8300,
+      "views": 8870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +156,7 @@
       "date": "2026-05-14T09:12:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3110,
+      "views": 4120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +168,7 @@
       "date": "2026-05-14T10:03:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2150,
+      "views": 3170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +187,7 @@
       "date": "2026-05-14T10:03:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2480,
+      "views": 3720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +206,7 @@
       "date": "2026-05-14T11:27:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 2910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +218,7 @@
       "date": "2026-05-14T11:27:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 2960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,12 +230,46 @@
       "date": "2026-05-14T11:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 635,
+      "views": 2550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco"
+    },
+    {
+      "id": 0,
+      "message": "تعدادی dns متصل\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://78.157.42.100/\" target=\"_blank\" rel=\"noopener\"\u003e78.157.42.100\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://46.245.76.162/\" target=\"_blank\" rel=\"noopener\"\u003e46.245.76.162\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.88.178.196/\" target=\"_blank\" rel=\"noopener\"\u003e185.88.178.196\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://91.92.214.110/\" target=\"_blank\" rel=\"noopener\"\u003e91.92.214.110\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.68/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.68\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.53.142.174/\" target=\"_blank\" rel=\"noopener\"\u003e185.53.142.174\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.162.200/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.162.200\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://31.214.169.244/\" target=\"_blank\" rel=\"noopener\"\u003e31.214.169.244\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.82/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.82\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.58/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.58\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.83/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.83\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.86/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.86\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.85/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.85\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.84/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.84\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.70/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.70\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://62.60.197.83/\" target=\"_blank\" rel=\"noopener\"\u003e62.60.197.83\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.128.82.2/\" target=\"_blank\" rel=\"noopener\"\u003e185.128.82.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.91/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.91\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.93/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.93\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.94/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.94\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.92/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.92\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.90/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.90\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.46/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.46\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.98/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.98\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.138/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.109.61.27/\" target=\"_blank\" rel=\"noopener\"\u003e185.109.61.27\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://108.162.192.0/\" target=\"_blank\" rel=\"noopener\"\u003e108.162.192.0\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://156.146.33.97/\" target=\"_blank\" rel=\"noopener\"\u003e156.146.33.97\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.127.211.213/\" target=\"_blank\" rel=\"noopener\"\u003e79.127.211.213\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://78.38.77.2/\" target=\"_blank\" rel=\"noopener\"\u003e78.38.77.2\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://172.64.32.0/\" target=\"_blank\" rel=\"noopener\"\u003e172.64.32.0\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.62/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://74.63.24.211/\" target=\"_blank\" rel=\"noopener\"\u003e74.63.24.211\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://173.245.58.0/\" target=\"_blank\" rel=\"noopener\"\u003e173.245.58.0\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.160.140.16/\" target=\"_blank\" rel=\"noopener\"\u003e5.160.140.16\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://74.80.77.245/\" target=\"_blank\" rel=\"noopener\"\u003e74.80.77.245\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.219.29.66/\" target=\"_blank\" rel=\"noopener\"\u003e217.219.29.66\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://5.56.132.97/\" target=\"_blank\" rel=\"noopener\"\u003e5.56.132.97\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://178.252.143.130/\" target=\"_blank\" rel=\"noopener\"\u003e178.252.143.130\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://207.211.215.145/\" target=\"_blank\" rel=\"noopener\"\u003e207.211.215.145\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://162.159.38.0/\" target=\"_blank\" rel=\"noopener\"\u003e162.159.38.0\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.188.21.146/\" target=\"_blank\" rel=\"noopener\"\u003e2.188.21.146\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://185.236.90.12/\" target=\"_blank\" rel=\"noopener\"\u003e185.236.90.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://74.63.24.205/\" target=\"_blank\" rel=\"noopener\"\u003e74.63.24.205\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://77.238.123.179/\" target=\"_blank\" rel=\"noopener\"\u003e77.238.123.179\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.127.170.12/\" target=\"_blank\" rel=\"noopener\"\u003e79.127.170.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://79.127.170.15/\" target=\"_blank\" rel=\"noopener\"\u003e79.127.170.15\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://149.102.250.14/\" target=\"_blank\" rel=\"noopener\"\u003e149.102.250.14\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://217.66.203.211/\" target=\"_blank\" rel=\"noopener\"\u003e217.66.203.211\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.189.44.66/\" target=\"_blank\" rel=\"noopener\"\u003e2.189.44.66\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e",
+      "date": "2026-05-14T11:52:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2720,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://x.com/mahdavi/status/2054879407362245084?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMahdavi\u003c/a\u003e: \u003cbr/\u003eدر قسمت CDN edge IPs اگه IP های وایت لیست شده آکامای رو بذارید سرعت اتصال بهتر میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://x.com/kharabam666/status/2050599288338563184?s=20\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eKharabam\u003c/a\u003e:\u003cbr/\u003e\u003cbr/\u003e63 تا IP وایت لیست Akamai:\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"http://2.22.151.4/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.4\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.9/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.9\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.12/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.13/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.15/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.15\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.17/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.17\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.20/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.20\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.22/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.22\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.23/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.23\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.32/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.32\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.36/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.36\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.37/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.39/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.39\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.47/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.47\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.51/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.51\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.53/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.53\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.54/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.54\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.58/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.58\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.60/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.60\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.62/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.135/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.135\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.138/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.139/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.139\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.141/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.141\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.142/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.142\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.143/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.143\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.144/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.144\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.146/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.146\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.149/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.149\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.150/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.150\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.151/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.151\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.152/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.152\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.153/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.153\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.154/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.154\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.155/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.155\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.156/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.156\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.157/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.157\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.158/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.158\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.159/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.159\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.161/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.161\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.162/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.162\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.163/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.163\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.164/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.164\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.168/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.168\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.169/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.169\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.170/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.170\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.171/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.171\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.173/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.173\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.175/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.175\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.179/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.179\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.181/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.181\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.182/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.182\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.183/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.183\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.184/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.184\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.185/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.185\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.186/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.186\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.188/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.188\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.189/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.189\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.190/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.190\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.191/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.191\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.193/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.193\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.194/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.194\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.195/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.195\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T12:05:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oepOLTJgyizdXgSEUN9XSFZz38ZhKkojIFD-yjDRdMq7GemmdXRIy6LbtTxFIN2Z-NNHQXbWdCgqWhwnDfLb-LlE-qeEO-spDzaIQLT1X1ipdABSc6piRyulNkEaH3U-OXsjYCU0aArhXp-cDVyOIxM3WtFPrgVBik28U5IB5aAmWsg8IDpae1xSjfkKsR67wGFP-0CENYcw51Cpm83TJD_zz5I1WiOYrufTjjpjO3JOumh2FcevfT3OYasD_-rAKIK6ZfIBFnZ8lXfBHxapTJbk8ceWYuktRg6UWbRJAs7BB5_cAw6FDUh04elACJ2bNfm96EPu80MtywZnR2N3MQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ijh1I9WrGsVFeTM_ibbs50lo9DovwgXFEforxzyeWue0Lqsfqec2OSsSZ256d2z_YuF6N4uJ4O6t3KS4ge8eMx742ljaRsGW3ap0UkqKNiQaXbH5mBMVgwB0mVZ6ngF-vgnxI-stPiwJqWaXAPafy_ipm1eGrZc_-ygdQ5QwKWqCB7qvwfioSfuzsdY-aGK7JLpb3xixznKclaubQ9TRKxj8QfnxqNBlxMo2KxLzYrwebx5qNd48-_whmEuQ1D7lV-ddR6Fdt04TVT9Ajt4JiT79VS0waZkP4VdTOtGgnVmnMh_7jw1WrPxw-HC6QytVADYHLLqpeWpBsoQlncF0HQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778759565
+  "last_updated": 1778767774
 }
