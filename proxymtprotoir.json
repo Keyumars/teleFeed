@@ -3,52 +3,16 @@
     "id": 0,
     "title": "پروکسی فیلترشکن شکن کانفیگ",
     "username": "proxymtprotoir",
-    "photo_url": "https://cdn4.telesco.pe/file/OM2qYsB8zzlPlo5TIXw4og4nicu7Wh9q4nP1-CS8QRgxDDaFDnnEWfMINGtzsn68WVco_idnELL_D-zScszD9kESlmQKn6VT_AR3qXzWZ_8TPHWvixfqi9y_P1c1QGx2uaM_Q5vWdi4KZtPUHQadiMuetYv9mOvj47GVrQ4kgKtJsWGXmXSGIfGqM6iFN_mlWIkEaKEydcWhUarWXvb9sebqFUkjBkLoVxfWl-_4omQ5CfsQpYSXRrpuBdxTZXTv_oTTmdpBfEDZUUTHr_y_xC9CqKBRA4N5HtOAf0eUmWr2Qvadmyz-D2cbUYMAF7hCTJzMbJgHBobxuvJCX4Xc7A.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/bgosY3KeItLxjxu0dmCE_5eFZqLN_ZY2EcHUEbm4_4jD4GsR6D2wKuPI_wJ2_1JFSF0z9O9PTjLej6mHh-ZdVsdPNmBUcmKMRlqwSeivxchnqN57S08A_LDuveARwEwWglkWo3ohOLG30jL0GgXAL2a0ish8PfgqtHRlaJ3IBhvp_rq4psdJ0tAsesYGhz5-dmM2oteQWt1t6FpKRLjYLj2JBLxOVj1URbfZT59lT--ILV-kfpo8ZCFcy-Xhg0737wOTl0_FEgAnb7rqqW-TptLd2jpGyronS5OIxCILZL3kD8D0Zv5NWs5JkscEpazKXe8ky7p2ZI09Op1w_JBaWA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003e- کانفیگِ جدید برایِ SlipNet -\u003c/b\u003e\u003cbr/\u003eتست شده با \u003ctg-emoji emoji-id=\"5965297742614894172\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهمراه اول \u003c/b\u003e( حتما با بقیه ی اینترنت ها چک کنید )\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ccode\u003eslipnet-enc://AXeLjmVF650Gicycs3TNXANCaGiArkU3l3Cd8vRiWF45oOlXR+9RNcoSRZ/7b/y2MluNJ9fSuCjucC4KWd0pQ18KHGya3CeQ4isesRoyZevb3TUDx3S/ALoQ9FDEBIlzyWE6rvlh4vB703gjjIIxgaWxWJtbeYuL8yf4NuamKQOah2x52KpUoxumc8opPFyl0dU6fCozO4Kh5UQs4EOdBG4MdRp80Ka2T0W2Tb7Q1OuhkhSSYoonvdWJS8zjeuy8QD/U7VQfykxmAEGmoUC3DaeDAqCgsrSQEUB9Tj3mIFSGhVQmWMDjuh3/vGm6jgt7Bqmf9Cp0DB81N6YxMgVD6BHfsghuHar3iUwKn/S9Xsg3JXb+2r1tUZr/xY+ziuenuYl60bYoT6TrN0n+XYJ3WbYLBvIFW+MS/ke1RqN4Jh+1z/9ZDXPpNH0L0Rlneez79L2THAHFkdWP4E4A1VZHc8VmliHJgDMIfk3vM2Sm4VTqVDo3/eDyo2BWSH0xLGlgSL4HS2LX9aT8MUVkTuRUajgWXexXDKzpwoZ1KiQ8W5RJBPO3hEMOilLj0SICtBq63yIp8orB3UH/YmF7mXrRztEgWvIRgAMDEHYi1UJkyHAHP2rSjXNqVcIXL+7hxPo7I5u21SOHS498ZrbYiS9PZu/Zaay170F+dNQF3w2aKBHgv0mw\u003c/code\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eحتما از تنظیمات VPN MTU رو رویِ 512 بگذارید و تنظیمات رو ذخیره کنید .\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eزمانی که کانفیگ رو ادد کردید قبل از اتصال رویِ علامتِ مداد کنارِ کانفیگ بزنید و DNS Query Size رو هم یکبار رویِ 50 بزارید و تست کنید و هم یکبار 60 بزارید و متصل بشید .\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eحتما از تنظیمات گزینه‌ ی Proxy-only Mode رو‌ فعال کنید . بعد از اینکه کانفیگ متصل شد ، به یکی از پروکسی هایِ زیر در تلگرام متصل شَوید .\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e : \u003ca href=\"https://t.me/socks?server=127.0.0.1\u0026amp;port=10880\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=127.0.0.1\u0026amp;port=10880\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e : \u003ca href=\"https://t.me/socks?server=0.0.0.0\u0026amp;port=10880\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=0.0.0.0\u0026amp;port=10880\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-13T09:33:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5420416892701537341\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5949441247344069791\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eکانفیگ نپستر برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5951810621887484519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5406809207947142040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/proxymtprotoir/43010\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eنحوه اتصال داخل اندروید \u003c/a\u003e(کلیک کن) \u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-13T09:47:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "قطعی اینترنت رو عادی سازی نکنید!!!!!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-13T10:45:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
     {
       "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5418197833423527451\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9299.png\u0026#39;)\"\u003e\u003cb\u003e💙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eV2ray\u003ctg-emoji emoji-id=\"4956507094124594921\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003epsiphon\u003ctg-emoji emoji-id=\"5866202874182112334\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003evless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80?path=%2F\u0026amp;security=none\u0026amp;encryption=none\u0026amp;host=pa1.ghostantaniehh.ir\u0026amp;type=ws#\u003ca href=\"https://t.me/FlashTunnelx\" target=\"_blank\"\u003e@FlashTunnelx\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-05-13T11:45:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-05-13T12:42:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22700,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,37 +36,7 @@
       "date": "2026-05-13T14:14:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5938104410583342681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C96.png\u0026#39;)\"\u003e\u003cb\u003e✖️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سایت بین المللی \u003cb\u003ebet120x\u003c/b\u003e \u003ctg-emoji emoji-id=\"5938104410583342681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C96.png\u0026#39;)\"\u003e\u003cb\u003e✖️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدارای مجوز رسمی Gambling Judge سوئد\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e     \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5891156273394617658\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشارژ حساب از طریق ارز و \u003cb\u003eیووچر\u003c/b\u003e و پرمیوم ووچر\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5890793481802091729\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب دلاری سریع\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928A.png\u0026#39;)\"\u003e\u003cb\u003e💊\u003c/b\u003e\u003c/i\u003eبیمه شرط میکس\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5938261726645457141\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفروش شرط\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5936293824170038169\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویرایش شرط                    \u003ctg-emoji emoji-id=\"5870919353863508211\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5868638434171557858\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e20%هدیه واریز از طریق ارز و ووچر\u003cbr/\u003e┅━━━━━━━━━━━\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10%برگشت باخت به صورت روزانه \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10%برگشت باخت به صورت هفتگی \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e10%برگشت باخت به صورت ماهانه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972055534352733289\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eادرس ورود به سایت:\u003cbr/\u003e\u003ca href=\"https://bet120x.com/fa/?btag=971470\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bet120x.com/fa/?btag=971470\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e   \u003ctg-emoji emoji-id=\"5416113713428057601\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://help120x.xyz/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش واریز و برداشت دلاری\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5888541136527560112\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94AA.png\u0026#39;)\"\u003e\u003cb\u003e🔪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال اطلاع رسانی:\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e g23\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852830669599674051\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+RvVnWMHCqUc4YzFk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+RvVnWMHCqUc4YzFk\u003c/a\u003e",
-      "date": "2026-05-13T14:34:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mZRcpNgDpml8Aaov-fuDp3l-ZXPR3nJCU7yQkA_LIKzBcLODsa7EuJiiuRtjKpSNcRXUFOC92NKhWkRsQ5lQMcd08AW5SZI8Abqw7BjK2hRLN9fZ9e33jLnASkw3blqruBCV16hi_DHlDzagDqUtbUkGrPjyohNwXq-WbDqwndWjj7BSs00y1zllVCvUFFJ6Noe80kiT10uz0N52kakbKEoVpNm3IK8SQvgQ-8RErghdEwSrsWjAyAyPuUUZnmn8O58KXa0CnA_S9C7TKgreyvQe_uhujKbWa1r17_RoK_rLERQv7vBwWo4u9g7MpIRweiUd_xM6TNUOm0s5PB2CBw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5859637724612399613\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآیپی فیلتر شکن شما نباید روی کشورهای  انگلستان ، فرانسه و هلند و اسپانیا و پرتغال و ایتالیا و ...باشد تا به راحتی وارد شوید\u003ctg-emoji emoji-id=\"5352625743081775722\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9A.png\u0026#39;)\"\u003e\u003cb\u003e🎚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-13T14:34:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +48,7 @@
       "date": "2026-05-13T14:35:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +60,7 @@
       "date": "2026-05-13T15:24:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +72,7 @@
       "date": "2026-05-13T17:34:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +98,7 @@
       "date": "2026-05-13T17:36:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 26200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +110,7 @@
       "date": "2026-05-13T19:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,38 +129,7 @@
       "date": "2026-05-13T20:54:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4979249740525864097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eمیخوای از پیش بینی فوتبال و شرط بندی پول دربیاری ؟!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپس همین الان وارد کانال \u003cb\u003eعمو بت باز\u003c/b\u003e شو\u003cbr/\u003eچون بهت اموزش میده چطور پول دربیاری\u003ctg-emoji emoji-id=\"5274099962655816924\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eاینجا میتونی روزانه درامد داشته باشی و سرمایت چندبرابر کنی پس از دستش نده و عضو شو امار سوداش چک‌کن\u003ctg-emoji emoji-id=\"5278234122081285421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eعمو قدیمی کاره و خاک این کارو‌خورده کنارش باش و حرفه ای پول دربیار\u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003eA23\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eادرس عضویت کانال vip: \u003cbr/\u003e\u003ca href=\"https://t.me/+8LLMpXUfhW43ZjVk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+8LLMpXUfhW43ZjVk\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+8LLMpXUfhW43ZjVk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+8LLMpXUfhW43ZjVk\u003c/a\u003e",
-      "date": "2026-05-13T21:03:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/BCkgrZKoJNZ9wc-ZRBaBzLBywsLTOxDDykfNpmNL418aC9_meYtr-ucrHe3hqylG68Np3oIDByJR1WR2AeiPD6wS1JPDWIj488owgZVD5XQa_IuDz7Vae_vj-XEm0x5ucZ5t3vG0nrFInLkGr7knH1vbniYhqsmwE8a_-VSFUvW5eAmFVTTM1yKLamjpspL33wxQWZCJXFivh9Oevbb2CiBk3giHpzWOOUMSJDsqsm_FRKGppFckUOlbpjgagBZyKh5OjtOGRnvdayIMY4iR6ToWZBuZ0g3h3CiOkI26wAqW1SFUHQI2ZJraPbq_IgnJhZWbq5TVukNhG_2sGD-WqA",
-          "width": 268
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "فقط نظاره گر فوتبال نباش پیش بینی کن و پول دربیار\u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-13T21:03:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +141,7 @@
       "date": "2026-05-14T06:11:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3240,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,12 +153,108 @@
       "date": "2026-05-14T06:18:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2500,
+      "views": 11100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e- کانفیگِ جدید برایِ SlipNet -\u003c/b\u003e\u003cbr/\u003eتست شده با \u003ctg-emoji emoji-id=\"5965297742614894172\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B9C.png\u0026#39;)\"\u003e\u003cb\u003e🛜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهمراه اول \u003c/b\u003e( حتما با بقیه ی اینترنت ها چک کنید )\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ccode\u003eslipnet-enc://AU1KZP8t3JAtWp1D9o63rqdHC+iYWfGnovbDvgGiZmg8QqDOb4EdbPuceuk5JTjxEJjvqKfcvCfQxx3RZIwIOKfI/+oJapG1ijVlVmSWponrqGd7a2eRVIGQX30QWj53EN+yiRNMTdtWGFhu/as04426Sms+11kq8GPcTjMF9q+PClioYU5LLW4XaBv/pWhFS+XqcdamSFtDLbMki/jp2rUxqb1IAjxEIE0AndMuucBRpusa9/FPVbHS+W9OTFMzEW8YsYhmLCYG7AQHx0kGELTg65kwx+TsrKNmcAk2IDEWYEWTpnhTKOSPFyuFVHaCmEuxHbaFaXNkipUKrXQbOEtgDir6uIEuCgcsW5Rl5hGigC3BL2LjUCCibdcSmvLDnjWIcjChI4HsfWmCBPtojyZsbgiHm/dr8kLi0zWWnvj2AX3a1Vt4bURHpzOn3h/rrZS1JKxmdwvmfuuhMndIpXpwzHpSfGbIcjPXLzIWHCuIGtjjpspQgw61Gg4/EYXsHWJHRZwuB9phtG0lKY8cOCYHfHR3uRRBpglfklFWGOeSkGGMUAXrEiFUF5aXUODV1GmIY8dpUQuCb34Fcw0hcxv2D+dN9p63sg2xpowoxpkOoeIfefFR+aoX/js+yVJZFGd2UhgykHJqtgbtmlLeRz/z8jn/J6cQZBNcZqCRaol/s6BFZcknGrmMmgZbLWGd5esxMt9eczH/vlQeyIdJDqyR\u003c/code\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eحتما از تنظیمات VPN MTU رو رویِ 512 بگذارید و تنظیمات رو ذخیره کنید .\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eزمانی که کانفیگ رو ادد کردید قبل از اتصال رویِ علامتِ مداد کنارِ کانفیگ بزنید و DNS Query Size رو هم یکبار رویِ 50 بزارید و تست کنید و هم یکبار 60 بزارید و متصل بشید .\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5123344136665039833\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eحتما از تنظیمات گزینه‌ ی Proxy-only Mode رو‌ فعال کنید . بعد از اینکه کانفیگ متصل شد ، به یکی از پروکسی هایِ زیر در تلگرام متصل شَوید .\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e : \u003ca href=\"https://t.me/socks?server=127.0.0.1\u0026amp;port=10880\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=127.0.0.1\u0026amp;port=10880\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e : \u003ca href=\"https://t.me/socks?server=0.0.0.0\u0026amp;port=10880\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/socks?server=0.0.0.0\u0026amp;port=10880\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T06:53:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4979249740525864097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eدنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!\u003c/b\u003e\u003ctg-emoji emoji-id=\"5017122105011995219\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدربی بت همون انتخاب  100%\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4999002445444023072\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویژگی های سایت جهانی Derby Bet:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eامکان شارژ امن با کارت بانکی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eواریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپر اپشن ترین سایت فعال در ایران\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب کمتر از 5 دقیقه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرگشت بخشی از باخت به صورت هفتگی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5819188770590693944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکد هدیه ثبت نام:\u003cb\u003eGG007\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/derbybetm/18554\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای دانلود اپلکیشن کلیک کنید\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5458603043203327669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال دربی بت :r24\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190758295530397672\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+kpFvLD9kaeJhYTI0\u003c/a\u003e",
+      "date": "2026-05-14T07:33:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/VMcVDuW7CU_hkP0x-oWotABVDHCD7ctMVaNC5eXSil2h6TvkWGPMO9nRHpBwzMe7kJqLYOYI3ngFxU9vTnFjgjgKMe_hXVLrAUA6MWJ1CkjwW7PI-NTeYwKc2SvAYeS7mQzYmyQOTqMI1qgln7DbuoL_-pB_oQYa9eaR5BvU0O6pJZrJ-rU-OG1077Vh3Bq6GuSKM58xxeSw2pWWXsHTFjVrO4_fXu6JsvvUKFChR2gYwvzaqjfzezS3Mi1wK-Ut-iJY--2iXTtQFxVa6WxIKnXpTdpPnrh9_3HhFQIPFyvMNywyxhCjMKtmSvkMcDgwCBrdQ7epM6olTirLWRduVQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5818928263644322035\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاپلیکیشن اندروید سایت جهانی دربی بت\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5818941887280584008\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956499161319998529\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9880.png\u0026#39;)\"\u003e\u003cb\u003e😀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eTelegram Channel\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+kpFvLD9kaeJhYTI0\u003c/a\u003e",
+      "date": "2026-05-14T07:33:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8760,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"tg://proxy?server=95.217.235.33\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=95.217.235.33\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T07:39:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9360,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5240241223632954241\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e قطعی اینترنت در ایران اکنون وارد هفتاد و ششمین روز خود شده و از ۱۸۰۰ ساعت فراتر رفته است. \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین وضعیت بر اساس یک سیستم طبقاتی و چند سطحی اجرا می‌شود؛ به‌طوری‌که تنها گروه‌های خاص به اینترنت دسترسی دارند و عموم مردم عملاً از ارتباطات محروم شده‌اند؛ ساختاری اجتماعی که مقامات ایرانی خود ادعا می‌کنند با آن مخالف‌اند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T08:48:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/u_B7V-UODSkO4q6BLM4tf66BRpdwx1SK0WCRQ59BrtvVtfvZVop3wvihhkHOtoBZ6LvWh3exzd-gje9OXk9DtCMjaK9SAMOONxXLIdhl6i8iEDNLvHyKFmnOYUWOansfjYn36-ara5M2E3GUzw-GGdvOzm3bfinmXuPaU3Li9IiwuR1WoYZBVjNhHaSLA6Pg_K0PB0hlx6X45lESs6QbcNWBWH5hk9ABvuie85Kq48qSYkRJ1vznbEmCR4g7bnPs2ZsBd_8PMoxVvzNZFfbM6RXyvHaaB6P7juqKJvhHAV87jrZkOSCvRUyrbnEt9BHoT2xU8bxc62VFgNd2_U2M_w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5334875094218994793\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9888.png\u0026#39;)\"\u003e\u003cb\u003e😈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eVpn+Proxy\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/proxy?server=195.254.165.252\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=195.254.165.252\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=195.254.165.253\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=195.254.165.253\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=195.254.165.249\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=195.254.165.249\u0026amp;port=25565\u0026amp;secret=dd79e344818749bd7ac519130220c25d09\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T09:05:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5418197833423527451\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9299.png\u0026#39;)\"\u003e\u003cb\u003e💙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eV2ray\u003ctg-emoji emoji-id=\"4956507094124594921\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003epsiphon\u003ctg-emoji emoji-id=\"5866202874182112334\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003esocks://Og@62.220.126.92:32302#@\u003cbr/\u003esocks://Og@62.220.126.56:26132#@\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-14T09:32:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 401,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
     }
   ],
-  "last_updated": 1778741201
+  "last_updated": 1778751285
 }
