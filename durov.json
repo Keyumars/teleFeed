@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5199749070830197566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Our new\u003cb\u003e Login Widget\u003c/b\u003e is a \u003cb\u003egift\u003c/b\u003e to developers: they can not only quickly \u003cb\u003eauthorize\u003c/b\u003e users, but also request users’ \u003cb\u003ephone numbers\u003c/b\u003e and \u003cb\u003epermission to message\u003c/b\u003e them on Telegram. \u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5841267724285646096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8693.png\u0026#39;)\"\u003e\u003cb\u003e🆓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eSign-up, login, phone verification\u003c/b\u003e, and a \u003cb\u003efollow-up communication channel\u003c/b\u003e in one — \u003cb\u003ecompletely free\u003c/b\u003e.",
-      "date": "2026-04-18T00:58:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/STJ2-70yxGNWD19Z5O17OKMgsY5kRE911k1zMfSUKwJMRsgyVKd3ZFdWXKD8a4SmgmZGCJ7b7loqmug1t_to6PoKSskoxiy-7DlVLjTbokpMhiVYIXG1F1CfcAmtgkB-3ZfkvNxd5024N0Zcp6qouHmOnO3Uej3MoPp-nn6rXOve4wQlQSUPRqgh5E_oL-KfJODpVvXgwhBOKsc8aw1CFGYENh1LB2BqAgtWGQU2uQWFT8bIgEEJuquf3p94wSYoMuFYeqQFbPLMLF25l2d5FQQbS2cD7a1dJU6q1iAUtQy0Lx6Ws-Y_6PxUPsos91xPJ9BQQmDGbpvbbZpsKLKaLQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The Telegram \u003ca href=\"https://core.telegram.org/bots/telegram-login#native-sdks\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eLogin SDK\u003c/a\u003e now supports native iOS and Android apps.\u003ctg-emoji emoji-id=\"5407025283456835913\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5300930339886096923\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Only Telegram lets developers verify users’ phone numbers for free — something that’s otherwise expensive. \u003ctg-emoji emoji-id=\"5305266122256300012\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB0.png\u0026#39;)\"\u003e\u003cb\u003e🫰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5774130736839791004\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB4.png\u0026#39;)\"\u003e\u003cb\u003e🍴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Expect more apps adding “Continue with Telegram\u0026#34;! \u003ctg-emoji emoji-id=\"5866355487255039002\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-04-18T23:57:36Z",
       "edited": false,
@@ -283,7 +264,7 @@
       "date": "2026-05-14T12:38:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 855000,
+      "views": 982000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +276,19 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e$100,400\u003c/b\u003e just went to the \u003cb\u003e15 winners\u003c/b\u003e of the \u003ca href=\"https://t.me/contest/452\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTON Consensus Challenge\u003c/a\u003e. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003eThe smartest engineers on the planet — some armed with loyal AI sidekicks — helped us maximize the security of the new consensus mechanism.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/contest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTelegram contests\u003c/a\u003e offer generous prize money — and the only path to joining our engineering team.",
+      "date": "2026-05-15T18:14:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 382000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1778868373
+  "last_updated": 1778875306
 }
