@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-15T20:22:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TW5TK5Ljqiy611sm5G582g0-crRMjrsVz4uvG884ZTZd4LdRlZe0WH5zsUD4hdCrKg-8DAn6XDTD4-kCYKl8i2PWdZMJZx5YSCQZui2LbrBVBY3NqXnexZvm2mL2aIPba7hSLhxmxWmRFgHky-0XGVU0sF9RZVukI9wF27VMrmkt2BYbyiKA2utGvBg84zBSx_kN0PKc2dSw00_27nNO3cAJ-w99tsE85UnvulJA8buJgyE2krljQLRSiIf7n54OZh-s3Zab2l5n8nrZ45fmfa6F_JHTuceo0piU07_ARViI10IGHnKVh4a93ptNdLm3V-41RYpwpycFeXQKrg5VbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "گل دوم استون ویلا به این شکل رو لیز خوردن سوبوزلای رقم خورد تا یاد و خاطرات استیون جرارد زنده بشه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+SScuH-akLuk2NWU8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@GoalBad\u003c/a\u003e",
-      "date": "2026-05-15T20:41:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dAoMl6vc7P3jY_z3XO9s176iJ0tf7i34cv6E3ctR4PWi4uCn6y1APLf75B6z38bmduoUlVZl1H_4kySHF_brs-9OV1WRKNzN963XkVhrYwUymX_HeSbrP4ULPLnaGOh56Ic0ix_SN2H0EdUAat6ZXHOtf_tbmP6xHhB2Itv-5Xl3TnlcbRFREA-vxv4h97av27VRNw00dx0Gi5QbEqkkHkn8mOsqzZGfMYc2zXCcwsKKhLwVbE7Uky3C1WVfqtILcGSX-yA4sesHFfBUYWTYpzMa_ObpSQjCvVA4-_52I48lQaxZOjI_BD_eLDKnaR_cVTOmZssOime6CURqvDbx1A",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "مارکا، آاس و کوپه هر سه خبر زدن که رئال مادرید با مورینیو به توافق رسید و انتقال رسمی به زودی اعلام میشه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
       "date": "2026-05-15T20:44:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19100,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +30,7 @@
       "date": "2026-05-15T20:50:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +48,7 @@
       "date": "2026-05-15T20:52:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +60,7 @@
       "date": "2026-05-15T20:55:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +78,7 @@
       "date": "2026-05-15T20:59:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +90,7 @@
       "date": "2026-05-15T21:05:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20100,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +108,7 @@
       "date": "2026-05-15T21:12:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +126,7 @@
       "date": "2026-05-15T21:29:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23200,
+      "views": 24100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +144,7 @@
       "date": "2026-05-15T21:32:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +162,7 @@
       "date": "2026-05-15T21:37:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +184,7 @@
       "date": "2026-05-15T22:20:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +202,7 @@
       "date": "2026-05-15T22:20:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +224,7 @@
       "date": "2026-05-16T04:57:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +242,7 @@
       "date": "2026-05-16T07:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +260,7 @@
       "date": "2026-05-16T08:48:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7650,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +278,7 @@
       "date": "2026-05-16T09:46:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2009,
+      "views": 8470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +289,43 @@
           "url": "https://cdn4.telesco.pe/file/lu9xc-CDf1mIpRZtoCYrw1phCvbxC9cEny6quzJmWSeljRu4iT8HpcKuLNAvpMu2sI0cRc5pXM2G0FmZbPcBNBHJ5MrpR8rbA0-JNdzRSBry38nMCvpx7qXDmKW80yPoe5c0XBPEypfc2VL1M6mbaeHZLXQBKQ-O3tQDAZYmUJOgUOWtyoMDCorfOqaI7HdUfuFN_0nQL8wmlZyxQHiF-0oudrshIgBN-kn05e93WA7ZEolRM0351sQf7LNOtiHaOr0e3-_d-ineGXfWmhwghHtBHO4l10c-w8rX20-uNhOyraI-RvHUnv_CMci_EGotqChRMC26DBGMyknczIgurA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895764266497089295\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5352759161945867747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9499.png\u0026#39;)\"\u003e\u003cb\u003e🔙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| لیورپول تو این فصل پریمیرلیگ 51 گل خورده، آخرین باری که لیورپول این تعداد گل رو خورده بود برمیگرده به زمان جنگ جهانی اول یعنی سال 1914؛ تازه هنوز این فصل یه بازی دیگه دارن که انجام بدن!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e و هنوز با این همه آمار کصشعر آرنه اسلوت اخراج نشده\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-16T10:34:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qJfoigHhfSMjljc4I0JJ5lMdBDwgpSRBYVMGMRrZQcxJSVcJ1K2xJkOMYD1bLNCgCt8fw3mhwA0aFSCT422uHNFKFvXnW20vBS6818cShwFAZ9ZmON2GTWx2FRIqzuHTj_F6Ql2A8R59boFywEV9inUUXuhuSP-R0Z-2_Ln8dQYtl_LqoswlgFlZGLw8rdzWqFcPOX3hK1MkzsyTdx6zEOizIYakjidcZDVaEB4a1xmsD1yHELw1LyhLGYYZ7AvY4RX9YsAOXkZnbwkehTDWot0am7ZMfTXkh7zVdEvDJ42--ml8AHy4Is1HKonCUYmOFdKaRG5O1FzQx8rcjYFowg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5922237186484213732\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895311125972523822\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| النصر امشب تو فینال لیگ قهرمانان آسیا دو بازی داره و رونالدو میتونه اولین جام خودش با النصر رو با قهرمانی تو آسیا کسب کنه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-16T10:43:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sjy9mJsjpq5T8vfPRC3qXHLPz_6kphRCptJCFI453i6-28iPpd9kwKZgsRES4X2e-4-UMxe1CvG9uOyOAor1gsQfwmKGWMOOXiAe16z1TIjySYXsG36KlzE2x5DrHWxn1Z-siIR58GvcSvCi15LPEIWa0rO9Rg4n1E3UhAtXGX8qgp5oUl3OGREDXWZZhxqfRHWM8gk2PDfVaSn2DVeERr0tqN4noSg6b7C7LtGYmZFmjyNabo97wkJkw8KZN_VCYZvP8ierhKNeQqQbSLgwMqZuur-U3MQbRZ4XIeRKKIuYmmR3PZWnsamOJAj-USuR0YEJD1p4L4l_-Cpfeo95KA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778925439
+  "last_updated": 1778929453
 }
