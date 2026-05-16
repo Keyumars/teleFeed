@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4958479549265347295\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآموزش استفاده از کلاینت شیر و خورشید:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5969869005157046586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eحالت پروکسی‌رو خاموش کنید\u003cbr/\u003eپروتکل فرانتینگ CDN\u003cbr/\u003e\u003cbr/\u003eمیزبان sni\u003cbr/\u003e\u003ca href=\"http://pypi.org/\" target=\"_blank\" rel=\"noopener\"\u003epypi.org\u003c/a\u003e\u003cbr/\u003e\u0026amp;\u003cbr/\u003e\u003ca href=\"http://a248.e.akamai.net/\" target=\"_blank\" rel=\"noopener\"\u003ea248.e.akamai.net\u003c/a\u003e\u003cbr/\u003eایپی cdn\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"http://92.122.123.128/\" target=\"_blank\" rel=\"noopener\"\u003e92.122.123.128\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.87/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.87\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.137/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.137\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.144/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.144\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.145/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.145\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.170/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.170\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.184/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.184\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.185/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.185\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.202/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.202\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.19.204.210/\" target=\"_blank\" rel=\"noopener\"\u003e2.19.204.210\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.4/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.4\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.9/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.9\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.12/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.12\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.13/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.13\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.15/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.15\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.17/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.17\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.20/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.20\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.22/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.22\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.23/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.23\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.32/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.32\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.36/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.36\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.37/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.37\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.39/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.39\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.47/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.47\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.51/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.51\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.53/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.53\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.54/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.54\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.58/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.58\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.60/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.60\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.62/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.62\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.135/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.135\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.138/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.138\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.139/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.139\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.141/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.141\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.142/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.142\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.143/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.143\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.144/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.144\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.146/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.146\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.149/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.149\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.150/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.150\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.151/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.151\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.152/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.152\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.153/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.153\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.154/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.154\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.155/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.155\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.156/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.156\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.157/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.157\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.158/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.158\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.159/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.159\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.161/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.161\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.162/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.162\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.163/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.163\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.164/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.164\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.168/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.168\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.169/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.169\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.170/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.170\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.171/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.171\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.173/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.173\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.175/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.175\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.179/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.179\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.181/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.181\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.182/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.182\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.183/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.183\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.184/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.184\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.185/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.185\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.186/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.186\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.188/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.188\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.189/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.189\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.190/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.190\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.191/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.191\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.193/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.193\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.194/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.194\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://2.22.151.195/\" target=\"_blank\" rel=\"noopener\"\u003e2.22.151.195\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-15T14:34:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/s1DlEaInI0T05__omJFBUVPMjf8pP05bJ3z0NP6FDcckhUbLb8nNAs6IygMm2It0DrPyrE0a72Iz2jYIn7GoTY3I8OzIjqrEdp-f76kU2IvH7Hkfi10QQG4OeyQYKe4DR-K6wUjRkucNTQo6fb5es11c_HPsopTyz8igUfBbNumKBeDlscg93njOZ-cjex4ZWOtrU9wAQoMAMf3qCSNT4RsV8YHFY663GIkKxFG9VN1E1dcoM10o1DCfnlMlxL2dXO8wq-GDpS-y8Ouqh-RLKdxDHQVpHEab9yn6VmAt0M4nEb34HNRaNEWRCuwx85mM6kQ4Vy7DYwl-nVoXFt_loA",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5086868753241605747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eروزنامه اعتماد آنلاین: \u003cbr/\u003eاینترنت بین الملل خرداد ماه وصل میشه.\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-15T14:35:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
       "message": "\u003ca href=\"tg://proxy?server=91.98.231.23\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003etg://proxy?server=91.98.231.23\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"tg://proxy?server=77.42.123.21\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003etg://proxy?server=77.42.123.21\u0026amp;port=443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/b\u003e\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-05-15T14:40:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +24,7 @@
       "date": "2026-05-15T14:42:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 34000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +36,7 @@
       "date": "2026-05-15T14:56:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43300,
+      "views": 44400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +48,7 @@
       "date": "2026-05-15T17:07:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39000,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +60,7 @@
       "date": "2026-05-15T17:56:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38700,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +72,7 @@
       "date": "2026-05-15T18:43:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38200,
+      "views": 39700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +84,7 @@
       "date": "2026-05-15T18:48:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39100,
+      "views": 40600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +96,7 @@
       "date": "2026-05-15T19:53:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36500,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +108,7 @@
       "date": "2026-05-15T19:55:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +120,7 @@
       "date": "2026-05-16T07:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,37 +132,7 @@
       "date": "2026-05-16T07:23:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4979249740525864097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A4.png\u0026#39;)\"\u003e\u003cb\u003e😤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eدنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!\u003c/b\u003e\u003ctg-emoji emoji-id=\"5017122105011995219\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدربی بت همون انتخاب  100%\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4999002445444023072\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویژگی های سایت جهانی Derby Bet:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eامکان شارژ امن با کارت بانکی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eواریز اول دوبل شارژ می شوید(بونوس۱۰۰٪)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپر اپشن ترین سایت فعال در ایران\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب کمتر از 5 دقیقه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرگشت بخشی از باخت به صورت هفتگی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5819188770590693944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکد هدیه ثبت نام:\u003cb\u003eGG007\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/derbybetm/18554\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبرای دانلود اپلکیشن کلیک کنید\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5458603043203327669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال دربی بت :r26\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190758295530397672\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+kpFvLD9kaeJhYTI0\u003c/a\u003e",
-      "date": "2026-05-16T07:35:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JQl3dAzsnH800N5BT0BMIOdc16d5ykVYUkXfKF5d67BuXaigRSGJM4qSP5Nv7c8BdbHw57Ytfbcsib0X05I5WN62ybkNnnG2kbFXzVG71BpG3Hqhw3kyd4gBGGfc_1W2P0VQQw8Ep-RofHai8Y1w4-tzKq-JhqVR2BgRFaMSYuuJ23Ay4_S8clrm_EcIQtzJCXmq9EiY57OSw26WbUCyFHEbwtz6GMeG6H3Na8WIYrPMLPMxGJNSrdc-R5gPXNaxN8D-mo-wk6CC67n0_oCGedN0yMtcffb2vp7MmbTptEx_0FKYFVkL55B4CZqb638SCNmq9lc1bxyMzcX0y-RWqA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5818928263644322035\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاپلیکیشن اندروید سایت جهانی دربی بت\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5818941887280584008\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین سایت جهانی با امکان شارژ و برداشت ریالی(کارت به کارت)\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برای ورود فیلترشکن روی کشور مناسب قرار دهید مانند فنلاند و المان و....\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4956499161319998529\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9880.png\u0026#39;)\"\u003e\u003cb\u003e😀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eTelegram Channel\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+kpFvLD9kaeJhYTI0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+kpFvLD9kaeJhYTI0\u003c/a\u003e",
-      "date": "2026-05-16T07:35:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +144,7 @@
       "date": "2026-05-16T08:01:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +156,7 @@
       "date": "2026-05-16T08:30:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +168,7 @@
       "date": "2026-05-16T09:05:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +180,7 @@
       "date": "2026-05-16T12:56:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,12 +192,78 @@
       "date": "2026-05-16T13:25:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "با هر ۱ گیگ VPN تو اینستاگرام چیکار میشه کرد؟\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"tg://proxy?server=62.238.0.202\u0026amp;port=4455\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=62.238.0.202\u0026amp;port=4455\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-16T14:13:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sZ9jfPFxiUhf9lQex0MqGxtgAkG0Azd3xU6q3gfZuTeMRgGVyZVZIyaiJSEkZypp1VMV-xgiSnwDCAjBwgba2sA9oPmnd6w0Fv7Bgz2vdaXq45a-gGtm3IHljUPxQtV7itdPFOFGLTwE5nvVd6zF3uSXKyfh_79jlS_j-MklBC2TZ4tII9JHNBe8RullCXyoKMsIFYQmm8EcJA0uCW9eRPJDqPKFzovv0wW_WJMxuI-jAbbR-EIR7R5qBIUpGeTKkWzUHZN9QIDGoa8Vqmuw5RnqR_gGwcgA3GsKS8t3mn9YBOgCmlx54yxYFBB2X56UdKe813xtCTLUogNytNX8kA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5938104410583342681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C96.png\u0026#39;)\"\u003e\u003cb\u003e✖️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سایت بین المللی \u003cb\u003ebet120x\u003c/b\u003e \u003ctg-emoji emoji-id=\"5938104410583342681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C96.png\u0026#39;)\"\u003e\u003cb\u003e✖️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدارای مجوز رسمی Gambling Judge سوئد\u003ctg-emoji emoji-id=\"5127470543674540818\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e     \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5891156273394617658\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشارژ حساب از طریق ارز و \u003cb\u003eیووچر\u003c/b\u003e و پرمیوم ووچر\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5890793481802091729\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب دلاری سریع\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928A.png\u0026#39;)\"\u003e\u003cb\u003e💊\u003c/b\u003e\u003c/i\u003eبیمه شرط میکس\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5938261726645457141\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفروش شرط\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5936293824170038169\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9494.png\u0026#39;)\"\u003e\u003cb\u003e🔔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویرایش شرط                    \u003ctg-emoji emoji-id=\"5870919353863508211\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5868638434171557858\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e20%هدیه واریز از طریق ارز و ووچر\u003cbr/\u003e┅━━━━━━━━━━━\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10%برگشت باخت به صورت روزانه \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10%برگشت باخت به صورت هفتگی \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e10%برگشت باخت به صورت ماهانه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972055534352733289\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eادرس ورود به سایت:\u003cbr/\u003e\u003ca href=\"https://bet120x.com/fa/?btag=971470\" target=\"_blank\" rel=\"noopener\"\u003ehttps://bet120x.com/fa/?btag=971470\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e   \u003ctg-emoji emoji-id=\"5416113713428057601\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9188.png\u0026#39;)\"\u003e\u003cb\u003e👈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://help120x.xyz/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش واریز و برداشت دلاری\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5888541136527560112\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94AA.png\u0026#39;)\"\u003e\u003cb\u003e🔪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال اطلاع رسانی:\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e g26\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852830669599674051\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+RvVnWMHCqUc4YzFk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+RvVnWMHCqUc4YzFk\u003c/a\u003e",
+      "date": "2026-05-16T14:25:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eT8hewrfeCe8OGaTHYceHV8WLVuXK9xbQ6n1Bw-VMQiZcDhtP1YvMzNAGgyKZrKLn6KoqWCj509R_sBznFa_0A0ILxXJIiw5SzGp3zHeXcLFDDwzq_KQ7G5VlnjZPthiHVTd-VgkD1if1hQQiNvxqIEH9aBSOIElS6MisgH7iXBS3dK2MQvN7j7QSHdARxA-WzuOEuwspuGH5I3Ktxi7C_gs6zY6GdWJs85dEIboT7yVJGOTWN_YaLK9qMGQTmDLm8hHnFaUyH6TJmKVhYrGWkw0ZbY71US0kiihnZOAurMYjvxFjMfIVMCOCd6ZS5Em29KwoEXN0BGcynEMi4IJlA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5859637724612399613\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eآیپی فیلتر شکن شما نباید روی کشورهای  انگلستان ، فرانسه و هلند و اسپانیا و پرتغال و ایتالیا و ...باشد تا به راحتی وارد شوید\u003ctg-emoji emoji-id=\"5352625743081775722\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9A.png\u0026#39;)\"\u003e\u003cb\u003e🎚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-05-16T14:25:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
+    },
+    {
+      "id": 0,
+      "message": "عاقبت مجازی کردن مدارس و مهد‌کودک‌ها :\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ca href=\"https://t.me/proxy?server=95.216.222.63\u0026amp;port=443\u0026amp;secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=95.216.222.63\u0026amp;port=443\u0026amp;secret=ee85f51151981bd69a6281f9e85395161a676f6f676c65617069732e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=178.105.141.172\u0026amp;port=443\u0026amp;secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=178.105.141.172\u0026amp;port=443\u0026amp;secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-05-16T15:01:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z-W6P-On_3PF-FaGOBzGuIqGVVL8ktAU7f9W-BSIjhVppQoUlx60Pn3fnEbjC854f9fTHT73OCH7tKnBe-ayS3YN7n1Ec_BBbehTTZxK4k2yHZr4DfMchoKUV8w7dkoD8Gyc9w0pfE46X-V0N2Bzp5tpqrzJI5xtx0gy_8fbL7uKXjsn92w46AW20OzHh3EeUUXe1uEiqYN-cudy0KTKOI4XBU7qjbIQa_dgQW0MjJ9veh_bIDGbRrzeD1X3P12cF7Jk6uWBk00GR_AopgIxz9yFPwDHDfYguZ6ZdpxjwjHalodnaHs2uPPT-HBxWI7EMgICWKus6EWCnK15qPtDiQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778940376
+  "last_updated": 1778945719
 }
