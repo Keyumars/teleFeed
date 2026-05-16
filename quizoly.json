@@ -260,7 +260,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MY8r2PjhLO5j0HEkm_LsCjFvdkyMp2Lhh_mcBIJbQvVYkeNtA1R0OUQZsTflJ4s7Fmj5yitqRQAqb9qqQJCftwpR1o70DDG7YZRySxwR0gSWqTP1WVHF7sVNIVSRZLPZl9VSA9CmiCtWkskwUWvWH2hO6Ri1byNnKjhgb7ugRevkXuJsN_bVJiHH_pVpdwQlbaA3gBDKY7f1lgXFh0nN4US-H-O9dzePkdXS7QH7vrOcqJ_rqHs_gpJgirJuzXa8T4tl-BqZqhtACLOdZdmILX5__ZogtWkpjkC2shIjVkeJ_W0ajXNG2x34WZZggZx3yOMpWZYY22CNZtTNYkzoDg",
+          "url": "https://cdn4.telesco.pe/file/pRz0cbGslIJTjzpZ03ueZ0ccqspRKwvRi1zjTTZNwgbxLW0O0kf4zlco3vF38le0wOSwSthO_FqKFliH0UqakimuCCx0dcVbwRNZLIRzaLWm7OQ__j6KL07HXLWJySBf22xY_U_8lsctS-u8MZfJa26_VkhJ6ej232s1RHDwV3YAXT7WH6kmWGMNxxoB_J5t8kk8NBQt2CW9I6UZWwww4G8xZeBHtEYUos2nhlZl176o-tgBrrEljU0VAy5vnaXv6mlQfi0X5fh0CVkCQIhkG7wHXCDyuxJRBz_rUdYoUzl_0KGUbiWU4bAAsNSbvCBnw7TcvVIcUUZbyDXLMOKkzg",
           "width": 720
         }
       ]
@@ -302,5 +302,5 @@
       "sender_name": "Quizoly"
     }
   ],
-  "last_updated": 1778962277
+  "last_updated": 1778965911
 }
