@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5368662034273546775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Historical_Meme\" target=\"_blank\"\u003e@Historical_Meme\u003c/a\u003e",
-      "date": "2026-05-16T17:48:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تاریخ میم 📜",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EeRzDBm41yoxy-pGRUxNg6GAIWAZgEZ7kUAb9l9RUVWZ3IVkI5B-9PGBwKytRSJV4pQRHvzp3GOshKbfptTAyW04f9wqntU0FeIFI2DiXKBc3UeHKKwuwz_WXJ70W9Dh7Lx5nU3U8V8eQqbWJgPnIkcvkmQQ2BtPLpXhvrldU2PFY_2aBp_XRvxeazBHvZHegZ5cIzvdHN6oqCcDbk8Pknf8cXX2pIIjIzYAzCIo8OqhkLhUmr7l-Y5VYNxWJA8EUrwG8thXmhY-2_artOGNktTkd0-su1OEsgJwyHCE4hNJMUU5_lTDTIgDygBswHaekfT5IhRsnhd8adeeOvobeA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "نه خوشم اومد حسابی داره تمرین میکنه و بهتر میشه.\u003cbr/\u003eهم چیزی که اون گفت عالی بود هم جوابش.",
       "date": "2026-05-16T18:28:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
+      "views": 2150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +24,7 @@
       "date": "2026-05-16T18:57:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 2260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-05-16T20:10:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 2230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gll7gwOhuPPUSJvTkU2bJCAvl1XgIC3aNfzrh5KIZOV2Kxv1uxr5YUtPupuN07vTV06pVIb63SkBX3_5jhyZXczZ7AHrxqETi69M8ORR2g7QrYghOfd4HndZDqYNWCHHTTZiTo_e5k2LDtFgLoU0k8aXvwnEDnsosQdDO6YB6Pchj3nk2yp0kOlrh9kBH-PaaMPidalIV44QTibQZcdkvhHcadKlYbGzCKFGVtJoJOYoSHWacF6dywNZUzV_QBlppW35kuLanS9PPiE2gBSACKLMK1Ax4AbG3Bdu3koSp7Iayh78sBYolE2PFJgRKlE9A0KXxWtd8aDx4z599BPA7Q",
+          "url": "https://cdn4.telesco.pe/file/WdIIqQ8xxzpdxL-htoPFpTafXPZK-4kXUBqgNksHpt1olgREqIuMpjRCUmP02Vq3d6n5j3lMOn_NAUedduLEGxI13Tpygq45v9pEuY108FoxVk2nBut3nWrfQcFWW_Jcgjgtpt0raPh23TszVjWHljjLOx7Io9SaEhzNUzy1dp9QAuQKm6q3tpcQGsLn0yc9L3YFUaPOoIfaVtki-y2UyVzyZiO5thPQ0m0D91TtyA8_hfxGAJEHknc8Mwc7hIi-PZljb8Rz_7Pnrq5QtmjS_fc2EpOzb0JSP3uFvVE7tNfFD6pp10o5TDkAwNowkfpJEckSnXPm34ufmherRcYqIg",
           "width": 480
         }
       ]
@@ -79,7 +61,7 @@
       "date": "2026-05-16T20:19:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
+      "views": 2200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-05-16T20:56:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 2270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +91,7 @@
       "date": "2026-05-16T20:59:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2260,
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +103,7 @@
       "date": "2026-05-17T04:20:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
+      "views": 2140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +115,7 @@
       "date": "2026-05-17T06:50:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
+      "views": 2000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +127,7 @@
       "date": "2026-05-17T08:10:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 1940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +145,7 @@
       "date": "2026-05-17T09:00:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1900,
+      "views": 1930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +157,7 @@
       "date": "2026-05-17T09:11:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1890,
+      "views": 1920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +169,7 @@
       "date": "2026-05-17T11:04:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1680,
+      "views": 1720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-05-17T14:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-05-17T15:26:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1190,
+      "views": 1260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +224,7 @@
       "date": "2026-05-17T15:40:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1180,
+      "views": 1260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-05-17T15:55:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +258,7 @@
       "date": "2026-05-17T16:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,12 +276,30 @@
       "date": "2026-05-17T16:58:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 863,
+      "views": 991,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "تاریخ میم 📜"
+    },
+    {
+      "id": 0,
+      "message": "میدونید آدمهای فنی معمولا مجبورند به جزئیات بپردازند چون میدانند اگر از جزئیات بگذرند، جزئیات از اونها نمیگذرد و از اینرو کمتر مطلق حرف میزنند. کلمات را راحت خرج نمیکنند. یک آدم فنی با همین نوع دیدگاه اینو میگفت: \u0026#34;شاید دچار آسیب شویم، اما در نهایت ترامپ به هدف نهایی‌اش نخواهد رسید\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Exciton_missile_program\" target=\"_blank\"\u003e\u003cb\u003e@Exciton_missile_program\u003c/b\u003e\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-17T20:13:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تاریخ میم 📜",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gqXPOIiiXSpishh6uEjbn_Hiz5d6cn9maYUXzvmaJGYEfMVItgeQOjiC60hz0gmiBFUjpQqxzlZ5qm_cTvcx15JMjX3BVRl5hRTB6mSpCS2cII0PXMzqe58mqZ9Fb0rIEhDfOD8E95nLKxsxoKqgnW5hxj-sbIL2Pf5HIZio1WMuDjy88yRIAHthUaAK75vcLP44vHX-UZarc-xi7VWBYQgJuOMS5ZSBw8EehC1C2zdmvPFcbwmHcG7TQ-3Cae75dDLuNBQOyFca1s4Os3hU6foqRSCYq2YVVsVQFA1aEEV3UdpBaksKUXnJ3eTzY8J9cH7_8OA9DKSXS1bh1UzbfA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779045528
+  "last_updated": 1779048852
 }
