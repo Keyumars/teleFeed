@@ -8,30 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5202132623060640759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Macron’s France is losing legitimacy as it weaponizes criminal investigations to \u003cb\u003esuppress free speech\u003c/b\u003e and \u003cb\u003eprivacy\u003c/b\u003e. The U.S. Department of Justice \u003ca href=\"https://www.cnbc.com/2026/04/18/justice-department-france-probe-exlon-musk-x.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ehas refused\u003c/a\u003e to assist France in its investigation of Elon Musk, calling the case \u003cb\u003epolitically motivated\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5359441070201513074\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The French prosecutor’s office claims to be independent, but that is untrue: French prosecutors are hired, fired, and promoted by the government. The judicial police — who provide often misleading reports to investigative judges — are also controlled by the government.\u003cbr/\u003e\u003cbr/\u003eI’m under a \u003ca href=\"https://t.me/durov/447\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003esimilar investigation\u003c/a\u003e in France: over a dozen charges, each carrying up to 10 years in prison. Proud to stand alongside Elon Musk and others targeted by Macron\u0026#39;s campaign against digital rights. In Macron’s France, being investigated is the new \u003ci\u003eLégion d’honneur\u003c/i\u003e.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E96.png\u0026#39;)\"\u003e\u003cb\u003e🎖\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-04-20T00:01:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
-      "message": "This is how the EU/UK now regulates social media: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA490.png\u0026#39;)\"\u003e\u003cb\u003e🤐\u003c/b\u003e\u003c/i\u003e Offer CEOs secret deals to censor dissent. \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e If they refuse, open criminal cases against them.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5389048448731328224\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9891.png\u0026#39;)\"\u003e\u003cb\u003e😑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e When people push back, say it\u0026#39;s \u0026#34;all for the children\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e\u0026#34;Protecting children\u0026#34; has become the standard legal/PR cover. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-04-20T16:25:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "France\u0026#39;s \u0026#34;Agency for Secure Documents\u0026#34; was hacked. Names, addresses, emails, and phone numbers of \u003cb\u003e19 million people\u003c/b\u003e — leaked from a single government database.\u003cbr/\u003e\u003cbr/\u003eFuture leaks will be even more catastrophic if the French government gets what it wants: \u003cb\u003eaccess to encrypted chats\u003c/b\u003e and \u003cb\u003eDigital IDs\u003c/b\u003e of social media users.",
       "date": "2026-04-20T22:55:10Z",
       "edited": false,
@@ -153,7 +129,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lR0N6HVzdOQ3ail2omZ6hmeoVx9aIPvtEsvUObULpP_hButfmjmXUvIbaL7DS-MIx_ZlM6PrYo-OnD5ptgTwmjhanDEchFAVv19tlrjAafjiVYbabS4xCTf8jMGhMqxN1_3H50JVbsvqt_5vgHx7D25grT8g0Cy4nfKthWnuxbLblW-pV33ii9JFiSalVUINyOGnrW1GLHvl9Nl3VPdpF_JVheewNtk0z1pLFTSxhquyigfBuMXOHj58p2smz5pnItVkm9JRLiLW_zZ8CPQcpekvsAvWadwZ6qchWRibhUi2FxXSisV7AT_gHV4GReaXJrSE99jABKeoopLPSLgzGg.jpg"
+          "url": "https://cdn4.telesco.pe/file/le7V8lxururW72u0FT-EG3CX-8SLJbo7pbIOK4rA1eDQXfwqvQYx0O4wldEx-bUx5jr9Y2q1hgFoFMGFV_5y1BsBwN3ZWHHIlRorwmY2n9MA-2tdAxW-6N7aQsb8xsAD_aQOv4J2a6GGyGPKJ0_Q83BADDlSSbr4Paapx6RTXPVc2xvfniAivzqrBWvhMkCP5t4eSTyGBylkUrXqIis052LydP7zYJzhE6t8UDP64nvXaGSC20MWUUQxPbLnJYcTl4KB8gJ-NdzIrNf4DQyBjBM8WrcBSrv3gVHUGFRzxdG4GGYHfgkjhgQbqgBg-IP2cNva76fEqKtveL7gjjXMPQ.jpg"
         }
       ]
     },
@@ -276,12 +252,43 @@
       "date": "2026-05-16T13:57:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 861000,
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We just awarded \u003cb\u003e$52,420\u003c/b\u003e to the winners of the Telegram \u003ca href=\"https://t.me/contest/453\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eArt Contest\u003c/a\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431456208487716895\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The participants did an amazing job with the MiniDurov collectibles.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5471952986970267163\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Their skills and ideas will enrich Telegram’s TON-based NFT ecosystem.",
+      "date": "2026-05-17T14:44:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 518000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ZzSjjbQ0Y5q-k0KW3DBuY0GrCxbpvHvI8sm0hcyPlRf1GAKYBSE4q2JPxMiUplWvl6lJ_9O0ZS7-QbJuUDLEOdPjw_kzUJaiTEzMG1843wTta-uiSW3RCeBUj0Okjx_b8Ni-TQalf3npIPd6ohiYfiway3nv1deM8pZytJQxRR4daJeAulRl9tf1z-xgAKU803IncG_bCI_5VZ4bdtHVppS0QhY8hGFG5zTGnwRN1RyXenMzGkrk2vgTuAyfJHfVi8l-zvW8_q-SH1CbD29-4S2hpqawSXj69GCRqeYMXmDUWAIzqi3wXJ-yRKq5Sai3hh1ZkNyX6q4Kkjxs3BosKQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399847211989246390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-05-17T14:55:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 490000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1779026775
+  "last_updated": 1779032335
 }
