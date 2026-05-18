@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "France\u0026#39;s \u0026#34;Agency for Secure Documents\u0026#34; was hacked. Names, addresses, emails, and phone numbers of \u003cb\u003e19 million people\u003c/b\u003e — leaked from a single government database.\u003cbr/\u003e\u003cbr/\u003eFuture leaks will be even more catastrophic if the French government gets what it wants: \u003cb\u003eaccess to encrypted chats\u003c/b\u003e and \u003cb\u003eDigital IDs\u003c/b\u003e of social media users.",
-      "date": "2026-04-20T22:55:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "The apartment in Russia where I lived 20 years ago received a summons for “Suspect P. V. Durov”. \u003cbr/\u003e\u003cbr/\u003eThey must be suspecting me of defending Articles 29 and 23 of the Russian Constitution — which guarantee freedom of speech and the right to private correspondence. \u003cbr/\u003e\u003cbr/\u003eProud to be guilty! \u003ctg-emoji emoji-id=\"5384214488809490070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-04-22T17:06:37Z",
       "edited": false,
@@ -129,7 +117,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/le7V8lxururW72u0FT-EG3CX-8SLJbo7pbIOK4rA1eDQXfwqvQYx0O4wldEx-bUx5jr9Y2q1hgFoFMGFV_5y1BsBwN3ZWHHIlRorwmY2n9MA-2tdAxW-6N7aQsb8xsAD_aQOv4J2a6GGyGPKJ0_Q83BADDlSSbr4Paapx6RTXPVc2xvfniAivzqrBWvhMkCP5t4eSTyGBylkUrXqIis052LydP7zYJzhE6t8UDP64nvXaGSC20MWUUQxPbLnJYcTl4KB8gJ-NdzIrNf4DQyBjBM8WrcBSrv3gVHUGFRzxdG4GGYHfgkjhgQbqgBg-IP2cNva76fEqKtveL7gjjXMPQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/gPRuDlOclP9-8JC-4VViXZnhclSo0ZJCw2ob-asT9qExLNnBephwVgZGOh2U3Hr5J27QSr32IN5diOEK8S7ARLlPniMdEjDUZqGOqxlCJQV_sJ2nQamxO7alUyMXtV0kClCrLAT5XvDj7fHM2R4qfAaMr2iz62X-ObKIij2hbXVN158HmmWAi0u-fdStwJ2wUZgbaeYYwlodUVE4YVyL43wsEgF1vnwzf5JyvYsYhEjtHL4mpGrI-GnqAk0se-6_-zmlITo3L1qUEtaQyKjsJ__D7Ol-2jQIgTl3l2wOwxU_A2X9YFNLSy3x2kdlemaeAWbw9D_aUxas8at_0x_BUA.jpg"
         }
       ]
     },
@@ -177,7 +165,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nhx3ys54i-vcdgVZjiFSfkj5EMa-Mw774WZCE-f89PDQs2iSx8juyJetyNqEsl_HVModbv2bp3DnCR25IbjrFnCnRYTdVDL_ssceSH1n44G8l_ohNu8A4Mmhk2axyyR1DtKz7fm0QBwcRBimd0vNR47d3uUVZn7Di1_LgEFutT9suHdE1Nn5t9Mfnm0Mv9Waqbkq0JU82IViy96bov665PW8IeQ3zWMgfHqwmVtSjMkat572ozyQcKkQDj3vJ4y5WzaIdSsvs2ni8be9_WmxujF05sVKLVMzM3e3MJ7T1aOs0jE3Vi9KlW7HvgorZODaXnyfES6g8dOr68Jjw-Ih4Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/XeQMZZOrT3mO0h-e33EAYS36WylX51AiU1ek98ocs8VRGNMKLW86CuXWTdG8IoexFiVU_Zci4fvn9A3BJYlTjkVvoFGeoP1IKmrtLk9651xOhIGsa5xD8GtB3rlhflK2u2KyXQUjIjU0HdjJ3uVSxv6I76ONQrGhgSMSXdO1vmNbTYV4pNKC8iPsORw1mUS8ftzQrJ77nyKe6bY_2wd_5fP9qvLV9ATaIzyJ1Z7fQ2HFhFixhQ5Gj56dZzriTAIFn6q0HJW_F61zAKlPjCesNlUsyBdlUeQ9bPNlZmkiHEHpXyQhl12I8Zb6G7zDrJgwd5TB3FQvvsznKDiEPVKqkw.jpg"
         }
       ]
     },
@@ -207,11 +195,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gvR9JQjM9F_IngQ-fEPm1NJunvU1s071BiGZyMmC8EPCMbOfdEcTCoo9K8DyRp_w3wMIXaluh3Ji9xOcBPRwOFbGdf4y1XFPsHsgS0ye92jiLWU8DnnpVzJwHbJTdGusf9TlK0TEHyGodpV-V9Gl1rH-c-7vgM89PsbIZj0dU-O5CmXhh2G_Gwlt_e3gSkFqktgUdQHJ1uz3QhWBcb9Mni6Mf1eQbrBk5HlO5d_7FMEvQDY_v_AqFMGUmYCITItxa0eQeZJ0jZeCTXRlnPV67WDXdFeYlqwtBZiAAfOmxzEEs4utRe5hk-P5_OuPu8wI7tmLdidvJKP4HLq7sXm9BA.jpg"
+          "url": "https://cdn4.telesco.pe/file/juzXY9MG8A1ZyuZhEvm6kWDoIo-1QtyiootBzpBMjANa89hGDEUUQwuEuTSLwK1B0_jllb7ukPPKbiIe0l7IFUnyw4uTsLvURvJUQZyBbSDy5vOhHcWDgaqmuW1xchPYjUmZ4LlDfdkQCwJrHP_nJ4_BnREP5xXqfAkoCL_ucZfpoWgpjCaYKrjhkMTYRy_RqaEgBvF3eEdTZZrnBkAQuX99UFZglWnkATZkOPvINv_iTM_SvLwouc7YWZp9ikCvw0edJxD1IMAhReg-F4wmp9U4OMI3tjXygBFQh2hDcIGnSOqZfpwFS9FqbFZ8SRSECOqj5zLfRUk0efqK3eENxg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FEmhWfYEVR0shxka7r_xXyBUDkvMwB69meP5_8THEY1c3kSuqpoZfNPj1aEsAzrgOJ_SHOC2HNYPIv--WN8klIquVrP3Tb2t4BxR0Ip3qjRAoDpb796LEv5Cf_-79-qsP7MITU5nScWYz8VvFJwjeeHzkBjgswIjf0LBVYMVxH6t0y7VybvPQPdaySwLZSJNW_rsJpY6QyAaAfiHTX4xv4e0CFIYjWHs144byX0d5ox6ajhNwOK01vqqcMpdg_hqJVjW_wpGVkiCKk-gicZ4E1pUWSWgk0wx1bvhz_6AyA27tumEPIuIlhuylXOjwSh78EFepZ_CVJPn4a7F1H1h1g.jpg"
+          "url": "https://cdn4.telesco.pe/file/KMbE3PWPG5s-b9yqSF7hyzo9UU5zZlTEVkuBx0vh_B70r0qehf2K8qa1eDi2vEYUUh4qdYeB6t8NUHXNCAllWqR7528UpX2GsZF12jBA3xKZOmeMbKy15xXEFd_o7hQAEdVnIi0vSIgsW3sqAaQ9LEvp1wS2itsiVuxXHitMx4t38b1Ep3lTCgMzW9YQmh-tjnAPLN08cg7EoDC9_-Glul2ehgtRuw873Kw6Ec4jeLK88DAaXdDBmMD-w_T_neL5aEaWeACRtqL1jfeEehSc2gLDas-A5c_WmkKSpNCOkaZewmHvyfKOSOR363x2qP-8TnKB9aIaPvsgt4j-6mKYJQ.jpg"
         }
       ]
     },
@@ -272,7 +260,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZzSjjbQ0Y5q-k0KW3DBuY0GrCxbpvHvI8sm0hcyPlRf1GAKYBSE4q2JPxMiUplWvl6lJ_9O0ZS7-QbJuUDLEOdPjw_kzUJaiTEzMG1843wTta-uiSW3RCeBUj0Okjx_b8Ni-TQalf3npIPd6ohiYfiway3nv1deM8pZytJQxRR4daJeAulRl9tf1z-xgAKU803IncG_bCI_5VZ4bdtHVppS0QhY8hGFG5zTGnwRN1RyXenMzGkrk2vgTuAyfJHfVi8l-zvW8_q-SH1CbD29-4S2hpqawSXj69GCRqeYMXmDUWAIzqi3wXJ-yRKq5Sai3hh1ZkNyX6q4Kkjxs3BosKQ",
+          "url": "https://cdn4.telesco.pe/file/FEsTm7ez91MULy31u2jXwolwwKE5nTsEIFPXMukLqKZnj6BTCbkmO2fvLhoKWk2Nttat8QAC779qtfNe2Lxlr4VI-_Xg0gG2cK2SmI0-Hz3dfvDYmnH3bgX10aXWzkcEoEzjlMTSZhoNeV_sBQcz-zFGHJrOwMNe13lxdtx9jQbWVXr-XJs3wDxHB8U6ZpLDjgEWR2wO82p_zKjuI7ly9cMT3rKRbHjDCGeSSNG8z9UWsC2ADyzdnV-bR43pvEg8SWwm0lbvzwF95ALA3ifAsQBXDh7e0UI8cJ8NTkCZjYVtXNzp78xRUDL3mAODfTucnppGPzLqmIWRTbSbRNE3Cw",
           "width": 1280
         }
       ]
@@ -288,7 +276,26 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5927026418616636353\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e AI devs asked for this — and we delivered.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Bots can now talk to other bots on Telegram.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Autonomous agents now have a communication layer humans can follow.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://core.telegram.org/bots/features#bot-to-bot-communication\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eStart building\u003c/a\u003e!",
+      "date": "2026-05-18T14:56:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 414000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lgq3bf1_KUoz54SJrDnqPhQzJ8BGqmaXwz1c7yaL1CtiRSAwExB_ZBujbznT-yjnvr-Xoim3KTfrgnv6yGT8VOsoqy28Qc2NnqATRb4obUI1dyvBK_XHE7bf07ppvj0N0CsPER4EQxHrUOKbsJ1jo3CFiydeJKCbunNU7ZZ_x6IVGrqwrHmZ6ACnpXIYrB8DpVnWiXAnwYY-DiEV1mwqaDaiHzeRyJbDa5LhzuWckBtHpelkrFO4111MqlfMRtRi63u1vxFh3W5Oep-dFBYuRZxvnok0ZmjBJEYr9XsScJrfXm20M_3bEfJdJmCZt8v0eKvJjYqNAkiKShPmjm3CPA",
+          "width": 1072
+        }
+      ]
     }
   ],
-  "last_updated": 1779113293
+  "last_updated": 1779124730
 }
