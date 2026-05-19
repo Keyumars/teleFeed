@@ -188,7 +188,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qfYdf8aYY9j9y9Ud6pvEO1SjZNOOVVpR1KyI98943UQ8ROr54xx3qTH6FabDoaKAFypQPFthSGuWy9F7oi5WMOC1Hm1Mv3HBCZf47yPCMYaAzIvlzeXexcCDVjpygsETs8rGBFUJDKVoXbSPHk7SE7d46LLV2EIeu0pl-gMhTpdTSWgNmQIpG_G2p2lJmtVh68KxuGCek6S8e4jqLjya75n3gesx6c7LV69kpdctpsNfbz-ichbzZDRLOM9bUMkatTGGhKq2jrIGE_cXQZjnQNV8SNGI3ejzO9ytEpzLRJ4-UrFZvoBzT6uzW3raSs_-uzPRZzdiiPyoZDMBa0LBpg",
+          "url": "https://cdn4.telesco.pe/file/dJ_a8zqkSdWkWu_lH6VCpdEdKv_s8zbrtdMi5GAAM5kWrExGc0TZ0g16vD0xiTFzIZ-KW6dn5vdFQ42YiSv_tOc2A4icfT-AGkyWwtaEP0Ap5w-1FkP-aXDS8xLXyWgfxDhdA1HPw_YQYnqAAKctJ8zurbAQKtShZhgSk34JdzZzbBh52ZnAEeSCnihJ0CQddGIxFUA4NO6FJRMIwVrYR5KprImg9lpEoa-_h1lbTRXNEkqF_xCqV04pHxo7HWpuvjTYMux-EaPCI0u2r5cP6lx_wiQj-kT8uNgc3taSXqzGdJJsLwL5ef-557ebx-TZUN2-Eu1KJwcnepaVMDXGvg",
           "width": 720
         }
       ]
@@ -243,7 +243,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y7LfdvJJkelSZ_Ne6qxN_1dELIRpTpKCllY0m9oISsjK3tnXsESI8XwiABQKc-IbzqqzkjpAS-vU2pDnx0Mx4fqauSx9LLS6IFr-akwNh9HAGBLrVRLJJLiCHOPVKAWnDRj-KNTfQFh9_KKsVAwiWmbMR3KKbnRRgYAq3dWiZpSVMAqn22GlPLNP-bnDM_xEGaa-DDUJ3_0epvh_tVEkBVw7j40_l4WasCvamtX1IHpiIPoLNbSzpuqEe3rJVK8ZZIQRtRpV32UzGkL_I1SvwmABL91H4aw8UDNjT3ZUXn-MhIrJIqRQ8kpWLP9fKxSc7ayWgd00582yKtlM2rGROg.jpg"
+          "url": "https://cdn4.telesco.pe/file/koxAQh_tOlT8ML9k6AXFWpl7DFrGVJNpe2rigJsn8zzntQXVJrtHkxEFpN82tAxq2nIqH48ZMkaiPw1NtsiKqflpAr_hfszlUEpTiCsn-yNSprANKvuu3TZRnuNkPHMyiW8aayheloUJv4MQlulY7FeSzxMSuuYfCVQeaYnqUV8f8x1EkMzVzHzVPntBujpA133hvprCwA11HecNdYa2WtYvG0po0lHYq_tiww1YXF7qWFMaUl45tOLabnEITev2nrdwLxUh7QwGy64D_w0Q5_oMIfycjMHUPVLq88Zy2wAmiJeSQjzA7Ktwk8kKxhIFrVl_hpFng9EmpRSFJt0nbw.jpg"
         }
       ]
     },
@@ -296,5 +296,5 @@
       "sender_name": "Quizoly"
     }
   ],
-  "last_updated": 1779217187
+  "last_updated": 1779223732
 }
