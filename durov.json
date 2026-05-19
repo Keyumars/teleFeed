@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "The apartment in Russia where I lived 20 years ago received a summons for “Suspect P. V. Durov”. \u003cbr/\u003e\u003cbr/\u003eThey must be suspecting me of defending Articles 29 and 23 of the Russian Constitution — which guarantee freedom of speech and the right to private correspondence. \u003cbr/\u003e\u003cbr/\u003eProud to be guilty! \u003ctg-emoji emoji-id=\"5384214488809490070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-04-22T17:06:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NC1WmbUjdrfEj0thd57zPzK4oxsbvnSAL2Bwa78P8dwNj3ioTXcbepmd05LGogEgAL15I7Sns-0w-EXjexUc2paPcM80NOOnkTeNJVMoL49jcH7qxQXyN8pRQQ5GZLFo34HisKMSEqsNyihwZ2ksuh_KsAlrCONghhQ58sSUl0RGVha3Ep-N1EgOC8KEGS2reCSq1RK48cduVwPJcLE_LrJZ3aK-OK5XZlxMFBmZ0EJH1w1M4BmyqR1y0BK8FQx655dCMASiEi5LLp2J6ls1LyprWshvY4zYth-HC5bm20_oeDyEwWGT4xUZpP-C4NCQWFPpfOHCtRIQmNj7tMjieg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e In one week, TON fees will drop 6× — to just 0.00039 TON (~$0.0005) per transaction, fixed regardless of network load.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5364112491381006601\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8693.png\u0026#39;)\"\u003e\u003cb\u003e🆓\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Soon after most transactions go fully feeless. Zero commission.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5296339823005557585\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/durov/482\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMTONGA\u003c/a\u003e",
       "date": "2026-04-23T17:12:59Z",
       "edited": false,
@@ -283,7 +265,7 @@
       "date": "2026-05-18T14:56:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 737000,
+      "views": 833000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +277,26 @@
           "width": 1072
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5296691786985527033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Anyone can now prompt their own text transformation style — for example, \u003cb\u003e“Gym Bro”\u003c/b\u003e — and turn any message into motivational protein poetry.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5283134250269287209\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Then share the style with friends so they can reply like gym bros too.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190415054629002671\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA490.png\u0026#39;)\"\u003e\u003cb\u003e🤐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e All fully confidential. No AI-related privacy leaks.",
+      "date": "2026-05-19T18:02:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 290000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/l6mrorLP2wuykakkKQDEkdzDOy5eJwuvtpv1PNPwLtX0bWoaguyMxN6VNb4vVkoo0GvdbIxMPTF6OWhVaGgqfOaE8_uOHhYzYqT_pVXbk3VDToCpOSP6XM9H93XJXtuQwMYjAvxi9yqzhNRwIXSYtVhv_E3gyMzuWnJfgfQ5pxUS2-vWv0wwMp-qtByoIsQvWwPKM6FBN9BpFC-yA1jorwrRFngmKSqvIB33PlfTcTwwcGoux-x3V7Sg4_6tRMAWgAJxUtXp9BrY8bxs0AAgCHSNIgm3faKKv4qOQL4Hm8M8QgNGr1rPpQuiBP07DcWc5AI254o0-oNSbtixHZe0UA",
+          "width": 1072
+        }
+      ]
     }
   ],
-  "last_updated": 1779209510
+  "last_updated": 1779217312
 }
