@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003eMitM Domin Fronting\u003c/b\u003e\u003cbr/\u003eاین پروژه یک روش برای دور زدن محدودیت‌های اینترنتی است که با ترکیب دو تکنیکMITM  (Man-in-the-Middle) و Domain Fronting کار می‌کند\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eاین ابزار با جعل هویت سرور، داده‌های رمزگذاری‌نشده را از مرورگر دریافت کرده و سپس با استفاده از SNI جعلی به سرور اصلی می‌فرستد. در حال حاضر فقط برای برخی سرویس‌های خاص مثل گوگل (به جز یوتیوب و جمینای)، Reddit، GitHub و سرویس‌های پشت Vercel و Fastly کار می‌کند. اجرا روی ویندوز، لینوکس، مک و اندروید (بدون روت) ممکن است، اما نیاز به نصب گواهی امنیتی شخصی (سرتیفیکیت) دارد و امنیت آن کاملاً به حفظ کلید خصوصی شما وابسته است.\u003cbr/\u003e\u003c/blockquote\u003eنکته کلیدی: این روش کانفیگ کلی اینترنت را زنده نمی‌کند، فقط دسترسی مستقیم به چند سرویس خاص را فراهم می‌سازد.(برای دانلود فایل از گیتهاب)\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/patterniha/MITM-DomainFronting\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/MITM-DomainFronting\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003eلینک کانفیگ \u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://github.com/patterniha/MITM-DomainFronting/blob/b130393a6ba53a0853d59e56dc1e3c893e0f3725/Xray-config/MITM-DomainFronting.json\" target=\"_blank\" rel=\"noopener\"\u003ehttps://github.com/patterniha/MITM-DomainFronting/blob/b130393a6ba53a0853d59e56dc1e3c893e0f3725/Xray-config/MITM-DomainFronting.json\u003c/a\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e لینک داخلی اموزش نصب سرتیفیکت\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://github.com/ConfigWireguard/sandbox/raw/main/dl/file_60107559.mp4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMitM.mp4\u003c/a\u003e 7.9MB\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e",
-      "date": "2026-05-14T10:03:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JpnPGFVu-UlN9XQ1LGQ62CUkAR6ImCmLHcvNI_4Y0oEVPKAf1alcOIo_bIckgYt13r9bm5zhXP02CsG3TfaJB_rZTnE_ogL1aX9EN1edMZZMfn55H95mpNoRdHErauElk56dZFNhSKRrAVkwebEGljBsUwfkxTRIoaefkuxnnbbuGdrCuhd7_bW5NSxPuaaRStFl7dleFviZffAG82jVhBmwcrpWLjMl5Pf25iev7W0snjq14TG3gU8T_6Z2khYt3LmsyDXIWIHXpusW-HfuNu2wn93T14Tsv7ryVYrT9F-r9kjtgpMYpW9Zet3ScoQ5tRj8ukETB2thA1VhECrNow",
-          "width": 540
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eآموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eابتدا آخرین ورژن برنامه v2rayNG رو  دانلود و نصب کنید.\u003cbr/\u003e لینک‌داخلی: \u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003ev2rayNG — v2.1.7 (\u003ca href=\"https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003earmv8\u003c/a\u003e / \u003ca href=\"https://github.com/nscl5/dl/raw/main/dl/v2rayNG_2.1.7_armeabi-v7a.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003earmv7\u003c/a\u003e)\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eحال نیاز به یک سرتیفیکیت شخصی دارید برای اینکار میتوانید همان فایلهای mycert.crt, mycert.key را که در ویندوز ایجاد کردید را به گوشی خود منتقل کنید و از همان‌ها استفاده کنید یا اینکه به طور مثال میتوانید به طور مستقیم از سایت\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://regery.com/en/security/ssl-tools/self-signed-certificate-generator\" target=\"_blank\" rel=\"noopener\"\u003ehttps://regery.com/en/security/ssl-tools/self-signed-certificate-generator\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy/36122\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش نصب سرتیفیکت\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکانفیگ\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"https://t.me/ConfigWireguard/31689\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ePsiphon-helper@patterniha.json\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003eرا ذخیره کرده و سپس از طریق گزینه‌‌ی import from locally وارد برنامهv2rayNG کنید و اجرا کنید همچنین دقت کنید که Enable Hev TUN FEATURE در تنظیمات v2rayNG فعال باشد و همچنین پورت پیشفرض 10808 را تغییر نداده باشید.\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A5.png\u0026#39;)\"\u003e\u003cb\u003e📥\u003c/b\u003e\u003c/i\u003e لینک داخلی ویدیو\u003cbr/\u003e\u003cblockquote\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://github.com/ConfigWireguard/sandbox/raw/refs/heads/main/dl/MitMd+Psiphon.mp4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMitMd+Psiphon.mp4\u003c/a\u003e 5.1MB\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e",
       "date": "2026-05-14T10:03:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -39,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ckvBLrKNfh0gAlpPj4JYb17K9WPXAp2acT47eh1fbXRN7QG1Y_kduezCbqyL7jYVaX9-7F89W84ASYw8wDd9l6ZUlsmvC1Nm9C_mhasNO-njcD9qTi7mkEentkDRmdruPoS4KgJKSw3Muy6_N1SG0K2WuStrEMQAyRaKpr2mrKqc67naQgdknmjy1iOHQVfJT6cF142lzm8goRT4cGnMENe7M26_h5xM0wIml-0ZCCJ73NuKopJCWl3SOiAIjco-zMcY4Rx561aKQ5sNo64kl0jKh8bStqlpqSA3A9y-6W6OG1zSGa2AT_Vjvyx-Wc44ZPQyM1gmHEqAiZsNRmpRpA",
+          "url": "https://cdn4.telesco.pe/file/pnJGgxwYQCG0Xu6PstTk0KtQOnV__QUIc9qMWPyMUlOTFRWPxyyOw1Gdw6OVGnogW3YcZAJ2STdwh7xXKkE5k9kJOdTYypoDLbiHNa7cNhgq4JGQpQVFw7voB8TzThtvyNoq6MyrOFYaqjC8jH2_7Lzius5MYGF7AP8vP92Z5tyHD09cf-f0TKCzqCsSKoFFvQ6SJ9vljBqWvv6cdBcvGL49PdvJKOrHrTfroyI2v7yRLeNJ2maa-Q-Qt3udlPSK32ySXb7ty7NZ6dEbKCGMLmqC2QmSH2z6F1clqoUGmzOnv6wfIzv5FZX-wXUji2tBxi7T2NQJ44O9FuUDsD01xA",
           "width": 540
         }
       ]
@@ -50,7 +31,7 @@
       "date": "2026-05-14T11:27:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 15700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +43,7 @@
       "date": "2026-05-14T11:27:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +55,7 @@
       "date": "2026-05-14T11:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +67,7 @@
       "date": "2026-05-14T11:52:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +79,7 @@
       "date": "2026-05-14T12:05:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17900,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +91,7 @@
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nctppt6heeQjXmepTNZNxtXSJhD367EGDaFGgTYncoLX0IDbk0vs2DpYfpq-tCBPLNGYQc9yY8BmPLSk0_jm7vGJomqC0hSYJGTnW4FxhRCir0NZ4v5lMtohW5A1DSBmXieOOGBpWGvmuUVO3Qzlax-uTFrMH6wVZkM8qIRkB5aH7Tfi0xo7RIoUgEby8cK7pyfShF3x6BDcE2XRyKNJsv-1SZnzitS_D9UGz6AXXGQjyGuvoloMflqwHcYZpic7xEEAXfjGaQilktP8PIQr3kbRfNOmwi-ENuqfKGWZwDqqKvDMoCq7m1_ZzEvywZjVJEpWEF75kjxFdqxJKMoupg.jpg"
+          "url": "https://cdn4.telesco.pe/file/f4iJfTe1xog498ChIV1TBSg6H7vwp1bHCSe0sI1_m458EB1SRyAcrlzhrkuyAUOWOmTy0dmBh7stIrkzw476JgUJSI_Rj-S2ZvTl2cjdEZnjTYYBJsX_YYuCruFGa7Cjyps1AApMFGTV7UE6jU9HvkYLoYkMn2wtpafKWLhcqLsDQfMjHE7HBhts2ssYtD-Kz9OMpmLotrwV9B1uo5-EVTOqKx0mU-_F4nbFtbFzk9rt9LQLtPniFmrvqKNqld88HQYoho5q8fQv4cd-2d3Je2aLzz7LO22bfk-ONDeQpufiTp3Zd52bY1aO60f-H1m6-Waj9Ob8D4VvdCt9xvXtaQ.jpg"
         }
       ]
     },
@@ -120,7 +101,7 @@
       "date": "2026-05-14T14:19:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +113,7 @@
       "date": "2026-05-14T20:26:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +125,7 @@
       "date": "2026-05-14T20:38:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +137,7 @@
       "date": "2026-05-16T06:40:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +149,7 @@
       "date": "2026-05-16T06:59:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +161,7 @@
       "date": "2026-05-16T07:23:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +173,7 @@
       "date": "2026-05-16T09:29:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +185,7 @@
       "date": "2026-05-16T14:31:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +197,7 @@
       "date": "2026-05-17T10:23:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 14900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +209,7 @@
       "date": "2026-05-18T07:59:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +221,7 @@
       "date": "2026-05-18T08:53:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 12800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,12 +233,24 @@
       "date": "2026-05-18T22:35:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 7230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e \u003cb\u003eاتصال با آپدیت جدید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ccode\u003e65.109.34.234\u003cbr/\u003e185.137.25.214\u003cbr/\u003e81.91.145.2\u003cbr/\u003e95.216.69.37\u003cbr/\u003e37.255.133.30\u003cbr/\u003e81.12.72.218\u003cbr/\u003e185.143.232.122\u003cbr/\u003e142.54.178.211\u003cbr/\u003e104.96.158.174\u003cbr/\u003e104.81.108.51\u003cbr/\u003e5.160.13.85\u003cbr/\u003e172.237.127.6\u003cbr/\u003e104.81.104.13\u003cbr/\u003e96.16.122.154\u003cbr/\u003e23.50.131.18\u003cbr/\u003e23.67.136.202\u003cbr/\u003e2.23.168.144\u003cbr/\u003e2.23.168.96\u003cbr/\u003e185.200.232.49 \u003cbr/\u003e2.23.168.47\u003cbr/\u003e185.200.232.9\u003cbr/\u003e2.23.168.174\u003cbr/\u003e2.23.168.213\u003cbr/\u003e23.44.203.68\u003cbr/\u003e96.7.218.219\u003c/code\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/meliproxyy\" target=\"_blank\"\u003e@meliproxyy\u003c/a\u003e",
+      "date": "2026-05-19T07:15:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "کانفیگ وی تو ری ویتوری نیم بها پروکسی فیلترشکن رایگان سرور وی پی ان ترید سیسکو vpn v2rayng vless vmess l2tp cisco"
     }
   ],
-  "last_updated": 1779174147
+  "last_updated": 1779187707
 }
