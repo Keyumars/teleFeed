@@ -8,96 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یسسسسسسسسس",
-      "date": "2026-05-19T20:26:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "اقاااام آرسنااااللللل",
-      "date": "2026-05-19T20:26:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "ترامپ کصکش بزن اتمی رو که دیگه به آرزوم رسیدم",
-      "date": "2026-05-19T20:27:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "صبر چمپم بزنین بعد",
-      "date": "2026-05-19T20:27:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "واکنش صادقانه انریکه و یاران:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T20:27:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/P9ZfA5airHOycstNktYQS8YN6Yy5hcjw9gKP0lyJcotu-1-CtNp3dwZUv-rx6nsj2QNy23Zia7rcnxxMrlmSiA8ayGc5ieGAGZZDux1eXSuANxJ-Rl2cBZRBPjUPlnH5nF2vXub8dNa-CMaFPo79eVElnVXFIjNHH0a9DwIr4PcDGhDv10JFh7QiF_Po6taT8XF0IEZOfzyXpGaXJsJGpk63aGWa4qUTqTurtPuKIjoKlt5s5_qTlwCdei3tk30WFm5AseJXz7kA55m9ZNK8lAlQDvIQANXnE_B2qpnRx1-NQBKt4F_3U2H-5E1PEio0xXg1646o98OLEa1mDBPZNQ",
-          "width": 320
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "عارف جان، پاشو داداش، آرسنال پرمیرلیگ قهرمان شد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T20:32:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jT0KxvC7UgDuaa-e1n2vWTP3nbeBF73tS99B_PrTxEFRGuXXfqt3BN-rKCivtfJ8q2SzxtHo2zZrf8FsqY_AtAgMoplXStkQ3Br4W8dySyUu5BhSSpaHMlYB-J8RuukkxWl6hVS-4jj6UA5hmyy18eiSMmdkYso2l0zJmYVe7ophAKS5XTjnekXB9KlNdkdYqb7wrkYskurp4BB4KDd3TNcy0RE9uUtxMnvSkCSwywW5Sj1Poq7Ber-wPc9z4s2T5TrfsUFxKqT_RbqeWx9IgPIj1qEs07MMDocxriQNqm_I8ANdjzqy9LoDURMHGsXPvkaahp0QAWtoY-_XHot7ug.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "من که میدونم قهرمانی امسال آرسنال بعد سه سال نایب قهرمانی همش بخاطر روح پاک این پسر بود ولی نمیتونم ثابت کنم...",
       "date": "2026-05-19T20:33:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14100,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +24,7 @@
       "date": "2026-05-19T20:37:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14000,
+      "views": 16400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +42,7 @@
       "date": "2026-05-19T20:43:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +54,7 @@
       "date": "2026-05-19T20:55:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +66,7 @@
       "date": "2026-05-19T21:00:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +78,7 @@
       "date": "2026-05-19T21:08:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 14000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +97,7 @@
       "date": "2026-05-19T21:24:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8730,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +116,7 @@
       "date": "2026-05-19T21:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8119,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +134,7 @@
       "date": "2026-05-19T21:35:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8080,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +152,7 @@
       "date": "2026-05-19T21:38:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7470,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +170,7 @@
       "date": "2026-05-19T21:41:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7190,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +188,7 @@
       "date": "2026-05-19T21:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +206,7 @@
       "date": "2026-05-19T21:48:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +225,7 @@
       "date": "2026-05-19T21:54:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +236,69 @@
           "url": "https://cdn4.telesco.pe/file/ImSIuPx_1HdW7opXLLTiYghMUElgLru-pAX1ViCmLCg_ZCRJ_h-_GDRF73I-hC5enJnaTW4ICXjS8TQfPe2UVKqmxBMQgAgKrY9rQoffIYv01nwoZHDm3w8kdy7bOkNOr4vnPJmFmRVZxputVJkvDsYUOxH48HignZVUYxFCrVCHf1WxtbDcV3ARtZlxiXhpjHUSX2f-EunYx1M6D9cDBq3rPnFYHVyzS37O4W4u3goCFky9xGmDNyK2tb5ANNk5FD2-iaGEN2XaesNlc23OV3_mx--1hkNp9T-1-u1VkyG0sqinlQkCkwGG6XqZVBcZroxYxEWdVFDzdfD8vOOM5g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5017055498659170830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مجلس سنای آمریکا طرح مخالفت جنگ با ایران رو تصویب کرد! از این به بعد ترامپ برای شروع جنگ نیاز به اجازه کنگره آمریکا داره\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-19T22:21:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "این طرح حالا به رای گیری نهایی در صحن کامل سنا خواهد رفت. در صورت تصویب در اون مرحله، به مجلس نمایندگان ارسال میشه، جایی که باید اونجا نیز به تصویب برسه اگه هر دو مجلس اون رو تصویب کنن، این مصوبه به ترامپ ارسال میشه؛ و با توجه به موضع اون درباره جنگ ایران، به احتمال زیاد اون رو وتو خواهد کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-19T22:30:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "● \u003cb\u003eبدترین حس وقتیه که میخوای سریع وارد سایت شی، بازی شروع شده، ولی VPN وصل نمیشه یا سایت نصفه لود میشه. \u003c/b\u003e\u003ctg-emoji emoji-id=\"5371039809772985021\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9891.png\u0026#39;)\"\u003e\u003cb\u003e😑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e● برای همین \u003cb\u003e\u003cu\u003eربات تلگرام وینکوبت\u003c/u\u003e\u003c/b\u003e این روزا خیلی کاربردیه چون کل فضای سایتو داخل خود تلگرام میاره و عملاً بدون دردسر میتونی مستقیم وارد بازی‌ها و کازینو شی:\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e",
+      "date": "2026-05-19T22:38:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "داخل توییتر پر شده ایشون دوست دختر جدید لامین یامال هستن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-19T22:40:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/VPpFyda60a0AIS9DPYBQyZaEy7w1kFlznfzpVoqIn3pq9GqL78rWSx61Sas7q8IKyrpqSgYKpcHm70wasUr63mOE5N-JJc6G2k5Zmy2PrWLbxpDzUK1JTbpYHLSltiDvC0uhI5kvetjRyToNzPKtuIN3JZtHREm3TARJ6VA45N4vBUPXkFMQfqOWEDQ8ynogv1Xnii4Dg4wnYNIxDu4JTYz7XFdqz2WNHBXX6LlT0sYgDCU90IvXXe7ktqrCvq_flrKQEvlQy10-pErWyIfjaGSyJqEUR_niLAqnh8lGRGUAr9BaVJE4RqtnSEuGtdRVOhYF0u7yw6OKUTXTfMz1rg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/U-3C6IfX6EZrJ-uGS-VT2O-bA_Ae6vJJ4G_tk1nT8lU1gqLFTIa4x6id1A7nBs27NY-0PMNrBLoetJI6AdqtqnNOpKS9tAnrj6YlQTWucsZS1YNAMSsoKaNZa45SFY6Fe39JuU85rqsj7XoXng0AvfnkPHKCWTS_OV4y7X6VL6arrFdteXbDdAe-E0WmyXuSqz6hyT6kloG9XSD_SAERosapCoaj-35-7SWl49bfRZo5nxZw2liWbWx2bPiuX3xasoRzo4FP_CZFMNPAp-UD1DG9DfNNsXT8l5IAlmY4IFnI07blBTH5kWSNEh5XAZzFyQb-srTnvFB2Ezw9CLQRjQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Xy2979CozxnHyBdc6I69qD1TqB4hpI-Eat22bPPtCuITy8zMPDTWvPqILdlKUu4SlojaKZaTKUn9WlNqFyjBARqUc0kE25KylWK54HJYU3lBM8JIMNrU0RM1iEMqffWm0qK4lL3e9b6CGxXqKqcG8QjXqH9dZM6VEeTfqOH_U2MQp324OBtLiPZpAIbNLNSdaV2EJfBCDYkydLVov0TVsDzatALVS6U1pugBs4AOPAlbqHmC9o-kJDRWqEJFW7mT3cCKBy1Jw1eCdbFNdFIl3_iS2S4mMLbuH2jf5tsyFS2r2dMPOOpGkUwxWdDUTU3i2gnFXVbhk4eTbB7AIQdJqw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779229025
+  "last_updated": 1779234079
 }
