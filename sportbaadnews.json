@@ -8,84 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5352759161945867747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9499.png\u0026#39;)\"\u003e\u003cb\u003e🔙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6017357539425917094\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| وینیسیوس و رودری تو اولین جلسه تمرینی رئال وقتی همو میبینن:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T21:48:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VX_ZDvusFo6c3FIBXWiS9-VxMxfDbOQrH_lEyVUf_QNE_opeJMCPA3-pnQxRCx04XIHxZx54ROirJV3qzA2a6bWvpgfAFiM8nn7MhrMLBe71hI6SUVfSfvqtUpxg-ct7mlQgHcdo9pwaJzzwHl04xVnUpzQObGS2NHNF425l17DZ9svfQOHR-JV5N3MHnm7tPZ9ohJMS_oFNR-IApUZDKbjkWJK5YMmJiyeSeTjKy1wCDR_KAKbZKAGwLEn-ZRVvFaCLrQz4FdlGRNtxvCI37OyiwHf4XT2H8lZh7vVCkWDkKtSqFaiEu_IJ5ho8n1MZxZDT24vLQe6QEK8Dva-AIA",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5334998226636390258\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895629279969941470\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e واکنش‌ عجیب اکانت رسمی واتس اپ به قهرمانی ارسنال در پریمیرلیگ!\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T21:54:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ImSIuPx_1HdW7opXLLTiYghMUElgLru-pAX1ViCmLCg_ZCRJ_h-_GDRF73I-hC5enJnaTW4ICXjS8TQfPe2UVKqmxBMQgAgKrY9rQoffIYv01nwoZHDm3w8kdy7bOkNOr4vnPJmFmRVZxputVJkvDsYUOxH48HignZVUYxFCrVCHf1WxtbDcV3ARtZlxiXhpjHUSX2f-EunYx1M6D9cDBq3rPnFYHVyzS37O4W4u3goCFky9xGmDNyK2tb5ANNk5FD2-iaGEN2XaesNlc23OV3_mx--1hkNp9T-1-u1VkyG0sqinlQkCkwGG6XqZVBcZroxYxEWdVFDzdfD8vOOM5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5017055498659170830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مجلس سنای آمریکا طرح مخالفت جنگ با ایران رو تصویب کرد! از این به بعد ترامپ برای شروع جنگ نیاز به اجازه کنگره آمریکا داره\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T22:21:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "این طرح حالا به رای گیری نهایی در صحن کامل سنا خواهد رفت. در صورت تصویب در اون مرحله، به مجلس نمایندگان ارسال میشه، جایی که باید اونجا نیز به تصویب برسه اگه هر دو مجلس اون رو تصویب کنن، این مصوبه به ترامپ ارسال میشه؛ و با توجه به موضع اون درباره جنگ ایران، به احتمال زیاد اون رو وتو خواهد کرد.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-19T22:30:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "● \u003cb\u003eبدترین حس وقتیه که میخوای سریع وارد سایت شی، بازی شروع شده، ولی VPN وصل نمیشه یا سایت نصفه لود میشه. \u003c/b\u003e\u003ctg-emoji emoji-id=\"5371039809772985021\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9891.png\u0026#39;)\"\u003e\u003cb\u003e😑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e● برای همین \u003cb\u003e\u003cu\u003eربات تلگرام وینکوبت\u003c/u\u003e\u003c/b\u003e این روزا خیلی کاربردیه چون کل فضای سایتو داخل خود تلگرام میاره و عملاً بدون دردسر میتونی مستقیم وارد بازی‌ها و کازینو شی:\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e",
-      "date": "2026-05-19T22:38:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
       "message": "داخل توییتر پر شده ایشون دوست دختر جدید لامین یامال هستن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
       "date": "2026-05-19T22:40:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24900,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +38,7 @@
       "date": "2026-05-20T05:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +56,7 @@
       "date": "2026-05-20T07:25:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +74,7 @@
       "date": "2026-05-20T07:44:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +86,7 @@
       "date": "2026-05-20T08:08:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +104,7 @@
       "date": "2026-05-20T09:09:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +122,7 @@
       "date": "2026-05-20T09:12:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10800,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +140,7 @@
       "date": "2026-05-20T09:23:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9800,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +159,7 @@
       "date": "2026-05-20T09:38:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +177,7 @@
       "date": "2026-05-20T09:38:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9150,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +195,7 @@
       "date": "2026-05-20T09:41:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8830,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -287,7 +214,7 @@
       "date": "2026-05-20T09:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,12 +226,103 @@
       "date": "2026-05-20T10:20:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3830,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "جام جهانی فوتبال Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5460969784931786927\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5460850191567429837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5461041038439228367\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | به مناسبت نزدیک شدن به جام جهانی 2026، یه هایلایت کوتاه از فینال جام جهانی قطر ببینیم.\u003cbr/\u003e\u003ca href=\"https://t.me/+SScuH-akLuk2NWU8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@GoalBad\u003c/a\u003e",
+      "date": "2026-05-20T10:44:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/N_XF_tC99Es6SmOBtHiFJPjrMJ9tfdxlWOvG_KQEDWoHk_PSqhw2XT4yzXkdlr77T98ypd1nzT3SEEiVYFfriBg7yWJE9rs6lcGjx942SvuXBRsCjv4f864DB6WLJI8CUkAc5adhoBbJ4RZGpxgrmBvn8Yprt-sR47iS1TFCDEJCOIGar1FETyrvkdWohLRi74zWzuYyJva6tHiJsOd11NKmgeYdLuv9qabYYHHL7iBzb8_MRvPFc_lPfO326DOLhm-HZSFrNtUC0ewbVMzlRCCisXt9ux7B9nMAO9UCUmNf50xBH5ORCEUDNNgaD4vawFTccZrDaz7pRNNy6OnGfA",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5891235983692665366\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| عصام الشوالی در موردش میگفت \u0026#34;وقتی همه‌ چیز زیر فشار بازی فرو میریخت و حریف به نوشتن پایان نزدیک میشد، مردی بود که چهره‌اش تغییر نمیکرد، قلبش نمیلرزید و تیمش رو تنها نمیذاشت؛ اون ایکر کاسیاس بود؛ کسی که غیرممکن رو فقط به یک لحظهٔ عقب‌ افتاده تبدیل میکرد، طوری که دروازه با اون جایی میشد که فقط یقین واردش میشد.\u0026#34;\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990476089252906260\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بوفون: کاسیاس فقط یه دروازه‌بان بزرگ نبود؛ او نماد آرامش تو سخت‌ترین لحظه‌ها بود.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990476089252906260\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ژاوی: وقتی ایکر پشت سرت باشه، احساس میکنی غیرممکن وجود نداره!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990476089252906260\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29780.png\u0026#39;)\"\u003e\u003cb\u003e◀️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e زیدان: رهبر بودن فقط فریاد زدن نیست؛ گاهی آرامش ایکر بیشتر از هر حرفی تیمو هدایت میکرد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990163033381667840\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ایکر کاسیاس افسانه ای امروز 45 ساله شد!\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48D.png\u0026#39;)\"\u003e\u003cb\u003e🤍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-20T11:11:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PVR7ns5D8hgc8al1iN08VYv62DwqhQ2LNp2-36zTxmli1_yMsvsEiSNOQRSHZicerVmFiYF3hfjiESRVKjEmw06Ijy9N6hUm5zexxTLS1bbNHt_eY43_JuTsExddI58QM4RsaD32-f8R1O4outKNB2mqV21V0lbpeXguNYalxxtyBAG0YvTBD3q6hxNP564URkaCPQZTSl0G6Hgd6nZKosIhmEs9xMcQPjuYw6RdDx41oGdlBS-K_L4clWX2Fy0mwlfVS6uwBMoFqzI_4BFJ0e4B421nB9aIkQH3TJw0DSY1JPoyDo1V6C8xE5o6JW0bRVmQc8uWZlOP1_0i97NfuQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895657600984291785\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895735314122546423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895514720307255384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خوزه فلیکس دیاز: برناردو سیلوا میخواد این تابستون به رئال بیاد، اون قبلا هم خودشو به رئال پیشنهاد داده!\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-20T13:01:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sLmty-XeXYCrc7vBDTxR2NHHzxuOiFJpKFEfTUu9jBkCQ7ZPvcV76la4S7oRMUklc4lY5TomowpqTZmdwjWK9jqF2WsfqiXFDGRcxC9fbUICuSJVtNFlAp1cEQXYSSWGdT86hUZpfdl0frcAyMlf5l8tTOxUBTucUeU6WUrpQ4dxfJ4ByjuqwtsCI7TVL2YD28yz4UjYScELwi3H2eYqNHVUArmJ4MDf1oi-DPl9Nylt3_YgBs9owhcw4UL3RBor5VE0ny6cIZ9hBPhnwduifsMvqUF_Ce0Wzzgb7jNZSRiiuSJmr8At0jaQkz6hqDsdUJlpb7QEv9Pr8rXWA4GZAQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "استوری ازه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-20T13:28:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/N8GhP0vjKihkfE5GKevV7Be3QdHrOSU83oY35JaUfh3CYE7fvv3VUFiOXfGUFIJno3sjl3n4ZrG1Ok7NTAv2mO2lXXKq-KipMnuCm5cxyRdwJv4Xs-IM5LHAiASEs_JB9AIyWtW3EDZiW-_pnNisZCDv6WU1_9PT7diCwfMSDW7yAWWnWBd70OOProjFiHgbUu_8KeqoLcEdXMZZh1Lm0CBV-5s8PMPDNtdk9Bxw87b_e2ZyZCrwCILVQwmjjBKN5YkeHd6-TN-ewk5d_QyO__mynwsa59oYorcWThtNj-AkcEZyHhwnxaaBzZtuWvHr4jU2bzz6SvkUCGye_hm5CQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5893073997767122460\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مسی به این شکل داره از تمرین پسرش تو آکادمی اینترمیامی لذت میبره\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-20T13:36:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 919,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/e1P7Jcsj0KxYcc6e1ZPGLPWefnFqzxrgHhikmXlnQXHYxQnkdIsNuMcyEBwY2refzqsDP-GSYVhbQS83qtMK_QmLwLtcDaUYA4f15iGxZjH-A601tdZ25m0IFWMTl-187_4TrUE6HcL3-FMtbGmfJMg0RdZ0IMimZPQn2MjP05ttiw9kXBfgpU9vbrXo-pgNMjRp5r3MU6bbvEEI3D9Q-d2vBMy47cKqxP9sxY09tWS-puvDiI0wIgYGg95YVPGzenfNq1x_VdJTXRt7RbzHJ6qYBJhhfSlwcs_Xz9MOdGaUMkg8HS6SgX4K7sQwqjre1VabMa44yVwOfhChreFeag.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779273334
+  "last_updated": 1779284340
 }
