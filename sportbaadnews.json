@@ -8,79 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "همه دنیا تو عشق و حالن و در انتظار شروع جام جهانی ان تا ازش لذت ببرن بعد ما اینجا نشستیم هر روز چشم انتظار یه خبر خوبیم. حداقل این اینترنتای تخمی رو وصل کنید به فلاکت افتادیم بخدا",
-      "date": "2026-05-20T22:04:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5399914754644925591\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5460850191567429837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| تبلیغ \u003ca href=\"https://t.me/SportBaadNews/249055\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلگو با حضور مسی، رونالدو، وینیسیوس و امباپه\u003c/a\u003e واقعاً واقعی از آب دراومد؛ شرکت لگو ویدیوهای رسمی پشت‌صحنه فیلم‌برداری رو منتشر کرده و اینطور که مشخصه همه بازیکنا واقعاً همزمان باهم اونجا حضور داشتن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-21T07:06:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mxrten_kp-WXxYWtz8O07gNg8xjphfClvm3QFVldpvHWprS8RPof_BpNwQwta1Kqh31nqXD5jQXEYkWKDavLlUqi7_2XfkWFn__rdmnO8uusuTx_PhyU8IpfreuTQr-Sa2wT812j5YyHHOmGMUkaktiXOy-92Apc-BUBRnvI_MgjhI65NmzBatpy3JfBqcqh20FQiLx-5KPQZuyZoCDbXB1XjrFYgtkFjjNtOBhzoL2XVa6GIXEeulPc7T2NpKlCo8S_xGOyrfYJqbTCK3hyjLKc9ElCs9dvdzrMrS3dkgBnWX5vNmtnZoILwAmm_2K6rGfwqhRAnLVBdIkGyDTWXg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5859619556900739842\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5857158386021309388\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| آرسنال اولین باشگاه تو تاریخه که بدون گرفتن حتی یه کارت قرمز یا دادن یه پنالتی به حریف تو طول فصل، قهرمان پریمیرلیگ شده.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-21T07:13:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/o7_qBE-eyrMFX1OBITfYm9OhIf7CWXayFsk_xBAWySFPL9Qx5ogSuEe5XvznlcEjVbFU8RbDbd7E9gcgocWRn2daGoUJ3N0YF9Bh9HFrocKIUuno8ISUOm3ZPH6Q5623IYmEXcdWOOH50Q71LqcTzoSxrbAIBfRfbM0lePWyJGTDC_XaoIQ3kmRa4hOuTJVtC-b0DU8UA0zv0exvytReWc7Fd61hGV2v_rRYRD041AUF9uZhZp6n54Bi-bQWHx6viFmDc5UQRV9qlPLgtpExtpF2PoeelXtnFTwUy74yv2CxKv51hnvSMDg7FxFtgdBoqJBJRKsejw9MJse11HCqfQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"?q=%23%D9%81%DA%A9%D8%AA\"\u003e#فکت\u003c/a\u003e | اونای امری تو ده سال گذشته 3 جام اروپایی؛ بارسلونا تو ده سال گذشته 0 جام اروپایی \u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-05-21T07:29:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/asVPVq9BKpPyVGuvwZpwkmBDVfeG-GFWLuniWwJf-P8y8Aww20ro-a3yay9eAvkSR5fVwAiBGuEGIEfOsGw2R2KNgVYbgbVieclL8bicRElZcmSEnY-10uVLHAAzY0aDhbcL_nTZJ2-rPWofEjBf_JjwGK1gsgbZXhveAUpfSFgZjpXAkwdyxSe_O-Jin6Sr6wfPrnENwkmEWC_0wFxKwiV6vwF-5RmEAV4LVqmS66qxDWpOsDl84pvjp0N1mjo7U1Vq2qE366xLEPs_ZiVdnbZHbAICwJkDhpNA8A9_owIOV8M2Rv12Fvc78oGLY90vqsGQgv-gaMawdfLoC7V17Q",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5893315843080592726\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | عثمان دمبله: \u003cb\u003eمهم‌ترین چیز اینه که لیگ قهرمانان رو ببریم و یه جام جهانی خیلی عالی داشته باشیم!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eتوپ طلای دوم؟\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990491658509354053\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA1.png\u0026#39;)\"\u003e\u003cb\u003e🟡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6017357539425917094\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e خب درسته که وقتی یه بار توپ طلا رو میبری، دلت می‌خواد باز هم ببری...\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
       "date": "2026-05-21T07:38:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16500,
+      "views": 19200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +30,7 @@
       "date": "2026-05-21T07:52:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +48,7 @@
       "date": "2026-05-21T07:54:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +66,7 @@
       "date": "2026-05-21T08:11:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +84,7 @@
       "date": "2026-05-21T08:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15600,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +102,7 @@
       "date": "2026-05-21T08:43:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +120,7 @@
       "date": "2026-05-21T08:50:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +138,7 @@
       "date": "2026-05-21T08:58:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 18900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +156,7 @@
       "date": "2026-05-21T09:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +174,7 @@
       "date": "2026-05-21T10:03:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +186,7 @@
       "date": "2026-05-21T10:05:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 18100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +204,7 @@
       "date": "2026-05-21T10:05:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +222,7 @@
       "date": "2026-05-21T10:36:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9770,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +240,7 @@
       "date": "2026-05-21T11:33:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6740,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +258,7 @@
       "date": "2026-05-21T11:34:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6290,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +276,7 @@
       "date": "2026-05-21T12:03:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2450,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +287,79 @@
           "url": "https://cdn1.telesco.pe/file/BXfpjnYq8EZXNz6KgzklnEO3fkdswkFdBnzaseZtIn4b8EUELIuy5wMux4AO8QPj3wwgrZhqOj1HtQC1abFjIwUOtAXygMMCDPfwjUZ8Z0eRPt789EIhhuooM_AuAmainjxNRwY30zfkNHEvVAWdWjvxXcddhXRa8Dv61sE5E7NWpdVN3rBz8otRsEGnC9jAhfMN38TGjf-GfBUPW262opGVloOTnyMTHfT46ODa1oUnb0mett3uygnshjpw1aQAL6F4-P339xSrL0jvOW1ndGcJa9t_9lTh4samMBAp6BznxXcPj5jHeul2esIxDAkg80qxDkx9FulPW6OEPhyohg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895243536072187902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5352759161945867747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9499.png\u0026#39;)\"\u003e\u003cb\u003e🔙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e| عکس کمتر دیده شده از نیمار و یامال\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-21T13:02:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lmkX0nSxlQA2yRs0ieMoUSzygmBcV_mHFBjE5jAhPIjaT6-NBWrONzQCk8MLyhjbkGJzWWIZ2DsoEqn8Xz_8URH0a4_sg6BaSldSDsP2c9HE8BYEqUnIc0GpxNxjCDwI0Lzx7NL2DlgMNY-HuYuisC5JhhXL3nIOAjLLEU74OPjwr2WD9sKmX6QdXBvLfHdn8UwgRivpbPbzoQaVLWPfR6jFJ7Oky0zANgk-BBsHaejisrMUIkLgiNzH_i65YERsOzJ0Tz7RsevBpmxHWEqxWwNFFovzfsDUZzJP00D7FITlc_YjqmInEsl8mTKPbtwDWki-hLUFpPQPs8sFjmQCNA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه امشب رو اگه بازیکنای النصر کون گشاد بازی در نیارن رونالدو به اولین جامش تو عربستان میرسه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-21T13:52:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mPrTsLul6vbsyrRltjwmp3n_LzzL8e4SLQ0P0uz6IIkM8-61HH5A2XAYvuyuQ7jnpueDVmg3PJYwnMgZrYguzQKxgkCI9AEMbeRZq-P0_G3_0JIaDHMPEab35Mk1FdZuB4yYb4cu_saOHDaFrdYL4i1URreVljiDCSFaAPP_kiO9RxX3UWDbw0KqtPVaNsEYwmiF6lK64sqK6YZuC8GvNd71BHdiiG0XGR_OtHpwI15hBNk7jXTyo8LWBnQSpAXvZN3NLQULjqSwumXEiHK2vIGpeLpGizVwB1KOSwzKpTR2CE9hM2Y5wRuVpZRp1bSo4ZvPoLldyjy8qGbLKkqBWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5956286905522853108\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فروش فیلترشکن اختصاصی استارلینک، قوی، بدون قطعی و از همه مهمتر \u003cb\u003eبدون ضریب\u003c/b\u003e، آیپی ثابت\u003cbr/\u003e\u003cbr/\u003eسرور اقتصادی: \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 1 گیگ: \u003cb\u003e240\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 2 گیگ: \u003cb\u003e450\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 5 گیگ: \u003cb\u003e1.100 \u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10+1 گیگ: \u003cb\u003e2.200\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 15+1 گیگ: \u003cb\u003e3.590\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 20+2 گیگ: \u003cb\u003e4.200\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاستارلینک:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 1 گیگ: \u003cb\u003e340\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 2 گیگ: \u003cb\u003e660\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 5 گیگ: \u003cb\u003e1.620 \u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 10+1 گیگ: \u003cb\u003e2.960\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 15+1 گیگ: \u003cb\u003e4.560\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931504321454675427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 20+2 گیگ: \u003cb\u003e5.460\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5936217661514980333\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبه ازای هر 10 گیگ خرید، 1 گیگ اشانتیون میگیرید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5253712577535418461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B0.png\u0026#39;)\"\u003e\u003cb\u003e🔰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانالمون: \u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/VpnBadNews\" target=\"_blank\"\u003e@VpnBadNews\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eربات جهت خرید سرور \u003c/b\u003e\u003cbr/\u003e \u003ca href=\"https://t.me/vpnbadnews_bot\" target=\"_blank\"\u003e@vpnbadnews_bot\u003c/a\u003e",
+      "date": "2026-05-21T14:57:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lyeN1T_x1XuexnYxx7g0NH-NSrOts7-HQvJYGxFry5NJyATBVbmFZhUxD-PNx5JwgjcI34iesxpfXnaUxrO-ublo-g8AsolYuzL2TKb3v9k2l7QiDzRRRb4FM2H6rFn2VZiSUk4zmbJTF8tzVDRfo6Gj7RlQbfJKqHa3pxII6UbCxFp8IARLuxXr8D8nLCA3f6YQ-G1yOCGYyKYivB_wwUUmcncXMan9d9AGCT9wejavSEkNVLoNNc3ARUCaIIY46uY3vfYpETDeRQybtrNKQpZiLw-mA8Rr2nU_XyRZwG0grV6qJR5XJYa0sDCuU_I4zHtgfInIahKdcFjU5dLQqQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5936110669584669087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5936110669584669087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5859527288118319790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eسانتی اونا: اوضاع تو لیورپول داره سریع پیش میره و مدیریت ممکنه اشلوت رو اخراج کنه، آندونی ایرائولا سرمربی فعلی بورنموث اصلی‌ترین گزینه‌ی جایگزینی اشلوت هست\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-05-21T15:04:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6850,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iqbfmCyBqkMVYZ6804vUnWF4mJuzohw2zjAedPs4Zvq_YGQX99oUh1tkTG7YIHSnb-ncMtkoPWIfnChls-_PYy1IIRg87GWsbXWj0Nt-O18IrSym5iFzJns4njX1lCAqRE5Qtz-RGBdk87oRxyIblaJp_Red_6JlWQNcBctYOtHLWdXbcC2EFZitignoliVm1NMzCPVH47BMlyKvmaCppxvn_cn-Par0-tIfScG0iSMiJgZ0ExPhEfgQSdJb8PCDgfvgAK1ouGs4AOG9_batRimtKU8qBF4COXs_BH383C-0l97_JcWZqNsY2Zgf5qgtdUc8KVq5yNkQNrwr9oiEHA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779365721
+  "last_updated": 1779379030
 }
