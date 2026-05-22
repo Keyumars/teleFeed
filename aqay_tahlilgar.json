@@ -3,7 +3,7 @@
     "id": 0,
     "title": "آقای تحلیلگر",
     "username": "Aqay_Tahlilgar",
-    "photo_url": "https://cdn4.telesco.pe/file/BWruHiS-WzynEMjcsIsUW2dfv-FQ-LJudV7sJonlEsddfAvdQSAYQH2AAciydP2AkuL3r5cuS9N8L8lkrafvqwT9WgMTw4O0r5zYCRUOMQvAwZaVr7B-H3IVfHUBTfG237b8QACtXd7dBM_LagaeO08qzCF9pDBVbHxIOqD9Yi2jmRQoruY_DD1OInSOzoTebtPpeuf4vngunpOIqapiYby4kgjptx3s0Z_8zuzD5pxhXVGP-0Dq10cRPwQvN53ziMcnC0s5PFmaSE6DDi2cGmwbZ3kuxISY2PvXWGWYyq4tWFwHtdBUuTb6Bno0P77-BrylbHaKAoxWWKSEzGGQFw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/quQqgLobDxdwlBSmOGiZnkXXZwg8xs35YoWFZoDfOrKTsbBd7zDopNmax_6IiIAjpaRBzvZHRu0E3R41VqllL2obWFCC9FByfPZzckDww1UwFcs3HoBv4wo2wHAl7k0AzO0Hv236kfWPqI98F7WJwykL1A3lijGFQxdoRSCrgoicVI971BK3-O7Top1nr3Tj17sWSZZvWvUHMVdzxxBlx27bBFxW7WYY9ipg6pWl3cq5AuMUFJunACS4s0NFyP-rAtLDXM5GZI19YPNSIx2EtnXl7CSHf3mGWXajZnLPrDUMzTS2PsUYZYphbMXsvgIQwNUrfnGNb2A5BoHmD15dCA.jpg"
   },
   "posts": [
     {
@@ -60,7 +60,7 @@
       "date": "2026-05-14T17:37:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 226000,
+      "views": 227000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-05-16T14:05:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 192000,
+      "views": 193000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-05-17T12:51:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 188000,
+      "views": 189000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,7 @@
       "date": "2026-05-18T19:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 186000,
+      "views": 187000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "date": "2026-05-19T11:24:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 185000,
+      "views": 186000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-05-19T13:35:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 181000,
+      "views": 182000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +216,7 @@
       "date": "2026-05-19T19:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 186000,
+      "views": 188000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +228,7 @@
       "date": "2026-05-20T16:42:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,12 +240,12 @@
       "date": "2026-05-21T11:36:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "آقای تحلیلگر"
     }
   ],
-  "last_updated": 1779428737
+  "last_updated": 1779441763
 }
