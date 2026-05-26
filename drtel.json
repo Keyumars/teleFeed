@@ -8,132 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دیدین؟ قبلا هم خدمتون عرض کردم\u003cbr/\u003eایران هم اگه یه روز درست شه، ایرانی ولی هیچوقت درست نمیشه",
-      "date": "2026-05-26T13:02:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنت بلاکس :\u003cbr/\u003e\u003cb\u003eتو روز 88ـم از قطعی اینترنت تو ایران و بعد 2093 ساعت، حالا اتصال اینترنت بین‌الملل تو این کشور یه چصه بازیابی شده - که مشخص نیست پایدار بمونه یا نه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-26T13:08:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uC7DnoCgXBW7Y03ocjaQbHc09S3OhrVkV4j7sJTJPox0jOJaQ2o3XzWnK9BsqqS2Ds-PdpiGv34xFc7z95_st9q4BDUOob2xU890yme9Yd31n1w75zp_ueP_Pdylx7mgpTRX1E24hy-iWUhx5zzjI_XpcFLoTYlM4RVY9MYPReQGOO2-V3waZliNAYpQOcnynFuSLZaZzxxh-Kfcm-uWCucUy8iDFkyzlfV0LRZW3GA77SlxkmaSAz8CTthI_dautEcrX63A5DNarOLzesvk6o80t5aYsrTSe0v0jaEugWovqFyga8NFtFru07g2b-ZXNFHvIVd9CIlHbnkGwazvhA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چه باورتون بشه یا نشه؛ \u003cbr/\u003e\u003cbr/\u003eولی وی پی ان فروشا تواین چندمدت اونقدری در آوردن که خیلی راحت میتونن حتی حکومت رو چنج کنن.",
-      "date": "2026-05-26T13:19:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "دست خدا خطا رفت وی پی ان فروش بگا رفت",
-      "date": "2026-05-26T13:23:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 87500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمحمدرضا عارف، معاون اول پزشکیان :\u003cbr/\u003e\u003cb\u003eبه عشق مردم که اینطور پای نظام و ایران موندن،\u003c/b\u003e \u003cb\u003eاولین قدم واسه دسترسی آزاد به فضای مجازی برداشته شد\u003c/b\u003e؛ \u003cb\u003eبوس بوس.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-26T13:45:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/O5Ljll9WJ1jYwTwzVYEhz_ZTM6f918UmXm2UdcQ7pMHTFA2pA1tBJj4r0BKXdbOou8-9R1RvMak3eLjKJCAaYNoURCNvdAz_-wEhMZ0KPgsh6L52Yswfme6GdqVPd7ZEQjgxYM8xS-nuoYrLiGwR6BMSwBCpcQZf-cB2mOtGvCYSeJNHqlYa_Cy9w-dFrVgSTM5v7bRyZ3U0Zy0ZCRrYJVMcH3HEeMde0sqaFW6aAreBuiT9HF-WbBGMKsv6Hr3JxnaIOhNRZWPARmOrGHlVfPQWXfmsYA1-HfbCv0e5ZVx_tTSntv23GyH03aFaqIqmI1c29t3Mmk_BLM-YfFAm6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e طبق آمار NetBlocks؛ در حال حاضر حدود 34 درصد از مردم ایران دوباره به اینترنت بین‌الملل متصل شدن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-26T13:58:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "مثل اینکه باز کردن اینترنتا کار پزشکیان نبوده، کار گلزار بود",
-      "date": "2026-05-26T14:06:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 87400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RrMUDoqsgjuUMXo4OUz4X9Z61txTSjTqvrZ9YOfaqwISDXQFlMmbi-UaFN665CQlMrQ4oKZxddFcZiDdIhq8fEBx2b9Q6SzD3tf-zDBhyPTMkyzAXSRdxJeUpwEqMYyJ7Bg9Aqft4OjqTaaBTHhU_CmFp-rQWpThw1kaQlCJ2spJKoP2W2jVO-ZUHV-ea2CDcKju7vtuFuxrdnR3lr0NSKHCDb5XJ_WVh-YMS5ZYljLYf9oty2_rwgnRNrbCkEbcnNG359vwq2gG91yoloOHdYjNu6QAHH-CEIJD3qMvQLqW2Xi0HBUavx0-KvYLftE-Zao3HoOdHB4tkFW5Tl4hWA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "موقعیت:\u003cbr/\u003e\u003cbr/\u003eجنگ تموم شده\u003cbr/\u003eنتا داره کم کم وصل میشه\u003cbr/\u003eداری میری بخوابی که با این شاهکار روبرو میشی..\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-26T14:34:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/smtz1DJE8NLEmrL3EMzVjlhkqAJ75PCCLE3xUZyrcCMwxFC_lD8MT9SRer9npVdS8RGyVhssCP2F7z5csDbDZw1Mma3ZefjfKWig-nFgdgyL2dYe1vMKbjxFsaVkXYEXAHQG-Q6iJiVl9EZ5aaZFC8VR1eFrLw1_3xzTL1W4UaGz24Ojm4F9sM3H4ng1ipq3dq6jcw50BlxEeIvxAn0iYH8HJWOiE11H2tkeyTGiyW7Yf37nd77M2gu1Pba1O-ZXA2Mbs1_it4elC4jiNnNxdPGwPNK_4OHZhisObpEXzz5wvp1nGa9M7mmSB0OMIhoV3CiYm32fg6ci6LXzOFzCnw",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "هم‌اکنون وضعیت کانفیگ فروش‌هایی که تو این مدت داشتن گیگی 300 میکردن تو کون خلق الله :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-05-26T14:51:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83400,
+      "views": 97700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +31,7 @@
       "date": "2026-05-26T15:00:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82000,
+      "views": 95300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +49,7 @@
       "date": "2026-05-26T15:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84500,
+      "views": 101000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +68,7 @@
       "date": "2026-05-26T15:42:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81700,
+      "views": 100000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +86,7 @@
       "date": "2026-05-26T16:24:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 79600,
+      "views": 101000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +104,7 @@
       "date": "2026-05-26T17:15:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76000,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +122,7 @@
       "date": "2026-05-26T17:32:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 73900,
+      "views": 102000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +140,7 @@
       "date": "2026-05-26T17:44:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 72900,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +158,7 @@
       "date": "2026-05-26T18:15:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63700,
+      "views": 105000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +176,7 @@
       "date": "2026-05-26T18:46:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 99400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +194,7 @@
       "date": "2026-05-26T19:33:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3120,
+      "views": 90100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +212,7 @@
       "date": "2026-05-26T19:33:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2090,
+      "views": 96300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +224,129 @@
           "width": 360
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "خیلی زود تنهام گذاشتید نامردا",
+      "date": "2026-05-26T19:46:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 134000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "کسخل تورو تنها گذاشتن منو دیلیت اکانت کردن",
+      "date": "2026-05-26T19:50:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 110000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eوضعیت :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-26T20:11:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 82900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JlGykJemRR_9ZDe0nkkbFgJnyimBwIXrSNTK80uumM205kE8R_KTxJmivZRFIHk0kiNotDNz4Wx0y3gEolJhIy9fCGctcZyGVJ_e-ikququxPyr3U4aGmI3eyQntVv8COOtWoJxkCycLd-CjSibxdd9ZUtk9EiFdqKpnE3LUNVppG2wUfwNVwhoF2PucQlWrHJVwqb2b4vyde4xyM331Ge1CJ7xZ2z3Qy_aivw2OLTUGBxAJgYnn8fNoLemCC4vXga8KLZk7l1sF7l7o90jG0pUiWD04X17sgImChgni_GWvo1vIiG3jLoMxsur7SeXdWRM3UahAX_wGG1C6GxDVqA",
+          "width": 368
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاز کسایی که تو تجمعات شبانه شرکت کردن دارن میپرسن نظرتون با قطع دائم اینستاگرام\u003ctg-emoji emoji-id=\"5438622962716542322\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چیه؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eو اما جواب حامیان حکومت : \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-26T20:28:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 77800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bp6NPPTQ9MY_D0BGh0MdfmLzLP0p3rs8Shs7xuOHMTpagxa0CYhV6R9ezpxrCSNFXA_GI57HpVquXh1LsL3QiPrKp3ozubymflTVCBpif-aWFYn3MMTMDmeE56Co-DdkA-WSFtgztdVFsrT_e9riaikWKttztLgUN4_4s-t3g6fOyFZEk5Ic5iF9t6jCeNzdPllr_PW3_VOmZiTVJ_ln4A2HZbSimHeZP7GryY2R67amJdOgjksXf4_fqzvZNFVq9BmJxK8pA5Ae65XPynV4H_tvBT4B8AD6DaoWf3t4zu4oEb-FFv1pvqMAa1jWCKEUqAiaOBtewIM_Yfn3E6fE_w",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نرفتیم زندان ولی طعم آزاد شدن از زندان رو چشیدیم",
+      "date": "2026-05-26T20:50:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 64400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمحسن زنگنه، نماینده مجلس :\u003cbr/\u003e\u003cb\u003eآمریکا مجبور شده که \u0026#34;حق غنی‌سازی، رفع کامل تحریم‌ها و حاکمیت ایران بر تنگه هرمز\u0026#34; رو بپذیره.\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eالان فقط دو اختلاف مونده؛ بی‌اعتمادی ایران و جزئیات درصد غنی‌سازی.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-26T20:56:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 60400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/e2zuqQKf_UqvEBEIeGucPevHO8XZz8AThZ97zO9Rv2FJEsZY8T9Ir8htV7rrTCMf8PN2DPKQwh19msPPFYfrVGN48Y1rILCWaJ0WBHsnXuiHBOhG2H0WiCJT_hx77oFRhqLxkOtjTPkllKjrCdwkx7WCBy6QrKPD66Zo2pgTx3qBa4enXQ5DF4TvWrDDfI-9hTEpuYTQFzHwQw95F-lzF4iRNXwlUpmIRsyoQUPHlfN24ycyNi9gmGLxQ5Q108RO7QfqYLAhEsWySqHyKeJuUbSpRg4sC-SRqm-ppJEFuuE7nq7ZKhcMpJSHj3-bjrBTx3lvNF-uXf0xd9QZJiqvHw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e دست به گیرنده‌هاتون(فیلترشکن) نزنید؛\u003cbr/\u003e\u003cbr/\u003eبخاطر اینکه تازه اینترنت بین‌الملل رو وصل کردن، ملت همزمان هجوم آوردن به تلگرام، اینستا و بقیه شبکه‌های مجازی، از اون طرفم چون زیرساخت اینترنت کشور مثل همیشه شاهکاره،  پهنای باند اینترنت ریده‌ به خودش.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-26T21:14:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eامشب شاخص فروش پیتزافروشی‌های اطراف شرکت پورن‌هاب، حدود 200 درصد افزایش داشته.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-26T21:42:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GKWEMWDPXS_gNGQck6YPaeWUIwiqphtVaTRMwMk33ZGSx-3LtSzbCcP7GjjVqhCJ8Syp9GUF_TXQVVfeqdVl_E_Znpo7U-D75dOjhuIDJvtvtdP9ARvRYy9WwelofkowNRSHNIQPzNOXZJh17lUZw3sqzj4htZYkJVrjbLPzSxWstNUnYR9JnHZgDN663QVxIlpLZnqQXvHa4Jq8tySh6s2fWaDwTyUaDlxTiV-m1SkN-kmb2UrQ3Nhctp5nPadnUnq4s0KkTfoaG7cDEW_632NbrOoj3igEVQsbW1PwCkX1yodlCLdlvxLor9OZeuJGR2PnXVaQhfYe-hPqdiTMVQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1779824043
+  "last_updated": 1779831859
 }
