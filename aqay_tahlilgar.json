@@ -138,7 +138,7 @@
       "date": "2026-05-23T22:22:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 207000,
+      "views": 208000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-05-24T01:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 201000,
+      "views": 202000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +210,7 @@
       "date": "2026-05-26T10:41:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 216000,
+      "views": 217000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +222,7 @@
       "date": "2026-05-26T13:17:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 221000,
+      "views": 222000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,5 +253,5 @@
       "sender_name": "آقای تحلیلگر"
     }
   ],
-  "last_updated": 1779878351
+  "last_updated": 1779878713
 }
