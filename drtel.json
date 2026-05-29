@@ -8,170 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ثابت کن",
-      "date": "2026-05-28T21:15:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e شرکت Activision رسماً از نسخه جدید کالاف دیوتی با نام Call of Duty: Modern Warfare 4 رونمایی کرد؛\u003cbr/\u003e\u003cblockquote\u003eاین بازی توی کره جریان داره و گرافیکش اونقدر واقعیه که بعضی صحنه‌هاش عملاً از فیلم سینمایی قابل تشخیص نیستن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eهمچنین اکتیویژن اعلام کرده MW4 برای کنسول‌های نسل هشتم مثل PlayStation 4 و Xbox One منتشر نمیشه و فقط برای نسل جدید عرضه خواهد شد. \u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | theverge",
-      "date": "2026-05-28T21:21:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 164000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FODeBlt3LwiwNDKKE6MuhoSW5LL4GCcxwsxWtEhcWq7_dGUHXII0CTECsxp6HybIiE-XmyNkdefSLqMhQpM_3qb2jcnzHCbn5i8JCPSVFLquvdskxDev36FLcIBhNy6ZITDr-NHWB-qW9itt7c2EhmcVwKzeWrOakQL_MFcZB2FDhhY5r_cTLgG1Ra10v4jok7kz0u8EsZDEP6InUf6F-uQwIHthz9yMbaPZ98BfTVjuiJERHxxMswkzarazOgH0inlMFH92JwSBCtCdH-LKMDsks-kPe_wjfIvwKqPGuFOQ6VJrnHbuPhUOubMhG-A1woDZxJ5pzXisSKlwU_rB8g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/q5ihEhpPFPspasxSJd09B0FIKfP7lH1CxgCBbHgOnxbA5fEvSwv7Zbv3LNI2j6kyjJgxsRBaTfovtA7_VnSwY_0CNy1oU-fjp3L0tOQX7IBWWgGFLyO-daB9bD26A7CyErkBEmKIYRdKygX-fs9AbodQh7GAq9D_D-uPpbZMcTS-ai5cdT2W3H4L_PAnEHmYcFy1IcATqZ91dvYPZqvV2PeNqXkrCs7Z35Fd--oYrK1G6zD-LthU3TN2zfm1sBrNwWW_PkGnBZRK7gzUB7j498jWXaV7e9ZGivfsNy85cnnht9bRVHg7PecFgTeAdLQY9mbIbhAzGe8SC1jaWlH0Lg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NbV5MClDZx_aCmbW_zYToCRptS6HMjmb6IZZI1mAcXXqaHE_uLbD0ApOjQPUAaJ6FOgIAYsqt7ULTLcfTWRqzFKqeImITwyp-rrae4aPITyq3cJCn3uAbeWfRlExfxwF9R_qAneCRyH4UtFwKt-OJXlSsF08ABsDJ6XdlIEbLzWBDtu2CDfbpnt6DpubriTZl5-FmlgAt2fQVJV_UmLbmO96SbrFj_nh29fUrUmHFQvl4Tl56RD4qSUB-no-2Kpl-3ZzPYVC7cIauDyXT4djHLYbDeTX35r6By6dYPJ-gofpTZ9YjW659kZ3aqYlkXLxgjJwfKB2yYStQomfz3PCeA.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oZKXAhlGeGdIpa4P1NlgOkaX1Hwz3u2HsOGCH9iIV67YRKiVqAFiwWEL6vM6UYcx0UhUuhaMtZS6b1Rgo3CJb5GvlgH0-u3CZBL7tBkEcyxQ8o7AwlUxFfnfNbbhK84lwtNJG3TZuFIqkkjLTaGlkziUTpGYBcBKC4dANxLF1TN7Ghg1W3-_J_W2KGjdgJRVBj_fNbU2f4JmutJEYqDwZ6ZPNcaVcIjKxOd3IeMwwAWJ2rpwxVkJuYqnTXPRLbClNViF4z0nzWzgIsjU_4Nb4tHdrxWnULeCSgb2vnCBgVlfxD5IoR2HTCkqPW6MoKm020F6MAmHByeDWqUGwyQ5GQ"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eموضوعی که گیمرا رو واسه این سری از کالاف دیوتی هایپ کرده؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eکامبک شخصیت مورد علاقه گیمر‌ها یعنی \u0026#34;گوست\u003ctg-emoji emoji-id=\"5258083015996762120\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u0026#34; تو این سری از بازیه.\u003cbr/\u003e\u003cblockquote\u003e+گفته میشه تو این سری از بازی گوست، در مقابل کاپیتان پرایس قرار میگیره.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-28T21:34:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 155000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VTQt6UxNfOXy2cme89sWYTnYS4k7OCV0OpPsQX2-9tBn_QgIP_lPoQKOSGMgZkNbYsIDdHzNpPGrCdo0e_rSQjMlOUCQ5yOg-3j4bB0iI3yreGa0ApaG_HTC8FBuZTDeLumGG-wvHPDupAepBzGtdl0Tet-0-O37fa2s-PrldLbvIMTaT2Iz36s4vdTt8RbtsCT6kzwfqYQa9hLQTe7Q243lLB5Ig9BwebnaSP_nz2yhNkDc8ZgZPabz-dJjvU0Dkogu6h3L6inO2pPF_Sm9jr5O5sBzNkc2fNxZvXNx8TX_fscethGUA6uhERTtaS5qGwpqV83mxyByo0nzhD2juA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبه گفته کاربران؛ درحالِ حاضر و تو شرایط فعلی این فیلترشکن‌ها وصلن :\u003cbr/\u003e\u003cbr/\u003ebiubiuVPN\u003cbr/\u003e\u003cbr/\u003eVPN Hotspot Shield: Secure VPN\u003cbr/\u003e\u003cbr/\u003eVPN - Fast VPN Super\u003cbr/\u003e\u003cbr/\u003eBeePass VPN\u003cbr/\u003e\u003cbr/\u003eOstrich VPN - Proxy Master\u003cbr/\u003e\u003cbr/\u003eX-VPN: VPN Fast \u0026amp; Secure\u003cbr/\u003e\u003cbr/\u003eJumpJumpVPN: Fast \u0026amp; Secure\u003cbr/\u003e\u003cbr/\u003eVPN Windscribe: Fast \u0026amp; Secure\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e+ امن بودن این فیلترشکنا توسط ما تایید یا رد نمیشه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-28T22:15:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 155000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dT0AOjZZQoA3rtoUxo7Op9Mwq4hb90SJr5JTqcWn-oWzFq7BmQnR0D7KZLjVYV2Zh3gzcZNNJ-r64yHA0Rv-srq_VDtdQeKFitr7OH_2nVoXaxjv2gRJWZab3rInTuGheqqH_PPb1ublpRs5PDwQmbw1R17oe46bJjPaA8oTlPLsCHj3eG5oOszwuImvEXiX41kbeV4qH0-cKHg6gfWu2cBeN44h-FeisToLqwiOxsDkSbS206nVVw83oaB_tt-bN9UQVMXi3MKM2HUfk7x6DRDIreT7yV7mZl0DaZ8F0nA4bGI_MRz4nqBPk8Li1JGwsI4n98k4r--4hYeflSWKrQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کانفینگ‌ فروش ها نگران نباشید کمک در راه است",
-      "date": "2026-05-28T22:25:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 197000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "سلام دکتر \u003cbr/\u003eدکتر وقتی با وی پی ان های رایگان وصل میشی میری اکسپلور \u003cbr/\u003eهیچ پستی از ۱۸،۱۹ نمیبینی \u003cbr/\u003eهمش از تجمعات شبانه تو ایران میبینی \u003cbr/\u003eولی وقتی کانفینگ میخری میری اکسپلور همه چی عوض میشه \u003cbr/\u003eمیتونی بگی تست کنن \u003cbr/\u003eپس الکی نبود وصل کردن نت\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9894.png\u0026#39;)\"\u003e\u003cb\u003e😔\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-05-28T22:31:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eپست عجیب و مرموز اکانت کاخ سفید:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eLOADING = درحال بارگیری\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-28T22:49:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/isyNRkj6RlGDNVY9tz32bvEcWkcTzQOfPa6SLY1vdz7QPUplE2HG9FBBvTJjqsLzKb5AI4ArTjI0q9WqTCThtZWw1c5yzQpwVsbxKf3UVZFhTMZY0osb4FdvefWZIiS5wQzN3pp-xq8laVUjIcjBtP8KVkuXDivMU_Yd2jwBpXRjhEV7irJqOZlxGUJZRlLPgnC_DvB4eBLRb-bGoWyYHWXfZjKZ9omPVVMp4GXkuKGQ8RdWmFMqLLRN6_Cb85puqDokAsA4bg6UdumGm1fn1sUEzCLp_VpCWlt_5GHWz9uFik_75ZvUpCoa4CJUGY2y3Gst2-yziwRWQRCvqYgu9Q",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cblockquote\u003e\u003cb\u003eSportnavad\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | اسپورت نود\u003c/b\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5386777257140297398\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA490.png\u0026#39;)\"\u003e\u003cb\u003e🤐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eدیدار ششم از فینال کنفرانس غرب رو بین دوتیم سن‌آنتونیو اسپرز\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5470000872794634173\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9380.png\u0026#39;)\"\u003e\u003cb\u003e📀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e و اوکلاهاما تاندر \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5386359648880172607\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8697.png\u0026#39;)\"\u003e\u003cb\u003e🆗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e رو در سایت اسپورت نود با آپشن‌های متنوع پیش‌بینی کنید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ضرایب رقابتی و متنوع فقط در سایت معتبر اسپورت نود به همراه:\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشارژ از طریق کریپتو\u003cbr/\u003eواریز و برداشت سریع\u003cbr/\u003eپشتیبانی ۲۴ ساعته\u003cbr/\u003eکازینو آنلاین و بازی انفجار\u003cbr/\u003eپیش‌بینی زنده تمامی مسابقات\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5199749070830197566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5350291836378307462\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
-      "date": "2026-05-28T22:57:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Kifx7Ap4ujTvecjxSGhBQFSvH4RXiA6LZ2BHbGtYryexTvOAVcsPRwLLVsuLo9BcZ3eGWJmbfx_-0FgSFS-3nQWTMhFTQPrJEM9owHrd6Xko7Cul73jQbAoZA-gryWmBUAn2pDZHIDcaPcTGzfYfw7IJEno0gg_P9V2GbEDdgdULpgF_gbNda1GVGQI5Y-bKZjAVl-pXgSkJm1jfRQd3POAbHrFzV63OShOwULi61vz9U8dcp_HNylz_540mMTOWDtPNrvQTA6cFDk7TJm0Fl7jBwIiAsgcKQnkXzrVaxEnx8XWa_JIxukdqsU7wA7ZruGQm1dy3yPL_r7fh8QHWuQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبعد از وصل شدن اینترنت، ویدیویی تو شبکه‌های مجازی درحال وایرال شدنه که گفته میشه؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eنیروهای گارد جاویدان (طرفداران رضا پهلوی) وسط شهر، با کلاشینکف، خیلی GTA و Call of Duty طور، دنبال یکی از نیروهای بسیج که گفته میشه تو اعتراضات دی‌ماه و سرکوب معترضین نقش داشته، می‌افتن و می‌گیرنش به رگبار :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-05-28T22:57:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 173000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iiGWcvtz_2Aye58LoxRbgq9Kf70gyRZ7yCov6wi0ZkUZ-N9gafTbq6FwnhupVSGNcDBaYhQkl-hBDAtRx_e_r7513XAXI5gQRNHbYskcpjCH7QnOPxY6NykWGb6Tx20Do57Ffu0IadMG-Rwgd2_5TEgWAx_GSH5v7bhCF6v6GfU5ySQ-19R0-MepsKh5Iow6yJ5E6XssShHZYtZF7plGKNWdVeI4bYBWWkKGnoNImZFXJeAEoFrNzSZGfchckKyQCtScuj7ECr-8T7T8GLmVZuyWM5dPB20zooUypUiC3v0tCxr_dPxcFo5g1whoGEgdQjLBzE9_0MqDjKtj8kR3ew",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eو اما برخلاف گفته‌های تو فضای مجازی؛ ماجرای این ویدیوی تیراندازی که وایرال شده، اونجوری که میگن ربطی به بسیج و گارد جاویدان و این حرفا نداره و داستانش برمیگرده به یه درگیری سنگین تو کوهدشتِ لرستان تو بهمن 1404؛\u003cbr/\u003e\u003cblockquote\u003eبه گفته افراد محلی؛ دعوا سر حدود 50 میلیارد پول و اختلاف بین چند نفرِ موادفروش بوده. یکی از طرفا پول طرفو بالا میکشه و تو فروشگاه خودش قایم میشه، بعد اون یکیا مسلح میرن واسه انتقام. تو فیلم هم معلومه هر دو طرف آماده درگیری بودن، اول یه نفر جلوی مغازه تیر میخوره و زخمی میشه، بعد یه نفر دیگه میره بالا سرش و چند تا تیر بهش میزنه و همونجا میکشتش.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبعدش افراد مسلحی که تو طبقات بالای فروشگاه بودن وارد درگیری میشن و وقتی مهاجما میخوان فرار کنن، از بالا با برنو به سمت ماشینشون شلیک میکنن که گفته میشه چند نفر اونجا هم تیر میخورن. نفر اصلی ماجرا، معروف به «حاج نصرت‌الله»، بعد از درگیری فرار کرده و هنوزم پیداش نکردن. حتی میگن خونه و فروشگاهشونو سنگربندی کردن و داخل مغازه هم سنگر بتنی ساختن!\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-05-28T23:29:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 173000,
+      "views": 190000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +38,7 @@
       "date": "2026-05-29T10:20:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +56,7 @@
       "date": "2026-05-29T10:58:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90500,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +74,7 @@
       "date": "2026-05-29T11:40:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55200,
+      "views": 127000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +93,7 @@
       "date": "2026-05-29T11:55:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34400,
+      "views": 121000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,12 +112,186 @@
       "date": "2026-05-29T11:59:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 112000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote\u003e\u003cb\u003eSportnavad\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | اسپورت نود\u003c/b\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5289702264582193304\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e مسابقات گرنداسلم رولان‌گاروس رو با بالاترین ضرایب در اسپورت نود پیش‌بینی کنید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ضرایب رقابتی و متنوع فقط در سایت معتبر اسپورت نود به همراه:\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eشارژ از طریق کریپتو\u003cbr/\u003eواریز و برداشت سریع\u003cbr/\u003eپشتیبانی ۲۴ ساعته\u003cbr/\u003eکازینو آنلاین و بازی انفجار\u003cbr/\u003eپیش‌بینی زنده تمامی مسابقات\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5199749070830197566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5350291836378307462\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
+      "date": "2026-05-29T12:23:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 108000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/v-DU24ZnTw0dPLrP1N2zXI3K2M5jvaZdnj21myxvkgDud5yVe9STDMOgdjCDtTKTWq3XAsIxzQqUHfH-OU-8DdmoDn3p8JEGWwQfZEgaf5nZeNBlaCho-O8GAUbJctZaneFukxMFOr8It5pqs5cgjYXMGIimLiARcYDAHDYpKsY8wOkCDxIU2fiDHjY1aXB21hDUJk_2CZjcrLx2GAhESujZJXn1uX4QK1cFskp-L9I6C4VNVgxXLmFhxJg8mA9zNP-r6iqVhn8w5Qkda36O8hlopzPLoEqgVGscYKREF2exA1i4VpIAD5-_950THN9qTaqpQLL1-B7Ys8eV8m4Hjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاز ایرانی جماعت همچی برمیاد؛\u003cbr/\u003e\u003cbr/\u003eیادتونه تو تجمعات شبانه طرفداران حکومت، یه آهنگی از \u0026#34;مهدی رسولی\u0026#34;(مداح) معروف شده بود به اسم : \u003cb\u003eتو رستم تهمتنی، بزن که خوب میزنی؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحالا ملت اومدن بااین آهنگ ریمیکس درست کردن و ازش تو مراسم عروسی و دورهمی و مهمونی استفاده میکنن...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T12:23:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 117000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vsjJRXbgieJ-ihMtVRGfKGVerOwtsYhcIrh4S6bi_9uWawNEa92di1aK-cmU_H4JQlGSLzNJCIhYcA_MTs4R4z6t6x-XFJq_hlNQZT9kzw0GeTP4m0ApZZv-VfiH4o1ggir37SSYejMInnNN2Yv7Q0tFTmw4B8cgq6tc-S1914A1IhA5WKZp5mstjokn36BcjGV3MMwLtthqPR35hQIB7F0MpxEZHNZWwsbKPlcaOaWWRpWBv_RObFic_HZHj9Sq-h_x12AR33cc6VRzDy2b2gHbv0K5WfNzQ87moBNtDaxYnTSoeYd6tdsbWTh-9zLfpyCoMLeQflvknMc6LCCTsQ"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SuZN3Qy9YuKS-9dFQ2RQTmeFTVWp8vlJRk2QUGhHAz9HNrOVlVMyKbhlxQIr_hzRgEoEH7ymCZYW-N3Mfk5xva5UIEc51io6qNCV91ONkUfM72hURrnyfcBYNdj2e52r7QeO2xlyt0Gwa-ZTB_306Wxe4XH0VjRD4e9-1sznmAxnmnMq3QOUATKxb001HTiCai1_588lkWgmIjXOUNPOxKekztxvByAuQnfTQBJma1Ekq5D3cFcw13LbyYGk8KT4D8xl3125iMxiyiLWHhZBXXDr4_ADqYXY2CvHsYzrol_mcblPGUbOHytRu5YjJUanZmWIwE1w-vMtiX3UGU5F5w"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ZKUI7iO5nRn6lzNTryZ78Dk9RuA7rdiCGfGXyHWRiosSn66CgGlTTEs50SUr-VqXsoTOEKl51PB6aJP1AQQUGWX1uhqRXSTMnNkgVBzvzBd0AXVzEl1RrguDT7KQzoKYqUsF4Ji6ewQNcI3YzAHyEZbs30umozt1f1xxQlDfS7vtW1rVVT_uib1dbLRdoaJsNENv7q8pwtFHYNfUcOHq4HgJ-4EiteRlPHLUdlnbLeRsuWvx4ps_LNcoeO0CtupyoyYCel2FrjUSz-JUBZFFuGBEmqLTGCiwxzHv5cvgFGQLyZFVwfSy00Il3KRZmyrQuItZZBFVji5OSYB2LzvbbQ"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/UiQU2qWAZ7fttv87vSVMaIe8e5u7wwRkf6SmTNzNfsijD-MBzvPInjC_1wdt-IzSJ6btKTigQ7K61cpfwLZgeIRKNdtNHa0y7PVwHV4aSHIYwlHFY6-5KpdzAXvlV0F9SzsSb84586hEbQezmfu12KSvy2QVWVpueA9BifiTSbxRxa5ZyT1BUhbcHAt29ZR1w_vVpaZAhHdQFv3jG9MWTYiw57jP8HvyC4FO5LeB4zgIP6uFLuKi4FRZxSsmIonb4hYFWg_QPIEASq-jDh81O_k05mxS2oUW1JwdTZ23dbAqNQP3qePTr5Esa9e8Ov0kl04bpZnGAjcbg66BbvNS-A"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتوییت محمدباقر قالیباف در مورد مذاکرات با آمریکا؛\u003cbr/\u003e\u003cblockquote\u003e1. ما امتیازات رو نه با گفتگو، بلکه با موشک‌‌ها می‌گیریم؛ تو مذاکره فقط اینا رو بهشون میفهمونیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e2. هیچ اعتمادی به تضمین‌ها و حرف‌هاشون نداریم، فقط رفتارشون ملاکه؛ اگه اونا اقدامی انجام ندن، ما هم اقدامی انجام نمیدیم و اگه کاری کنن ما هم دیسبک میدیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e3. برنده هر توافق، کسیه که از فرداش بهتر واسه جنگ آماده بشه.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T13:11:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 111000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PEM1SZPA2j9orr0bpJ_XtqUbZITdpPGwFuhoA1vYej6d9UkxYX8lE-NrtE39IQK2xaz12VGkSbWiodS9FHMZ80_4ZAA7KOyRMJcEktPF9n2w2yTpbBhoEM8qsKHD-7TS-CJGRSROK0ysbs0guA0q6C7qp90npA0H3ciOiAwCY-r8r_D2qOuTFYAY9AKiVmunpw3xtI8dhD-_Py9vxNodZ9CWgoJTo43NuZLB9YBxr2ctzPV6kD-Hj5lQRx8PPo3BA6XuP3mg9oZpfwS1GkQ5SAxUnZ-gF8SmcVbdehOqw3t8_8NWRaFWlVO29ITgnT0WKf_FJrC3wpfmhnIm02mKBw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمحمدی لائینی، امام جمعه ساری:\u003cbr/\u003eشیطان واقعی اون نماد سنگی تو مراسم حج نیست، بلکه آمریکاست  که نمازگزارها با شعار \u0026#34;مرگ بر آمریکا\u0026#34; شیطان بزرگ رو سنگسار می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T14:04:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 94000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oc_Mpu1jaYwop_V1yhFdDPEk2qRm6NnYlSZUcz91fV1MmYoJT2lKATKopsOtHsdmN-h5MTjrf72Ptq9skqsn3CSuVZAXsgKt6UeRL0fsZHxnIsC_mqnYNTkHR-xH2DEYYoLuiQHdsgAO8oI7Kb31PUff_uEGoaio6XlpNSRRLYsCmJH8WrGbB5mS1l8uevfb9xvNf_T1gu67t83IzkSB1IjgoxMjQHkjlAgUyeJCVRSxX4T09fC8yKlQboSKj0wllxyl66BLxtXYbfFgfB9dP6P-ISP3Jekt4BPoTieECKshMgwRFCKhKjtqWz2OOgfWXtO_igrHReP10E7Gh_qmMQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eدیس حمید رسایی به مجتبی خامنه‌ای؟\u003cbr/\u003e\u003cbr/\u003eدیروز آخوند \u0026#34;حمید رسایی\u0026#34; تو کانال ایتاش، این پست رو که دقیقا 5 ماه پیش تو چنلش منتشر کرده بود رو ری‌پست کرد؛\u003cbr/\u003e\u003cb\u003eچه افرادی شایسته جایگاه رهبری‌ان؟\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eبعد هم در ادامه یه آیه از داستان حضرت نوح رو میاره که خدا بهش گفته بود؛ پسرت که داخل طوفان غرق شد، رفتار ناشایستی داشت و از اهل تو نیست.\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T14:49:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 82800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uzoIItsx7r26a7TaEFAGVfh8SBmU-bjw183VZ2yZMpIi5qsNvbfN0smM2AZoAAVMWfgUqD9LCWdQQPINzAf3JsOQ4_jRx1STXlti7DfY3L9D6Ax23JvEWugtwex6JtOfOUBrQnYsZ0eWHMdwNTYojTl2I6_C5q1xBY3_zef6ENBhIsOENC0Pc4C0m6JE4q-NNk7p981Qfq8HfxkCLFCWpscmsl4znbnwbpAdJfhrOP6vWN3II07PSqIJzYt__G_APGyk_iqZIj1lLmF7wTpSfBZYcuMWchrmJMQv-4bj699ed-o2lK_kw7z5HK18xFXwEc1pCqN21sheakaks0j9rw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e فوری از ترامپ : \u003cbr/\u003eایران باید یه بار برای همیشه قبول کنه که سمت بمب هسته‌ای نمیره، \u003cb\u003eتنگه هرمز هم باید همین الان باز بشه و کشتی‌ها بدون هیچ عوارض و محدودیتی رفت‌وآمد کنن\u003c/b\u003e؛\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eما بخش زیادی از مین‌های دریایی رو از بین بردیم و ایران هم باید باقی‌مونده‌شون رو جمع کنه، اون محاصره دریایی بزرگی که راه انداخته بودیم هم برداشته میشه و کشتی‌هایی که گیر افتادن می‌تونن برگردن خونه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاون مواد غنی‌شده هسته‌ای که زیر کوه‌ها و اعماق زمین دفن شده، با هماهنگی ایران و آژانس انرژی اتمی از زیر زمین بیرون کشیده میشه و کامل نابودش می‌کنیم. به نظر ما فقط آمریکا و چین توان انجام همچین کاری رو دارن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eفعلاً هم هیچ پولی رد و بدل نمیشه. روی بیشتر موارد توافق کردیم و فقط چند موضوع کم‌اهمیت باقی مونده. الان هم دارم میرم اتاق وضعیت کاخ سفید تا تصمیم نهایی رو بگیرم و بعدش نتیجه رو اعلام کنم.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T15:10:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 77700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Fbp04_-RuQKeeokNMVzgqJF08EPnGXU-8WfwsFKaxoFwUXz3sumT5gM54gJktmqTiHUmd7_0X5DkQadVzq5102ZlQRI2Mmx7LIygu4We4fXYxZCBk4WJHdHa-4fXIpmeCbmiT0f7JtTs5TszCtuUPf7C7kKLQm9ZY1Wwm9iHrLde8jwkWIg96eDlMltWmLIVR10vi_DC_GZgCcH6zuxy6jvhATuW2ewcfiCIeZdmAX8t6Mhrfk8NECVquvpnxSP-En3tpSFJqH5zhRtA41fLkZqMEfHNLXOQ5sQVsUJStW8e83K8dB_3fH2z5s9tMeFJJzHHMoz20ze2QueptjjpCA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eترامپ :\u003cbr/\u003eاون کشتی‌هایی که به خاطر محاصره دریایی خفن و بی‌سابقه ما تو تنگه گیر افتاده بودن، حالا می‌تونن کم‌کم راه خونه رو در پیش بگیرن؛ \u003cbr/\u003e\u003cbr/\u003eاز طرف من هم به زن و شوهرتون، پدر و مادرتون و کل خانواده‌تون سلام برسونید؛ از طرف رئیس‌جمهور محبوبتون.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T15:18:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z-vnNUyol2NuK-KVkvAX8PJaxHH5QzPeeyJAeMc235El5YCtSIC19YTAfTs2ppDFrw8UUN0bbk5xPXtOrsA5gxuOTE4BhrkbDeHQ4s9FpBka35OyX0U6bFo_Sn7-RTRzGKVT7mZi2y26w9J_lSjE_YKSbVYughMhQ3_estFPZy2rcfWFwBknmRufoioyvX_zCEuByNhOcebzxhtsTxRdQMXocWog-CInG-vabkBssW5vuzYM1XrXaI_BGyMthuV6zT_Vx9QYI_tikwlvRwPc9paFVBuKN9M1Xmt3U3b0ElI6YMEqoRSOlrS7g_gDWSsggjnIksBRS5xedGI4dp59Ew.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دست خدا عیان شد \u003cbr/\u003eترامپ \u003ctg-spoiler\u003eکص‌زنت\u003c/tg-spoiler\u003e",
+      "date": "2026-05-29T15:23:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eخبرگزاری فارس : \u003cbr/\u003eترامپ داره ادعاهایی رو مطرح می‌کنه که اصلاً تو متن توافق با ایران وجود نداره؛ \u003cbr/\u003e\u003cblockquote\u003eاز باز شدن تنگه هرمز بدون عوارض گرفته تا برچیدن مواد هسته‌ای ایران. منابع آگاه به ما می‌گن این حرف‌ها ترکیبی از واقعیت و ادعاهای نادرسته و بیشتر برای این مطرح میشه که ترامپ توافق رو به‌عنوان یه پیروزی بزرگ برای خودش جا بزنه. طبق اطلاعاتی که به دست ما رسیده، مهم‌ترین بخش‌های توافق آزادسازی فوری ۱۲ میلیارد دلار از دارایی‌های بلوکه‌شده ایران و برقراری آتش‌بس کامل در لبنان بوده؛ موضوعاتی که ترامپ ترجیح داده درباره‌شون حرفی نزنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eتا وقتی این 12 میلیارد دلار پرداخت نشه، وارد مرحله بعدی مذاکرات نمی‌شیم. علاوه بر این، توافق نهایی با بی‌اعتمادی کامل به آمریکا تنظیم شده و برای هرگونه بدعهدی احتمالی واشنگتن، پاسخ متقابل و فوری در نظر گرفته شده.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-05-29T15:49:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "قصه ی ما سر اومد\u003cbr/\u003eگند ترامپ در اومد",
+      "date": "2026-05-29T15:54:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
     }
   ],
-  "last_updated": 1780056881
+  "last_updated": 1780071289
 }
