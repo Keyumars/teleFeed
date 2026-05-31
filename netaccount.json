@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ccode\u003ess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988?#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://20d46aed-54c2-49f7-8e1e-b87eeb36168c@snapp.ir:8880?encryption=none\u0026amp;security=none\u0026amp;type=ws\u0026amp;host=beraghsa1ontop.markob.ir\u0026amp;path=%2F#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://360045e9-30d9-4f13-b9d6-9c57f6baab1d@45.90.12.239:443?encryption=none\u0026amp;security=reality\u0026amp;sni=apple.com\u0026amp;fp=chrome\u0026amp;pbk=fviTlCtkzpbYhTpHObiVtlgCaAT8LytP9eWUoa6Jfy4\u0026amp;sid=66f80bb224a5065a\u0026amp;type=grpc\u0026amp;authority=\u0026amp;serviceName=xyz\u0026amp;mode=gun#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;security=reality\u0026amp;sni=www.tesla.com\u0026amp;fp=firefox\u0026amp;pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0\u0026amp;sid=8c4907b7884b31\u0026amp;spx=%2F\u0026amp;type=tcp\u0026amp;headerType=none#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://5c85fce0-cbb9-45b0-8bdc-c30b2f55315c@62.113.36.13:443?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;security=reality\u0026amp;sni=cool.fasssst.online\u0026amp;fp=chrome\u0026amp;pbk=rRGxdvq2Jr4fi2H0mHp9Jal_S5TsM2aj53R1IPtbuXU\u0026amp;sid=278cb8c01b2dca\u0026amp;spx=%2F\u0026amp;type=tcp\u0026amp;headerType=none#NetAccount\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://b6991657-4257-4b34-a8c3-a3290d23c05b@176.122.25.12:443?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;security=reality\u0026amp;sni=max.ru\u0026amp;fp=chrome\u0026amp;pbk=z-Ov6K0L43xnjJ6RoZHRIa02pL4A6FRsEF8tqAKMnC0\u0026amp;sid=1a01c00ca256f6\u0026amp;spx=%2F\u0026amp;type=tcp\u0026amp;headerType=none#NetAccount\u003c/code\u003e",
-      "date": "2026-05-29T02:19:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
-      "message": "ساب V2ray\u003cbr/\u003e\u003cbr/\u003eکپی کنید اد کنید، تست پینگ بگیرید و به سرورایی که پینگ میدن وصل شید. اگه براتون اد نشد توی برنامه های مختلف بزنید. توی هر برنامه ای که از سرورای V2ray پشتیبانی کنه قابل استفاده اس\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003ehttps://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/splitted-by-protocol/vless.txt\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003ehttps://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt\u003c/code\u003e",
-      "date": "2026-05-29T02:25:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
       "message": "کانفیگ OpenVPN\u003cbr/\u003e\u003cbr/\u003eروی ایرانسل و آسیاتک پرقدرت وصلن، روی همراه اول و شاتل وصل نمیشن\u003cbr/\u003eبقیه نتارو هم خودتون تست کنید\u003cbr/\u003e\u003cbr/\u003eاگه روی اندروید ارور سرتیفیکیت داد روی Continue بزنید. اگه روی ویندوز و مک ارور سرتیفیک داد برید توی قسمت My Profiles و علامت مداد جلوی سرور رو بزنید و تیک Require External Certificate رو خاموش کنید سیو کنید و بعدش وصل شید\u003cbr/\u003e\u003cbr/\u003eبرای آیفون روی فایل یکی از کانفیگا بزنید بعدش Share کنید توی اپ openvpn و بعد گزینه Add رو بزنید و وصل شید\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eOpen VPN Download:\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/us/app/openvpn-connect/id590379981\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eiOS\u003c/a\u003e / \u003ca href=\"https://play.google.com/store/apps/details?id=net.openvpn.openvpn\u0026amp;amp;hl=en\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAndroid\u003c/a\u003e / \u003ca href=\"https://openvpn.net/downloads/openvpn-connect-v3-windows.msi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWindows\u003c/a\u003e / \u003ca href=\"https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMac\u003c/a\u003e",
       "date": "2026-05-29T04:29:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49500,
+      "views": 52000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-05-29T06:16:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47700,
+      "views": 50200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-05-30T03:06:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +48,7 @@
       "date": "2026-05-31T02:53:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2400,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-05-31T02:54:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2440,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,12 +72,62 @@
       "date": "2026-05-31T03:23:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 18800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "جوابیه به عرزشی ها در مورد اپستین",
+      "date": "2026-05-31T04:06:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dDGQziROtOIkwHqkZSqUiRIQnb-rdF52SZa0NVh5hicIi_rFo1oI2IVyDcOdXcuJN_NRJ8tNyBhy_kyv-Iu6MQxZV_7gjSnKSjouFGbUltzQKkmZgLe7xrqwxyv27MoEgNj24XdqRp5oUCXj5purojWk3mACq588HLhQUMU2zvlcsvTWw9yWi0Gm8tKXohCZv2ZY75VfoDmGZsTMBPe0A9CD40xQKxbBCd2R_yXwXdd6UjaddDAZnoPBfNbBMQ6YOgxIJYNSnkwEiGU7XwV2TrxGAxyC4dtaChtPtCVEm__a7j7dKlfV13UMVewK24sV_lq7c9goFOOZ_iFLS-wGtA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "آزادی بیانِ بیش از اندازه این بلارو سر کشورا میاره چون تروریستِ مارکسیست/اسلام‌گرا/چپ معنی آزادی رو نمیفهمه\u003cbr/\u003e\u003cbr/\u003eیارو معلوم نیس از کدوم خراب شده پاشده رفته آلمان و اون کشور پذیرفتتش بعد توی همون کشور داره شعار Fuck Germany میده\u003cbr/\u003e\u003cbr/\u003eنابود شه کل فلسطین و غزه و یک یکِ طرفداراشون",
+      "date": "2026-05-31T07:06:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rfCEp4-Nz3UoWFNypInLgALSr3-08diHb_NBBzWJsb2rdb2yMT9aeRErxpiKRA5jJ8om6avK7YOeoT0F8LXeIsL42Hr7OKsZ4UQN0dTZknSM208nGT4nL5b12JxQgm146AB85ADDQqRgvcN173_--M_xAErkSoZfGA0r7MN7sPmDwefhYuA-i7KCBYPmTjqg5WLyxN6wSV3F2jF4OzPDofB_S67wOnNU5SVXu0YHB8EPOzA6BXMMGEbMg2at90WoH18ZkKdN2p7erD5kyotKYIHzY9CRCoLGnAbtekRfpQos-Si-CkhrxDb6iwdpXG3BMqO1D9DS386FaxqEslKLmA",
+          "width": 478
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "امروز 31 می روز جهانی لبخند و روز جهانی بدون دخانیات هست\u003cbr/\u003e\u003cbr/\u003eدر نوبت اول: یه لبخند شیرین رو به چپ هایی که ضجه میزنن و خودشونو جرواجر میکنن ولی در نهایت توی تمام خیابونای ایران شعار جاویدشاه و پهلوی برمیگرده طنین اندازه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدر نوبت دوم: این روز رو به چپ های تریاکی که تَوهم میزنن و فکر میکنن اگه به پهلوی تیکه بندازن مردم ایران نظرشون عوض میشه و کسی جز شاهزاده رضا پهلوی رو انتخاب میکنن شادباش میگم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988A.png\u0026#39;)\"\u003e\u003cb\u003e😊\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-05-31T07:27:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1780198878
+  "last_updated": 1780213515
 }
