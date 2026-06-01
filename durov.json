@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5471952986970267163\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram becoming TON’s largest validator strengthens decentralization. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411197345968701560\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e It lets other major players join the validator pool without centralizing the network — with Telegram as the counterbalance.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5373001317042101552\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e More and more TON gets locked in validation as everyone competes for \u003cb\u003e20%+ APR\u003c/b\u003e.",
-      "date": "2026-05-05T15:46:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5411520005386806155\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F81.png\u0026#39;)\"\u003e\u003cb\u003e🏁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e TON leads Layer-1 blockchains in finality time. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Sources: \u003ca href=\"https://telegra.ph/Comparison-of-Layer-1-blockchains-by-finalization-time-05-01\" target=\"_blank\" rel=\"noopener\"\u003ehttps://telegra.ph/Comparison-of-Layer-1-blockchains-by-finalization-time-05-01\u003c/a\u003e",
       "date": "2026-05-06T15:57:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13,
+      "views": 14,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +81,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ws572cc38LzffPmj9IHS5Ye_2zwrEjq4C3dR0RT-T69gQWs-fpcP1OCZtyynLHONbnz1A32CJomrC7DzQJ07aNgXnpA9EezTEfwFdynvo9ySoQw2MfM8RWUujYmRPlsL8jMSuO7YwydXJ_rtbL3785Ubxop1o2rVIB69Tuahq67vmymf4-tcYtAGAeQLDk8pphJEWoKlf4peeA-yLId_uWleqBovRC4OBJRKaYQpc6z16et4A3dEJw3FsH82A9jJGVfXRymhIVVgSOzQzYxwiQm0zsJ6N31qziyHSTr02C_px9627nd4xyXJbcgs3QfOJSBAxpcxjv2uXg7kqC8rZQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/QvzRNwVs0ScOZLbzPInjw5ctetR5kpp6RaE24G2kO105H_weqPdme9NL3-57C02G7IWyHbaB2vtO_6URkReCTvGQBPIOok3xeh6guK8U5EFPke8eoC4r5k0hiRoXSsDih_3jukTPURIyYX6E5UthIWTMImibYTNJgHjUMIb4ryC-aWcxuSgmnyB_nhvetUzQip9vQdWoPSl1DDNKe8dxAGRKc-8rIxrMuHJLgymCSoIueqGm83E7cLlYYonLatfDObpcKdQrxyshvEAwhVO58nzld0Fxts3M00L65elxPB8jmXDBmQPDhVa2JwuBrZaeOxDc1HLc71h2GxRhIwkD1g.jpg"
         }
       ]
     },
@@ -186,7 +174,7 @@
       "date": "2026-05-16T13:57:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +236,7 @@
       "date": "2026-05-19T18:02:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +255,7 @@
       "date": "2026-05-20T15:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,12 +286,12 @@
       "date": "2026-06-01T15:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69100,
+      "views": 833000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1780328571
+  "last_updated": 1780345093
 }
