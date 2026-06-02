@@ -3,34 +3,16 @@
     "id": 0,
     "title": "Net Account | نت اكانت",
     "username": "NetAccount",
-    "photo_url": "https://cdn4.telesco.pe/file/eZTMF6afLWDd8A-1zZPxmpGfNIdouuxQCcqySACNX2ivAo0fraSVkHLLTNb1MjiYMH_NLtl7Plp7olNHWS4DTGZZZbNsjd-80clBq_-uYKAfo-w6lYhSzFHmeEm_ofCZfqu2cybBagQvp7fvRQnPIP2cCNB5JiR0-ivGSghtgQyFRzbyNJ6yw8zcTG7bmJRV789A2_-JFo40LtEN3TKYdKC5L1iJXKbud5_ruQ9tf9AZDIJ_Syd90H0h4F2pAnqSZRsPqOTbfsRMgZAUkhtx90po8O6nHMtspZuMi4YTXQ_jAMOB-SV2lkCssBltcbkg6R9e4HsOXN5jL24r3mvGjQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/mkheDDoxadgY1QqzGjIV93p5fLF_oDjrkoShRZlHAbEHB1FdVHR_LJkwL5aAFOs5Ood3uc23bEK2CVy6eVq1YdNAj5med9JZqqpFnwgpVhh9_smq05z0x-FcRB32qclnB_y4t3PwL3xo-vQfMskqmqyQq5V5qNlCAYTo6OVYabFOYxp8J__-IDWwUpd74IgBy35TzWkNTxv8sBWbzoI8Z86SifKuzmc6TSwGJKIqo45QSQMv4_7UH7Cm5PwEZp-UVsOoZGBWjJR5CBi3if9HmJbwlKCMgEb4aPn1tbIMq2D-bG32weGgL5IljlBdMmdmR6QGnXGze3CqJKlswUiP3g.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "عکس کارت دعوت به مراسم کلنگ زنی آرامگاه سعدی که توسط اشرف پهلوی زده شد و از ابتدای کار تا انتها، بیشترین کمک‌های مالی در ساخت آرامگاه از سوی اشرف بود.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eخاندان ایران‌ساز پهلوی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/blockquote\u003e",
-      "date": "2026-05-31T11:35:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dt-ZRruR4rJjftUEzVflIg4EVnS7nsu_0M5-JjGuWbogXMRhbG3Rx7ocmE87P-CivGdX2IrvOwq0p1K3Hr6CZh4ed1bJE_D1A-NIVY6EDRN0kjc2Kz7uNjgNCVX-fLbtELxI__XFghbmbzbyt2K6aisDxIpH-4n0oj-81LAcjNZEePUKEvcvns37vlP7x_j9F3Ow73pq2f1TWBBl2cu_pScvUEuuCitR4OurR_jLQNe3l_-JQiQKMU6UFtd08XUolmRbRrTQpB7urpGiV97eOTzak8BdrR_WZKLKo8ZIVZsc4dtOv5gH_U4tXVcVa2qS-Hc4sbWNlM98cGZ7c697Xg.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "برنامه OnionHop برای ویندوز (مثل InviziblePro عه اما برای ویندوز)\u003cbr/\u003e\u003cbr/\u003eروی ایرانسل تست شده احتمالا مخابرات و آسیاتک و سامانتل هم وصل میشه اما همراه اول و شاتل رو بعید میدونم. امتحان کنید شاید نتیجه بگیرید\u003cbr/\u003e\u003cbr/\u003eبرنامه رو از گیتهاب دانلود و نصب کنید | \u003ca href=\"https://github.com/center2055/OnionHop/releases/download/v3.0.0-pre.2/OnionHop-Setup-v3.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک مستقیم\u003c/a\u003e (حجم 125 مگ)\u003cbr/\u003e\u003cbr/\u003eحتما وی پی انتون موقع اسکن خاموش باشه\u003cbr/\u003e1- بعد از اجرای برنامه وارد بخش Scanner بشید و Transport رو روی All بذارید و استارت اسکن بزنید تا اسکن کامل شه بعدش روی گزینه Use Working as Bridges بزنید تا بریج ها روی برنامه اعمال شه\u003cbr/\u003e\u003cbr/\u003e2- به قسمت Settings برید و بالا روی بخش Network بزنید. تیک Use Tor Bridges رو بزنید و Bridge type رو روی custom بذارید\u003cbr/\u003e\u003cbr/\u003e3- توی Home برید و تیک Smart Connect رو حتما خاموش کنید و اگه میخواید کل ویندوز از حالت وی پی ان استفاده کنه، Mode رو از Proxy Mode تغییر بدین به TUN/VPN Mode و در نهایت کانکت رو بزنید. ممکنه کمی طول بکشه وصل شه",
       "date": "2026-05-31T12:00:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "date": "2026-05-31T12:05:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37000,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +56,7 @@
       "date": "2026-05-31T15:04:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +68,7 @@
       "date": "2026-05-31T21:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "date": "2026-05-31T23:27:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +92,7 @@
       "date": "2026-06-01T01:06:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,11 +100,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/g60dMwv94lyeza248-ZrMrygzgwVHhG_FaikC9GtpCNxKFRg1ojFD0WZC5w_rO0Q0P1S8-SWxlmv34s4NIfh6LAPD9UcfLgHwyZRDyFAKjC_cWC5jdYuXygjkITCtNU6sPXYBCEAnWsk_gtFd1j_VEbYG551zAtecndFVx-1DdyIxmpriplp63t_nFsmO3Ie-sxVvJLAzpMEfoD4hcL-kD2_q-60q-AYEuLgO_8l8IeCJWOj1FvejJyL0DTqr13tHudV6gh0Ot9ERH-mMmdLgVF1ET4J6cGRb6hR3Z7CDfvF_igeZMK9b5MvV7FkFTrXHm_Z5Y0DkXTi0eBpWK8ObQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/HgbTPwFZcdowwJ7xnxmTVTKdPoPknY9re6K8b3ZnquYH7m-FiKYpaDYydqOrngPe0C2IMmjFSOfcx_tOFYyXcJmt528A478lwvcE5hQBGh-MIww8MXCaOPGfYZwifECWPwlbl_ZEphI4BVfZy-8qouX8_wi8Gv1uE0IiZiwyx_R1sxhFMDUYOimjl-MTVnonxfwNWtoUflRx944Hc8NXTXSGpumrJfFkx2tFd2aF0HMJD-6sHEOi-6cRe3fmmn3XZdS-8Feq2bZ0BXi2aFse3k08V-eS684dcDsKEE7NHn2_VzPGLTscVH_Wrwf8RZHD47KXgn8Gd9ugNxpNyILhRw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oITNehwx24v9Lqo1wsJZPFGX9_d_U0EOTK4affTVaKUgqPp5BSiuf7IPAhGXk5ms-iqmX1Sr1I9KPEcIPSRFoSjGkFidl-lo6T1JSr9bt6echtG2AMHBG1U953F-K2pkDDAG_mW4KMWoH7qrQ_jC-AtAl-NhUWiyrsbbjmQYYllEtnaqoapXgZ_68MOO8LZauwYGPRn2r7P9Z0XAn28wepA3ILPio8Zy0MEuSYfmxummyK_2zeNeswlBuBP7awYQqTsVKMZgJlILYqMGbj624-n_LIES0PbYZp3x2vsCO_1fh5PP8UR0Xhn4OWe_2ZJv6vlDutfjQlBR-kx_7QQTfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/jBSuIN16rrnyraWe3ycOxoMlAT6tHlQ-bpuxbEsja9wJsP3Dk8ovkU09vvbIHWTUFW5U31s1zqmbT9a8AjQy61qCjxvn4eX38xaq_UyWMnX_yX5DuEGisojmoeyq7gYGNWTCmQsEByg2wdKZoUK54-K7SG0ECWHfMzQDK1V62OprM9vlXddMu8mlwgVQLkSmoI49m9xpI5X8n1l2puixwIz0ijWP8yX5ZXIPqx6iVsyKq2LJ5-RdJj3Wsm0wMOynDB25DDySs8l86guzKip9ywXLPfreY1Hxjh_8irMSZAAbHT2Njmehw8ipwgDrXB8lRT5osMBWNUxLtJFFr9Qq3w.jpg"
         }
       ]
     },
@@ -132,7 +114,7 @@
       "date": "2026-06-01T01:22:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +126,7 @@
       "date": "2026-06-01T06:10:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +144,7 @@
       "date": "2026-06-01T11:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-06-01T11:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +175,7 @@
       "date": "2026-06-01T11:59:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +187,7 @@
       "date": "2026-06-01T14:23:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +199,7 @@
       "date": "2026-06-01T15:30:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,7 +217,7 @@
       "date": "2026-06-01T17:10:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22300,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +235,7 @@
       "date": "2026-06-01T23:11:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6950,
+      "views": 15000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,12 +247,36 @@
       "date": "2026-06-01T23:17:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6100,
+      "views": 14500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "کشورهایی که در دنیا بیشترین فیلترینگ اینترنت رو دارن:\u003cbr/\u003e\u003cbr/\u003e1- کره شمالی (جمهوری دموکراتیک خلق کره)\u003cbr/\u003e2- جمهوری اسلامی\u003cbr/\u003e3- چین (جمهوری خلق چین)\u003cbr/\u003e4- روسیه\u003cbr/\u003e5- ویتنام (جمهوری سوسیالیستی ویتنام)\u003cbr/\u003e6- کوبا (جمهوری کوبا)\u003cbr/\u003e7- ترکمنستان (نوع نظام جمهوری سکولار، اما در عمل یک حکومت تک حزبی که قدرت در دست حزب دموکراتیک یعنی همون چپ هاست)\u003cbr/\u003e8- میانمار (نوع حکومت جمهوری پارلمانی اما پس از کودتای 2021 توسط نظامیان، قدرت و اختیارات در دست نظامیان و تک حزبی)\u003cbr/\u003e\u003cbr/\u003eخنده دار ترین چیزِ چپ، اونجاییه که اسم آزادی میاره. 8 تا رتبه اول توی قطعی و فیلترینگ اینترنت توی دنیارو حکومتای چپِ گرای کمونیست دارن و هر 8 تاشون متحدِ همدیگه هستن (آمریکا-غرب ستیز) و جالبه هر 8 تاشون نظام جمهوری دارن. بعد اینا به راست ها و نظام های پادشاهی میگن دیکتاتور (:\u003cbr/\u003e\u003cbr/\u003eهروقت چپ ها اسم آزادی میارن بخندین. نتیجه آزادی که توی دنیا به مردمشون دادن رو در حال حاضر مشاهده میکنید. اصلا اگه کسی پرسید چپ ایرادش چیه میتونید در یک کلمه بگید: کره شمالی\u003cbr/\u003eنیاز به توضیحات بیشتر نداره",
+      "date": "2026-06-02T01:06:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "لایو بامداد مراد ویسی (سه شنبه 12 خرداد | حجم = 7.2 مگ)\u003cbr/\u003e\u003cbr/\u003eعنوان:\u003cbr/\u003eترامپ و مجتبی؛ هم درگیری هم مذاکره\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.youtube.com/watch?v=C8J3QQ9bp-4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک یوتیوب\u003c/a\u003e",
+      "date": "2026-06-02T01:50:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1780359202
+  "last_updated": 1780377060
 }
