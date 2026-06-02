@@ -8,37 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برنامه OnionHop برای ویندوز (مثل InviziblePro عه اما برای ویندوز)\u003cbr/\u003e\u003cbr/\u003eروی ایرانسل تست شده احتمالا مخابرات و آسیاتک و سامانتل هم وصل میشه اما همراه اول و شاتل رو بعید میدونم. امتحان کنید شاید نتیجه بگیرید\u003cbr/\u003e\u003cbr/\u003eبرنامه رو از گیتهاب دانلود و نصب کنید | \u003ca href=\"https://github.com/center2055/OnionHop/releases/download/v3.0.0-pre.2/OnionHop-Setup-v3.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک مستقیم\u003c/a\u003e (حجم 125 مگ)\u003cbr/\u003e\u003cbr/\u003eحتما وی پی انتون موقع اسکن خاموش باشه\u003cbr/\u003e1- بعد از اجرای برنامه وارد بخش Scanner بشید و Transport رو روی All بذارید و استارت اسکن بزنید تا اسکن کامل شه بعدش روی گزینه Use Working as Bridges بزنید تا بریج ها روی برنامه اعمال شه\u003cbr/\u003e\u003cbr/\u003e2- به قسمت Settings برید و بالا روی بخش Network بزنید. تیک Use Tor Bridges رو بزنید و Bridge type رو روی custom بذارید\u003cbr/\u003e\u003cbr/\u003e3- توی Home برید و تیک Smart Connect رو حتما خاموش کنید و اگه میخواید کل ویندوز از حالت وی پی ان استفاده کنه، Mode رو از Proxy Mode تغییر بدین به TUN/VPN Mode و در نهایت کانکت رو بزنید. ممکنه کمی طول بکشه وصل شه",
-      "date": "2026-05-31T12:00:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/k5qSFzRCumk8ff45mO3DxhcF3LzNEe4mKldReghp2s1TRFSRL6ufP5buqwzlCZuE1fP0Igh-pRZPXR9nFfoPtrtOpDzsV2TL41zMzZRhFybTOiCyDPhezJxmgOVHpX2CUT6w0gcQjqa0jMFW-ce7oKdEUNPrJtBOU7BZkFg8BfGALnhT690QwO7Ux75qoqRfg7lFA51JYlT3pLwAKWu-p5jJts2515CwHeeZfxLAGwrXU1-GAqRKMi-hRJT1eiNRolpCiMKryq9M3-t8dLQQxcyCfl4TQNBAk0639OvfMDDrN7HUgsnDjkLAQOitfdxyvjhIdJYUc1HlvInJ1Voxng.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OtXI61ruxn7mg4w2SzNkXSzB5PsLy13XrlHRZpe0tVfCLol_ItNWq9DBf8haauC_FAILCNPFLiEQHnpBft5MKp1BAuHHb-KFw_wrZ-zPwHcIU7zskGsa_-iJiRAkW2XAQuYnkgjvgl02Zw-s9duPi2Z-IPwqEvg-OFqjDIvdZvaal2S10q2E8tlLDB3bOo0lRtGdNGQpQDJEZ1Qn17z3lhMEshCmlmqb-DaLlHg-iafwaFZbWpb2WPtCbOR5_ytVrQg6LVI32UbUlyDswlxNVsGPBerFSnzjiS1_4buxNnGBp2GGgBiWbNB0gg8RjivH8puNxENs-2SgleXRhVWBpg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HL-cCQVQ5Uo_0MvlIMc1bCMXEXkwcCVSxaqItujiunLkxbea8qX2NB5Ba3BmcJk2M6_L2CWruraWjyHXXTqg1Pg_dmMZxdrMOP7no6CGBV4bp3KeaPTmoW6Egoq8fXRwoVAfcWFjTJ7YYj3BKRcZ2xSXUwAL30Y6qv628c4I50_8KjcFO_r8UgAaWL3oz4CZJs4i9kQbWVwFzuAzeHv_rzw13e_qXb_9zO4-ka41-_mnraWioikWuzh8myOocRfvWhBHCFSFZ84B4DBc_vdSYzij7BJlmk0tGrxyDLGCDFv4g8KwjbihqIswEZyVB0c1JhE_34ilJ_e942jxgBt2ug.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اگه تست کردین وصل نشد، میتونید توی ستینگ قسمت نتورک این sni هارو کپی کنید بذارید و دوباره امتحان کنید:\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003egoogle.com, scholar.google.com, shaparak.ir, news.google.com, varzesh3.com, soft98.ir, telewebion.com, digikala.com, mail.google.com, support.google.com, email.google.com, supermario.corp.google.com, aharvesal.ir, search.google.com, tamin.ir, actualities.google.com, site.google.com, sheets.google.com, iranmatlab.ir, mizanonline.ir divar.ir\u003c/code\u003e",
       "date": "2026-05-31T12:05:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38000,
+      "views": 38300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +30,7 @@
       "date": "2026-05-31T15:04:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 37700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +42,7 @@
       "date": "2026-05-31T21:15:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35600,
+      "views": 36600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +54,7 @@
       "date": "2026-05-31T23:27:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +66,7 @@
       "date": "2026-06-01T01:06:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +88,7 @@
       "date": "2026-06-01T01:22:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +100,7 @@
       "date": "2026-06-01T06:10:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +118,7 @@
       "date": "2026-06-01T11:10:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +130,7 @@
       "date": "2026-06-01T11:14:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +149,7 @@
       "date": "2026-06-01T11:59:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 34400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +161,7 @@
       "date": "2026-06-01T14:23:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +173,7 @@
       "date": "2026-06-01T15:30:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +181,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dm7nKKBsyABdQyKJa0ni3O8UMiEQFTHLje86DJPzYmesqJzwUDF3ASV5tkCApXJOykvqxw7tU4j4nGLuu8HF8nY4qssu1Do_5JxjfM08dlYoupoEBo-AupC4U2znPypZutz7XXVpM3PyxKQxR8rBIH_qTmJxB00XKVu3h0AQS4gaWqfuJ6b1ZVvFNMwlLFy4iIJxjlUsecMTinmVdsyMkCWf5r5_WaYmhUNBWB055ejZWjSd_D2mgs_W0O4d2QaRGzjc_IblFOHW5F6xP2ySnnAh-Hh4mzROIPgDO-qI-OJzZL0UDv0SiWqqOoO3o4xoMQE_bWBbSCzsK9MxaNFZFg.jpg"
+          "url": "https://cdn4.telesco.pe/file/DngoUJOBcUyhs6gH9FV4lZ4YlfUrQIXd-I2zhJHFpWPr6zHjqvFqg5FhfWRQK2GO8VLPMmOmmi-IiO8CQCOX1cYm49UOjqxywIFeSCSkT7zmQeouRn_1wfhj-Z_0rnGfMceGWCPadZtA6y0Rx1wPUPT48b-JxFFfZ5jnEwZktUHR-i9BKX6eod-6__3BzAHtxkDyg_T5C38OqL7QGKcNnMIKZo_KxVCs4a5Oa7cCxxpoCf460-XkZK_-SXg9EzemFeJEji1-bgVMTNdS6IUDw6p3o_CXUai1Dsa-ZFZ9eAMJKrz6pK8Et8wNjfrP_aSVVfsiEThVoZKZr56ciQ_2cA.jpg"
         }
       ]
     },
@@ -217,7 +191,7 @@
       "date": "2026-06-01T17:10:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 34900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +199,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HxzvPH8jueHZEFqFru0eZ3_Y2wccHAznmaq42Ak8g5tDE2YjZBKif8SSAhZucnyWbhGsnqa3Ee67ElGXprWbTnyxKPPABMzW1yecUXGKFodZbkVtzr3sMvKAyeABsNRF0I8sNL8zHWiOzbg-hurlmvGd-uyDtkhoJqMLNEEEUW_B0St0bpwSkhzIuZJgERC27c6H8eJuN95ZkSYexz1lKSRD_rW_pyB_jKlk-GTPht70rNkhh3HdlIFt8DTGFqsWq0BjRcibByCJ2iFPjlyAXDlyZcVyxXJ7pp7Plqj-ts5OKJrm5dlsDfk9GC-I-PnQoFKAu2tG_UFv5sxa21o9rw.jpg"
+          "url": "https://cdn4.telesco.pe/file/BiTCTmUipXTm00y4JTfTqSexYb6ZivKeQesHbmtXoVeA71ONR8uRvqCX8OrUMTURehKiTTMOi8csX7Aeklr81b4bn6K_DcqlGPIJQptJmpymheQ2nC_rRmvTZgUnnlGm9HUsY-8apVwwWilQcMCQZjSkYAVKaPW9VrLOQ3PCdbpKSFKRwxykhVb1Et2xCDcPdEQd-GHW6pG2dY39Ts6-TQEqNHKqxnUaoQw3YrtUPC2t8KSdnLeKDNJFObsR8ZBLYEOYbmh-43p21x4-uaBsdP4YAcclJ4AYgcod9rl6Jx5uV5I-wDJ4FZXh5h3MUoUcGPkqfDxmfAZKc9TpbQVE3A.jpg"
         }
       ]
     },
@@ -235,7 +209,7 @@
       "date": "2026-06-01T23:11:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +221,7 @@
       "date": "2026-06-01T23:17:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +233,7 @@
       "date": "2026-06-02T01:06:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,12 +245,43 @@
       "date": "2026-06-02T01:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 26500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "بخشی از صحبت های امروز شاهدخت نور پهلوی در نشست سالانه آزادی اسلو در پایتخت نروژ:\u003cbr/\u003e\u003cbr/\u003eمن اینجا نیستم که از شما بخواهم اهمیت بدهید. اهمیت دادن، یک واکنش منفعلانه است. من اینجا هستم که از شما بخواهم انتخاب کنید.\u003cbr/\u003e\u003cbr/\u003eیا در کنار ۹۲ میلیون ایرانی که برای آزادی مبارزه می‌کنند ایستاده‌اید، یا دست‌های خون‌آلود کسانی را می‌فشارید که آن‌ها را به قتل می‌رسانند.",
+      "date": "2026-06-02T15:41:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/Pr7FyvsA0_jT5KTWKGqrsAQtR-QTZ3EkqiPBrRaZIqbbyvigBor9dNmZpVC93F6gCGo8RUCNzVH250-q6wot3r0B9xI37oopkvvWS8wUcow5byE_SY0tLEq2JNDMre5_jBfhIlYK_79SpuHVlqDBMwB1KEy4OW1NOkDsbFwQmazfe9ZLlsopOHYeubWgmRvIr3tczQDp8Z5RlSI6S8B7EKBpMln4jg2Htf0yZHBso0ZfrQ7HwXym0N3B5w0Rj1CvPa2C_U7-Lo5coZe8RMtpGLyG9N8i1JkhMLUjgjYzWfmi4FDm8UapIcAope52v596HFCOlDQIC-jfmht78CGUlA",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"tg://proxy?server=37.27.192.211\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=37.27.192.211\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"tg://proxy?server=204.168.152.124\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=204.168.152.124\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=proxy.speedbreaker.info\u0026amp;port=25565\u0026amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=proxy.speedbreaker.info\u0026amp;port=25565\u0026amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=form.quickdl.info\u0026amp;port=22\u0026amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=form.quickdl.info\u0026amp;port=22\u0026amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=31.47.51.91\u0026amp;port=443\u0026amp;secret=ddecb813fb23747286cf9ac2ba887f627f\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=31.47.51.91\u0026amp;port=443\u0026amp;secret=ddecb813fb23747286cf9ac2ba887f627f\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=46.225.255.143\u0026amp;port=4455\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=46.225.255.143\u0026amp;port=4455\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e",
+      "date": "2026-06-02T18:10:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1780408922
+  "last_updated": 1780424079
 }
