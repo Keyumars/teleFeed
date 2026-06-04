@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "داش خیلی تعداد رفرال کمی میخوای, بیش ترش کن\u003cbr/\u003e\u003cbr/\u003e\u003ctg-spoiler\u003eاگه یه درصد کسی نمیدونه, که عجیبه تو این تایم ندونه, رفرال ی جورایی میشه گفت افرادی که از طریق لینک دعوت شما استارت میکنن بات رو(تو این مثال برا وی پی ان)\u003c/tg-spoiler\u003e",
-      "date": "2026-05-20T18:14:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Z82-XmUkDieNaf-iR_7FZgFr7Vfzan9kDi8Rtmu6_UARZLJ-XrEUqsDb6C8g97MEb6l37ocNzN0yKGrX5386aSsldwGA4nTMqc_wDvRe3TwWFZFnaBU60PiXI7qNmFvlS8m-YfIneqkuh8vdpF2OmA8IZysY9S2InWCJyMHy74QANMrdmoRKpLqJxDFpVhbUzeaNsLmMhhb0EjLjC7zidVrg5sFAzmys8zxTifcxEyY_qgcZdFvf4URSUPW57V1itfOcXC2LUVP5HiQKVJ0ua6KyuyN4MRJNujSc400gwDgLdIYF9gN6JtWUA_EAOqYpiYR3YNiG8Th8Fn2-exhBvw",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یکی از رسانه های دولتی اینو پست کرده \u003cbr/\u003eکه رشیدی کوچی نماینده سابق مجلس گفته اینترنت عادی تا ۴۸ ساعت دیگه به حالت عادی برمیگرده.",
-      "date": "2026-05-25T00:21:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JBaGjyTyHulkOzXN7jC4vxmnyoqMNv3QJryFEyzJGmrvOoIRJg0MfcYRudGoi6Woy3u3IexFz_yH1h_CHyse1Mj6bpO2w8vzsl8JmYgL-X_gOKTEYKLBwRRAmwh8pRot26u5C7_f7vFwjqiIIxx4QTAk_JYTC2TBdeZ8xQBaDEes0rrvnpLQr_JtrA52uQ4YqpYtKQORd8_--X7pxpQ23iKfO4X_ECtJozQFap_ffoLxnATlUAEGPJ1TL2cW_FnAWNHcXoBkBlFpJ1ZBiQmvAVgDOqXXttisBXUoAB82JR7L_BTYAn6n2xAWx6wJVBEBuLTisrH-UOLLlkjdxoSSIg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "امیدوارم واقعی از آب در بیاد",
       "date": "2026-05-25T00:21:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3750,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +24,7 @@
       "date": "2026-05-26T14:32:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 3660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +36,7 @@
       "date": "2026-05-26T17:38:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3540,
+      "views": 3560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +48,7 @@
       "date": "2026-05-26T22:19:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3570,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +60,7 @@
       "date": "2026-05-29T15:13:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2600,
+      "views": 2620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +72,7 @@
       "date": "2026-05-30T11:38:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2500,
+      "views": 2520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +90,7 @@
       "date": "2026-05-30T20:45:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2520,
+      "views": 2580,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +108,7 @@
       "date": "2026-05-31T16:56:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 2280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +116,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/s_6CzyskFr_E3n_pTFHtjYBDiYHUfnRdUSwr4a2oZ3pyOlY6pypedRsfwniOYR-ri7kixtrNkujDFFUHjgjjmLUGTnohBh-gPc2Z5XKR5nASfUMp_7_55wMrp1y3_gGsigLHCfvoDHLY85K7YrzcG6hYeGc2Ri3l-RKN0FZnZH0ThNojL5Uv6tiXUwhJtTntTuwlBJZ5d7IivkP7uNW3inh0lAPx1ObDX_JuYKOtluliPMze2MLsYXGWrUMOvlADd9rVgk6yPPJ-hKwVzHumrds1HeArzcBVUtpmlMNRPkdffvIkPyGvQADNGtp2HAit7QUHix0-rq1bSh2ygfm-3A.jpg"
+          "url": "https://cdn4.telesco.pe/file/p-J-Xa7F19rXGkfn-0tb09qK5vUcTKMkqdomsfGe9FBLydnr5WEGl9d4PydzT0zKSDzXQXn8UlgszsgMbPiTCcPNc1gMMNs8XDtqBGf9YZwr96BS2wYQyvbsmh9gvJ7TNN_WrfaEk_-RzZf2NQeHWGtzobaNNUxd1fPM8qNaNZgYlSdZ-cFWVdudO3urVSh4XA4uMErsWldJmTWXA30lwQJJCTGqFB-IV-Gj9yJdtudY-MVNv5meUV0Ne4TwQJFu2guXPtgicyLYrhBUIQA-EV0mNKtSgaFusL25kfgVw8TEneynBzhfzM2P5FhhvrXKkSR2RdNFBjpRNJPIWZD0lQ.jpg"
         }
       ]
     },
@@ -163,7 +126,7 @@
       "date": "2026-06-02T12:17:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1720,
+      "views": 1740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +144,7 @@
       "date": "2026-06-03T00:22:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +162,7 @@
       "date": "2026-06-03T00:25:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +174,7 @@
       "date": "2026-06-03T06:50:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +192,7 @@
       "date": "2026-06-03T07:20:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +211,7 @@
       "date": "2026-06-03T14:47:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +219,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eSvmPTHH5zvx8HOSyqj9UeG73lQ-tpQ0vuVcD-QlO83IMbVhmZ7NZWjemtQY5DjzV5KJ7Ve6mU50gabthuYjNgiGohqk7AE4J88cA6iuJaiCBQw1uT_WAvssbcGkgpQEDvFTBQg39k3WezhPc3MHCE_o7N2lIJx7qPZTY6n7ikuelrMcxqBmyIlWz8fRKUMNf-1yiOXfx28fnppeXNH-IGsYmZ-TiXdIaceSF_RemxrZSMhEdkTuk5e3MVDbKZB0QwWd8z3T9awlF4EFDISfW6ZnymUdervoM56gTGTpxIWrVoWcCsOaiHZVzXTaovrT7LLOZEM6uTYq1-Ic92BqPw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Ob1VmglWeAMoHB804ADX7ykQKdofPzm9yOUddwl9wuYTlEpuPSSHrBXxOYkf75IuviMWoHaZVe5udAF57NkkT0p5MchkfQcwqMo5Z9UVlkB8AXOriDdm4taXtlfRo4FXBi83JmqPrhXyvwv7rqmCIKANQSmBa2DIFktbIBd_pLf7ttW0k0TYqfNFwOftJH38rQwy5A1Th56kRo7UlH-XKoYo6KxOlp4rDXsBCz9hwKwvgNUALJ4KPa1AxqY-ydG3ikIyA7j5oIw8TW_BCT_vIsS_I_JdYrELU_QHy6-K1qnVAZXehKk8rESMxP0EvBGBqr9mxPuUVxA4jTj9EvH7rw.jpg"
         }
       ]
     },
@@ -266,7 +229,7 @@
       "date": "2026-06-03T20:42:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 867,
+      "views": 965,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +247,7 @@
       "date": "2026-06-03T20:49:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 868,
+      "views": 969,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +266,7 @@
       "date": "2026-06-03T20:55:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 793,
+      "views": 900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -315,7 +278,7 @@
       "date": "2026-06-03T21:22:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 758,
+      "views": 881,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +289,25 @@
           "url": "https://cdn4.telesco.pe/file/do_WZxxzpIhPKWXW5IioR4A-b6utgdZLpwGmIMlfjJ13rR9IFUc-JxKadtaCUE0Ar2aTnexesfdU_g-4ZocTZ5s6VwQ508yPrbC-oJkDmlQO8KTOXtXjallyolS5w0rfDJ06lisZIG1iSV_vDFh_OLXymCpOcCSJLLs5Zm71xEL3qaQ53LLVnyNmoxXkv3uavLCYFB_vB3r4Mw4bAL2Z73wGHN3eGUkToehFvfmASIiqzFbwd6a0Z7NU9VLuTL2OqgXOzWBf9-Pd4woxo1d7L648C5l2nSG249X4zxbdBAfOSD5N_PDqUxO-Edu7MlZ28zX_oEtViy0PLD6gWwlfDw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e اطلاعیه رسمی:\u003cbr/\u003e\u003cbr/\u003eراه اندازی پلتفرم سرمایه گذاری مگون\u003cbr/\u003e\u003cbr/\u003eبا افتخار اعلام می‌کنیم که پلتفرم سرمایه گذاری مگون رسماً راه اندازی شده است! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E89.png\u0026#39;)\"\u003e\u003cb\u003e🎉\u003c/b\u003e\u003c/i\u003e از امروز، همه می‌توانند به آن بپیوندند و از فرصت‌های سرمایه‌گذاری امن و حرفه‌ای بهره‌مند شوند. \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92BC.png\u0026#39;)\"\u003e\u003cb\u003e💼\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاز شما دعوت می‌کنیم دوستان و همکاران خود را \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A5.png\u0026#39;)\"\u003e\u003cb\u003e👥\u003c/b\u003e\u003c/i\u003e به این تجربه دعوت کنید و با هم در مسیر رشد مالی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e قدم بگذارید. هدف ما فراهم کردن محیطی امن، شفاف و حرفه‌ای برای سرمایه‌گذاری و مدیریت دارایی‌ها است \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e.\u003cbr/\u003eهمین امروز ثبت نام کنید و سرمایه‌گذاری را شروع کنید! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F968A.png\u0026#39;)\"\u003e\u003cb\u003e🖊️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/sarmaye_gozari1\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/sarmaye_gozari1\u003c/a\u003e",
+      "date": "2026-06-04T16:15:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 186,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tq1wWYJvajbU85BC5g6tPRub_oJjQjwjBNBCvch0bv316aLSgHtmcO8af0m9Y9eLe5QcSQMXzJ3Ed_8aARpJ1TnBB90MTECkC_1iB4uMb5IrHcheNWVLeWN_DKSPW_dcIadalU6Y26LKC4eG820OZ5yoQksZzkbcCz7hDP_X5r0NJZt-Pse9R4KNLP67lQvXokbV5mNcyKWFlrgHfpZT1p2ESipNgitt7RStb0pgySYSIS_xS5hJB3Gx9eObd-fv_-TLFfqw1wmF5wSrY-EZtoh79gtdB6mR3FQoRhfhoUlLpyYsKRg72Lp-0PBatqBCrTMoo0ZF_LwJ11tDKdGWOw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780582609
+  "last_updated": 1780594185
 }
