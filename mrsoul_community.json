@@ -8,95 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cs\u003eیکم اختلال تو شکبه هست رفع میشه\u003c/s\u003e\u003cbr/\u003e\u003cbr/\u003eفیکس شد",
-      "date": "2026-04-14T09:38:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?security=tls\u0026amp;allowInsecure=0\u0026amp;encryption=none\u0026amp;type=ws\u0026amp;host=2026.hhhhh.eu.org\u0026amp;path=/222.167.202.31:7443\u0026amp;sni=2026.hhhhh.eu.org\u0026amp;fp=chrome#\u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\"\u003e@mrsoul_community\u003c/a\u003e CPI SERVER",
-      "date": "2026-04-14T09:45:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mHi0qWfWyob_SqvkRhvOTwlC59-2GqBxe8uy5lQI1OR3s4v393z3TeqzwEbhIKY25udV85aY8QBqgqZTEUotM8lprdkX21I4AOD1lpY5n2i1fJR_gMESmrlVwWVLykXy84CjpLz_8186Wsle8HQHaw8o85aPFULrhCtTCYuv-Oa55x1DB8V7c70PkCzd7fxMyQ2CUhpw8UpQuoIFyjsSp72n373m1MezDIZLSmnlCVq4TG9UR_kI52n2Pmi4Xad6nB4tSTUVUzRb1eJfqFZrewu6GMu8E2qMND6f7Vk6IRVvHSeclz-3nA7Rt7fuX1IjhFj6-0OY8TBvFirVcDH0Mw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?security=none\u0026amp;allowInsecure=0\u0026amp;encryption=none\u0026amp;type=ws\u0026amp;host=vip.yaml7.ggff.net#\u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\"\u003e@mrsoul_community\u003c/a\u003e 100G",
-      "date": "2026-04-14T10:18:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pbzNtAoMLn2_eAWeKOXSt89ylLFDpmAAum-O83JchhUzLm-5xD5RqYSz2N_pZG5GlTsR9v-0pQXfPdyuvC0HWBKNstWtQbTuK2qsrD8drI90eDAJ06y772bnfOzOM0NspnIOrAIm6-tExB-PtSUpV05VrijuciL4cQTULx8ORB7oXeNLlCmR0oaG4iqCKjkqqzZVj1-g-oJ6Fw-kxhs0mhLwjy0rx0cA2f8_FyLeAYsk9liPilKHk2GTfxK3Ih69wDI4siQZdRF81LsrDFDDECtE3qqFp2Fk_IArQiK5DUB6tTv1aOjqHFpMpEc8qq4veAY3p7PtLvIlNTMstLR6Bg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "۲۰۰گیگ دیگه تمدید کردم",
-      "date": "2026-04-14T10:24:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "متاسفانه اکثر آیپی های کلادفلر دوباره بسته شدن",
-      "date": "2026-04-14T11:13:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "اومدیم دیتاسنتر مرکزی اروان کلود برای اپدیت انتی دیداس ، ست کردن فایروال رو روتر 0.518 سیمین و تانلینگ بین دیتاسنتر فروغ - سیمین به دستور مدیر اجرایی(تا حالا ۲۰۰ گیگ پهنای باند بدون فیلتر ندیده بودم)",
-      "date": "2026-04-18T19:25:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "Password :\u003cbr/\u003e\u003cpre\u003emrsoul_community\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e متصل بمون | \u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Mrsoul\u003c/a\u003e",
       "date": "2026-05-26T11:11:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9120,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +24,7 @@
       "date": "2026-05-26T11:27:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8950,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kxaY5_a8Y5jiWZlM0BkAB9HT8Mg_KBeaKF4NC3hnhJXIIKngTiRdWC2aqCfu0qSNetI7IhTJn9OJ5hTSqNWmBcCVYexf1j2cFKn8D_H7daj0W5kOZ8EGRsrOqIUQPmVD0ifeUWrmGDg-umoTSYoHKioHds-T19Y64lnrx--7Z5KwQ6YVPDkdTjAua-DCk1rG0Mza61N9aSDN0gb28aVYn6UyLrKtipbsa9Cp5SLV96iwfSaY85FFSL9pbhtGdmTzBf4RKnsRk2DNyOXqnEigod-niBEiBekKU2CHSAb2NLJCNHgiu_QD-SOY5VXFEKWtbunMyJsnObJTAyMM_G6PCg.jpg"
+          "url": "https://cdn4.telesco.pe/file/ak3A_vVvz6jnYtwN7igsaNnOM47VLbx3mttUPSy-KPgGGgfxeC8s4q4Zp3HqRIZcU6ShB1h00MzFXxMOVLn3h7LcSvSDtsGOBvOr738rGA0p6OTPOjF-WG0RSOxcNMTiEGPBvvZGED1D1kuXbMRjdAe6kRG0ZuIixMzWrFPCT1kROo6oH0__3sFQCv9kH85QWSkhL2DTTxHm4R6VssZPQtsVXywN-_K8VkJskPZsmHJnRTMXVxZlCE8-oJ5vqYq2zEL4kNwU5Y3m0SsXiSC3Opo_GjxgV_u8jMXz-rQXjsfNY7TRKIUedmFuZbkOpfLbJyp3TRsZJ62OYrKNbWNGJA.jpg"
         }
       ]
     },
@@ -124,18 +40,6 @@
       "id": 0,
       "message": "یکی دیگه بزارم ۱۰۰گیگ؟",
       "date": "2026-05-26T11:38:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "Password :\u003cbr/\u003e\u003cpre\u003emrsoul_community\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e متصل بمون | \u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Mrsoul\u003c/a\u003e",
-      "date": "2026-05-26T11:40:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 10000,
@@ -147,10 +51,22 @@
     {
       "id": 0,
       "message": "Password :\u003cbr/\u003e\u003cpre\u003emrsoul_community\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e متصل بمون | \u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Mrsoul\u003c/a\u003e",
+      "date": "2026-05-26T11:40:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "Password :\u003cbr/\u003e\u003cpre\u003emrsoul_community\u003c/pre\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e متصل بمون | \u003ca href=\"https://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@Mrsoul\u003c/a\u003e",
       "date": "2026-05-26T11:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 12200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +78,7 @@
       "date": "2026-05-26T11:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +90,7 @@
       "date": "2026-05-26T11:49:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +102,7 @@
       "date": "2026-05-26T11:57:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +114,7 @@
       "date": "2026-05-26T12:03:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +126,7 @@
       "date": "2026-05-26T12:08:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +138,7 @@
       "date": "2026-05-26T12:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,16 +146,106 @@
     },
     {
       "id": 0,
-      "message": "هم اکنون شاهد ریزش قیمت کانفیگ ها از گیگی ۷۰۰تومن به ۷۰۰گیگ ۱۰۰تومن هستیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "message": "هم اکنون شاهد ریزش قیمت کانفیگ ها از گیگی ۷۰۰تومن به ۷۰۰گیگ ۱۰۰تومن هستیم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
       "date": "2026-05-26T12:48:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "مگه نگفتین اینترنت به وضعیت قبل دی ماه برمیگرده؟ \u003cbr/\u003eتا جایی که من میدونم قبل دی اینترنت دیتاسنتر ها وصل بود. \u003cbr/\u003eالان یه سایت میخوای بالا بیاری باید کتابخونه هاشو باید با ftpبریزی روی vps\u003ctg-emoji emoji-id=\"5337321984332146012\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T08:54:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "سیستم ایپدیت هم نمیشه با این وضعیت اینترنت دیتاسنتر ها\u003cbr/\u003eبعد میگیم چرا نت سرور ها رو وصل نمیکنین میگن میخوایم وی پی ان ها کار نکنن!\u003cbr/\u003e\u003cbr/\u003eاخه افغانی اونی که بخوای وی پی ان بفروشه یه ۲۰میلیون نداره یه سرور بگیره بزاره تو خونش با اون بفروشه؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T09:00:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/spDJHseTP93QUs3rkz2rF6iPGFOO8oNv0VC0WchnFT77b0dgL0LVQfNYkWsO0oLSlfBzqOU0HXVnr2tDLu63h_WArWhkob44qBTXnTrdjNLiiRdlzos419WcVtQ6q2gqUZwlmOMJ4hJhY4-X91GwsJbiYtIroTiq78mKR5dIEovqmHw82Ih_Uav5PCQIjCBMSPJGBSQ3V-_tRm_DXgBZSXAVEnBjUnX4ajvgvbfYh-9rIyGMxJ2iQ5Bu2lR8dpJkBEdxl8t64kRY24MyTURbLE-ciy2RuhNWAHz55c4hVEzrEachgL3nETeD5C7M-RhvIs5Z8tzdI0ZxkKYMLSrc5A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اروند کلاد یه دیتاستر تو المان داره به اسم گوته\u003cbr/\u003eشاید باورتون نشه ولی اونم نتش نیمه فیلتره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T09:10:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "در این چند وقت، چهار سامانه رگبار موشکی به ایران اضافه شد با قابلیت پرتاب ۲۰۰ موشک هایپرسونیک در دقیقه که تمامی اهداف و زمان شلیک با هوش مصنوعی تنظیم می‌شود. به چیزی شبیه دست مرده روسیه است، با این تفاوت که اتمی نیست(حیف شد). ان‌شاءالله اگر خدا بخواهد تا آخر هفته سایت پنجم رگبار موشکی هم راه‌اندازی می‌شود و وارد چرخه عملیاتی می‌شود.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T09:18:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "خب، به رأی اکثریت، یک اپ برای تقلب در امتحان‌ها می‌سازیم و برای سخت‌تر کردن کار، من تا فردا ساعت \u003ctg-spoiler\u003e۱۲ ظهر\u003c/tg-spoiler\u003e وقت دارم\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T10:27:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003cs\u003eالان یادم اومد اکانت گیت هاب به اسم خودم ندارم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/s\u003e\u003cbr/\u003e\u003cbr/\u003eFix\u003ctg-emoji emoji-id=\"5870690999042316944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-06-04T10:29:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Auto-Typer/releases/tag/Tag\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eBeta\u003c/a\u003e",
+      "date": "2026-06-04T11:27:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 431,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1780561363
+  "last_updated": 1780572728
 }
