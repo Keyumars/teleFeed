@@ -8,45 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "میلاد با تگ اشتباهی پست زدی داداش",
-      "date": "2026-06-05T21:07:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4990449417505997741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | یه بلاگر تو اینستا پست میذاره، مردم میریزن تو کامنتاش هی هالند رو تگ میکنن و مینویسن شبیه توعه؛ هالند هم میاد کامنت میذاره و تایید میکنه این موضوع رو\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-06-05T21:12:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dSCh6F_rhBom6y1GX8_c015iGpgyO3vHdrT-s_wxlaXv64ctgKvb9wYbp4PDzxHgbU2E8JURTMq0ILo_yswbQsigIJunr5DT2roYLSXEsNjkUQQ_jxzesUNey4y1b7CJvzG3ic2U6lZ-lzmtTsc_-j3sWIC0qIleCTrl9knzBCgzkz8MKptIeuLo6Pyqu0s0fWA5frPYf-_jFTezNKGr8M3gK8iRTEZRSCZceWP-6-9oHBimY3qVdD9T-2dNJoq8a68J1DMtPDx0ofPwnYBf17hEgJeScYBGBzbBQ8bSJWY5TM5PfmPTphkIzXbR7TbBUOtXyRjvLG6Fw5DK5PdjKw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FZGuGZxZJnj5JkJiWgJyfOn6FBmMwc2xSFS7fRuwMANr7yHZqX_YFWAQbV4xMHNa9ikYPBikNUVCfYjQbxg-yTpLsbvE4Lhndi6ZwmzkGsDdcqa7Ad5YVFHuQ7ehNIJy_VebmLfFwRwOr-Ud9h4wGFVfvGOGUrgXhdcDD7Nt9rpHDGVXkBP7GTVPrgfKZSHiD3PaotJ20qExUvD2ceVwgmTAxWbGRFSPJmxk4r-ppl81QSOOrvpO81f0mlwY98827QXZ5CCEoFWLcCXD3OWVtpLV_NGGvg5I25AEGCOvW_89_L6WmdJAf5TWdAiKZLtqeOAXQoDH9C3g1YaTpk2BeQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5821218288666942520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B2.png\u0026#39;)\"\u003e\u003cb\u003e🤲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | طبق گفته اکثر رسانه ها لنارت کارل 18 ساله به دلیل پارگی عضلانی جام جهانی رو از دست داد!\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
       "date": "2026-06-05T21:18:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
+      "views": 57300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +30,7 @@
       "date": "2026-06-05T21:20:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44800,
+      "views": 55400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +42,7 @@
       "date": "2026-06-05T21:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44100,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +64,7 @@
       "date": "2026-06-05T21:28:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44500,
+      "views": 55700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +82,7 @@
       "date": "2026-06-05T21:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41800,
+      "views": 53200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +100,7 @@
       "date": "2026-06-05T21:42:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
+      "views": 52800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +118,7 @@
       "date": "2026-06-05T22:05:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 48100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +140,7 @@
       "date": "2026-06-05T22:18:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 45800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +158,7 @@
       "date": "2026-06-05T22:25:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 46700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +176,7 @@
       "date": "2026-06-05T22:25:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 48200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +194,7 @@
       "date": "2026-06-05T22:28:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 48200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +206,7 @@
       "date": "2026-06-05T22:32:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32200,
+      "views": 48900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +224,7 @@
       "date": "2026-06-05T23:15:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 39500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +243,7 @@
       "date": "2026-06-05T23:48:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +262,7 @@
       "date": "2026-06-06T00:30:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +274,41 @@
           "width": 768
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "صددرصد \u003ctg-emoji emoji-id=\"5420315771991497307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5420315771991497307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-06T04:50:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "شما زشت نیستید شما فقط پول ندارید.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-06-06T05:32:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 921,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bMmeAowWPklvmN7R8zZ29xS5np5M0spiwGMWpkf40tJGYAaWJt1lHvZKeaI_4ivajeHdBjdd693Twhgqc0ON9GailJ8yW7tJTzv0Ebv1XpM1PBiz8qEfHSHjQaAKGBRFbvFycLqQpqWuELABJ2lnbuykWOpAfcDmY3zLnkSqQWnQ1WsT0NVHpddgxgyHJUCWgXMGVJCtCMqfNaBG90U64e1VBaa71qWdqeQzMghj7TKDRvhbB6BYfljtOqy9G8fAXXw_YQVEDnsQ_EJtWH2wYpK5ye52oR1GZi-wyVUgbI6_-4wKGgqo_WDXxPWPz-7vyUw58fx4KpmxTLfvZq7WuA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HklwVlP_6K5Tn9u5DOzc50sbaZAzDm2x4oDcgNG5j9So4F2HyvVu5RRwb746ZuDQAVIG3zZiz8MWeu4mnWv6wVcWAJs1HuVV0V02H1ZMFPy3f0EzcN4jkw6egGz-Z1VpdiY4g0wRWhysxBmSOSnf5TIICObDEycKJuvV5T0hNkAmeSkZjGDhDGC7wDahyB8Btqk0t0OJkzjmO4NVUwVcP4NSTSABjZGlbY1iaZKjCHlKnOKboUVKihVgnvkMCKxmsGnGwgTe5iId8LGYNU_TId_TDNKiUd3ZOGRH1pOg9yxAgMEBjEseg1ephQFZyfmFojehl-ivA_a_cjT4bglW-g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780709370
+  "last_updated": 1780724021
 }
