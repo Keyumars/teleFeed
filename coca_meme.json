@@ -8,254 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "شاهکار",
-      "date": "2026-05-30T20:45:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j3Z0MImeGXmY6Pgd-AM0nwK1yv22_4VpgWayWtqnpYwWKXBmpm3cw88EdJktokujXKU2_myo7mZCefXzkd4oFWwuStki413hemt2fmQBygmSXU-_vvASSryFGtijdNaSLVpCT6MXRzoy170s68IHQiXbdcVUHnM42nAKgjksy0m_w3QaI07iTGGokx1QTukf76Z2oEwlp4qwdKjCTCaIJaTOpEBm2MTrZ5RRBh1Q7djmzNvw61x0n6dl2LFeQ3iIiDuH7F1yJkBQlmrbcvRl9CjgVvYsp5ha8gXzsLPUWU8MMkqy_8q8s7oo98k3Pxh5XP02fBXoGyWRIsk6HfoXxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eطبق گزارش اینترنشنال، پزشکیان طی نامه ای به مقام رهبری خواستار استعفا از مقام خود شده است.",
-      "date": "2026-05-31T16:56:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qwhUwJTzsJSh2Z5WicWnnJZlmEEsi4ZkiPUR1uRyjV_okjDKy66wXoYSXWGboOhD4iDfOLLejnQj03JDbJtD5tLzoN9YEcUlmSQHPBdB86ULdon8cLY3gfwqJ89sbtV876yEwBMshlvQmRD4gtJrkWmPoH-3V29OPO9cjmJbTgmLy_5QrpLhIVs4-v5ZHmMLcxj90H5IW-YCWR7yfXVfYPmZ6c36CXWq4JvC-SwaEWVc6ZJgBNE1R0ql-WdjVvYFq28pHB9MzULr1Zf1knn7HyNz3vDbk3VWRXjp1CdhD_2STo28HbZnHLc8K_x0B_NYRos7WOdxLWv6kL97Aa-hwg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "املاکی زن جنده ببین داری به کیا فرصت توافق میدی",
-      "date": "2026-06-02T12:17:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2280,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/drj9tKyIVPT4nQJEDcZOqXtym6AH33T4XQ3xH85ys1QxkVSNK-eSrMd-F9ObBJAfhebNWIaR-LlKDKqL4vtZbrFd1GwJXX0zVVZl8xsjLhBfjD0ydRq0RCUwkLsYrsGb_8ceiL1epoaaH_FnClhUhGWzU2oyTM20713yEBWfA3IfP_PJw5cisxs_ftREqHRvl67adSF_zMFySeg4ha-_pobUPN7ID_bbYRbzuns1Sasjb4baoDMQewN59vbz_m6f1rDWCJFO1vPvxM4bO-2bHokqr558q7cdWtSOjounetlX0mJGtUo4BUESJOV81kG4h76zaCuaLkQr0JlqLkX1zw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ج ا به کل کشورای عربی موشک زده \u003cbr/\u003eهمچنین دانلد ترامپ :",
-      "date": "2026-06-03T00:22:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DCbnbMZy-3hpeDcTqxoNH8rmVOsuEYgH0P38PWpsbckzXruSIGfuqYpzIZKC3OP7lIP0lNZ9DpP_atUe1jarY9jfUdWJZ7tPCcetBCnEIPF4aYaaaIQIv1bk9QvQbOY3CP3a199c1wy_zR5QilSGk5Mx-s5CJlmEdEC4EKUBVWhP1QIR-awu_pex02FBNFfB298kW2cvEKRoZISDsPO3-WZATX2zZqosgGzlqficlqcpInnU8OzTa0rn9DhYj2NUyNsYDt1M_pAu5UaWA8_kVoiU8zMygcxRgNBtvdx19k7ev5zArwJZ473_ms8xtBL3cS80FavGepYnElNfRPByWQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "واقعا از خودم خجالت میکشم که سه ماه پیش همچین حرفی زدم \u003cbr/\u003eرسما مارو برد لب چشمه تشنه برگردوند\u003cbr/\u003eتنها رژیمی که این وسط عوض شد رژیم غذاییمون‌ بود…",
-      "date": "2026-06-03T00:25:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eتعرفه پلن های Silent VPN به شرح زیر میباشد....... \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eبسته های ویژه ۱ ماهه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A0.png\u0026#39;)\"\u003e\u003cb\u003e💠\u003c/b\u003e\u003c/i\u003e5 گیگ | 44,000 تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e10 گیگ | 89,000 تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e20 گیگ | 180,000 تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e50 گیگ | 450,000 تومان\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e100 گیگ | 900,000 تومان\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e ساب لینک\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e سرعت بالا و اتصال پایدار\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e مولتی لوکیشن \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e پشتیبانی ۲۴ ساعته\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e   چنل : \u003c/b\u003e\u003ca href=\"https://t.me/SilentVPN_Service\" target=\"_blank\"\u003e@SilentVPN_Service\u003c/a\u003e\u003cb\u003e \u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e \u003cb\u003e  ربات : \u003c/b\u003e\u003ca href=\"https://t.me/SilentVPNServiceBot\" target=\"_blank\"\u003e@SilentVPNServiceBot\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-03T06:50:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/C3If25NX7DFgxJrV9U7n-eRRnoT2bs6VRV4ZdjwNfL1zdp2PY--8Bsvy6zmdmdXb5NcglwdB0PF95b1SWSr5EfGo_33KY5gYxz51Yt5LxB2ySJHWKADLyfnYQDICTXA2kmJXU7PQTQ9klHPfTy3oR8D52ASlWVFHBiWUjB53GLLNJUq-ol96jXA_LzQWEt0JkUn_C65EsYoGej5crCqy-QH9BWOWhhax91ir_ksJNNxvT_1iIjy7n5ZeXg7147mHtMJBm4vDHHtZLTBbXSlmkmV92yyNc3uP-CDyQ7WUQYfHwjI9wImycov3KAyytBrXWAlXoSwqxUhOImDs5AJiGw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://www.instagram.com/reel/DZAwuGGMtP3/?igsh=bTVnNWw4eWJjNjE2\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e​\u003c/a\u003e\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-06-03T07:20:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/p_-aGf7R3VeVGdbI-jT8eFbiYPdJNIqHPgMXb6xBiFkGp9sxTvadaTyqpPASrUciRvDDMaPqbZaSEDkcxDKz3lLKp1uQQT9A10HIFHtwZ6D2XMPEstZfucH_oXoHwobt1JQj5JH0H3aNbLZvgdCBWbkXuZB3CkeHMRxqNiqMgMERqSrXkp4DVcMwKXyBxxyeppeU87s8foFKltpsRRIJMiI-qeroGRVFUuTvBLxN7T-I6N-1x38dK_MMOS2-9sHGPw-3sldKGPbxkcP8fHnkB0u5JBFVd-PajYd95A23_qmRlPnqpo3wBE6R2ji7AT3h7jCiEj989Z9s6ZuN1c2jmg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کی مامان اینو برده",
-      "date": "2026-06-03T14:47:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Jc1kyXMPSHtsDVRauc_Mfx54oCJH1gn1wGZAKQOndd0kv2sQPnlulnne04jCkOi9HectLROw8wOP_ckmFrfNbEIDHV3y_TTvrbaDf2n6ivrQbnxtwrowDGp86UnuO-BceTEEeWs4Eu96bRTjkYuRMLeqmNUECxTBvlMeFrybmH0HXnlzU4jrWLx2RWcZSMgnXRf5HRs7m-RR42O5XzNGZP682Wvvb7FJLsm_Hshvvbnimd9nCOfoCAwZcSb-KWV-EsFRZwbjc5x5THxc4rPwVfgZy5aqd6jooMnwbbRvijM-wRx0IeMzChPjdgad_TxWBgVpETxhMYHtGZORC60TSQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "انجام طلسمات سفلی عبری یهودی اسلامی عربی هندی \u003cbr/\u003eکارگشایی\u003cbr/\u003eبازگشت معشوق\u003cbr/\u003eشکستن طلسمات کهن\u003cbr/\u003eبخت گشایی\u003cbr/\u003eازدواج با معشوق\u003cbr/\u003eمحبت زوجین\u003cbr/\u003eعزیز شدن خلقی\u003cbr/\u003eزبانبندخلقی\u003cbr/\u003eرزق و روزی\u003cbr/\u003eارتقاء و مقام و ثروت\u003cbr/\u003eدفع سحر و نحوسات\u003cbr/\u003eسحر و ابطال سحر\u003cbr/\u003eسرکتاب\u003cbr/\u003eموکل گیری\u003cbr/\u003e\u003cbr/\u003eلینک کانال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Ostadask_5\" target=\"_blank\"\u003e@Ostadask_5\u003c/a\u003e",
-      "date": "2026-06-03T20:42:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ksef9oNAwRMykNeEt7iM-kCmaT9TfLUgwVPx_y9QTo0cT4qb0BzOhtx8mdCiQkqloCbJoHIIdglzByHWU0mDYDXEkpkN5EOszm4O_xJASOIGAQlZb9LgmdC6ARX3Lrld76ofzgcKmPBEI8VMTFLSNcFrMigsjzRYkzrHmnfJGY1z_cbA3zYxroIsMozpaN0KpB33PKmYsdSTLT8sGcdZqOUOPIkbC7N9BIPIayvsdQVVwYxTw3ol5RmA60dRtBwtQj87WgQralfvtPIgGxeE_aFf9MxveW89aVfC7gabF59GerkjWuZ5Xbdr6yd9eAwVhg5oUlO5iSEpkXnk9wrzUg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمیگن ترامپ در پارک زرقان شیراز دیده شده.",
-      "date": "2026-06-03T20:49:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QnL7NJLme5IQXndI97FJ0BTyuiSjaFdR5aegJPxcinW9t4Y5xErYJ7OZHFxTmIIhmb7YpslAGQfUlEErnjkU_AQgbdcaZvsQ9VF0XkOwnQ67HujKdhsqxG0BjbC4JgthDdUJzEqvfVmeb0oCkg1gYtV9AbNvSMi7rHVxt1jqiCS85gaXa4tgmKrJ6kPFbJJz-owql8m03cmdRkh2o4eLobE5Z28VHPFv11dXfejIDEpmomJ9zkIQNIU2N21oSpoVablEaQP_rR5qr2c5YD0icDyK5gtDs3Hx8qsamdYJ7McO7Ua4Q5MMOYcC2uqnnjTnuvIM7-WH0dFBlBfq6UCbNA",
-          "width": 704
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اونایی که داخل تلگرام اینو سرچ کردن خیلی جلوتر از ما بودن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eNiliafsharrr23_bot",
-      "date": "2026-06-03T20:55:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1540,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme"
-    },
-    {
-      "id": 0,
-      "message": "دوستان یه دستی برسونید پیدا بشه پدرش نگرانه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F998FF09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e🙏🏻\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-03T21:22:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HhvtyklGHuKJ3yneSUZk64zXzfEfjtiVIiVzdHAdAgk-GGD__5UkSjsGv3yDdNqKyXGf2QiPvFHAT5Rx9EehdgaUAynqsUST6F_ddwOZuqp3rhWgUP6J0eQvRlGK-QEY4vW5H5lfQ9mctLP0lKjeC1LGtZUt_sfZaWF_-6ZgBNwVXpa2R1lWCZ-4r6jeMwVkGMoDg4p-KaE7Rg1AYJlD2EE5SjDLlUYsgIT0AeGopNHCBb0RQ3KIYhQxffNsTu6wpTQTQf1rLrAuFc-h4XObWECo5Xf6DDNpAAMeCqheFth44jiTEpU_wXcnUd_MqOzh7fOUVCfHaLORZ83P9HDrug.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‏عکس رسمی تیم ملی نروژ برای جام جهانی ۲۰۲۶",
-      "date": "2026-06-05T13:45:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fpPcRY0Ej9fmQh99C_XIFamzzS_rdTBIq-WZHz_cJRL3gRtjHk-LOaPPHVkj_avFROkLeUY45_yNlSSTEl-fmTyC0e0GRqxnsLWDF1u0tFjHHTDFx-Mr-u3_ghqlmlHUe15WRX8C-0MjubXuOHcNmbRHddgm7_t6GKlc9WOITxpZECYyZL4fgUgUun26qxs4QWglozvDnEPkFigOrqZC-UY9s1JuR2FU5eeY5WmPr3iT-YwTEs3iTfLW4YcCGmjUZcgU63DPOyJRu4Cw1jK-zcDLyPCsZYiC_Zszj5tIpCfNJqmGKmTp7oi8RD_dy4Aheg5dduuYDC6jyElobJxuqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "حملات دیشب آمریکا به سایت های راداری نظارت ساحلی در گوروک و جزیره قشم",
-      "date": "2026-06-06T11:42:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 918,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HjabkW5XAy_KXAzWB3x5XMIR-zSvr64Eo03ZKuErZ2G68fD6TSBl729JDRuHiOYKM05lxycCjnSrGmvXFgOIYv8gSGz40t28xyaXDTzpkRG_VZ-_dfWOvpEBtqRHoQe-HHxcmHn3vLLzYb3waGQ42mQz8mPKEUKVrE6jVMICfCmFes-9j1UVJtgbEjTLFwP9874yp1gJKF7WS52o3ITnT-9aUVK6mffotHx7Yu6Ld9AjXPVLn0m1dYFJjJPP6WVWLx3U-EzF_QYuyykg84P8FvJZBv_5CJAJweYtuEhU-699K7CwoJLdvPR3Zjgs76OC-fXDkljS_EZkejJhsENlBA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "انجام طلسمات سفلی عبری یهودی اسلامی عربی هندی \u003cbr/\u003eکارگشایی\u003cbr/\u003eبازگشت معشوق\u003cbr/\u003eشکستن طلسمات کهن\u003cbr/\u003eبخت گشایی\u003cbr/\u003eازدواج با معشوق\u003cbr/\u003eمحبت زوجین\u003cbr/\u003eعزیز شدن خلقی\u003cbr/\u003eزبانبندخلقی\u003cbr/\u003eرزق و روزی\u003cbr/\u003eارتقاء و مقام و ثروت\u003cbr/\u003eدفع سحر و نحوسات\u003cbr/\u003eسحر و ابطال سحر\u003cbr/\u003eسرکتاب\u003cbr/\u003eموکل گیری\u003cbr/\u003e\u003cbr/\u003eلینک کانال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/doatelsmfaLroz1\" target=\"_blank\"\u003e@doatelsmfaLroz1\u003c/a\u003e",
       "date": "2026-06-07T16:35:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116,
+      "views": 645,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +30,7 @@
       "date": "2026-06-07T16:38:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90,
+      "views": 748,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +42,197 @@
           "width": 480
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "باز دوباره باید برگردیم بله و روبیکا",
+      "date": "2026-06-07T18:35:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 527,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eفوووووری اسرائیل هیوم : \u003cbr/\u003eاحتمال حملات موشکی ایران به اسراییل تا ساعاتی دیگر",
+      "date": "2026-06-07T18:36:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eیک مقام ارشد امنیتی ایالات متحده به اکسیوس گفت که ارتش آمریکا کاملاً آماده است تا در صورت اقدام ایران به تهدیدات خود و حمله، واکنش نشان دهد.\u003c/b\u003e",
+      "date": "2026-06-07T18:37:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 502,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003eشلیک موشک بالستیک (BM) از کرمانشاه، غرب ایران\u003cbr/\u003eببینیم کجا میرن",
+      "date": "2026-06-07T19:02:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 467,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "آژیر خطر حمله ی موشکی به اسراییل",
+      "date": "2026-06-07T19:02:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 508,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hbvWll6IDkRskz8iizFd3buD9B7lO060efhMGkHMa7qYGiwKPTJF1npXshw9ZVQQToMrG5eIjUWx8YBiVEfqtJ-YWc-XAINEOJlPu-aUJOx2xUj2GXp5xtbSMvIhcSXs5464zLcAIGijY8QFPetCeWCgYykID9sdE8X2K0A3pwFqF-XIWoxzqDVfCxC8rY4M-O5bf-fO9E1eiAkfsOS2Qyr0k-OdMoYmabxCKRciFaADhAf8UtU-aUwtsB_l4Zka-_mifGvwdup1TvB8oCCRWswZxeYtNUESdYGHZgtlxUSKu1np9u2Lrbtm9WkyFJY4UHKHCJFveZExRRr0oK_1Zw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتعداد موشک های شلیک شده 4 عدد برآورد می‌شود.",
+      "date": "2026-06-07T19:06:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 532,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهم اکنون حملات موشکی به سمت شهر حیفا در شمال اسرائیل.",
+      "date": "2026-06-07T19:09:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 398,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003eآسمان اسراییل هم اکنون",
+      "date": "2026-06-07T19:09:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 436,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/uYjfEWQem7fFiYFynQuZ0uwfZBlSbLhCSV5E_xBRIrSchvaWGE7SumhTyE_2_8qCjM3J1dqP6ahuA2gKUoyGVYJxGwqRm-yxcj-VXn2w-5nS5MmyVpNV2rl4uIbdK1eQ7n18YP3O8_qu3rdCeFGVuSLhR1VEOq4yYTcbHvdEzp3J38JsvMIT-RkVE70vsrF7uDPbUeXWQ51CTwF5Z_vA67_NXtMi798bI9Rfe7B870Nji1gyciODSBXqliWwfIxyl0jeozBMYhwbClWSKrEh_ByWdor3tX1197VulmMcfpWblVJwtGGgxAW8-jaQK-bZ7SGqT77-zptcnPsLDMxDHg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/kSKgAJsotZk8Gs-5lv1TAbW7c1vLQoxgK_57yzUi88pNvFcYTdJ_9PVAex2CXNj6ej4l4ZGDYFJ6zus63hEA-yDp7aQu_NE7evrBku_zpcA9Lfpg82Q-BpC6187ZUAn8438QUWxQ2hhF9Q6a9Jbm6m_clTdl1GGXAD7R38GyhWDAA7w4lIPfBdOTSmPKceh1nsCOBBsrSZPPmzcsXkDLyBkq-1dCouTBfTLi0FI75ppXXEE99MGVw_xfjLoawVgWYuI5_5lmoNsSKQ2G1nMi269JJ8d7OdIEyNJSNadq-doK-deQrNBXWwkikGF2ieApwDDYwBE-iTAny9Xh-zth_w"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e رادار کلودفلر اختلال شدیدی رو روی اینترنت ایران نشون میده.\u003cbr/\u003e\u003cbr/\u003e+کسکشا صبر کنین امشب میخواستم فیلم سوپرمن بریزم",
+      "date": "2026-06-07T19:13:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 471,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003cb\u003eرادیو ارتش اسرائیل:\u003cbr/\u003e\u003cbr/\u003eقطعا پاسخ خواهیم داد\u003c/b\u003e",
+      "date": "2026-06-07T19:14:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 349,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e مقام اسرائیلی به رادیو ارتش اسرائیل: تو اسرائیل چیزی به‌نام «حمله محدود» وجود نداره و اسرائیل به جنگ با ایران برمیگرده.",
+      "date": "2026-06-07T19:14:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 382,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eفووووووری/موج دوم حملات آغاز شد",
+      "date": "2026-06-07T19:15:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 297,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003eتمامی موشک های موج قبلی رهگیری شدن",
+      "date": "2026-06-07T19:16:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 209,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003eآژیر خطر در شمال اسراییل",
+      "date": "2026-06-07T19:18:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 88,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Scn3fa6mQr0JfKl9PFdDDhl6EDFxKTTN15MzHgE1MIwwjez4_GAX5XJClPBLQXugl-hPKqfJ55d-EgoN7WaAIJh3K4Q8G791sxKDpyc2P9b4OdPWpzF6DGJUg9ooRVZL9MsFTI-2Umpj4R8w-JkwhjkOgfuncK6_n_4kJ4bWxw4EBR5O2cEpwkXH4gwn6tc578XzpnL18qolu-_rsgkUtdk0iY9Z7vazyCdq4nIS9I6X-Gkf5wFzc_lWn6ryNPpd2fp3grhh_4UheKoIg9BXNfvPnPBMzJkA3rmc7zx19lRtYPjGZK8qSoq7pzutk6pmXWIve4gqYoHqkOyt-zfHTQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780851153
+  "last_updated": 1780862154
 }
