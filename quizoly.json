@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "به زودی \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-04T09:52:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VV1YuqnsLfHbnejDAF_DDTMGjwUHeys0BB5NJbKZJHYqRgmFaL5aElMh6WESZzLlV43q4xaicdJ1R3pl4zn0MNYeq-As8oSGdxx9NiPs-9c8Zzs51kz6zRwj4HIFoki9m7IqX8s7OK2sI-Z1WUXQRveJ6x0WOKzxB7ao3in6bR5NA3nabmGQrXU7DV_DML05s9vgoJSqjFC_uZf1CMVHe--yYZPLN53pp6w5gQOZwtBJp1ik5G3BoLxfdJuDzDOqeDevTc1n8VJzwL8AiK75CfVgpGJMRN_T89fJgtQ1fz40LHVLoejgQP1cDPXw_sxxo5ALyIAAbPy7eJBLohD70A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA4.png\u0026#39;)\"\u003e\u003cb\u003e🎤\u003c/b\u003e\u003c/i\u003eخبرنگار: آتش‌بس را چگونه تعریف می‌کنید؟\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eترامپ: در خاورمیانه، آتش‌بس به معنای شلیک کردن به روشی معتدل‌تر است\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-04T15:41:09Z",
       "edited": false,
@@ -42,7 +24,7 @@
       "date": "2026-06-04T20:47:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 96,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +46,7 @@
       "date": "2026-06-05T09:27:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 96,
+      "views": 97,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +64,7 @@
       "date": "2026-06-05T16:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 96,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +119,7 @@
       "date": "2026-06-06T15:34:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99,
+      "views": 100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +137,7 @@
       "date": "2026-06-06T20:32:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67,
+      "views": 69,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +155,7 @@
       "date": "2026-06-07T09:59:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40,
+      "views": 53,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,5 +168,5 @@
       ]
     }
   ],
-  "last_updated": 1780832836
+  "last_updated": 1780840179
 }
