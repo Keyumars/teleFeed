@@ -8,11 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاز ارومیه هم موشک شلیک شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:09:26Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمن خودم باب اسفنجیم و خونم موشک خورده ولی الان بحث بحث وطنه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T07:52:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62100,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,103 +20,17 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pO8KbWf_FTDGrN60IlhHbyrm_nam87_gPcYFer2wGCFzCLWrHGMhVD8ZcRdNjBmCJlopJQe9BCGZLDsAMLFtDeOZh9nhhzHortKnVcAHHRztCMaGRx3pO7FQkE_3_LgHr_SasKtm4cj0_mIppI26SRAkvSoRyxkHBgtw7ao2W-jZKwv5cRR9wtCUuZLo-uXSXrydP5PmX0QXQPeVUTPJtHlv1boiIIITyYXmyTcGdiEs-p3QkMh4XpGMy6mJGZ_099F-_06ceG6hnRvl0NPaUtoGLb7arR8ODWTnuIttMheUXr7bVTrvWcCysI41iHKeUO8WuCUPgNb8eflRvYi4qA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V9tg8sJAdIzWe17VNUFuxXjGO4HmMFTJ6Bt9iySoLNpp0URo7TF1ITUrcdQ5mDz8p3RHQgVYHmiSB8Kpyp1nTuKtlFVQKw37ZLZttRbEtvGbtrzg5NNNLoG6TivYiI0BaRXU_0lv8FISebNwNUEUjvTx1MDHzVX8kU6dT2_ZCLeMtEzDwiQR_dnqO55-a3i_Zwrm4KD59UvNh7gVAcBpDqt5ru7spco7Vl8ppasaGj0hgJKMtT1SaQOuZzZjOZ58839DH1W61-fztBY9TvO6lvWJaYcrBcxJm_XOYL5iyeSVjL2_px5yrhvVEGQU6iQxftpoCyM-DtvbqcsZkegFDA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uEh8cwGnaAwhauTH7HdtUlEHgYNErIuHReybI8dfafBFLiUqt79L8ZRGmy_sp8cd1wgnLkgZ02Uvx3EfwN-Mt_5oqgKzAro3cxNpCAw2AKrXUanBci8FxV-zvVubbs0dr7qidlCdErhlWI9oDjgZZpHNuCL5ji96FDVVsODuAVZ7beoV3PR5h7gtcKOml79m97-tRYj_gQuRrf5LHeOiSye9YAL_xMYOroLldueM8gHXq0fW4gRAlUyofapyFtLOYCxfQmvDMHleJndp6JDhuP6GOEIAQmMeOnV_hegGUd9-yDE62g2wphEUTutrMb65uaAQR1hIwpIkZOMCugpcYQ.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gubev_SCmsQTilpUG_zHVkRX12b1eO5HdlXZdE3tGSFcYrTG3TzC5rKKMTgZGjfhvkDrHzynD1m216f9BhY6Ta7HGbbVKnI4c90YYCxGVcWTkJwjXkcDk0IunX_vkwZ2c1_3eZ_EltuHLvtZeHCf6PL6smJLcbCGhuQBNC3TH4bePm5S1GqIVPKKQjJHXYAS8dFbY5aAM3kbWrdprfrFRNebLjntUrJkAPMeoVVXi9CPzbyjYIes4ATbX9JknC8pLYbJRSpDET-OFfNRXC0alHMskeGJTv-j3OtMMwZfTYl2JK0uw5TA6P55Hm5okzX40q6i9Vj9oYAOKnwiDzUlTA"
+          "url": "https://cdn4.telesco.pe/file/gHFZP7pKm0_WQ30slThYwmDVUogoCe0v3I_kmY9Pr8vlTeAk8lTOLfqfPbRMevJWjyCoos6jJO5_Nu-gSaq5hVxrPpeQQO0pmrM-cWm9VvxWL-gdfZcWWXEtOYNFyiqKhMq4MwdMDcIRLEk1Mun2-xZXgL92qFtLgKD_JcUweY0caGGUaWcic5XQdneka6osIu-ZPd3h-c1WyPWVzCDQJn5aK1PcgmnH21p95WJWvnpc3gMCuR0PjxTNDdB_gaqr0zs0aTo17LKH18u4qXdYtXk3y4WrDQ8eVK0yWl7bUEmGLR65G8k5KYZ6ga_iWOiwaD_QD3BqSziO4okT3ZYL9Q.jpg"
         }
       ]
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4983302733659374380\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاز اکثر نقاط ایران داره موشک شلیک میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:11:25Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبیانیه جدید سپاه:\u003cbr/\u003e\u003cbr/\u003eبسم الله قاصم الجبارین\u003cbr/\u003eفمن اعتدی علیکم فاعتدوا علیه بمثل ما اعتدی علیکم\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبا استعانت از خداوند قادر متعال، رزمندگان نیروی هوا فضای سپاه پاسداران انقلاب اسلامی، تو پاسخ به تجاوز دشمن آمریکایی صهیونی به یکی از صنایع پتروشیمی، دقایقی پیش صنایع مشابه تو حیفا رو مورد حمله موشکی قرار دادن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاخطار می کنیم؛ دشمن صهیونیستی با اقدام علیه اهداف غیر نظامی و هدف قرار دادن صنایع نفتی، بازی خطرناکی رو شروع کرد، که دامنه اون کلیه اهداف انرژی منطقه رو در بر خواهد گرفت و عواقب اون برای اقتصاد جهانی، بر عهده آتش افروز اصلی این میدان، آمریکا می باشد.\u003c/blockquote\u003e\u003cbr/\u003eو ما النصر الا من عند الله العزیز الحکیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:02:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eجنوب اسرائیل\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e آژیر خطر به صدا دراومده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:12:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mJdloKpu-O13BFwSqQrZUPUu51lN1jxjkZXlMw_MH5EoJDFOtOvpeyaSDnWjahKxw_HmoC8CoTy79xyAx2FSIYyy4_ofb8iYdvsNidXOFNfDvTgrtDsAFzuZBvVfdTJuvKQ4cEn9A9mlUkoifJv9twUEhGhZjegaea5CxvsJJ0eZiZkmqJzPNdce9jcstKqgN0I9XtY1wigJnbVrxeODwbr3A6i4UR7fyofmik4h0q9AB4aOnLoqVJvzLN6n29vj2bPtza7yh3ZAK1AGsLzsUoIBxLWSWv_DONcBj5QOAchsBpaxbLCQfE1VryhZXMFievzMFT7jOH7JhDv2_YDrYA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eدوستان لطفاً درجریان باشین؛ \u003cbr/\u003e\u003cb\u003eاز کرج هم به مقصد اسرائیل موشک شلیک شد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:13:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gMbQ0xJr3UO3badtGQl0J2CGCuY8zXsFlhCGv0acY9SSO-txa8Xq9dLgvnCdUssaQCWsKyFdyjmpYBjVFa8iA5yoPpcqWQZQNFo7BceIKqWxxUDAssv5a139902g3Zcj7eBGdtHs4B1JXeZ8zZWhU_LDVp8lKpBfokTGMiVMnzHX0W_jjEeTRJVVJ-0Bt2CH20Yyc7R_u71F2WZVcpzsByxSaUE5y-l89o3MnMmJZX7DybVWOpuOZitz0DvuaGilpKZ6xuCLgvAzlT-rNDLbNoWqlwnR0tmWiiUsl9H4sugnB_Ry1EoBPfp9uYHyt-YzzKDpgKUhnstmQPfoj-K3vg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rxwUQHmqKCJdfmpqCK44KXPMNQAnNzFmvKLbBwobMCbKndpF8fqi1TyjJWaw3tirvFtCxf22BvAAUO_vf-_h2hy5yy1yFE-ywbLQATfFB40bmsUxUM6yj6RMvxGnSp0eihvs5JWEQ-1gU_G_sB1g6Qtx7JtgJSUt6nd1jfrAxzy1-6AWnISIiWc5K88JE9uQ__VBXIPiV9PslFXzktmfSYcORoFXbKmRHs6c2vq1TcCgUY_iE4pnZ3iBygPrWiBZTR_uYEatou3OSvhXM38RyQwHVceKXCZmKHyl98EJzwj0iazvLM7g3BEwkRP_KvGOzzxknwtBkaR9sUMItD-SCQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبیشتر از اصفهان دارن میزنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:15:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HaqiXzoo2wV-Nsxj12x2pVljhsSEQUxO21tMHD3c4JLIPMbjFezf_d1I4_vj-dGc2jBCtMxDr6SqQVpFVPJG5SkcVMVd26W64v1zMTNdDAl_scy6brlpxIHj4DGzex8VsnjiBuRO6V78DhtAMVWRBCHx6NYlp_loHnCsjh9KWUYl5wHHQI1VbTeZn_-3ipK-_o8TVolGVxPFvhB9NSSHYm5LghBRUWzTE6_Yd9hlWE4et9l9k6-N5ke_5VjIDk7NNcZTVsTIM8XS8BOJQcFKbuzR5x4r_qyLg5kzwT2r71MHFQAhTvNSqZJQUa7WwYSvncaJPVoMGA6OHGbD3P_mvw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YRczZzNnzqBmKVly9-zKRXaSxXkd7jR4j4UX45Gj4_VHAM35cG1nG6ak9Vn-pDL4-Kq12lPkl-VsA0gNqCITesIv4Y21qUj7BVarwy1HTiPRgpGq45PWhQK41BhBb5zZD1psw-QScmxS2nYv6vPqAfLlZIz5vXMrkJXMZ43ILYony85M5WuqbbySDigJjFoNUpCqSjwnvHHJyHIBWVCoYRGlO3Mf5TeksFSpT0vmEXY4K63vfjwYxYwV9jJd3B9iuGt247tEpGWmBgmdGXdrEKjLOcQ4L0dDVHyxV6OJUr1oz4dBN8EjOTDGPd5f-GDsWHEYbhBZp6sNhxSY7VEuTw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eوضعیت آسمون جنوبِ اسرائیل\u003ctg-emoji emoji-id=\"5332299462461107995\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:18:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59000,
+      "views": 137000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,43 +38,18 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vS0LRfmlGeMjjjhPTvsGOQ6HaAbFpJX1dSg0sVO7bDoXSet6Ifbbp0ZTcPelP9W1I7QGobb9NC0RNiBnhW7UfvoGPLUsy9mH0x5UVmvxARmczWjjmpEWXEjbUP_S6zDT_jw-90vFC7twO3A2v7HPxnhh2mX_WUcdLdhqRUpsyYa_Laz888JNSiDUJQfmjk7a5sOMj1i_Fcb_8pqm4T7Vnd_CQ44mGE0z3ZS1bA4jMNrTm0zNUPL8kyCBi8LymOr9K3o0B6Bx5sVIkGNpTd4xsxLAoEFf9yHIIfQG-PLnTtVs3HP_hdsK1XS3qU-e8X7AYDOt1UYsls_bPhi_pHwTKw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dDNWnzmfhojqmEhuCNGhv3OSC4BH_ZnQjVJnn99N7sDKpBkq7hTWhyzSs573WIeZIKVfmF-1UJwSj7umcba2juPqfgOD5Hpj98DugYXU9T2SEDpMUfp9iXPVvhcDAfnfF8d59reFOLvVbzHaSESajuqDvVA5wz2TK7N-7Y_S5q13QWffJYSnnWsBbXzx_-jtPmOl_jRlylceaEZ-4lPDEUxxQONVNQAgP4RpQ9WzQcn-0iRcWiId8RNbVkUu0fNLI-LBmhc04uXFSbO2HMJGYT7-A5bBIyFthHPioWrBoESsRhkVQZJucaOCkY2DKx_rWc7QkoU9WbWTe0-ixmECTg"
+          "url": "https://cdn4.telesco.pe/file/YIp7eKCUmK0i4ZbettCaSYA-b8XhwVk10Qa56D_5fGzFNKigBK2S1jEIQtwKRk2vp7XmLyH-joNZRupLSOs7_kpGDTADB7COH13G3aQck70Jelxn04ZzBue_OJuIfizDjmXneN_2hTvcD97zJKSffFJZjX0geWcmXC3pCVyWhvnO_fwzLMf5kl9VWHic3IriNvN29vH9IT2uvPJj6W-m2zHespQtW0MNr9kCdnT5SQ4HF_FfOmoaP0OVhOJUsk_IpBzdq6BMXf--fJHEVVKapwVJA74hmrhKesk1S9t7HNRZzTtdk2v36keihrKmvAcfeGBRe_uTnrUmEJogND4fsw",
+          "width": 1278
         }
       ]
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eچند تا موشک هم نزدیک اورشلیم\u003ctg-emoji emoji-id=\"5332299462461107995\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خوردن و صدای انفجار تو اون حوالی شنیده شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:23:06Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبه گفته کاربران؛ \u003cbr/\u003eتو بعضی از نقاط تهران صدای انفجار میاد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:05:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n3qK6pJ2ExboAKkphcpmUNKiBRSxJOfZ4k1gcbeuEZ_oBnTIgZRT_KAt2hA4KCjqalhiVL6sdHTGmx65v9FgseCCq2y8W4km_X3-_19Z0C5bRNFzfQ6BOLL0WyKR6YDSLBiJxw-nfa-tYcCKO9yZq17q4k7_UUsdWul_T43Gk1NRQGQjx99m_url1oKpYQA5ppgeZ7eutu8Y7i2yUvVlZMoa3aOxqMrjFflXCKVT8n7lPogonRtb5YDrq_zpVKsYWLuGZrnFPar4fRQxpjXTBK5y8j2YaNBKUer9m1RJXsCOQEEbhlnBMHC4Q2CPaBiVTXoiVc2_QeO6kbsdfYl2VA.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Zt-b_orfV-piqzxaCipkOBNtLJjg0YE-yB3-BFr-Qs_QuagO2EON1R3x2E6M2ctrAvuYoqpf9zmgQUn4u1yfU0NzCyo2bLvS7qwgHQ5iR7cyYo6YB1ZK4m2IZzgjtX05mEgzetsi7x18tFftV2EULmjvCU2TbMsIkzM8IAny7SOGulgTifWRc1Slir-LjXeXVquF0F2Wy-5t2HpII7AEyajJx42CMm-hRjcZh6GZOipyKxDfQm7Rf9bIS6x9kKySGVuIKDAF1bIm5mJPJbhQbvRgP8ltmJBVKTE8mMEMU52LeJ6cbtG5uIkc31c8TWXNi9I2rrn8R1MxO8Pvb6Gj2w"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه امروز آتش بس نقض نشه، دیگه نمیشه",
-      "date": "2026-06-08T04:24:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59000,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,29 +57,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eکانال 12 اسرائیل\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e : \u003cbr/\u003eکابینه امنیتی اسرائیل برای ساعت 11 صبح یه جلسه اضطراری فراخوندن تا درباره اتفاقات اخیر و واکنش بعدی به حمله ایران تصمیم بگیرن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:29:19Z",
+      "message": "\u003ctg-emoji emoji-id=\"4983302733659374380\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eرسمی : دارن میزنننننن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:08:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ioy3ALeFXoRY03DfU0sbul0C75EaZdT5qDo9eq6LNBvMpM31jEts0cMorhl2E7lSJPld__F3X1QxCAMXYmU6FwMGvbvTcjjmjoC7pDL0tV7VQInBFfnZt4JpuUSJM7sxhQdsKHibMK0f4nsb98V7X4TRtaj0u13zWDdRSlbpxXnkx3f2uaxxQSOla3U-Dao7nZPQSB9miM4aZkufCywJSwJz9rbkQtiNbrK6NKnl_ztKOkzxJ0Ihg4e5XhYWb5wMaTQiClk2hGh5l-LIvaY2gxktr9ohBtar3a2_6I62CNmzgIEERSLTsdaMRrxt1QLekmoRLTnFBqxIC5xh95E5Dw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eخبرگزاری فارس : \u003cbr/\u003eدقایقی پیش،اسرائیل پتروشیمی کارونِ ماهشهر رو هدف قرار داد، بخشی از مجموعه آسیب دیده و فعلاً خبری از آمار دقیق خسارات و تلفات نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:35:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55700,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,29 +69,23 @@
     },
     {
       "id": 0,
-      "message": "بچه‌ها راستشو بگین، از ته دلتون که نقضش نکردین؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:45:44Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتو اکثر نقاط تهران، پدافندا درگیرن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:10:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44800,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dzz3lI1H8lguN31dmTK48dLOqlIBscp4-3SLj8SPjzcZxzVTWvnw7xLqEJEDPNhg9uAyziZviwz_oNHx-Tx_Uj6awwLxNnr5QXWVWC7ytJarDUGQU5A_Yp9nXYzMSayiyCpeSoiFsgsHDNQu3O7-b0vqqsg2gzOIUoyohXYXR4ygHNNx1I4FMdYO0peYQqdi2kXXyj0ZpVxFYx4Se6GFGhTkj5GI8wX90mYSMV8e0_voKCxR0jtP49la-IKmM9FmyfxfGubryLi8bxF00redmyEy5vzRfJbw71mgxhIJzGHQMlf4QyY25crK-QMndoZO39vFMfkTST6Lt0MEtCljQg.jpg"
-        }
-      ]
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e اسرائیلی‌ها تأیید کردن که جنگنده‌هاشون یه پتروشیمی تو ماهشهر رو مورد هدف قرار دادن و بهش حمله هوایی کردن :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-06-08T04:57:33Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eخیابون شریعتی تهران، پدافندا به شدت درگیرن : \u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:14:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 134000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,18 +93,36 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/okzVlllrCknDZkDed9hH828NbDqc-N0YKqLHxZdUPGg81AWZAGzGI_zSo1fXEwPDxHa3VBtCmSABXKO1hvPOmflZjbwZz8x5OrEwDYCqBnJUaUmzQ3Ai4IpSkWW0Bum9kxZA2pm5Tej7xGW_JMlrJoN7yz430kCWnVcJ2GdD0xZ8yHsPus7469HfQtkOcPkcJtMAo2uqRZJFQtqunXFgeucgA_Ve45vCIrBdgXVCmQ4HXidchNerkxiKX1riQ1igk3Yd_auq9QmdppyGovov-izbATk1UATboSdtjpuedc3gAvKr05dxjuU4YIE_yJ7MRgBAP6vs9lvy9KPqWuATPA",
-          "width": 848
+          "url": "https://cdn4.telesco.pe/file/K5resGD25_f0wVyHIM7U7se6-L17I8fa8h0jWLvhYCiBSs2qbd9lKfZlJCU3Zs5KQ2SDvuw5oEOmUbsBREq2zrB1UBFfVKVUhbXz61yT1lChAYIZ5idLwGvtgqJVG47eMVhYmZMLXru2KlT30XSiCw__25o93pi2KMAmKDvpfDe2EHmKLvQR0MiEFVxKQPRemOKQZON_OhMlfeeybl4PhUBcIXHhcFFD1aIkh-axuYbe-c5G-XKsLe48XDqkPZj1ZtdpHBswRtn5FmYQxayEvTEzfVQcD__Z4U10ckD88jB_lPA6pUgf7GiY1pp-RF-5RmDHUH1vmFd2Ta9oRPyAYw",
+          "width": 960
         }
       ]
     },
     {
       "id": 0,
-      "message": "ری اکت اتیش چی میزنید \u003cbr/\u003eاصلا میدونید اگر پتروشیمی های ماهشهر زده شه جدای ازینکه قیمت اقلام پلاستیکی سر به فلک میکشه ممکن چه بلایی سر ما مردم عادی که اینجا زندگی میکنیم بیاد ؟\u003cbr/\u003eجدای از اینکه زیر ساخته و در بهترین حالت تا بنج سال دیگه روند تولید به قبلش برنمیگرده اگر کوچکترین اتفاقی بیفته و آلاینده وارد جو بشه میدونید چند نفر ممکنه کارشون به بیمارستان بکشه و یا در بدترین حالت جونشون از دست بدن شما جوابگو هستید ؟\u003cbr/\u003eوقتی از یک چیزی اطلاع ندارید و تو این شرایط نیستید لطفا اینطوری شادی خودتون رو نشون ندید",
-      "date": "2026-06-08T04:59:45Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهم‌اکنون اسلام شهر : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:15:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 139000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XzIOIDdoS-hqm2HNudFvT0lAVsc6B08u75Iyyj6o4E6EEuhD0mCZdtdkKyw1G-_KiaRI9eFOHavmw4vaYjtKHFgpSY1q6n36AWUl3zNIcLa4FXUeAalrt1RLUYBfM9Z_oEBqXwuChncrScYgk6at-qUxp4Txk2ixA6UeWERBRGnQg_ydI0rAqAKJVI_xElHlqBrTR1IcRZdsTu7L5D-4LDvdfGn1d9vyTArEojQzOjF5JDsyN3yRdlR-C63FshFEykKyqnNVzJjpANHekRQYKZO-O0ZP9OFygI_XCxkQUTJLacMqH7-JLIXmbrAYQ71bcgpIFd1ve3GpgD9nR4Brqw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4983302733659374380\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eوضعیت اینترنتا خطری شده و خیلی از کانفیگ‌های رایگان از کار افتادن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:17:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 135000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,11 +130,11 @@
     },
     {
       "id": 0,
-      "message": "برای یک کنکوری مرگ بهتر از کنکوره آتیش میزنم ناراحتی آتیش نزن",
-      "date": "2026-06-08T05:01:02Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاصفهان هم صدای انفجار میاد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:19:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,11 +142,48 @@
     },
     {
       "id": 0,
-      "message": "کصخل کجارو بزنم پس\u003cbr/\u003eجایی نمونده",
-      "date": "2026-06-08T05:04:15Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eشمس آبادِ تهران : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:24:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 132000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/paH8kNYZgNbqm5OVHe8K9N7RKi8AtPC1I751S7tlvAQEX92XhjCc9LR8VdNgp5RUs-IuzCVuKKsAHGEcwbVvf3LV2KHkkB4cPzJDHkZLdZumLPusP4lodelIJp298QPacP4yn_nh47hg4LRpnN9SBQ_mcUoEQXN8h2k3wBBD6Au5eUCSf-_ajmxi8Q_-rwRS-9cff5xcadgmYIawlbP82ryzacb51uUGnkzM7fxdicfpeWmOzEkfVRwn1A0Z69yNAocV77CrFp221mzFuougUYjdU1pFh-97BbBc9L51wvOD0ageG3ZHWt1u6Fq2vKJcjBaUWy4lHbFYuBcXgBGP3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهم اکنون کانفیگ فروش‌ها : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:25:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 132000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rNBD8jlScVBmd41h0yz2Sbl70is_RjC6ZQX6uYgPZDkqLJ4ATUF0wsj5-rBeqpnvDql-vcy2nqbJss-4uoXQwc_4sZQFuPuQBbpqst1sN4ML4iLcBpf36SRr465MCPQ91uWL3RDUpR7aQRrMItdekZ3DHbGOgjnq0FSM_z9f0uHDw_m63B3QH8mLzcLQ19RrNeSTNF6FKXy-DKkt6MuicVR2DIOHfu5x3ypeugnDk6eUP5_QeyECIVlxMmyQg1-Z_yaDB0LewLYmlv3GfTfzkY4UtYJOo89CQsVtarDgyD0vtaUeScc1v1w146uXQvzfNuHOiJyss69S0P1j2rzh_w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "موشکا میان و میرن این کانفیگ فروشا ان که مشتی میمونن چاکر همه کانفیگ فروشا\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e(ناموسا قطع شد گرون نکنین)",
+      "date": "2026-06-08T08:27:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 134000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,16 +191,137 @@
     },
     {
       "id": 0,
-      "message": "بی بی بیداری؟ لاشی پس چرا جواب زنگمو نمیدی",
-      "date": "2026-06-08T05:07:36Z",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e شلیک موشک از یزد : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:29:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14300,
+      "views": 130000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/D001KrO3XQ_iOCRAqXYI3FurBIG0HXJJJmR3jcFijDOmIULd_KMulFf6rdfWH8vYRePohFYKbqpibnkaC2yAu7I_huPSPqtq0Jjd580CyNZKaNQKqljqmaFvrtH9E16Dsai2J_ff_JCSEqpoW7598gSpvijZD2Age7mNDZwLsvtYQS5RLSK6R9mLqiAvx-WSxE4s1xc-PTmvLm5_e6GI7sC1jJIauh7iIn4c5hg5O5s3VweLLDGAhveCz2-zbJ69hFT6bDJkwi_Y7ezr39kWsfAt6d9wCfTyi673ctVYBCXfHosl4sJOxZq0qax1U0NCi7ATcLC7317J-oBm2l1CIg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "همچنان آتش‌بس برقراره، اینا فقط یه سری از بند‌های توافقاته که درحال اجرا شدنه.",
+      "date": "2026-06-08T08:33:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاین عکسی که از حملات امروز اسرائیل به تهران داره پخش میشه، قدیمیه و مربوط به اوایل جنگه (۹ اسفند).\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T08:52:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 116000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xq19p7DEn5xLBFqyuGKzTtmTdPPx3Z3dHnW6eRB5FquXGjuKOcXkI1aJLm1BLFuO9xelq9sIfzMNwHb_v_EDhPLzX787KMxck81U-d9j1zbxzh-dkXbBPYfm_YzAE0IgtZWuERe1W_QOkGkd2Y7pJAk38XoOc8RLUbKKycsDmRZiMwwUB26WqmQrN0dDBP87rJSmw-_RSPhCiFmdZT0NDa2_GSCpMaa-ymVUv96cNm7Q25I75Q0VblIPi_ZHRG_RrGPkaVng1Nl9WeJxvBGErM0w6AHcMLcLn6GBEej-23h_jXEOfL4L0twICwBJJBGUFzluCBO0kTY8yg2yx6Htjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "فعلا دو طرف درحد چُس دود دارن همو میزنن",
+      "date": "2026-06-08T08:53:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 114000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eندیر پور جم، نایب‌رئیس کمیسیون صنایع و معدن:\u003cbr/\u003e\u003cb\u003eبالاخره کشور تو شرایط جنگیه و طبیعیه که اولویت اصلی، منافع و امنیت ایران باشه؛\u003cbr/\u003e\u003cbr/\u003e همه‌مون تو یه کشتی نشستیم؛ اگه تشخیص بدن به صلاح کشوره، احتمال قطع اینترنت بین‌الملل هم وجود داره.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T09:00:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 110000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Ryk5ySavSAoWSoZJ37f15M4gd_88gGhW_ibDmfzYcvGU5zMS7gTOMWd-305zdZIFUpsMb4L_h3Iw23TtQB3QfpwTMxFFYlJ-7ZozOMpwL5J6C8vWStw92tawW3FTj_Y4LwylcTVJ7owNHygLY-_v49Z460hDMxZxm9JE9lC0Fvdn7-ZKacwbVLw2Zwfe7oFIQEo1guK4xba1naiIgTmp50coAAp_fmK3TM8uMRZgQdU8ZaKxE_9nfMoYOmUjx6wEMHYkrW2GthV8rNKAONlJpGa0Z9cZcfwREP4DT7VG6VJN89oglinBZnMcoVAMqq5_YB8xw2nzzrzhZ_zQdS1PvQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبعضی از رسانه های خارجی خبر از ترور احمدوحیدی جانشین فرمانده کل سپاه دادن.\u003cbr/\u003e\u003cbr/\u003e+هنوز هیچ خبرگزاری داخلی و معتبر خارجی تایید نکرده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T09:01:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 116000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bzY9qIhBhiInlV7JqJ19QoENJDmTR1PrCNbEI5_rMO-LTGpYCrFnfLXt200abMsFFv0AKN8kzRiv8qgjYNtasvGfi98oVztv3oMGT-o0pyF3OxlRttYuaQlPAcNbKwhhqoNWSIMCQEnsHz8M5HoCpDuwYJujBeITg7aCb7qniPYrbUnYRyz_xwVxpYuo_bxMiAaPRkfi1szdk4ag1Z6L18IJoftZgcxoJzWYXk4XTMqlsOBa84lObyKMRli_Oca4wuUTA12y_LVFLo5mR44uGtyUME6lQ6S8b83Xzp5oqA-nYxETTkWmSZ--QgtZk8BrbMcBj4DNXcMYYM6kDugqjQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاینترنشنال:\u003cbr/\u003eارتباط مجتبی خامنه‌ای با مقام‌های جمهوری اسلامی از دیشب دچار اختلال شده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T09:21:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 89600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Nv06HmYQjpRvTsqjph-_5EYR1wGeDt89My34qoFPtkIRGepe6gea8sYhztjmfiZR-k0iOUTeB9B6iCCyrpW8X19y9VEqTJUjLVcfj8-Ze9CVMMmolryFvWYawMlp063-qmtG-5oxfkORypGWEC4R9jRH__OUEDY85RuQltl-KwhPgwwpBRHblHKPsB5UZO-PGIMENxmgIqKUtbuEaeBBT8voIeztPNutdh39BYgiJuQ497o2bNhMrxg_gGkYGLIzqjSz7WpIdBq4ZEIkczicdZtE2WyK-wejHmxwZZUKP71tzXNh-PE08si3J6Rm2SP61Zljh0hbshItGUDuftCoQA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eترامپ:\u003cbr/\u003eایران و اسرائیل فورا باید درگیری رو تمومش کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-08T09:41:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 53000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UUMRHJRz4SUKFM7v9y3i7BFmY2pyhNYjRMNjUy6NXahQa2iok7ZvplrZPGFgy4aFxRVVTDybt3Q7VroQgsOSf0QmEgtcugjV2wAS5CSp4F78m89AAwKhDqSSuKm1eHLuaPERVgoIijDkCyFcI_zXGCT9Kx2dn-h7sj72mlaY6ccto04ZqDhoAjR_eF7TKF1aC_JZQH58gUsL8-kx5SyWqqCVh6pdc7RKbcK6gqtTg1XZuo7D7Z8z6_gw7VFz13g31fm7wRhPH_LVEZorNF0lMzegZfTRO6e249kxuG45sR4PZpR6ZFSk3gh6pDQcqkqJYXenYQ1haFs9QuWM2z6OiA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1780895549
+  "last_updated": 1780912920
 }
