@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ترامپ:\u003cbr/\u003eبه احترام ماه محرم آتش بس رو نقض نکنید",
-      "date": "2026-06-07T20:27:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1570,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZAKoqrKue8XsCYYv_rE6tekL4tztzIQWTXHYDAi8ybVAs_JFFUu1gej1-oP2p0H-Nf6vrf-C4fkim20936jNXeQxuaU2_lgQNWj0-Fo3xZK86ZpzlgBg_V5IEMLFrKHhoS3mcsNt9fy7cBIxkMyX-0MnHKZoSjNua-qTQh9K7P0VFmPjiYIOA6DgYNEGdSxd_144lsvgjXDr-4C8EGGb3SqHECplDdwDUyCo_LeoZ2OvNiDgAAtbnT32WPSkr-N541mIokquNzdV44LIw7sBM7sniW_TmK4dCBzvkUuAjVHn4d8wUtn9ZhdAL57XMX3p4GnLz_-E0AuVfQvVQu3i8Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‏\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e فوری ، رئیس ستاد کل ارتش اسرائیل هم‌اکنون در حال برگزاری ارزیابی وضعیت با اعضای ستاد کل است: «ارتش اسرائیل در زمان صدور دستور، دشمن را با قدرت مورد حمله قرار خواهد داد»",
-      "date": "2026-06-07T21:20:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme"
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e بیانیه نیرو های دفاعی اسرائیل: «نیروی هوایی اسرائیل لحظاتی پیش اهداف نظامی متعلق به ایران را در مرکز و غرب ایران مورد حمله قرار داد.»",
       "date": "2026-06-08T01:32:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1170,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-06-08T01:33:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-06-08T01:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-06-08T01:43:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1130,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-06-08T01:43:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +92,7 @@
       "date": "2026-06-08T01:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +110,7 @@
       "date": "2026-06-08T02:03:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1310,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "date": "2026-06-08T02:15:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1380,
+      "views": 1430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +140,7 @@
       "date": "2026-06-08T09:11:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +152,7 @@
       "date": "2026-06-08T09:41:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 912,
+      "views": 1000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +170,7 @@
       "date": "2026-06-08T09:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1010,
+      "views": 1120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +188,7 @@
       "date": "2026-06-08T11:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 817,
+      "views": 962,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +206,7 @@
       "date": "2026-06-08T11:41:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 628,
+      "views": 786,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +218,7 @@
       "date": "2026-06-08T14:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 438,
+      "views": 668,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +230,63 @@
           "width": 640
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "انجام طلسمات سفلی عبری یهودی اسلامی عربی هندی \u003cbr/\u003eکارگشایی\u003cbr/\u003eبازگشت معشوق\u003cbr/\u003eشکستن طلسمات کهن\u003cbr/\u003eبخت گشایی\u003cbr/\u003eازدواج با معشوق\u003cbr/\u003eمحبت زوجین\u003cbr/\u003eعزیز شدن خلقی\u003cbr/\u003eزبانبندخلقی\u003cbr/\u003eرزق و روزی\u003cbr/\u003eارتقاء و مقام و ثروت\u003cbr/\u003eدفع سحر و نحوسات\u003cbr/\u003eسحر و ابطال سحر\u003cbr/\u003eسرکتاب\u003cbr/\u003eموکل گیری\u003cbr/\u003e\u003cbr/\u003eلینک کانال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Ostadask_5\" target=\"_blank\"\u003e@Ostadask_5\u003c/a\u003e",
+      "date": "2026-06-08T18:39:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 313,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qV7QbxT8GZXCDfzpaBbtTaZ0-VYmSBfts-n8C3VckD9jMGx_Mu9EDPie29y9OZSPbGkO-gLOPDxM2tx4COIUvJ08VZjKIV1YYT8cb2ndlbwfhQw1vgMK_6O7p68HYVBJHvStPAvakx-u0f5A9jajUju04AzbRQ00amT1QBB32gK0asXyoKfFOvzukCHZVSDCNmkw7_OJ4y1LtU_JH69imQpEkMkHPYvCYUO8KBUjmj0lsqHd1mqstEHMByxBGL5siPWBdDFhNz1OPMumt8-ES2lmuhNNu7iHB4O6WnO6BvF2Y7z6vRa1JitCCKypdHqrREABu_OXPLUWMbYMVBlqiw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-06-08T18:44:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 283,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/IWHK0j7kjGWGd9pjE7eciFctV2UhopYVwGDKI1U1H1ehtmAsZzODziydf5lOuIAsSdhsPwL0QTFJoHlOaRUHfMxR39Xp4oIKU0bQzZBy8-7fHhHv2eLF9fA23LWaXxhbgvJth6dtivYL1T9yeHugEd8fg79P9qHySNPBdQmdea5Josc6ZYwoGfAWyax_490pBOoB6WB3sQ866kWn-nFg_smGhb7NUtb9CtkmE4RcVbQJMHVdsbRm0y-GgTETRvLxf69wwd_R1lidSSBNWWOU2coz5jstjMvdb2niO8cFWxwoG8kGSNeYHv2nUAUx5dO7dfY_r25i-NsS_2CPYBt4KA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-06-08T19:41:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 146,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rq7LmxogZGZn1gLA1wpgvz0nlzQTkRJrKIQO7pMAOqCmUui48ix_SrhY75SaXbkbKl5Up_v14h0LKCyK0uR3vGyCrfQtSFOIBvPIUrFGKbKGfmk46KOfpCZxEjwHmQTO-cXKlBAULqiDKQfEHg-YshT9q8dFkwxUJytB4pUL49PQQKaQpkSlMlvVJPur7WRX_tnANux5BwxcMQG6LcEavW6KXrA7Oa8F7TVoPv0tMHfKO6DHhIiEY490TeKDlz83WocZSuN_Qex9SdTLtAcJUCEAA9xSw8USVPOyQ6HHaHcE_MraEe4COJyHLpV4cKutNlzuJHMXLqljb984cV7v9g",
+          "width": 960
+        }
+      ]
     }
   ],
-  "last_updated": 1780941188
+  "last_updated": 1780949657
 }
