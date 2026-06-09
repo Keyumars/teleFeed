@@ -8,11 +8,41 @@
   "posts": [
     {
       "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e بیانیه نیرو های دفاعی اسرائیل: «نیروی هوایی اسرائیل لحظاتی پیش اهداف نظامی متعلق به ایران را در مرکز و غرب ایران مورد حمله قرار داد.»",
+      "date": "2026-06-08T01:32:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme"
+    },
+    {
+      "id": 0,
+      "message": "شبکه خبر",
+      "date": "2026-06-08T01:33:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "اخبار جنگ | Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DhlH2_WGt6hfZY4Rxx7Af3HKSXuW3fct-MLDp3V1UQUpYwg-YYG34wDW4tHfMrRUbqwfe9mETNzqDIqYqedJCSX1riHuNXFwtg75mXdcs2TD_kDVNrOg8AZEst9hK0rxUdNvbk9mq9WEW0sWMjdSGjYE95rW4Ijj5jSgqVeMG98yCwcXrYjwbMosw_sEy68S5oFLgJKIvDwv2c8m-mwGeSG2QAGqJJvlx4RV0eNIS0pykv9YT53GZig5qILZEavtk7HlpOBLqKoH3bHrah1LRiKWDhuHSOzXwitfMm_oJ-FVX0fUal6V1s_jFoxD3a8xlbKHCyE8lJJX1pe1wXWBXA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003cb\u003eبیش از دوازده سایت ایرانی هدف حملات هوایی اسرائیل قرار گرفته‌اند.\u003c/b\u003e",
       "date": "2026-06-08T01:42:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1230,
+      "views": 1250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +54,7 @@
       "date": "2026-06-08T01:43:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1210,
+      "views": 1230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +66,7 @@
       "date": "2026-06-08T01:43:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 1290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +92,7 @@
       "date": "2026-06-08T01:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 1470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +110,7 @@
       "date": "2026-06-08T02:03:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1400,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +122,7 @@
       "date": "2026-06-08T02:15:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1480,
+      "views": 1490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +140,7 @@
       "date": "2026-06-08T09:11:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1150,
+      "views": 1180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +152,7 @@
       "date": "2026-06-08T09:41:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1080,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +170,7 @@
       "date": "2026-06-08T09:45:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1200,
+      "views": 1240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +188,7 @@
       "date": "2026-06-08T11:08:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1060,
+      "views": 1100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +206,7 @@
       "date": "2026-06-08T11:41:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 892,
+      "views": 936,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +218,7 @@
       "date": "2026-06-08T14:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 818,
+      "views": 883,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +237,7 @@
       "date": "2026-06-08T18:39:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 571,
+      "views": 666,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +255,7 @@
       "date": "2026-06-08T18:44:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 558,
+      "views": 659,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +274,7 @@
       "date": "2026-06-08T19:41:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 466,
+      "views": 598,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,43 +286,7 @@
           "width": 960
         }
       ]
-    },
-    {
-      "id": 0,
-      "message": "پاشید بریزید ربات گرام ایونت گذاشته بابت هر 5 رفرال $5.2 میده \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/gramevents_bot?startapp=ref_103755\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e @gramevents_bot\u003c/a\u003e : ربات  \u003cbr/\u003e\u003cbr/\u003eاد لیست اگه تو چنلاش جوین نشد: \u003cbr/\u003e\u003ca href=\"https://t.me/addlist/IiFVViQyys81OWM0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/addlist/IiFVViQyys81OWM0\u003c/a\u003e",
-      "date": "2026-06-08T22:58:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 213,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rhZc3YXivIVWeWsb5R6O-ucfw-cr3bZxYOJ93qe_BXmTgLwZBwi2vOREi1XBsOzWJv2ZWmQrs-No6eDIpWeESBzlqm9uhxZeLVi2SlsaLC1YjRzB3tZfAW3n38PythMQ0-hLGA9mhcf5HFYfmX-Dhg33EklD0wUavlgeWcu1K9XV_qQNhMJvVIltZrPdHcoDReHRjSqqafqOMwajBvfhE9uyXxq_WXNbDW2MAO27IHZgR-g5iA1VsX0Kmx5p7ZFm8CpofwSGYF7yhTuAqWO8ppWV0dBPLbvHX_XOslVZY66kYPTUCenuB9Lo3F3BNqz8eDMHWr063bAgL5ez7ap35g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این رباتش برا خود تلگرامه به مناسبت این که مالک تلگرام اسم ارز تون رو به گرام تغییر داده ایونت گزاشتن کلا هم 2600 دلار بیشتر نمونده\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/gramevents_bot?startapp=ref_103755\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@gramevents_bot\u003c/a\u003e : ربات \u003cbr/\u003e\u003cbr/\u003eاد لیست اگه تو چنلاش جوین نشد: \u003cbr/\u003e\u003ca href=\"https://t.me/addlist/IiFVViQyys81OWM0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/addlist/IiFVViQyys81OWM0\u003c/a\u003e",
-      "date": "2026-06-08T22:58:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 215,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "اخبار جنگ | Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CgetAQxnz2_Ctwfp4nMFSuFwwE0ne4BlCuzXzGjgQEL2AiBVLgPiKTlATV2pzLA6TscpD8pdtVmZ71NOent7wqkurxMMIYBdegB_BCyLrSyuZkAIQz1XxDliJHUQUFykX9xE7U6X68lqgFF78BhGUFz1udUlgxLT9XfXq_oD2euBa9K9DEBVZ5CiJXB9W9Y81_22leRSKQY1BRLyqsWxtsxCr7lVgoluCQvgDnNFBi9Al1K3XHAf2SYfMIUYWB_xaLe55IdTVJGH5aG8Qh4eYEb0_KdA2mT3SUJkeJ_pW6nkUf-sqmNnaJmUbBS0LLVwWKqjkxShND7lVNgr_SfhgQ.jpg"
-        }
-      ]
     }
   ],
-  "last_updated": 1780973907
+  "last_updated": 1780988039
 }
