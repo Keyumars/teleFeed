@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5411520005386806155\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F81.png\u0026#39;)\"\u003e\u003cb\u003e🏁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e TON leads Layer-1 blockchains in finality time. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375129357373165375\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Sources: \u003ca href=\"https://telegra.ph/Comparison-of-Layer-1-blockchains-by-finalization-time-05-01\" target=\"_blank\" rel=\"noopener\"\u003ehttps://telegra.ph/Comparison-of-Layer-1-blockchains-by-finalization-time-05-01\u003c/a\u003e",
-      "date": "2026-05-06T15:57:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/b8s7m7WGn8ze-mVxK81TO3ID9MTOHHsAieZviWpfpD3xe69fRLpd_X1yIs3OVhovpxvcMDLv1dnRbMfiBnjQmxVQxJMoJ76e5GA_DyQDCGJBvp3sGIauM4lZ_4Gv6u7FLeJO09R7XVmgYo3Cth9ygadm9vd_7rU8mre_RVnobTyhfrPKcP6l0qaCHNSnkc3b-_2dpOCHX-supNzGmP0FJbAe_xo4iTbtOKQrM--sN2SMYYMPCb8B0t0Sd7Lj6Pk_6J-jUZ3973nwvk3ISZVG5qxo4fd5w5TzdnGj2QUhki0NNSOQUrf1ai9uUMB4JsfK1_BmyKGw4nPkPbopiB_W0Q",
-          "width": 848
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "Huge Telegram update — 10 major new features, 200+ improvements. \u003ca href=\"https://telegram.org/blog/ai-bot-revolution-11-new-features\" target=\"_blank\" rel=\"noopener\"\u003ehttps://telegram.org/blog/ai-bot-revolution-11-new-features\u003c/a\u003e",
       "date": "2026-05-07T16:00:22Z",
       "edited": false,
@@ -286,12 +267,31 @@
       "date": "2026-06-01T15:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5389033296086709487\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9A.png\u0026#39;)\"\u003e\u003cb\u003e⌚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e A fully native \u003cb\u003eTelegram app for Apple Watch\u003c/b\u003e is out.",
+      "date": "2026-06-09T19:33:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 404000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/rlznA_R3EdmkuaL8OxSfrf-PexDl1wi5pKDZcgCYf1iLGqt0niFtVM9NdBrpvsJ8rfUuMkNFpWUO_nZvgPXRyaX5S3kL7jVxC-hx4BTgH6LCrPB7SuomhLKsuuzo_3AZlZHCIjR68q0uJVCK9oEiyUEuaw2YrAQGp9ys5_XJaRRHgbzkf6bKEwlRqEbc3TdU3URRvOKgrm2kFEmOlmPjOlmoQBaWNDokJkP2VTtPviS0b_67a1DiLshRc8uELqOPhTmTbiQAyV8glu57TLjQLdMODTtcIuY92zpsLPkIKF9ibG75asHUtkIbX6csOHgbNdChJpLbL1UhyHyvJMH7mA",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1781032454
+  "last_updated": 1781039994
 }
