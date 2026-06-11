@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "Huge Telegram update — 10 major new features, 200+ improvements. \u003ca href=\"https://telegram.org/blog/ai-bot-revolution-11-new-features\" target=\"_blank\" rel=\"noopener\"\u003ehttps://telegram.org/blog/ai-bot-revolution-11-new-features\u003c/a\u003e",
-      "date": "2026-05-07T16:00:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5008248651038852115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB4.png\u0026#39;)\"\u003e\u003cb\u003e🫴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e TON is \u003cb\u003e#1 in annual staking rewards\u003c/b\u003e among the 50 largest cryptocurrencies. \u003cbr/\u003e\u003cbr/\u003eAnd that’s on top of the coin’s price growth — which doubled over the past week.",
       "date": "2026-05-08T17:41:53Z",
       "edited": false,
@@ -279,7 +267,7 @@
       "date": "2026-06-09T19:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977000,
+      "views": 1,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +279,26 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5224615466890193456\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9A.png\u0026#39;)\"\u003e\u003cb\u003e⌚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram is now on \u003cb\u003eWear OS\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eOwners of Galaxy Watch, Pixel Watch, Xiaomi Watch and other smartwatches — enjoy! \u003ctg-emoji emoji-id=\"6132093145447404748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29895.png\u0026#39;)\"\u003e\u003cb\u003e☕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-11T17:54:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 265000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/AcbWOzEskHMc6Gc9oRnLBMtqmojA7Mni7GeHkUxZvS8HU7fUGqaI_ZNuEugiX6MAo4FtLRNbzeV-30EqOSzOIpiqOe61wWFxXI5YY0es0_9LclNy7EjMoYSdKLRrPUhBpmP0pqjqsuf0QYqzHZYAgB2ik8kkg3F72i1DKnivCRa0EVb3hoHMC2EgJAFFcMUPRdqncyr9sYnR_5jPOwb_7DQNYeBGn4BPikh32ry5iBupwT1jPO2-ZE5wEkJZ0Z5KYBuVqiRjzQ7UuBQEUlgVSX1UUzF51uIF3kp8RdpW77PCmrDCss8FlOOVqZxY8YXRZS4yT6kBIJKxxw1CpcsyOg",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1781190354
+  "last_updated": 1781202975
 }
