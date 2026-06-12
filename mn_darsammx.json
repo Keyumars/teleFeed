@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5927031220390072917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رئیس دانشگاه الزهرا : کشورهای اروپا و آمریکا از ما اسکی رفتن و دارن دانشگاهاشون رو تک جنسیتی میکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-11T17:25:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5927031220390072917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترامپ : کنسله نمیزنم امشب \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-11T18:28:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5927031220390072917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e افتتاحیه جام جهانی رو کیا میبیننن ؟\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-11T18:50:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "با هندزفری فقط \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-11T18:56:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
       "message": "افتتاحیه جام جهانی با شکیرا :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
       "date": "2026-06-11T19:14:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +30,7 @@
       "date": "2026-06-11T19:21:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +42,7 @@
       "date": "2026-06-11T19:31:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21200,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +54,7 @@
       "date": "2026-06-11T19:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +66,7 @@
       "date": "2026-06-11T19:34:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +78,7 @@
       "date": "2026-06-11T19:37:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,37 +90,7 @@
       "date": "2026-06-11T19:39:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eآترینا فرحمند ، صبا معصوم نیا، پرهام مصطفوی و فرناز حسن زاده\u003c/b\u003e رتبه برترهای کنکورهای اخیر ، چنل زدن شماتیک رو زدن و قراره از الان تا نهایی کمکتون کنن!! \u003cb\u003eیه پلن برای امتحانات و جزوه های دست نویس خودشون ریختن برای نمره 20 نهایی و درصدای بالای 60 کنکور \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e👇🏻\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5255895331454853837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F989D.png\u0026#39;)\"\u003e\u003cb\u003e😝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/+5HsWVIGIR8piYWVk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e@masoumniia\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-06-11T20:49:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BiF8g3YwJpvvHVgsGoXYJDfrtietyevldxo2oI_fbdQ43Jp0wYfTmtnvk3W07LvnjG4ks3scZoRSnE14IEh0CiUiX3NO74HHGvM8iBBJWEkCFm2aQ7M6NxvsWF8NkwsLPPofrqYoW8_wNapaBrqrtlu_UaNnws7aGZ04-zb8g9MaA0zfo7KxwRuKVTfxAZHVfhI77XI-8Ft2Q50S1q-UUloAFh0Dv4bRYMabV87jUQS4eSKFaNiGCwqI9dyV-SddODAGiJhb8u4X_mJXfNg_Yv5poUHqu4EleVxifTjMhGqMkNU6ZVEKP1_Y9CymWJMzMtiK9o6cQ-wZ5KMZmZWKYg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/+5HsWVIGIR8piYWVk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eعکس اتاق کنکور آترینا:)توی چه شرایط لاکچری درس میخونده \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/a\u003e",
-      "date": "2026-06-11T21:03:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +102,7 @@
       "date": "2026-06-11T21:22:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +114,7 @@
       "date": "2026-06-11T21:22:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +126,7 @@
       "date": "2026-06-11T21:38:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +144,7 @@
       "date": "2026-06-11T21:40:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +156,7 @@
       "date": "2026-06-11T22:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12900,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,16 +164,116 @@
     },
     {
       "id": 0,
-      "message": "\u003cb\u003eدم امتحانات نهایی، همینارو چن میلیون میفروشن الکی نری پول بدیاااا رایگان گذاشتن \u003c/b\u003e\u003ca href=\"https://t.me/+5HsWVIGIR8piYWVk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپست آخر\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABB6F09F8FBC.png\u0026#39;)\"\u003e\u003cb\u003e🫶🏼\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e",
-      "date": "2026-06-11T22:24:16Z",
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5927031220390072917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ترامپ  :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eجنگ با ایران تموم شد و اونا موافقت کردن سلاح هسته ای نداشته باشن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eمردم میتونن به خونه هاشون برگردن. ما هرچیزی که میخواستیم رو بدست آوردیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنکته مهم اینه که ایران هیچوقت سلاح هسته ای نخواهد داشت. نه میسازه نه میخره.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاین‌توافق برای همه عالیه و همه الان خوشحالن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T07:24:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 18000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5927031220390072917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e راهنمای دریافت کارت آزمون مدارس نمونه و تیزهوشان\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T07:29:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gaS0lBiXiZ_D7VLqn7SB5HgO3ms5hdpkPw5V5c6bKpbZlQjofGlS_FL3eLABBOa0j7BvI1Xbh-hiTqOLi7LNcP7Foc6JenQ6whS56HTSQv4CDG4_dgI7m8NuXuDqx7sHct2LCRdQWM4fe12EAmqvm1sYDEr5GoCJhSp8eBWLBIf7ZK7023OUFKhAEStoBxtVaMIEVX9q-en52oFxSXVCJseQ-f55jxrU9mqfuDVojHOul-M5qWRANeIoUiX_tu4a6bF3glg5BL6O3kFgRDOLiLnBI_t92VDWE6uyjZ-sYMQLFawQemebJDGVeSac6AlV4JzpF4hBAwk4bv8Jmx6bVw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اینکه همسر آیندم مفقودالاثره جدأ سهمیه کنکور نداره؟!!!!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T08:15:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "من تازه داشتم با Sam\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6B6F09F8FBB.png\u0026#39;)\"\u003e\u003cb\u003e🦶🏻\u003c/b\u003e\u003c/i\u003eD تو بیو کنار میومدم \u003cbr/\u003e\u003cbr/\u003eکه یه سم جدید اختراع شد\u003cbr/\u003eسمپاد گرجوووعیییییییتد =))))\u003cbr/\u003e\u003cbr/\u003eفارغ التحصیلی سمپاد تو بیوووو ؟؟؟ \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T08:50:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iKPrN_VOsB83L1IakXYkLUDtXjfAo_PKuZ9kJoi9dAsR4a19GBO6lx8QdFmVndXPb20pKdl7Yblk_CAssQDBNxvoMObsSvzNIUzsFkrmvGR7x3GJ5sLkisuaTwUCIFoh6rZ9peSlPKZacA2VeRasMYSbSmE5qvErPPB4bZAYwsUVzVkhENyswIe3wo0Poh3jkFyGx63pEtl0dCqmdW3rXNxnXmmnTJa3B89gl2_sEQUgz2A7wRsU8N2vcYVdK77bl3IdhDs7206_ExOJkOq4CTJTX87dHT_0wCZ9zyk5TqIcDI3RTnqPiLBjHH9UCB4Bm5C97_SKHEav1bb2x198-w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5947164356331443681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e در گروه‌های ریاضی و تجربی با کاهش استقبال روبرو هستیم\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949483325138670074\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمعاون آموزشی وزارت علوم؛\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e مقایسه آمار دانشجویان در سال ۱۳۹۴ و ۱۴۰۳ نشان  از کاهش تعداد کل دانشجویان از ۴ میلیون و ۸۰۰ هزار نفر به ۳ میلیون و ۴۰۰ هزار نفر دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e در حال حاضر، ۲ میلیون دانشجو در مقطع کارشناسی، ۴۵۰ هزار نفر در مقطع کاردانی، ۵۰۰ هزار نفر در مقطع کارشناسی ارشد و ۱۴۰ هزار نفر در مقطع دکتری مشغول به تحصیل هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e استان سمنان بیشترین دانشجو نسبت به جمعیت خود را دارد و پس از آن یزد و تهران در رتبه‌های بعدی قرار گرفته‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e در حال حاضر دانش آموزان اصراری به داشتن مدرک دانشگاهی ندارند و نرخ داوطلبان در سال ۱۴۰۴ به ۹۸۰ هزار نفر رسیده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e در گروه علوم انسانی نرخ داوطلبان رشد داشته، اما در گروه‌های ریاضی و تجربی با کاهش و افول استقبال روبرو هستیم، این روند در رشته‌های مهندسی نیز مشاهده می‌شود.\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e اگرچه رقابت در رشته های علوم پایه تا حدودی افزایش یافته است؛ اما هنوز بیش از ۴۴ درصد داوطلبان کنکور تجربی هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T09:33:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "قابلیت اینستاگرام که روی نقشه به بقیه نشون می‌ده کجایی، برای ایران فعال شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T10:10:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/X1m9MkNYXKu3IYEONQSURvuu5UE92G8UMP_0HquNLo2XUhng2rtHyl5j9jcFnf8R5KQhqRVEYG-SUfGuA-qhV3R2GTPfKEovrf3Uica1fhD0c6rgvGf5C5wzXuvZOzqTHdjJ2R37nSZMKR46-XNVsAnPiV7xZDigp8IQt6I_c8rX1T2nqJh_20LVLXAWc5d9biKsLNjJtcnyPjYGKcbKyXutFu48M5SRlaCIErOKBTP0fa2amGV5OKOLIYSVPKyw9L7nf6OFaVkQEACPJXpAWjlx4oDHW4dJ-Q5JfTROPqaShv3EiiHz2aowZIltXTHWMYwQ7m7VQrvzZgmote43PA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SFawD1pOKsQS6vBdY0Ge6eOoVBTYKBSD4eufil2ACWWPHYuOK7iun9NgAN8U0SNFPHjTbt1yNYd6VFdcb30SeHKS0feY32035dqKr9UFj1Qx2a1O9XSM6XztFnQ4-1JsvdUuqIfb-35phNjA95WToDwDWmD7HcOaKDzvUXLwqQm00BpAZIPVbJEGy00OCOXaaP06t2U51OLQgTgW--UspaR0ZAuszZjKVVvwnfpwZ4LnZUr__j2u4qVBkCDSRyKehyficwzlGT6gxESqYMsH7kXyAWHnH4Zpw3D74OAOWyWR5Rc31vspZvWfqktyKRC08Xjn3yqRRxfVfKnf_dVNGg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "امروز روز جهانی دوست داشتنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-12T10:35:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4280,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kQNY2CCLp0tV6atsFmaLl7D2EuapxUEEI-gfo_ZEv2yIS91kJ19zdOTH52EzH3nfb4w1D63Rz3JW2lju9niGQPb2NwB0seQwzi4Shcb9zxn9grzwfhxZTX5ByioEKTRVFTsgFfCExv05vN8LnqpSOKg9iYK5LE11nlafwduxAUQ-1KeMdnBGPX95ywCUNUKb2ia5-5cQe4xPJpDkjdRaU3D-7ELFlZoE30geFTFuVDbzyU0clg3KaLt7OJKOWE7AUJ2iuqKC1e2ps0JgWoucbjSG_mbqvWC5-uyV7JChwhLu8ej741Nho2dBKKcyW-BeAgNCZHmE3KQxQW8i2GPmjQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781246643
+  "last_updated": 1781262125
 }
