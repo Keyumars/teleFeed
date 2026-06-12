@@ -8,241 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5821218288666942520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4B2.png\u0026#39;)\"\u003e\u003cb\u003e🤲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5820977267987193467\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A5.png\u0026#39;)\"\u003e\u003cb\u003e😥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e| برنامه و ساعت + نتایج کامل تمام بازی های مرحله گروهی جام جهانی:\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eپنجشنبه 21 خرداد \u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87BD.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇽\u003c/b\u003e\u003c/i\u003e مکزیک \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5235822582753664660\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e×\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233578844593594393\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/30E283A3.png\u0026#39;)\"\u003e\u003cb\u003e0️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آفریقای جنوبی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BFF09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇿🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eجمعه 22 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 05:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B0F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇰🇷\u003c/b\u003e\u003c/i\u003e کره جنوبی × چک \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e کانادا × بوسنی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇦\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eشنبه 23 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 04:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e آمریکا × پاراگوئه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87BE.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇾\u003c/b\u003e\u003c/i\u003e \u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B6F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇶🇦\u003c/b\u003e\u003c/i\u003e قطر × سوئیس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87AD.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇭\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eیکشنبه 24 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇷\u003c/b\u003e\u003c/i\u003e برزیل × مراکش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ADF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇭🇹\u003c/b\u003e\u003c/i\u003e هائیتی × اسکاتلند \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081B3F3A081A3F3A081B4F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁳󠁣󠁴󠁿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 07:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇺\u003c/b\u003e\u003c/i\u003e استرالیا × ترکیه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 20:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e آلمان × کوراکائو \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BC.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇼\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 23:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇱\u003c/b\u003e\u003c/i\u003e هلند × ژاپن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AFF09F87B5.png\u0026#39;)\"\u003e\u003cb\u003e🇯🇵\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eدوشنبه 25 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 02:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87AE.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇮\u003c/b\u003e\u003c/i\u003e ساحل عاج × اکوادور \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87A8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇨\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 05:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇪\u003c/b\u003e\u003c/i\u003e سوئد × تونس \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 19:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e اسپانیا × کیپ‌ورد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BB.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇪\u003c/b\u003e\u003c/i\u003e بلژیک × مصر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇬\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eسه‌شنبه 26 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇦\u003c/b\u003e\u003c/i\u003e عربستان × اروگوئه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87BE.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇾\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:30 | \u003c/b\u003e\u003ctg-emoji emoji-id=\"5001434925941916472\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e ایران × نیوزلند \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e فرانسه × سنگال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eچهارشنبه 27 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B6.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇶\u003c/b\u003e\u003c/i\u003e عراق × نروژ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e آرژانتین × الجزایر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 07:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇹\u003c/b\u003e\u003c/i\u003e اتریش × اردن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AFF09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇯🇴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 20:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇹\u003c/b\u003e\u003c/i\u003e پرتغال × کنگو \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A9.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇩\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 23:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e انگلیس × کرواسی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ADF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇭🇷\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eپنجشنبه 28 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 02:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87AD.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇭\u003c/b\u003e\u003c/i\u003e غنا × پاناما \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 05:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇿\u003c/b\u003e\u003c/i\u003e ازبکستان × کلمبیا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇴\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 19:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇿\u003c/b\u003e\u003c/i\u003e چک × آفریقای جنوبی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BFF09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇿🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87AD.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇭\u003c/b\u003e\u003c/i\u003e سوئیس × بوسنی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eجمعه 29 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e کانادا × قطر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B6F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇶🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87BD.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇽\u003c/b\u003e\u003c/i\u003e مکزیک × کره جنوبی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B0F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇰🇷\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e آمریکا × استرالیا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇺\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eشنبه 30 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081B3F3A081A3F3A081B4F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁳󠁣󠁴󠁿\u003c/b\u003e\u003c/i\u003e اسکاتلند × مراکش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:00 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇷\u003c/b\u003e\u003c/i\u003e برزیل × هائیتی \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ADF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇭🇹\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 06:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e ترکیه × پاراگوئه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87BE.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇾\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 20:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇱\u003c/b\u003e\u003c/i\u003e هلند × سوئد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇪\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 23:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e آلمان × ساحل عاج \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87AE.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇮\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eیکشنبه 31 خرداد\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 03:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87A8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇨\u003c/b\u003e\u003c/i\u003e اکواردو × کوراکائو \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BC.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇼\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 07:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇳\u003c/b\u003e\u003c/i\u003e تونس × ژاپن \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AFF09F87B5.png\u0026#39;)\"\u003e\u003cb\u003e🇯🇵\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 19:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e اسپانیا × عربستان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇦\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 22:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇪\u003c/b\u003e\u003c/i\u003e بلژیک × ایران \u003c/b\u003e\u003ctg-emoji emoji-id=\"5001434925941916472\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eدوشنبه 1 تیر\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 01:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87BE.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇾\u003c/b\u003e\u003c/i\u003e اروگوئه × کیپ‌ورد \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BB.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇻\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 04:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇿\u003c/b\u003e\u003c/i\u003e نیوزلند × مصر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇬\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 20:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e آرژانتین × اتریش \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇹\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eسه‌شنبه 2 تیر\u003c/b\u003e\u003c/blockquote\u003e\u003cb\u003e\u003cbr/\u003eساعت 00:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e فرانسه × عراق \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B6.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇶\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 03:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇴\u003c/b\u003e\u003c/i\u003e نروژ × سنگال \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇳\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 06:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AFF09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇯🇴\u003c/b\u003e\u003c/i\u003e اردن × الجزایر \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 20:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇹\u003c/b\u003e\u003c/i\u003e پرتغال × ازبکستان \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇿\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eساعت 23:30 | \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e انگلیس × غنا\u003c/b\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87AD.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇭\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990163033381667840\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/SportBaadNews/253285\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eلیست ادامه بازی ها [ کلیک کنید روی متن ]\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:36:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/n0tNqSyaHMRGTtMY8_quQs3njlgv_3GGmcWyeel2ikK7XB6GNl6L3Hf33VILgGYxIupJlZ_G1emOuUiXzCDpYLbXZ4G8hvl7j7x8Ytkzj8tib5REi15sIXvZO_K5blFFQUSBV4P17hOenhsyLQdLpbry90kpp4kvoAKI7Fumb2haeIq3uxGZPLRwWVpfBKQ4PXVVxg7sjT5wkTgRiw-Dw3_kugBh9cK3__PBFs3n_pgIsDkQENMOkfFL2JdHZLDs0oE3n5Z6QWa9AzbLvijqfYE9_fIPMobHIgCLfaODfqYpH8AjgYUOvI3rDeU9BtKonZFO2ULllCg5Jb_TZ6OT_w",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5469654973308476699\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفوووووری از فابریزیو رومانو:\u003cbr/\u003eبرناردو سیلوا به رئال مادرید\u003cbr/\u003eHere We Goooooooooooo!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:49:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pC-9WnTYgotmLDJFioLL5w45VpC2T3_I1MVnqEmr-T_ZscPa3O5GXAepmZ-v66rSNUS96x-h_hPc6KS6Syin7kjpEhbEzzniwkNmZPKI3x4Axl57lat1XfWg52LzJTWutYvkkKUEG72r1TpDRU5aaC8PZAQL1bVTbrEqS23mi7mARivl2AJYCo_ySYlkA9izVn3Q_8LQTEBWJ7jKEkEAXyTaMEE_uGNVgPJJpoqkml3k0vhMmiXLiNOzLLrFmsNfvmLdvzuLBz86g7vBkNFMiEyFL_vjt5IbCUkv53LKBvoMLdBIjhHmXOAh4s1An_AJDj_-pPJAbmm9Ax2rFQYtSg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5933604556167452095\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5933604556167452095\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5933604556167452095\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:51:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BTHvqSEy2YSSzHyBG0cZRI1NWKUXJr8MfvYcwa3t1CWNYvAJZGX6L8GZJN_E81z23vrFPHX9TF20DnVz1maizhBI0kJUr8A46kaOHq4JJizTguJOCbBWih5_4pzRRY16q1mgLQpXAKhC19shBw6cAYd-VgSEnzvavhFU_LlUrqLo7_dkq_7B1Pbl_QBX8s7B8k9TyKLQ6y_pMjDYomZo1_IhI6gs8ytLaxaniP4X9w_iNcdQ5ILI8cm2AeTRD3C7WfLL2NCjq2ZL8eGKCdMACY6dg07chRjp-jaM4wLpdJQnH6Xl9rz5ck3JAu_c3bd5_OljTg193bVf8n9uOlAPxw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5834769331392616684\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5834769331392616684\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفابریزیو رومانو: \u003cb\u003eبرناردو سیلوا با قراردادی 2 ساله + بند تمدید اختیاری به رئال مادرید پیوست\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:51:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kJjN8c8dC9sk6xusod5YRDqbNZ6X1kap-OpsFdZIyQpTq3Sl-MDIuIbLs2Qa3Q6kpIGQ_yElkrLqx5fqmIehYa1bClTQjqkpeoy--Set4uwATX2HdDQ7hn7ftP9HpTm00o9wrVaW7vEIgE_k8a4T9uypURS_Xhj1IxVyvt46xU2qdRH86BkEkiOQfqvLN_zxjzUfOjXjIKACLmreFiE_lgHRv26LyFGn600sALXzwdntW1bIG6SvvXbvfOrwxF7qRqtZQk3o6B3lCC8vxyg6MEBFkioERtOy0EQWCT3mj-K-7OPUAZ3FhBo5hjDrLNunrUX0j3QA1QbAwQBaXrFDJA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "آقا ایول\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:53:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hDJcJS5XtTDWHBoZ7PO-41r1pFf90Pi2gnb_dy0AfZCnfWxS7MDATu_IBFw_ENHyOU_LuDlqWN4epMPRvOyZsWUFHeZGdkRLrRE2uVNF_CnIrEwhushTxbrF12Rizj03gKCIOPROuhvHGiniGvZ0bYusI-T3RYqtW_oxyrjlifcMkPFtT-AX5rN_uEMQ1OQStIjtChtUz78Nnt4Dh727SgDPHn1K5PFVCf4xpFPqyvuIpLuDBdY-gllA6guHzQd5ED5QKSCn2Pb1fs15SUxZ0-5WVyCVudB5Oxj9btwaJPrd6jK2u5zubn7ev4FULBJI5kZWMJV928F10GQyUVijBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "14 روز پیش گپ ادمینای بدنیوز \u003ctg-emoji emoji-id=\"5832378632336580027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:54:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/L8mEQROUYMSA2rUtg4Jx5jTXoES2QyHmvFJIcbNDRNRTI7QuVB1V4wKuNXegcqap22_q1WGt66aSmV0fBOUwtb-5aEvbhIrppL2vw2b0f1G150xRm7RQ1ICB3RvA5qPU47a_JHqWDuxJ4VlTKHQbfuVV_hYz4HHLrm9EFhCptXTG-N-6AZEcVCi9YDYjBXy6NQib6-RMK2NrZFHiV6S3oJOKDnI-ueVySBTqqqOasl3ZQAen5O_EhNt3Ly-nZBgjpOk4amOHcu9ZahhevBAf8nQEysrCpfGDEaaTObAjij-7_iZ1POvIEbIywJS3lQQHcSe7Gc04dICbnCzyUXIqfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اخبار سه هفته پیش :\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046301839429734790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بارسلونا به آلوارز علاقه منده \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046301839429734790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بارسا میخواد برناردو سیلوارو رایگان بیاره\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046301839429734790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گواردیول می‌تونه یه گزینه برای بارسا باشه ولی هزینش زیاده \u003cbr/\u003e\u003cbr/\u003eاخبار این سه روز :\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046192627001332188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رئال برای الوارز پیشنهاد ارسال کرد \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046192627001332188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رئال با برناردو سیلوا به توافق رسید\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046192627001332188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رئال گواردیول رو در صدر لیست نقل و انتقالاتش قرار داده.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:55:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QWGFnWZKKxZpoPMRcLdYwdhHE2mUoTj3I1pbgpt0oXe_TOHObHqtUuRZst2PQ5a7u44sHOz5kG3VZ2SWG6-NSA5GRvmHkuiXTu5HftJAU3PVApQ-fT6l85PaBS5Wdf0f4LPQ_EXD_ofpYUlpNVvqkLfNGmh9xBx83QmsKq-KgXr2yCDBnC1Y8SWkhGWVosjbXN5n1rAfmd4Vg_mw0UIYDFhbZHhn6N5nxD4Mx65QLophCg5xH6NDxEagNbhF26Hw3rTHfkeCV4sKzysxfno-EPm40GrMM0hzI3Atnv6130HLLWrLTol4Cga5IYioDUfyBZR24tihKoFlWCdyTP6bmA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895514720307255384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895735314122546423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به مناسبت پیوستن برناردو سیلوا به رئال مادرید یادی کنیم...\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T21:59:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ASXaAFTZTY4_nbcsuZ0wBbm4WnbpBamHl37M4NfXKKCyMPCE_zh0dP5xSsfCmDpfh6x4atTBsi0ToWgUihXDa-r5W0sFj3rTpxhS6vLGGOKAYm2Sg-7XxOyyFp9DyYDsqwbU-7zRr0yIzDE2iPyxL0P0XbQo99EfAgW2TVKMcrV1hqfMYCjEG9jyL48X2sSfWtSKu6XADH3Oi15WLbN_PDvT8E29Go-Ls8PQ3oMSsqJczdblYirWa1AWuSROlEY56abpvR8VVkbhSlkxkAg6paPJp8aanVIMS9XmUB4JZ-44HAz2LIQX6qrXGtutkYEZTzKSXkiKyMMLr7Aq1RgWlw",
-          "width": 752
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "امباپه و برناردو سیلوا بعد از 10 سال دوباره همتیمی شدن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T22:00:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/goWmd1kH0uJkyBZj6pZ5a4XlTZrqV69GmKVy91BtYYFzHKYx_4vPH6RWMdeWXhBdQ6iTUf3f2VOH2b8x0QAXXmq7b6CmXMmUXUujNg5NvlT08XlPTG7eKCYEE2ADd0Wzimxhy41riahytPS1KB4aDC6_5stv24F3YiQqDRH48rNSvXWTXHErpqDpHTncsl_hpCze9Da3yuPJG20GvDxq7_VEiyZklGQMOMlxxTMzAP1mZkSKxkiYPjp7Zv7EizExsZzd52STF86Bw2YrNYO6JazoMVC7VllVYREVt5qYMSGYEi4m2FNw10r8CdLCFrMz7T_XTokAWlyV5_4Q2wUBFQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "و خدا همه را به راه راست هدایت میکند\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T22:03:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZIZHXqPnqWLkL3-MvLodK7FsEkN82dmX5XhUSumXjCWdWXzIkLDQ1uLKCfxryfpu2AXv4L1p5gaqMy35bGYycghKf9eNfdxlbXJoC8rlxJyJE-YdUoqd9T_-APYaeZvoy8al-WDKKHDwv0wkq06QINBvMlgFDFzkibGkHBR37QF01NfHlMZhEH4Yn55CEgqWVBEFT1M0EgP1bTnjldnztlAg6Jj2MDuAX-DP6nlFyHwkS78OjGP-0_o3lZ2lvnAFgTh_I-MomQ92YzNewsPocViRNSbAzNBU6NRn6nDW1h2tMgn6g077BxCgTYcf8iY3jtZUwD78ADrzYRsvmG7_tg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ال‌ناسیونال از امروز برای من معتبره!\u003cbr/\u003e\u003cbr/\u003eوقتی خبرو زد همه خندیدن و یه سریا کصشعر میگفتن درمورد منبع\u003cbr/\u003e\u003cbr/\u003eولی خب به همه ثابت شد",
-      "date": "2026-06-11T22:04:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووری آبولا: \u003cbr/\u003eدر محل تمرینات پرتغال در میامی سه تمساح دیده شدند! زمین تمرین کنار یک دریاچه قرار دارد. سپس به بازیکنا هشدار داده شد زمین تمرین را ترک کنند.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T22:08:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bI5VfdGmyF82gKFF6LconGJHGJMkwLBWX7wsj1w_CI6PcGU4QN--EAFWltzmAuFTdHo22E0XG9eXsnGuKzWW6t2Zqk9AQ4vq2eGsmX4lA4xyoFRc6FBxOagQMZdSwHSPARHvic6EP-zCIjuWd5vAcQeImlLJWgYcLhlNA5rH9zE9s-5Tub50dUuWspCQyRBs6E6QuA9RW55EUH233uC8tapGqkMoI01LgWy1B53SUPj1GWgacnoUIFVKF4k934VNFqIN0jeNBPxp2DYXJzvkzOvxcCo1T3TpB5BsNi2QguULLiBGtoMT34ghw1NtpKWIhlDhwgb1nkVhYoyS7hSMpg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اینم خبر بعد از ظهر مارکا: ‏پس از اینکه تیم ملی سوئیس هشدارهایی درباره وجود مارهای سمی به هیئت برگزار کننده داد، ‏تیم ملی نروژ نیز از وجود تمساح‌ها و حیوانات وحشی در نزدیکی اردوگاهشان مطلع خبر دادند!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-06-11T22:14:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jMW8hpBzwzenVIPh92GhCuPVccXHXKvvGOEc7Ip3GqN5h4j_MKnXnXOBnSxY8pcggm7ETykaxVW3Pw331WwsXeBUDVJy7KS-C65fHJm8oRYCkuSJu--NPGKG3r0juXVtImJNpRGiTyMslXHcpHx-abAJfszy1srCBffros8ah7MgFjQERHWP1JStaPmQT2u2M0azhnHEvxmFkC4VzyYj86LXPgO4CTaKGbiMOw7f-ZBD2EXtrPsHveQbk3dVbI2GhWqp0xiFFKs9ApwCvLlEhfTmnvBj0LZcNwKUwT17G6z5jOjGdyupoeddhH4GkX-1F13_NXzJH9VsZ6nUIVdlXQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "به به آقا، تعداد پیش بینی ها خوب بود، ببینیم جایزه های میلیونی رو کی هر هفته میبره، جا نمونید شمام رایگان پیش بینی کنید و هر هفته گیفت 10 میلیونی برنده بشید(5 نفر برتر جایزه نقدی میبرن).\u003cbr/\u003e\u003cbr/\u003eرباتمون:\u003cbr/\u003e\u003ca href=\"https://t.me/Algo_Winbot\" target=\"_blank\"\u003e@Algo_Winbot\u003c/a\u003e \u003ca href=\"https://t.me/Algo_Winbot\" target=\"_blank\"\u003e@Algo_Winbot\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Algo_Winbot\" target=\"_blank\"\u003e@Algo_Winbot\u003c/a\u003e \u003ca href=\"https://t.me/Algo_Winbot\" target=\"_blank\"\u003e@Algo_Winbot\u003c/a\u003e",
       "date": "2026-06-11T22:23:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 41400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +30,7 @@
       "date": "2026-06-11T22:24:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 44000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +48,7 @@
       "date": "2026-06-11T22:33:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 42700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +66,7 @@
       "date": "2026-06-11T22:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 45000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +84,7 @@
       "date": "2026-06-11T22:34:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
+      "views": 47200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +102,7 @@
       "date": "2026-06-11T22:37:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 46000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +120,7 @@
       "date": "2026-06-11T23:04:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4050,
+      "views": 36100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -361,7 +131,230 @@
           "url": "https://cdn4.telesco.pe/file/QCCCZTguLX675GD_P3kGjEhfW6ZyNmyDHWVL20anB2qhDF8vdvpynfxiJ-7w8K3ze6K3ReAmkpb_EO1ueknkoquL7BT3ldfJ5iknG68d-QQ7X4haNSZmO9CEaPCfsHAb6UUrq9fXWnAwfruu_nMqBiT6TLO8U59yw-GgYAsHTe6KrCGC4T-j_NCHVCNpz4sWQBlWMSETbxHGOeZxqUm_f9VG2MxCvhhK_6pZnEVFKcDPuuS1o-ppSjAALfhH_lZQlMxkShVneC313qEv--aOttlAjCs2OGMlPPMy3PSnHLyh0S01nypqEvXNd1XaG6pDvRtbTnCsguIYOAgTg8kHqw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5202074005346983800\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830127962099294389\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 12 سال پیش تو چنین روزی جام جهانی 2014 برزیل آغاز شد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-11T23:13:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/l8Al5VLnsEU---gmRU5KM7KNOOh3QwVJs-ORLwlTBMU9RCRHy4f8Kv-7Tl4raJonrZOE9b7SFrB1hJtjsLhDbr3SBdhC3KGogPzikKHuTZK2w2sq3AsnbbwjkfDhItM7ETDZ-uhYLuTh1uAfFkbBAzjhrk2nQFC8T6zKIJirwkMneTgbY2J8kEx7RHYB-fcuYP55F9L1xqK_ubjX_Upz8h3YlfwV-3vaC_HQHh-FqZkjO0niQOJfkeZWPa4krErczoLMV6-z_cabp0zeGj26Z6KcsPlojt552E7eflHCEyC_MAxnqCnIIVRE6X0a8ExTTRPdPJn_eGAlUR4jIMooSA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895735314122546423\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5895514720307255384\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رودری درباره انتقال برناردو سیلوا به رئال مادرید: \u003cb\u003eصددرصد میتونه تو هر باشگاهی بازی کنه. هنوزم داره عالی کار می‌کنه، از نظر بدنی کاملاً اوکیه، می‌تونه کارای خیلی سطح بالا انجام بده ولی دوره‌اش تو سیتی تموم شده بود.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-11T23:44:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iRtzVleYC-H8BxwROP2ij0dt_0miL0QtdkEFbW3CJCcJQmS2SxOXs8vkAyOzvCOPsGQdCHolUmRQr6NDnBliUOod8PIfbq2x1Ie9MeFMO0SOpXwwo6Wgo94AZ5s7yMUaWlMf2psWelPGgelGMVOcqLx5_uvJ681PW140d6kb5G60la9hHXsI9iL3000sB7IVPJ88_1NTUWD54-yn-ciImvAj6fs5lKKwtLN1_pz2PcNHUldiaU8LFiRzr0BI2V4wz0GKrX8LjxC8MPustEjyymrBBYbVWx0qnmqVZ9RNZSNUlLKl_AN61_AUU5RS899q9mUrj3s_1O7PgZB58us85g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5830131827569860813\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B0F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇰🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830127962099294389\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830150884339752705\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | ترکیب دو تیم کره جنوبی و چک؛ ساعت 05:30\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T00:39:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AcJ_ndEsnw-UYnq3MELKnTZJuD6lpjf0N45vplsyASoHvcbI0rqmpQcyHoDG1Wcw1P4ruxMPwCzwE2iVKLPFzaxbqbjKXgQrNj9hjKeHjCya2Q4oo4FLbNNmJsBhURhmxzzOgOFPrkmReZuAgRWhUTDoRQpPLwiE56iuo5IB1kbZoGkiDMB7p1T6Oyk4vj6CLcKJ2ejyJfQxC_Pw-heQ0uSd9n88GrCJ4hYLI6X9YmxxJZ2u-RDTbAxPbaBZnk1kkLbmkAAf-nklwOLkYg_iJetFTp1du08i-aCBo6f0ADVioWiR7CEjVFQ_SJrO2ZhrPpSvmtx8Ycq7lQylITGF8w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895243536072187902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e عکس های لیک شده از کیت اول فصل 2026/27 بارسلونا \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T00:47:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GqkQmDURSfUi1HAmti8RW7M-jv9TYOrb01bVxFt4eLSN5qHwWKTfzOuK5p9BwsYoXAENs6wW-rqmY5M16gwjvsvYm5AkNtXRfuu4ja_sTZ6STGRtSWcB_yAC5SK0qkp3mokQOr6Xr1xa8Tst2HW-fuqJk_hAomsLpBfwKlqZ8tKmH1EIpdhQhtvYEZw29PeABAHF7g8t8EEoLvUqZeY1_p_b7QstGb_KADnlRx-j8IYps31l7NeZcnZ6Np6KrURNqzcZxOsWC5_CGh8ep9JGFJJ5Q2C_mwWQpxKy9fR721JXLFr9A1sVI2PaasYaNJbJVhDT6NH-MENNvzBKxvlfWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5830106474377911586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BFF09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇿🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5830037776376012198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87BD.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | سال 2010، سیفیوه تشبالالا اولین گل جام جهانی رو جلوی مکزیک میزنه و یه شادی بعد گل انجام میده که خیلی معروف و نمادین میشه. \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5830037776376012198\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B2F09F87BD.png\u0026#39;)\"\u003e\u003cb\u003e🇲🇽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5830106474377911586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BFF09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇿🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | 16 سال بعد، خولیان کیونیس اولین گل جام جهانی 2026 رو جلوی آفریقای جنوبی به ثمر میرسونه و همون مدل شادی گل رو تکرار میکنه. \u003cbr/\u003e\u003cbr/\u003e- This is Football\u003c/b\u003e \u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T00:50:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HwjuWZ63A9KCmavP9ysKNhOUMk3f0pW4K1iRdhh26-5vb7_orLVwl3qEwcLbyW8bAnO4_YKNADMzOqpZINZyy9HHyUGgFb0oyXXbjyEk-QvO1Htr7GZs6svmr3ibpFemob4F9C7C-d8MZA1Hra9Ugzab1lhOTstuloIl74y83XFBOGABMNeSYSAGNTEVfAtAFmK3g-fxSV-xmlZK5OquqQ4fprYSKrkvbuhsGDCcrcUt-JruXzlCc3JvuboeYZ0kHTI1opPnmwscE0KBniapr54CWLLiI8tHZq3SxVerY9udeEDN4yK-taMqhaNGSlhhuF-AoiAfEwRQjajx6Y0bRw",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گل پسر بدون حاشیه و دوست داشتنی کره‌ای رسید ورزشگاه برا بازی\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T00:55:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hGimJaI3RymQg9YhHeGIFMTMjriYX0Gz0oU-hSRp9aC4bLtcpUNcu3i-0yMIODHx2k5JCTOFmVtGOyjLA3zBMwxDm_IUyWiKGCNkSWwwlUvH7gPgC3ZqYhOMc_oZN8LtimnsuxPbxb0URNDPtFZTkXvqxLPWJ30Ub0MoKixguhC7pYo0u3A0pAi6LcDw7IkXDHtptHxr3UDt5IrOMx7MrYOgSYPrxMXSzkSEMxm3w02poxfvUDGJt10HB0mFHnslJm6_N73-f8e4_3F0qswoMSNtBom_aShpe6inZ-MuNAM5e3uMvhQ6tnc5CYFLyBGL0p9otxLyuxKef9KBIKrv3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی میری دزدی ولی میبینی صاحب خونه نشسته بازی کره جنوبی و چک رو ساعت 5:30 صبح ببینه:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:05:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hehmR0_zV3rsDO_rC2l_u47-gscQrCjVPxBO65PRzx4iphLHBJeQqeC9CtGm_IXerk1XtJ_CNAXWGfoepHUdeKADfJ0_r5_Nfcqvz4gUkwk9K_hbqAbngPmt-lXQCq7s4ekWjuaaDwHvGD-QLx0JgCibon-S9JngOfY3X7bzC4FOytUUj2agoYAPJOgtdMft-DDBzx4iNZScOPeWU-gFnHmwZ1C_MgNTCC6j1hQ0IaH2KaafcOTarFEq3o2wnq8RudX1oH8WSbglm-utk7-E9bdm6EczBxAvR67eq1oEbJwzrL-DRZSfvnJbuTFCBiD0yVATtp0MFAKuQxgeGEVoCQ",
+          "width": 1320
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5830437315708722764\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830127962099294389\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e استوری دوست دختر یامال از خود یامال که مجبورش کرده ماسک صورت بزنه: نگرانش نباشید، تا جام جهانی کاملاً آماده‌ست \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8CF09F8FBE.png\u0026#39;)\"\u003e\u003cb\u003e✌🏾\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982E2808DE28694.png\u0026#39;)\"\u003e\u003cb\u003e🙂‍↔️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:10:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RSF5LXgCqY2ENDNg9NR9mwmVpAmEGpBi6n4Ox9Kmq_PIAg_hh0m60h6y7ilEj6UDAG_7KnhGf680A1ZBSf2znF7MPDiPHgNA6PSMAd_LtX7lC4X6BrdvPQhmslXxafwtdKpK6plScDei_px_e3h3sydRaZNc6zjgLUcTWkc4jAwavNo_a-AOXScxZrztdTNNHVlb1BVnp_pIyXmi6PkwWEF6nkuAkZKR9c6aQAVGeisOkxZXYT5IeBiTJCi6IibHWaYFXtiBRMi3u0XgFGur8OxgQHCTFGKHKpibvuSgCgS8ZKcSEBWMEbxYLbTN-MM2lZbAYIqbZ8lGBBiYBVBmXw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "- داش مگه کصخلم تا نصف شب بیدار بمونم همه بازیا جام جهانی رو ببینم\u003cbr/\u003e+ من بعد گلزنی سون مقابل جمهوری چک ساعت 6 صبح:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:30:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/gssqn5O47DSd4nwtDUW7O4qEPQ3WU1QNCjw0UZdIYzKa06ChWWMd1pmoBQx4SGwQH3_ORp-JnXDOR2XKmf7Zkza22Iw5qU6Tu5DqmbphffKZrKE4CrfOY21z-OtELvtFEDRqi0F_-i6WWA9PEYy-NH0FHLgIBRIYPRCd5pBvug6fRdudcl5StnDX7vIy6MFZvjhFqOO9jI7c4GUSr8QBrqIwfACtmdGNhVXCwb5Z-TFwa_1hgiMpyOa-mExwRx3UnypVKPQXWXZ2wQRIcGWsp8fV628S8-2NPKSq2b6yuQK7wdMy1CBG1CZtLzT-65zeizRJ6xpvCx5voGzqsBuzuQ",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "هوادارای کره ای آماده بازی\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:36:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EqLB32E-2bcEjfbWdUxlpMx-Ulkiz7NYowfLoMnCEXRqqijW7RptJnJzTFAaGD5q8EpVStXDTVdK9mgEl6Q8sVmZYfwReLUvhvy868Gk15n41fKfv9aKGJpBmIgkGt_PnRdoao1-OJgjOUZWE2Yz0Ung7HhdVpeg2McjIv7aySehfIFYgUOOO7ARP69gA_jKLSA-HDpj_7ZH8MHRiM0r9bTWHNWZC35qtWWPhEn3-m-_RCYK5_SGInkzu_-de4jy799CAGA-thvR7Iy6-avz_oEwN6cIzatv1Nv0OFTP6N4jB5HvjzV3sTQhsSfD0ATodfijdu0i5-t173RFjFMytg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oZf7utDjkBUemz5N-1hx2t4E8VRoX6yO0dyMCsyb6wo3u3SZt0w0FAgzWTMxQ_daCAq2WIaX2IDFgPL_dJNAuq4T1Ym0ctWGagN3ZO5XcX0GqE21FIuiiJK1UqUONjFBgjYPazPOIc6sylQRMh7nCA8g0tmnlvt1OvS9Wm7W9ivLAjSeExa5vtobw3JVVkfAwCTz6Q0nmcl_Jm50PqPbqmM22dl96Rjj0Ye0H8PXyCNi3s0Ar0OWOD4fP9p7Gn1BKJLajqiFYBRkD42vPNyIud5MWMvOE-lM2ZDQ7OX4ZUIOs4b1mPtzRVSJqHzWpq1g9rLYnruLkk_DkEp9s_sHSg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مراسم قبل بازی\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:52:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/O62ucVrPUzyx_wrfBuSnx2IOj38df6VW4vp5sGImiRkP4KUuVPqpPgyxEChuCaZYsmPbhapnGitQk--126K18WFiZnOl-kPm23fKfG0UzdBDDiqQ4fFvq65CkkXu4YEQaPSrNlpFuFlB4by-tH-BoZFliRe5FzAgKIw5bDVehhcIepBvVtTSAotup8ef_haJjSu1cHK8jQPma1JACyS0RWM7TCdDrtFXNPeiJNbKlyFAoMN9x3JxRFFdBi1Y7Qq7XTU0snN_hRpqK2Y43jHEoGhK5UaNjIN2C6yvUy2Gc_ypx0-E88lky9uWD5l5cIOtNE7omAKMfT9KDLCKZ3H3RQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5377588784495865325\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990075566372685240\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA1.png\u0026#39;)\"\u003e\u003cb\u003e🟡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e خلاصه صحبت های جدید رومانو تو ویدیو یوتیوبش:\u003cbr/\u003e\u003c/b\u003e\u003cblockquote\u003e\u003cb\u003eبرناردو سیلوا با درخواست مستقیم مورینیو تو یه معامله فوق‌العاده سریع 36 ساعته با قرارداد دو ساله به رئال مادرید پیوست. \u003cbr/\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eبا اومدن برناردو، پروژه خرید رودری توسط رئال کاملاً کنسل شد و حالا رودری باید بین تمدید با سیتی یا رفتن تو سال 2027 تصمیم بگیره.\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eماتئوس فرناندز هافبک وستهم هنوز تو رادار رئاله ولی منچستریونایتد مذاکرات رسمی رو با مدیر برنامه‌هاش شروع کرده\u003cbr/\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eدرباره اولیسه هم بایرن مونیخ به پی‌اس‌جی و رئال پیام داده که این بازیکن به هیچ وجه فروشی نیست.\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003eکوکوریا هم فعلاً تمام تمرکزش روی جام جهانیه ولی اتلتیکو و بارسا دارن وضعیتش رو برای انتقال احتمالی بعد از مسابقات چک می‌کنن\u003cbr/\u003e\u003c/b\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eدر آخر هم شایعات دور و بر ساندرو تونالی زیاده و به نظرم احتمال اینکه همین تابستون از نیوکاسل جدا بشه خیلی بالاست\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-06-12T01:54:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 933,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I95g1X9xknMq81y3DpWdmyCxX7lY2KmILiqQCivT286pHyh1af9cF25t3Otmrm10sLUxevDIVv84YZV7x4htPzsFmLwYWFSb4Co7J5xjXAn5qPRW_sEkZDcDdMMigAchAzWbh58GiTcTUoPXz8aXAnSA16_XdLoYbUjJBUDYP-mfUQrNYW-IQCcvpmQYJxI2-DoDgaPqEN43KV8mCl85irUwt4eluVCU9xf6WfW8Wn-dqd9ivYi1KTbaXhU5fuvsOeDK_CQzvTOF9P2A2EZd_k7a6_slU34LjlQqeKybLBpb4nSEOKuvSEPx-_nUrawLwkxQkmZ-APeUi2ceteR8yQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781219253
+  "last_updated": 1781229442
 }
