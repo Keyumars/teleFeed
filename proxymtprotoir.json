@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4987850708888848736\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانفیگ 𝗩𝟮𝗿𝗮y\u003c/b\u003e\u003ctg-emoji emoji-id=\"4990389330913527566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003e\u003ccode\u003e{\u003cbr/\u003e  \u0026#34;remarks\u0026#34;: \u0026#34;\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e @\u003c/code\u003eProxyMTProtoIR\u003ccode\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e \u0026#34;,\u003cbr/\u003e  \u0026#34;log\u0026#34;: {\u003cbr/\u003e    \u0026#34;loglevel\u0026#34;: \u0026#34;warning\u0026#34;\u003cbr/\u003e  },\u003cbr/\u003e\u0026#34;dns\u0026#34;: {\u003cbr/\u003e  \u0026#34;servers\u0026#34;: [\u003cbr/\u003e    \u0026#34;fakedns\u0026#34;,\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;address\u0026#34;: \u0026#34;https://dns.google/dns-query\u0026#34;,\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;remote-dns\u0026#34;\u003cbr/\u003e    }\u003cbr/\u003e  ],\u003cbr/\u003e  \u0026#34;queryStrategy\u0026#34;: \u0026#34;UseIPv4\u0026#34;,\u003cbr/\u003e  \u0026#34;tag\u0026#34;: \u0026#34;dns\u0026#34;\u003cbr/\u003e},\u003cbr/\u003e  \u0026#34;inbounds\u0026#34;: [\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;port\u0026#34;: 10808,\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;socks\u0026#34;,\u003cbr/\u003e      \u0026#34;settings\u0026#34;: {\u003cbr/\u003e        \u0026#34;auth\u0026#34;: \u0026#34;noauth\u0026#34;,\u003cbr/\u003e        \u0026#34;udp\u0026#34;: true,\u003cbr/\u003e        \u0026#34;userLevel\u0026#34;: 8\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;sniffing\u0026#34;: {\u003cbr/\u003e        \u0026#34;destOverride\u0026#34;: [\u003cbr/\u003e          \u0026#34;http\u0026#34;,\u003cbr/\u003e          \u0026#34;tls\u0026#34;,\u003cbr/\u003e          \u0026#34;fakedns\u0026#34;\u003cbr/\u003e        ],\u003cbr/\u003e        \u0026#34;enabled\u0026#34;: true,\u003cbr/\u003e        \u0026#34;routeOnly\u0026#34;: true\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;socks-in\u0026#34;\u003cbr/\u003e    },\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;port\u0026#34;: 10853,\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;dokodemo-door\u0026#34;,\u003cbr/\u003e      \u0026#34;settings\u0026#34;: {\u003cbr/\u003e        \u0026#34;address\u0026#34;: \u0026#34;1.1.1.1\u0026#34;,\u003cbr/\u003e        \u0026#34;network\u0026#34;: \u0026#34;tcp,udp\u0026#34;,\u003cbr/\u003e        \u0026#34;port\u0026#34;: 53\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;dns-in\u0026#34;\u003cbr/\u003e    }\u003cbr/\u003e  ],\u003cbr/\u003e  \u0026#34;outbounds\u0026#34;: [\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;trojan\u0026#34;,\u003cbr/\u003e      \u0026#34;settings\u0026#34;: {\u003cbr/\u003e        \u0026#34;servers\u0026#34;: [\u003cbr/\u003e          {\u003cbr/\u003e            \u0026#34;address\u0026#34;: \u0026#34;188.114.97.6\u0026#34;,\u003cbr/\u003e            \u0026#34;port\u0026#34;: 443,\u003cbr/\u003e            \u0026#34;password\u0026#34;: \u0026#34;mitivpn\u0026#34;,\u003cbr/\u003e            \u0026#34;level\u0026#34;: 8\u003cbr/\u003e          }\u003cbr/\u003e        ]\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;streamSettings\u0026#34;: {\u003cbr/\u003e        \u0026#34;network\u0026#34;: \u0026#34;ws\u0026#34;,\u003cbr/\u003e        \u0026#34;security\u0026#34;: \u0026#34;tls\u0026#34;,\u003cbr/\u003e        \u0026#34;sockopt\u0026#34;: {\u003cbr/\u003e          \u0026#34;domainStrategy\u0026#34;: \u0026#34;UseIPv4\u0026#34;\u003cbr/\u003e        },\u003cbr/\u003e        \u0026#34;wsSettings\u0026#34;: {\u003cbr/\u003e          \u0026#34;host\u0026#34;: \u0026#34;eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz\u0026#34;,\u003cbr/\u003e          \u0026#34;path\u0026#34;: \u0026#34;/ed=mitivpn\u0026#34;\u003cbr/\u003e        },\u003cbr/\u003e        \u0026#34;tlsSettings\u0026#34;: {\u003cbr/\u003e          \u0026#34;allowInsecure\u0026#34;: false,\u003cbr/\u003e          \u0026#34;fingerprint\u0026#34;: \u0026#34;chrome\u0026#34;,\u003cbr/\u003e          \u0026#34;alpn\u0026#34;: [\u003cbr/\u003e            \u0026#34;http/1.1\u0026#34;\u003cbr/\u003e          ],\u003cbr/\u003e          \u0026#34;serverName\u0026#34;: \u0026#34;www.ssl.global.digi.my.mitivpn.xyz\u0026#34;\u003cbr/\u003e        }\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;proxy\u0026#34;\u003cbr/\u003e    },\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;dns\u0026#34;,\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;dns-out\u0026#34;\u003cbr/\u003e    },\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;freedom\u0026#34;,\u003cbr/\u003e      \u0026#34;settings\u0026#34;: {\u003cbr/\u003e        \u0026#34;domainStrategy\u0026#34;: \u0026#34;UseIP\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;direct\u0026#34;\u003cbr/\u003e    },\u003cbr/\u003e    {\u003cbr/\u003e      \u0026#34;protocol\u0026#34;: \u0026#34;blackhole\u0026#34;,\u003cbr/\u003e      \u0026#34;settings\u0026#34;: {\u003cbr/\u003e        \u0026#34;response\u0026#34;: {\u003cbr/\u003e          \u0026#34;type\u0026#34;: \u0026#34;http\u0026#34;\u003cbr/\u003e        }\u003cbr/\u003e      },\u003cbr/\u003e      \u0026#34;tag\u0026#34;: \u0026#34;block\u0026#34;\u003cbr/\u003e    }\u003cbr/\u003e  ],\u003cbr/\u003e  \u0026#34;policy\u0026#34;: {\u003cbr/\u003e    \u0026#34;levels\u0026#34;: {\u003cbr/\u003e      \u0026#34;8\u0026#34;: {\u003cbr/\u003e        \u0026#34;connIdle\u0026#34;: 300,\u003cbr/\u003e        \u0026#34;downlinkOnly\u0026#34;: 1,\u003cbr/\u003e        \u0026#34;handshake\u0026#34;: 4,\u003cbr/\u003e        \u0026#34;uplinkOnly\u0026#34;: 1\u003cbr/\u003e      }\u003cbr/\u003e    },\u003cbr/\u003e    \u0026#34;system\u0026#34;: {\u003cbr/\u003e      \u0026#34;statsOutboundUplink\u0026#34;: true,\u003cbr/\u003e      \u0026#34;statsOutboundDownlink\u0026#34;: true\u003cbr/\u003e    }\u003cbr/\u003e  },\u003cbr/\u003e  \u0026#34;routing\u0026#34;: {\u003cbr/\u003e    \u0026#34;domainStrategy\u0026#34;: \u0026#34;IPIfNonMatch\u0026#34;,\u003cbr/\u003e    \u0026#34;rules\u0026#34;: [\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;inboundTag\u0026#34;: [\u003cbr/\u003e          \u0026#34;socks-in\u0026#34;\u003cbr/\u003e        ],\u003cbr/\u003e        \u0026#34;port\u0026#34;: 53,\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;dns-out\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;inboundTag\u0026#34;: [\u003cbr/\u003e          \u0026#34;dns-in\u0026#34;\u003cbr/\u003e        ],\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;dns-out\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;inboundTag\u0026#34;: [\u003cbr/\u003e          \u0026#34;remote-dns\u0026#34;\u003cbr/\u003e        ],\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;proxy\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;inboundTag\u0026#34;: [\u003cbr/\u003e          \u0026#34;dns\u0026#34;\u003cbr/\u003e        ],\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;direct\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;network\u0026#34;: \u0026#34;udp\u0026#34;,\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;proxy\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      },\u003cbr/\u003e      {\u003cbr/\u003e        \u0026#34;network\u0026#34;: \u0026#34;tcp\u0026#34;,\u003cbr/\u003e        \u0026#34;outboundTag\u0026#34;: \u0026#34;proxy\u0026#34;,\u003cbr/\u003e        \u0026#34;type\u0026#34;: \u0026#34;field\u0026#34;\u003cbr/\u003e      }\u003cbr/\u003e    ]\u003cbr/\u003e  },\u003cbr/\u003e  \u0026#34;stats\u0026#34;: {}\u003cbr/\u003e}\u003c/code\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cblockquote\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-13T07:29:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "وقتی دوباره صدا میشنوی اما دیگه به خاورمیانه‌ای بودن عادت کردی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"tg://proxy?server=136.243.247.62\u0026amp;amp;port=443000\u0026amp;amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآیفون\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=95.216.230.254\u0026amp;amp;port=443000\u0026amp;amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآیفون\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.26\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=mine.airplan1.ir\u0026amp;amp;port=25565\u0026amp;amp;secret=FgMBAgABAAH8AxOG4kw63Q\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.75\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=194.213.118.74\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.71\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.60\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.28\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=194.213.118.28\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.73\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.26\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
-      "date": "2026-06-13T07:38:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 73600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RrffookYsVMCY2U6QNmagoKRCzlA8iMCOpZxctOxEP1Jk_wR-8Ovo4Ae82Kg0iO4oVBZfv6i91qCK8U01d_XH4qgPlLjCsES9MMcVSpxarR3RerioZxkEJiB9xUIkWOuJ3B4ShI-arWp4wPGZD3-iI1FdHrOZGNi8bx8t8QJPox-ZbxRwbNsq6nRA5C4uMqOeuO7fmbj_csxhOAQ7x9MdjFmuHuwqYNuFlbwc3Jli-hLl8pLJKKvwPkLtQKyInWEOkTUlJEJGOCyIb1jPKkN060lQ6LDY3pkT5AzIQxL6MpisMCAk5EA5lfWhx0qNITA9ex8Ky__v1k0XnAxvtNeuA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "درجه های سختی تو دنیا :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"tg://proxy?server=136.243.247.62\u0026amp;amp;port=443000\u0026amp;amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآیفون\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=95.216.230.254\u0026amp;amp;port=443000\u0026amp;amp;secret=dd79e344818749bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآیفون\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.26\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=mine.airplan1.ir\u0026amp;amp;port=25565\u0026amp;amp;secret=FgMBAgABAAH8AxOG4kw63Q\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.75\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=194.213.118.74\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.71\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.60\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.28\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=194.213.118.28\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.73\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=194.213.118.26\u0026amp;amp;port=1010\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
       "date": "2026-06-13T08:24:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70000,
+      "views": 75300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-06-13T08:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76900,
+      "views": 82500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +48,7 @@
       "date": "2026-06-13T08:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80500,
+      "views": 86100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +60,7 @@
       "date": "2026-06-13T09:30:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93400,
+      "views": 100000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +82,7 @@
       "date": "2026-06-13T10:54:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80200,
+      "views": 90400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +94,7 @@
       "date": "2026-06-13T12:14:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55700,
+      "views": 67900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +106,7 @@
       "date": "2026-06-13T12:25:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51400,
+      "views": 63100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +118,7 @@
       "date": "2026-06-13T13:03:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
+      "views": 135000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +130,7 @@
       "date": "2026-06-13T13:52:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 44500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +149,7 @@
       "date": "2026-06-13T13:52:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 44900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +161,7 @@
       "date": "2026-06-13T13:57:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 44200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +173,7 @@
       "date": "2026-06-13T14:33:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +192,7 @@
       "date": "2026-06-13T14:33:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +204,7 @@
       "date": "2026-06-13T14:37:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 49500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +222,7 @@
       "date": "2026-06-13T15:04:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9070,
+      "views": 45000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +241,44 @@
           "url": "https://cdn4.telesco.pe/file/LEHDziPb6U7MeDUL56Ykts4RgJ1tYRhXNg9R_mpnGZVSGfN89nuyLu-HXeN3tV2YDhBrMl0wT5z8XTG0T8FSI2rCzC-XctBZVS_gzOww9n3qBqON5K9AJZQOoCda8ntNZivv3ZGtmkll-6PojaVd1v1VYWjuOnmPpjCOp_VaKcKbO1yg8-qyrjgIn0ZCi93nPUl9-Gz84CIsKysM7fOKdH0NykJzOuA2kvNeSrZGzUo8Q1aUSKhqH-Q7kUTZ8KAPUg4kJJbXNFF3CThEBUsh8fhq3zNzv03DyRx5nr_rFL62FG_sKo2HXRadZ1dhSSH-ijIb1kGUPx3djue-1-xtQQ"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نمایی از استادیوم سوفای در حین افتتاحیه جام جهانی تو آمریکا\u003cbr/\u003eپسر ما اصلا زندگی نکردیم..\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=159.69.191.228\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=116.202.179.23\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=49.13.38.38\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=78.46.184.124\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=87.248.129.198\u0026amp;amp;port=443\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-13T16:01:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IvCshcw38QG-fL9jb6E32U7QZ-kxaWNGsZmKk8bnLbnsRBfJCzhrf13xT4mi74Dd5Eraa1L-BxZwTTy0U_oCShgteWmvo67VEyHlQnB1L4HI5pHIZ0dRDvsTDejrfrf2uh657ilvwbM1PzF5C5e768PKtIeDJ2X9Q5L42bLGjZFSJLUtLsI-mLycF3JHJjd49UijPlzC4HzEoAzeackprNAZNoawX4l60VL-pfRVi0Q_PtERzmNlnjuymWJP0OG5rh_q15II4AmjotsJTsEgD9Wxpc-7rFSnHmYw9gezXCspgsrHQwhFALRVVFj38_fOCIVogL_nSET55-3BblvPQQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5086868753241605747\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E280BC.png\u0026#39;)\"\u003e\u003cb\u003e‼️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5141236918880569253\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5140947609883509950\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک گروه از زنان در خارج از وزارت خارجه ایران در تهران جمع شدند و در پی پیشنهاد توافق صلح با ایالات متحده، شعارهایی علیه وزیر خارجه، عراقچی، سر دادند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cb\u003e«مرگ بر عراقچی، بی‌شرف، سازشکار، نفوذی»\u003c/b\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=159.69.191.228\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=23.88.115.177\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=116.202.179.23\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=49.13.38.38\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=78.46.184.124\u0026amp;amp;port=4455\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=87.248.129.198\u0026amp;amp;port=443\u0026amp;amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5915504305556689497\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-06-13T16:54:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/WK7pqDya76kZvJ0tfIxlbaf1uymq7UUWwqLNs_QnY04xipvkqyFiqX7miqbLEe_x7ueagA8ImAj51YXIP4DythVg5rm6jAIWWyWb0aAku8Ccdh4ZFB5qTKHb41uNC8Y1IR7A4y172dQE7GEu3llL0DfK0Uz05kmtPscShzY6eurXIoyDyuwnG_njKsm4b4l4_ZxVnyfBCWC0F4qUIXO-zFk-sON5abO3h-8XkHEKr1ccXZbU1vMY_A5HsiDbCMBUC69eqJjSBOShCp7HjlFiOdE6xnqf1dEYRIM3rKLgZE4m3nejuy58c3igUkRBDrz0uVLQraGHP0ZVdfoJswQR2w",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1781363847
+  "last_updated": 1781369788
 }
