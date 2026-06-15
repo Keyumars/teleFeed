@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5231200819986047254\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938A.png\u0026#39;)\"\u003e\u003cb\u003e📊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003eChannel admins can now run massive polls limited to subscribers or specific countries — making fake-vote inflation much harder.\u003cbr/\u003e\u003cbr/\u003eNow people in places like Russia can see real results. For example, \u003ca href=\"https://t.me/cb_economics/24591\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eonly 5% support internet restrictions\u003c/a\u003e — not 52%, as old rigged polls claimed \u003ctg-emoji emoji-id=\"5384214488809490070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-10T18:42:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cGiRrdFUEqcz4npiHi3L2FF80wkQHJf7tslsd4wotExyacYvsW5q4tmipvWb8ppUmL0zFyfL5AnMs7nPp-pu_NeO9fF2zZpNLok6rfbPhpIe-KbZETaUZyjLq9uQ-cZMU6ux1Vi288mh_EPdWcL2xSIDSULd5W158E_gN52_ur--_uQlm5L_wEwYgMascPIFKhhZQIA6cIp0nsoFVqltwWRpKOCwpiP01Txq5K1VZmOTXC2c5TcnecFF6_bfbMsbcZ7J8hcxDAC66x1g3zVUrDYe7Pobm5wxbvdFop54rdbtC5_dt18Ty-qddWMvPFPIUR78SSvZvCilX0EfMFVM0A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5389060311430999304\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Developing for TON just became \u003cb\u003e10x faster\u003c/b\u003e. The \u003ca href=\"https://ton-blockchain.github.io/acton/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003enew toolchain\u003c/a\u003e makes smart contracts easy to create, test, and deploy.\u003cbr/\u003e\u003cbr/\u003eMost importantly, fully AI-ready.\u003cbr/\u003e\u003cbr/\u003eIt replaces TON’s fragmented tooling stack with one developer flow. Start building!",
       "date": "2026-05-11T19:32:24Z",
       "edited": false,
@@ -42,7 +24,7 @@
       "date": "2026-05-12T17:28:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +65,7 @@
       "date": "2026-05-15T18:14:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-05-18T14:56:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 4,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +158,7 @@
       "date": "2026-05-20T15:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
+      "views": 4,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +177,7 @@
       "date": "2026-05-23T13:26:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +201,7 @@
       "date": "2026-06-09T19:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +209,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/B4Blt5sFQ_ADZkwlhNpKUYiBnE0X8vzKe8JdA8aTJ0pk-xbWHmsm3uhgg_WQtU0GACFWrzqliN8QTvH_sIOg-jg4M3gq8wU_trLEFr-EQv_Ty-CxTm8uxBbLclBL656MuXTNQA6nfNfPXqu18O-KNnLchxbKKzQtPnxKfdLtDUeHhQ710nlzCyTUkTBLMiwjcdmw_kW0JdZwCIevA4Nt4S3fTXp08mL4fG5VWx-ZsMczwgMXdi7mHIRNdqOsaOTLS42yip-81pXwXZxQ3OWMDfGqNf4Tv-NS7JJ_RQ_LYsml7gEabe8gIoG6YqHHJ1d4QI9xhSpNcPyWKxdvV8Ij_g",
+          "url": "https://cdn4.telesco.pe/file/gcJ166K3k4qtyjSAkT31fiLxLL6P2VV6Ds8LLWqFiXS9IR70ovJlp2ysmXg9O58j0LHBqrEMA9K6xxImkxD0F2r7CGuwhz67RJlJAlWx-Du-n6A93FSFZTHL4cTfwcK3ZMeS2O2mlXuiqI8DtaU72QBRWBGuRKhttpty0H1I76iA0Tm2-v1wRWB81Hz26puM5r9nZ7kNXr3iHg3I-82NjfWNFKdEUqXgf6LL8MH-58E9-zmv--Tn8O7KHn9kkGT4loLr73VwNu_YDbmHKuljPOwNwxTlBfb6xGaw493DwXqCgETKlt0rYLZYiMtL93yvMR1vsIf2LVSrJoyzd-aHJw",
           "width": 1920
         }
       ]
@@ -238,7 +220,7 @@
       "date": "2026-06-11T17:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HlcOyIakegfGIImsY3tA-_sMcYQRs8-govgT6x5EyexJTStkB9Rqa0-wm13P2jrRtObpbKAN_2jii2fY0LKU-W_-GjI8yb8A2N0Dcl9piy0yprM2UoAPHpjA2rrmJp5J03U9_3QMU1ZMt8ZvG47ac8Q25oeM9i4HosZX8gA2bDw8V0GiU9RE_iyarosCYiK3xiSOtEuV9tRQx2CIf3P1dig48F8VoXD0FYCYbFZrwPQmdPQti_ZPn0b4z409t8HUo_fIFeBPEZJ9aCzF_1yhfR7S1vNsfkCaKKe28o8grzSN8OkynY2wiVxnEHwH30BuztkP4BnEwmOEj4YIRrBCmQ",
+          "url": "https://cdn4.telesco.pe/file/Qwj0j-PBDa3y2Rr4M54A6dMRXutQxw-fuqC0qiLqLmnWMw42LV2uzmtoJ8_o3PonsJlLq3R0w8FlpmErZ3BIH-w3ZeXjiO9z_R7SjuBD-Ys2QKH-U46opfiDmxYA1314JnyvbJnou2dUu7YRDej9S0lB9HP5F346jwAfas21k3tNwId6A5AbtxUZD105LCTZKKqyx7rDUHnsxuJiJ-3c4YXUK6vZP41uJmgxWkylAVeyvD6u7IgaSqLMiJU_bQUePabNsx1rvGcY4Z6hmM92ZL87WO2C0736T5_59Tleu8Rh_RriTn0SENEQK0XZDrCAMi6KWvu_16_ybTpO7-SQrA",
           "width": 1920
         }
       ]
@@ -257,7 +239,7 @@
       "date": "2026-06-12T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +251,7 @@
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 8,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,15 +259,27 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/n099m0h50MCB3c0H4yXGW4E7DhBzxG0RfqccSO2s-Dhd9qFGqkmOW2HGjMoUpVKI7WWBegowDcXclmA5ZQwkwJbJ1IJSlzQlc9s3LJKMc1mDvioCQtveTnPJcYsYXQTV0yRXMMXn3HKP9fQFnvq3UDPhRDdIQ258Q1TURPeQzC0p2TgVUsnj0rgOoAaUcIx_SDW4Ok5K1bYjIURirpBpJsEgsOBXaySTOoGRDVnVs1DvdZea18tv3X1ao3Pq6NlmEPSe-K3dUNRSXwT8unIlm7XnYVPZ0WpLFxhMgxNo7WCE73wkZc-jPl0eTCmh12AWceW3MFBKYQI6gEcRrEapZg",
+          "url": "https://cdn4.telesco.pe/file/MSVKWjOHhg2gtUjWCmWx9dtBImVPgpfu2F0GS3ggIpduqOeLElYCh_5KaTzCt140AkWPaaA7dILP0De7uKCcaI6AD1YZuogr--mIS8Vdf5X1PgjpWgPYhcOwlRtrUsFuFsNQ0JhGVziRy-KJL9O22lNJl4KzgbDDjHWB8MHOxiiUocCz5rjlVhOsDfBL4kfChIYJQs-MnbvMq6q0G9-AQ-k-X4QObOh6V3RDw-xAHuAvy2CK2q6ZdZpmMI7wjg7n4ezc9efPdbQYFfl9xyPJK87rGivVV7-kE5eDrem_nyCKGf-B7NkgCiAWKtrFsEtxFUF-nj6XrRuXNBLeAw81oQ",
           "width": 1920
         }
       ]
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eTelegram\u003c/b\u003e is launching a \u003cb\u003e$200,000 contest\u003c/b\u003e for content creators.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375464961822695044\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Create a video about \u003cb\u003edigital freedom\u003c/b\u003e using ideas and footage from \u003ca href=\"https://www.youtube.com/watch?v=1Yq_5aDdJ24\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003emy speech\u003c/a\u003e — plus any content or ideas of your own.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5244837092042750681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Get \u003cb\u003e10,000+\u003c/b\u003e organic views for a chance to win a share of the prize fund.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469903029144657419\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/contest/456\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eFull details\u003c/a\u003e in the \u003ca href=\"https://t.me/contest\" target=\"_blank\"\u003e@contest\u003c/a\u003e channel.",
+      "message": "\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eTelegram\u003c/b\u003e is launching a \u003cb\u003e$200,000 contest\u003c/b\u003e for content creators.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375464961822695044\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Create a video about \u003cb\u003edigital freedom\u003c/b\u003e using ideas and footage from \u003ca href=\"https://www.youtube.com/watch?v=1Yq_5aDdJ24\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ethis speech\u003c/a\u003e — plus any content or ideas of your own.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5244837092042750681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Pass \u003cb\u003e10,000+\u003c/b\u003e organic views for a chance to win a share of the prize fund.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469903029144657419\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/contest/456\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eFull details\u003c/a\u003e in the \u003ca href=\"https://t.me/contest\" target=\"_blank\"\u003e@contest\u003c/a\u003e channel.",
       "date": "2026-06-15T15:53:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5260293700088511294\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The UK government wants to ban social media for children under 16.\u003cbr/\u003e\u003cbr/\u003eBut banning social media for kids only puts them in greater danger.\u003cbr/\u003e\u003cbr/\u003eThey will be pushed to use VPNs — and unlock far worse illegal content.\u003cbr/\u003e\u003cbr/\u003eWe’ve seen this before.\u003cbr/\u003e\u003cbr/\u003eWhen the Russian government banned Telegram, 95% of Russian teenagers kept using it. They just moved to VPNs. Same in Iran.\u003cbr/\u003e\u003cbr/\u003eParents already have the tools to restrict their kids’ digital habits: parental controls, screen-time limits — or no smartphone at all.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5307819226910700816\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A6E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🤦‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Instead, many parents give toddlers iPads just to keep them quiet.\u003cbr/\u003e\u003cbr/\u003eNo amount of government regulation will fix that.\u003cbr/\u003e\u003cbr/\u003eUnder the new law, all social media users in the UK will have to “prove” they’re over 16 — with an ID, face scan or bank card.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Thousands in the UK are already arrested for political posts every year. \u003cbr/\u003e\u003cbr/\u003eIs this really about protecting children — or identifying more people to arrest?\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003eP. S. More about digital freedom in \u003c/i\u003e\u003ca href=\"https://www.youtube.com/watch?v=1Yq_5aDdJ24\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci\u003emy speech\u003c/i\u003e\u003c/a\u003e\u003ci\u003e — the source material for our \u003cb\u003e$200,000\u003c/b\u003e \u003c/i\u003e\u003ca href=\"https://t.me/contest/456\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci\u003eclipping contest\u003c/i\u003e\u003c/a\u003e\u003ci\u003e.\u003c/i\u003e",
+      "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
       "views": 1,
@@ -295,5 +289,5 @@
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1781540382
+  "last_updated": 1781553832
 }
