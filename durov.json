@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/Z-l0iRV-lssI3v7OUdyAO8aK2eLVVpw2m8uHe8vuDq9-3swyoZClDo8m5skYe4VGkQw7gRN1SzhKZsm3RwPiz1tLnvSS3dbJ9H8SsrgBYbRGgYPk-ctW7DIneLDGbDjeqhcewFDz56W1pWxS9O0k78LC6Z5ZVBd4Kk55CeG0Tdb4Q32CGC1HOFxmjNu9_gozAkCLkIxBBqNyHxyxnq_HCxVWHBHNS7_uaKN05Balx8Fc9uM-BV08-u-2Y-yfFDs9CzyDAOzojFKtDwoFCqd3KL740FRJqQNGp9R3PHPrrtQhA4tm4RI2Vd8IStUDMVUD1RkLf1sAg_x1KvwgUp_bqw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/T5H3XnwPmuG8ETCX4Fs9q7z-JvNv02HEtdJ9YhZ1ULK0FGolc6D_RHBCLcMuO32974p1pMW3wf2E_SEDOtTgxB93JTDvLOWRHnx3AXzIck5Sskhu2WiB5nLc0cK6XgSsViQNmsqgnA9GLvGRfZkExWoHOzkPbvpErJrbcpAZ3KS77UBzVRqWU8ZMnQDjy4eomM_b9cfM54zBkMjhocW7pRX0GlIZH5iQZ3yGavl1x3Z0VbIGbHAnCLqE4tzuNVJ8ZfwA2-yGyH1Yc-YCrnTGyqLqh7hiVgm5-TX1pRr5SHHlBWM9B5L4qczBgFVkr87W2oDL9pmwCD2wnCiBuqxmJA.jpg"
   },
   "posts": [
     {
@@ -201,7 +201,7 @@
       "date": "2026-06-09T19:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-06-11T17:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-06-12T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7,
+      "views": 8,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +251,7 @@
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +270,7 @@
       "date": "2026-06-15T15:53:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +282,12 @@
       "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1781562948
+  "last_updated": 1781574148
 }
