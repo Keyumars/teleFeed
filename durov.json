@@ -54,7 +54,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/e2pc1Y29XKlYtyZ8DKPnRi5ePnhbOI3yEznDAP2wKADZOx_L5YK2obt0GlaUx-_TUpZn3fjIA6yFHAZZ9_iuj53bFreVc10qoc0uhzZQs8LUoTp5ao6xOMeP88YnWv_yAHY3_vAQNs-HjA3RUy_iCj_xmX0N-G26cDMEOoVWFIjaXL9GCcMGo66QvLtXEM2ISL4hg2XojQydjKGZhhN6PTgolb2YZvn7bQwLC1psRGX0QlPmP330F1XhiA2mtcBjGAJTc2GWAwpBRtLxXBRRDSTgyS6oOf98l6Y2ymtI_Kh-iZkS_F8v0oAJcWeFExBYmS8JoJefZuMCIqkzpUeeyA",
+          "url": "https://cdn4.telesco.pe/file/qqQkbY4ktk_eS4oIphOQVFN56Zb9RYRCPvk83P5w__QXsQe_BPVzwtOfYbZp1VaXlOK9LIohUznF3myEriKFrMwOInN_c4ca0V4R2iGk7DXoV6gQYuUB2bQkBA5HQu6_ntgln05kymaN4OLoOB06wGg_FeNLkzC6H3E02y77C6vyH-TnqxngeHKQEPxJr-FP6CSh6WVEtwlmCeIpVq3k-fOggZ8UrWW9Rs4SQvE9b1upm1s6LjE5y2221dc4-D5XJIb31d6n-vyEoiN1VXL3CwpjlKuLhvQ1FDM7_ijfjnC6S-iJod8XwxSM6kz_0IA7cmQPWAQYKeJw0o-KZLSlvw",
           "width": 1280
         }
       ]
@@ -97,7 +97,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VzNmCFvNfavdfoe8PRYZm9m9d7wEQcP9CCx_Vz5CoTHyGSjXnPc2XBDrkbltyKaLS-Ft5b6FQkgeY1HHpu2n_RS0wdbo4XHIGb6qDGeRVtqZxh4jTjdAYwal1zClSfQZ3AqNrbjIDYNC4BoKF8PRf05710SRDoj_dxvibJAbYCQog993J6WqQ62cw-4VVokHCEc28gpfviBoENkEAGsqJKHnRg8tz-oMZHNWJ1Bk8Ih7QI6y8M3pQ6ug1vX7TYWu59jtdA58CPSUzgXRjVoAhXf9eOjxzSPC3ad8W_pdZQm8eTvT4OJ0nfbexAkpkUbUzvsDRvX71BVq5hKZwblmUg",
+          "url": "https://cdn4.telesco.pe/file/Bu-AdZwtw_Hjzg8LKTrHA_1JuxbFR_CHXdE7kqwnr3wOTzEc9bSiGiTpvXQWr39lGKwTPg4VrzZUFBShp654-CaEOFRfKD8BFvjsf017k2XJOGD9_Q0S_IfKN00CAuuvDDBCmUY8qqfF1yKunF1mHxrQp-sQxdhgulo5PDkMJIVwah9D_Wxo1Heja6Uv2s8_3Zx2M5KUcteAhIQ6yAqAdvndQYCf6fOK6Fu8yX15ZegTls4iQBwgF40QuQUKVzMQcLS2YqQqaevURFHPbFZ7J325TnGPfyXLrUCFis6_kcRSDQnLPkZePoa-8Ulcs-PrSIhnJfyMTNf92rF3b9VkPg",
           "width": 1280
         }
       ]
@@ -120,7 +120,7 @@
       "date": "2026-05-18T14:56:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +158,7 @@
       "date": "2026-05-20T15:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +177,7 @@
       "date": "2026-05-23T13:26:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6,
+      "views": 8,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +189,7 @@
       "date": "2026-06-01T15:40:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
+      "views": 4,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +201,7 @@
       "date": "2026-06-09T19:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-06-11T17:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-06-12T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 10,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +251,7 @@
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12,
+      "views": 15,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +270,7 @@
       "date": "2026-06-15T15:53:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12,
+      "views": 15,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +282,12 @@
       "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 8,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1781574148
+  "last_updated": 1781594872
 }
