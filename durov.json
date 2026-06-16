@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5389060311430999304\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Developing for TON just became \u003cb\u003e10x faster\u003c/b\u003e. The \u003ca href=\"https://ton-blockchain.github.io/acton/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003enew toolchain\u003c/a\u003e makes smart contracts easy to create, test, and deploy.\u003cbr/\u003e\u003cbr/\u003eMost importantly, fully AI-ready.\u003cbr/\u003e\u003cbr/\u003eIt replaces TON’s fragmented tooling stack with one developer flow. Start building!",
-      "date": "2026-05-11T19:32:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5399898266265475100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e With 400 validators across 6 continents, TON is one of the most decentralized blockchain networks on the planet. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431795571033645908\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e🧑‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram becoming the largest validator opened the door for major exchanges and custodians to stake TON without increasing centralization risk.",
       "date": "2026-05-12T17:28:39Z",
       "edited": false,
@@ -120,7 +108,7 @@
       "date": "2026-05-18T14:56:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
+      "views": 9,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +146,7 @@
       "date": "2026-05-20T15:38:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6,
+      "views": 7,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +165,7 @@
       "date": "2026-05-23T13:26:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9,
+      "views": 10,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +189,7 @@
       "date": "2026-06-09T19:33:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9,
+      "views": 10,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +208,7 @@
       "date": "2026-06-11T17:54:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
+      "views": 12,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +216,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Qwj0j-PBDa3y2Rr4M54A6dMRXutQxw-fuqC0qiLqLmnWMw42LV2uzmtoJ8_o3PonsJlLq3R0w8FlpmErZ3BIH-w3ZeXjiO9z_R7SjuBD-Ys2QKH-U46opfiDmxYA1314JnyvbJnou2dUu7YRDej9S0lB9HP5F346jwAfas21k3tNwId6A5AbtxUZD105LCTZKKqyx7rDUHnsxuJiJ-3c4YXUK6vZP41uJmgxWkylAVeyvD6u7IgaSqLMiJU_bQUePabNsx1rvGcY4Z6hmM92ZL87WO2C0736T5_59Tleu8Rh_RriTn0SENEQK0XZDrCAMi6KWvu_16_ybTpO7-SQrA",
+          "url": "https://cdn4.telesco.pe/file/hMSjLFvTmMIJIgdGGGAd29BV6V9J7qkYYp16kWV756c3bSSlmankmU8rEWn3RFu5k0yzdmf2kLCC4pEhOlO6rJMxvJAiwi0mJrVrWzu7sFAvj6tzTNeiLtV_Rp_by8NKK6x3vAzYJ9LJifsI46C7IfAUCrafAWYknWBZgmHntjd4UWx10gi9F_gYW0Nd8-RCCvYZuM1sfW3Be8W2y5BYwcnvh6UE5Y3QDZpUfpIwkIkdGOBoxJfJdxAx_Ta4qQAJwAZPggAqhAA_iRENmwz2-0Xh5UoeQtvOlrJyzKEAAnZEyzLrsuwDAUpslqK3FlYkTtjHrJ48kGhlLnQsKoM4lw",
           "width": 1920
         }
       ]
@@ -239,7 +227,7 @@
       "date": "2026-06-12T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12,
+      "views": 13,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +239,7 @@
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17,
+      "views": 19,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +258,7 @@
       "date": "2026-06-15T15:53:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18,
+      "views": 20,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +270,24 @@
       "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11,
+      "views": 13,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5240241223632954241\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e India’s IT ministry banned Telegram for one week because some users shared leaked exam questions.\u003cbr/\u003e\u003cbr/\u003eThis punishes \u003cb\u003e150 million\u003c/b\u003e ordinary Telegram users in India — not the insiders who leaked the exam materials.\u003cbr/\u003e\u003cbr/\u003eAnd the ban hasn\u0026#39;t stopped anything. The leaks just moved to other apps.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348230282140993341\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve done a lot to help fix the problem — even though its source is not Telegram.\u003cbr/\u003e\u003cbr/\u003eOver the past few weeks, we removed hundreds of channels sharing leaked exam materials and related scams in India.\u003cbr/\u003e\u003cbr/\u003eWe’ve also been making the “edited” label more visible to prevent backdating scams.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5395335069671910047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB3.png\u0026#39;)\"\u003e\u003cb\u003e🏳️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram is a force for good. Banning it — even temporarily — is a mistake.",
+      "date": "2026-06-16T15:05:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1781612923
+  "last_updated": 1781631259
 }
