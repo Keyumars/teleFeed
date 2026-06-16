@@ -197,7 +197,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gcJ166K3k4qtyjSAkT31fiLxLL6P2VV6Ds8LLWqFiXS9IR70ovJlp2ysmXg9O58j0LHBqrEMA9K6xxImkxD0F2r7CGuwhz67RJlJAlWx-Du-n6A93FSFZTHL4cTfwcK3ZMeS2O2mlXuiqI8DtaU72QBRWBGuRKhttpty0H1I76iA0Tm2-v1wRWB81Hz26puM5r9nZ7kNXr3iHg3I-82NjfWNFKdEUqXgf6LL8MH-58E9-zmv--Tn8O7KHn9kkGT4loLr73VwNu_YDbmHKuljPOwNwxTlBfb6xGaw493DwXqCgETKlt0rYLZYiMtL93yvMR1vsIf2LVSrJoyzd-aHJw",
+          "url": "https://cdn4.telesco.pe/file/sBcImZY1c160W46lrq7c-_PnjwxZTYNDRCNx8zZm1lGWyO9jd-n3Bidsb7h2ktSG8X_PLRVE7_eQG06da83o-oZTm-TUv7qg_HP7eJrNqfT_Pr0k-w2WsgBhCa-q7V0QKCJqm2Nnn-z6kku4kuw2xlg3KstcVK3OjoOiklP1el5hC4QI1R-DhTyoLnCRYXVVfxAOTbwwb4FwfOb4pF9sWe6lvuTxTX4JClZGrDTH_P0__PzRNJ4hA2-r2PtYhwEGKs8LwnHHYYTtflgAovuJtmjIcU5yMKDT0OSj7G236p5aOdREXQgmY9Zhzl461-rzYomSQBEDv-LowW1EWEj9Ow",
           "width": 1920
         }
       ]
@@ -227,7 +227,7 @@
       "date": "2026-06-12T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13,
+      "views": 14,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +239,7 @@
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19,
+      "views": 20,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +247,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MSVKWjOHhg2gtUjWCmWx9dtBImVPgpfu2F0GS3ggIpduqOeLElYCh_5KaTzCt140AkWPaaA7dILP0De7uKCcaI6AD1YZuogr--mIS8Vdf5X1PgjpWgPYhcOwlRtrUsFuFsNQ0JhGVziRy-KJL9O22lNJl4KzgbDDjHWB8MHOxiiUocCz5rjlVhOsDfBL4kfChIYJQs-MnbvMq6q0G9-AQ-k-X4QObOh6V3RDw-xAHuAvy2CK2q6ZdZpmMI7wjg7n4ezc9efPdbQYFfl9xyPJK87rGivVV7-kE5eDrem_nyCKGf-B7NkgCiAWKtrFsEtxFUF-nj6XrRuXNBLeAw81oQ",
+          "url": "https://cdn4.telesco.pe/file/MGEmzelUNvNYS04N9yrLDAaagEtX3fdRlkjhU2HXp6pL_7UMaUKk0N4QmcYHHLv5CnEBGtY_9mkC5MuOZNb7GcjdTtI6cZwxFz_He1QCFTWPeagTur8hsRLLriZ98mP_qfURpdJzmx1hNqzLmR_tvKtPa-7aL_CTi0809hK3FQWJJKzeyvjFEIQ1655e-0uMdc3vdmYXB6Vy2371hk1VhhEEAHXvuT11Mw3x_3pYyJZaGmQ65080JylSAObdOOBCJGdIYiUM5Va58GGEmEmZErJwjmp4RX0LWabfs2V2ZCTZZW1lIgriG9W9ME7dgwXRyAStvvx-Si1i6vioALUtEA",
           "width": 1920
         }
       ]
@@ -270,7 +270,7 @@
       "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13,
+      "views": 14,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,12 +282,24 @@
       "date": "2026-06-16T15:05:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Indian telecom \u003cb\u003eReliance\u003c/b\u003e is \u003cb\u003esabotaging\u003c/b\u003e access to Telegram for millions of users\u003cb\u003e OUTSIDE India\u003c/b\u003e (including the UAE) via a rogue method called BGP hijacking.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469913852462242978\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A8.png\u0026#39;)\"\u003e\u003cb\u003e🧨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The sabotage seems intentional, as Reliance has ignored multiple reports. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5803336596056973639\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F989E.png\u0026#39;)\"\u003e\u003cb\u003e😞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e This may be part of a competitive war, as \u003cb\u003eReliance\u003c/b\u003e is partially owned by \u003cb\u003eMeta\u003c/b\u003e — the company behind \u003cb\u003eWhatsApp\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5435976365214045258\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Network operators are advised to reject unauthorized BGP announcements from Reliance (\u003cb\u003eAS18101\u003c/b\u003e) to prevent route hijacks and ensure stable Internet access for their users.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5222430522537424458\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Such abuse of global Internet routing is suspicous. I wouldn’t be surprised if Reliance/WhatsApp were also behind the recent \u003ca href=\"https://t.me/durov/529\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003elobbying effort to ban\u003c/a\u003e Telegram in India.",
+      "date": "2026-06-16T17:36:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 959000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1781631259
+  "last_updated": 1781643086
 }
