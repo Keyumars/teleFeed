@@ -12,7 +12,7 @@
       "date": "2026-06-14T17:24:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83,
+      "views": 84,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-06-14T20:39:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76,
+      "views": 77,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-06-15T09:40:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76,
+      "views": 77,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zs81M5a_ux_hr-lgcgQ9LWDXLak7g6SGz7dT-6VHbxabIVjLo9UrGlSj79k9_XzjL5J9VEvMPD6e_6-2r8iDSHbWfRVpcuKzUt8www3Xv2_DGSt-xHq9_pRrYzgblok5OzscVVCDYUlsOeFM46rBEMxbrOc3h1cloD9BSbJ3H_TbGYRjM-Wh9lvK8IRgMh0y_X1rtGkCgBXtWTn7xAgwinZNI9Apxb_1fpZh52zwSQKyu8JAu4184pMFyiaTpQkOEm-QYnYiGj4_3jFjQZN9TuZDZQiqiKELZz58Ov6F_Eg9Le3uzfyrGcbITHKJyOoLvm8z2Ojl6duzoZY_d0h-mg.jpg"
+          "url": "https://cdn4.telesco.pe/file/E95101hwyTxGhhOYlGLqVWtWXk4n6E_4UlntCl3ihLU1ChDMJpLD0zGFF51u9fSs2LRhknvrwWXYwrBrse5MWLSkXDdSH1PyMBGEG3cz_B-GE_59M3vNaUGeSAJg_PJqbiZ_uHvHrIVkP78bxqbTJoWNHijFvsHmf9xOmD2WHhqsB6ZH6Bu4kvXynAotwBO-iEOqUzfoOmGCVsZAnN_0xZm7-EZCneepsI_GKSdmDo3WOtzH_Mh9FVUwEHMOoX6UfGIB35SL71Xn-63LGTDa3DKPNl5UqKtJEW0K5PAGQMz-3AYxHGQOynDdII1oXYZIT8RfpE8a3PaUXUDOuoHW2A.jpg"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "date": "2026-06-15T20:30:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67,
+      "views": 68,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-06-16T09:56:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56,
+      "views": 57,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-06-16T16:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 101,
+      "views": 103,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-06-16T20:57:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55,
+      "views": 59,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +157,7 @@
       "date": "2026-06-17T08:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77,
+      "views": 81,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +175,7 @@
       "date": "2026-06-17T16:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13,
+      "views": 22,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,5 +188,5 @@
       ]
     }
   ],
-  "last_updated": 1781717327
+  "last_updated": 1781725088
 }
