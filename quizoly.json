@@ -12,7 +12,7 @@
       "date": "2026-06-15T18:37:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76,
+      "views": 77,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NnVTuRweiTX7FYaPz9SF1f70Pbn-cJanzT-hNZzN9kaoNdjzT3PWGQAZ0TL4qn6Mol407kknFHiGOdzc18W3g0sm_kDTmkmeCTN5rW06x5tCSs4dinGNshzIrf0G1zxK7jhxKozSN8r3obL-wSKeRaAbAHv9IOgher5lu0R3ugbk70MQxNkconJ2TedfjbFh5NQI4WbegIvyZDCaUIDrOPm4KYFrcHWGeLMmMmKoBdI7X57Ggt9UVkHBApcYCvwbDAMrNWsJia8u0FcYu0QZknf4I6S6Mt_dY46F6u-8mjRjOnfJwxITEAfry2V_lbBIJdb0sQSk-FVJeZUdm4wM9A.jpg"
+          "url": "https://cdn4.telesco.pe/file/ao378ji4oN_ABvX-Tjrw7Oj3nGX5rVHwTkI-6t3EBoJNJJ6jd9PC-I-T9DeJTQTvPnI6RaslBQgG-h3LhnDpHjNVvK3P9nJVFqCTZhGmgSFxWFoy3O2BEI2QG5Iq_APZcJHhsTwL6R47Y3GBLMIuoDn26WkBY0hKS9rPcvcQDIVUfqk5xF595j2-h46QpWKT6UIub6RB8bnYwWpcw97yakMpwZoehf3eI_vY0zASMUjAup7RFZhCzDeK0jTpoH8f6GcsZe7qdZYO2odn2c6KYjUqrp1igivHJGpaMERPIX2vI5xRPltVKCkUsl35q1WtL6QH3H6KkqPND1p-UGld-g.jpg"
         }
       ]
     },
@@ -92,7 +92,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/H1WlzgCo_0ZNh4sS81myRv6Kh1wchGXLH5wXwSpsHPT7VjJ0zjp3hDo3UH7AYwOGiYPpjvJAXHfnGwrgJqPL-lYjNzoymwrGBGtFUrCmJMr2_jKsu_qjfjbVvueY7TRV711QUSAZZNrocWyrbRR_wSjNXllDwFMqGV7MLOgm7XIO_zehck0ATB_qo1c-bGaSp6kF1nwwrGPAUqGcK1K9D2k--iM59xoGYzZWMEacIeeFt70kB8QuS-1BqtEndqHSNiOCPdxSsGRKgpgBt9OSVEpaqb9Y0yV16N11mQ_Z66GihjXbGUjFN3jHuT8vnE431apS4ESx9G-17tRnVVNtvw",
+          "url": "https://cdn4.telesco.pe/file/dlSxxzjQx9tZuqM1sS7Px45sAZolxatfSHE3aDlZ7bTXkT4kn6sAltE8kneslUZMyV88Z92CsCvfhh3cZDicPyPN_dxikSf1Z6bZsBOAHP3Ra8mvuxsxAS3CAasG0I-9CEBpT2isSi8RkFPkkXDMWkp_jX9dpmxtocyzHPtQbXGTjjn1ooc23A4FmTSsM-8fvk6kvCAY-R4HCgAoCu3M89tA3E3pFDZ0787uPFMAXFYd8bS9_orT1z6MLinwUC1VGIbtsEVQfR65Jxglq-qVOvV2RsVSgtA2ye6FiPzBiS-kwl_Lq9cXVJWHc8D88aERU4TRr8M5x_PuK10rAHFD8Q",
           "width": 480
         }
       ]
@@ -121,7 +121,7 @@
       "date": "2026-06-17T16:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69,
+      "views": 70,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-06-17T20:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103,
+      "views": 104,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +151,7 @@
       "date": "2026-06-18T09:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64,
+      "views": 65,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,12 +169,30 @@
       "date": "2026-06-18T14:32:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41,
+      "views": 45,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Quizoly"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا میدانستید \u003cbr/\u003e\u003cb\u003eمغز شما می‌تواند خودش را بخورد!\u003c/b\u003e\u003cbr/\u003eدر شرایط گرسنگی شدید، سلول‌های مغزی برای تأمین انرژی شروع به مصرف بخش‌هایی از خود می‌کنند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-18T20:30:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/stCj3tOP5lN-8nZ4VPw2028d6HDhul_HPyC6JveGZSzVsOB_ef9GIaY6YR5SFupaoUqq5uaU63YSuRa7xjjWb0qeOiGJC3ahU9aXivG7dVVN20-mJtVKWZHE_X1VSr-fMnmdJmsN_iLr0kmniZtmwAGNSuYq947uvqMOIX9kBTnAYNVFinYurRP4dAemKr88zh18fUPd1VODBF0QCuairABC-vQJGtDuZPs0uRV69t54ETfP89Kxc0_nVbA_ZCNksf6JWbPgKn85KMHBz2BfhU3pcgQrpV8dBzG32DI4LwuWs8idKaURMQrs9AvMgIvrsHd68v62fMgvz3gs2VaMlg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781807525
+  "last_updated": 1781817742
 }
