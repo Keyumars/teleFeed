@@ -3,27 +3,9 @@
     "id": 0,
     "title": "Quizoly",
     "username": "Quizoly",
-    "photo_url": "https://cdn4.telesco.pe/file/HhSHW47JxhpFUyNDmvk3HRbeHLAD0iPnw1HUehM3U6kCmsGXnO9gsxyfMUTzy5mp_cAmVNAedrN7dZyCUT_JDPiTQEecIMSEZsTx0RIVqprG1Q3w6uvAXDNU4f2HBeVvxwjlJ0Tqz07-8J4Q4ZaWqhbz9joVnoiOMKjAT8mnAbEGjjBApfrylJ6_CiE3FaQrlIetv3VR2L6C1T5nghx9FgD0v7mFlZ0TBuDK6GBErx1ZKsXXrrhI7pnX1i2reFKsgej2_zOKGvwmSGu3GIio6it1zwkaS9xVWMHDgN_VdUuBxN2OvUV_K65TX_BNBN5BuY6ady0LBPKpESALR-6osg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/b03zD8_wp_7v6_oyHFkJUrGC5GqwMXsUR68IuUcXp4VjJr5ncCZQ_Obk0hiQvxmik4PJQVFbf4ETeCPXtMG9n3zaZEnBmCjcd-Y0NFYusWUUY3ETaq2mzSRwhL9bCv6wsU2pOw7KqDRNtfJFjLTtS_gEirfPyN1kKTn8Fs5D8GW55OX_FdFDu3ZENnJhKbQmToTGIW9qTTh1fOJ7S2QJet-2epC-eakKnLugXVFLEqR0ioNebL36pT9gJos7Nfm-hgDu4VhmPAP2nnxlKJxIx99ayIkAJcODfd0j0G2z4xtkpW_lmsPWSQGs_0qgChkHbY-tRn_evdmItOzTmvaF2A.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "غذای تراز این فصل :))) \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-14T20:39:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qVneuggxpMoPHG0d2jfkJUBSUu_NFfJ7QTqgnqHwjw_ydqGymqGmFz4G_-2PtH-q0OS8kaKtlUBCRkGYiiXce2t7CYjafHyuS5Ue5Fnjbmuy9W-SBEkBkoHnYcS5Jpdx_r24simYmy0UJPItoN_Ss46b444Hlv4WAvJQx_pgW7nR8uHIFIkZMrIhyq50RESLPEpnG5PgNkmFKhVgco7M0dIlaIUiPg8pODG6-LFGOw0MvP8MO4Ts5KwLU5TsykJPZJEkoShFrQ2o_z0hHiN6RAZTnX-KJxiJloJuUSqVpbhL7o_NZjDxI93FmnS0ymXpVyom70jZKL4OlzdiPCarPA.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "تیم ملی بامداد فردا ساعت 4:30 صبح با نیوزلند بازی داره\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PT_RNdpbFEOQ22nqkNIDKPAqspXbYb8Fkv6VGxn7LBwQFNC2_9lfjVilH3zp0YSnQ8eLYTNd6x-TI_ws2orY3bdgYmvBypnpac61IAHt46zDRCUZx7pwAaQLKocqeYPcsTG6YXqFGYwSomtgAUg9_3JkwEfwaKc67eUCLfZTtD50M9pntZJhQxuOHHjRgCXE1kAfI_dCgq5l8-W51YB5NLkH6YyLD5pODRxRlVH2XwOHkHwskcpmwIKEvh_K0mh0ZI0L_d8LjlrXnAPmSSuTBRjBP8Wx4QjT7NrRht2feB6CLXPcNdLs77r-xtS1kzdwfs24VinMEuFQhtorYdo42Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/V8_madsGWRFcgKnyWwLRdmS-yEgG8pWj6m8IkrCXVTWzl-vsgmDzwY67bFosAZ1Zd913T6TYK1tg8J2Tkhfq4Msc6lH2EGBJ4OmmCnTCIQWb3F9DjmzJFYjsOIi240tZb3vWbx-9hsbkJ0cDe2kqvnmBQgl5fNIjNLeFx1PqSj2aCHA8x3rsJlNtJBaYoAWsVv1MwuHq_0JusayvHsKKo79-yGyoAlBWTHlwB9xPlo2B3HkwHdiHCqNROYZtswB4amix6ER-_2E0n-sfHTRLhUuvejCQZ8efX7po8SP7O8xbHmge1yf-3z-cxY40c2H5zojO1u_lRKqVlSncFKX5rw.jpg"
         }
       ]
     },
@@ -92,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PqyCFP72sDNLPDLJXmJgLCKEecFKxM29VT2AsPWlpba_hc5-ehoDr8LimAtGXLu_bxqfNqMAGh-HNon-HGacKH5KfWC7Vl_qRNJOkSViFf6VmYALzgMiwjd0hfKBAuBDEJok4zrO7WtMThl-pLRkCb5SWacl9Okd8wfCpSIsVi3WqBifarGq1x-uLpXuiZ-hT4Ff4q6lyn7I9rcmgMH4AvL1GZkLxvYnX5YOWCXs2FPWLYKvax7oEnwVRgqMQi-B4hQyxWWl0VzPORwWsi6lKcsnW0YgkQ2untTZIktT3V0lYp2SuEJ3UMuLJLdIPwG99q3rmCXLkEBezPNqOczUNQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ihBwJsffAeJv_VMLS-AihB-J43xlIXLn-UusVtzSCfkAFwIyi-kLKRQpu716McIiuB7S4erThjVlwIwXJX2FxPmCp8Z9cn2_vfTgtnhVhZYX33JaPRPnHA4VlWEPqIOjH7T4cK2YfaTJiwKtsNU-Eu58ZTTjfOODRmF-lKnlzLO_-eq8VCXdZfSu26IkXDh-EM0JSE3D-efyazwUamKPskkHA_9vpDedQKXGV3oPkorhAR8RUq9oBN4h38ka26RuRtcn9mb48LzL0YlZR_Q6lOV2zq0azX6linH6a-ovCXPpyR3LwO1hqB7dmPCBewzUAcK2g7S60uawzBo0qeCOzw.jpg"
         }
       ]
     },
@@ -139,7 +121,7 @@
       "date": "2026-06-17T08:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 101,
+      "views": 104,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-06-17T16:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58,
+      "views": 65,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,12 +157,30 @@
       "date": "2026-06-17T20:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81,
+      "views": 94,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Quizoly"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا می‌دانستید \u003cbr/\u003eچشم انسان می‌تواند میلیون‌ها رنگ مختلف را تشخیص دهد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-18T09:33:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 40,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Tswv4P26kgESoRLWfDOS1MrZ-omVa7hSD92DsFIl9iwsTTr5vkZFYoIwS_RGm5ftfDXPHEq-ppdx_vQCou78otsk5tx5PK4cDGKnYV9ibgWUHUBnD8G6dXovxFKMZz2GfPQCcJ-OZkLwP5rVaWyOga08WGEQ3P6zFPV5IiC8eJuKSCy6-3cZ5_r5CAs0SN4r13BlwNp1lX5HdDi57wbBrizfR_g5UFsA4FCMz_W6Kk0z6qIXmp9t9C7C5cdAR9QuqaYebVTABARTEizavDZJU_IJ1LLcyxFxtQomrCUzH7VXQ73p_l2strYSX47vfytMLRpxFPZPJfMIeZSCKlgxAg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781772363
+  "last_updated": 1781785489
 }
