@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5096297881493570565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B7.png\u0026#39;)\"\u003e\u003cb\u003e🕷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تی‌وی اسپات جدیدی از فیلم \u003cb\u003eSpider-Man: Brand New Day\u003c/b\u003e منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23SpiderMan\"\u003e#SpiderMan\u003c/a\u003e \u003ca href=\"?q=%23BrandNewDay\"\u003e#BrandNewDay\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
-      "date": "2026-06-18T15:00:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2990,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Marvel Verse | مارول ورس",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Lxjszw702QMpb7qVt1BRj4nFRagvZmVoN23vbExOsPFNW2s7Gg9o0wH4lx_n1AHRJN64rki6xqmKQmU-UNB9nR9fz-hiVplLfPZ6URsMWf552tiPLsJPED9jTDWSp6fVxqJ5JilpETR-bkzc2gBsLYn_zyXf9wurH5k7zRx18vxs1YWt786BPlGDPUzKx8fGTHrdrYUNdjG4j-dnGMclqJHl7JmDDjzIMzr9nwFY9lBelrtxs-e7XRgLvzruZHiksPPMHGZ0QwC3xlgt-VCBzsATGMM5GU1pC6a2vOMWvH1JH60mCMdj_Sji7b-ZvQ0_Y6A8fnNjvD_0lc9YvHf2LQ",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
       "date": "2026-06-18T15:42:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3090,
+      "views": 3180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-06-18T18:07:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
+      "views": 3070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +49,7 @@
       "date": "2026-06-18T19:47:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2870,
+      "views": 2930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +57,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Jpr2va7XB_96Pq8i7m_x-7ncDXDtQAoRQDXCuhtFQ8xKVhypo6TYgDaCQV4i3-QeRcmlVILwl_Hdo7WWwUGNlcFq_VSJQ43EoEOSXAzzOgJ22EVw4FH1aMAqofL8Qni6YF1WL-vGNEomRt4EOkRJjp6v9LGrtASvs981BXDHiNycLgU685XlbZs0BC8wqhfN_eaWFja3MNHxVgviSEeAl19ZvqlJJ_7HlsZQLqs1lrC49NScNE4obI7g1jSS-xxqYwLBXFNwF7fG21O2JI2iscW8-zl7am6sL9XWA26ZtPqtl7ZBDa4jYyBrV79W_l77lMK-Q-wCmLU-2sbV4UhiRw",
+          "url": "https://cdn4.telesco.pe/file/aSsfOiAqPTkbn1y0YpFyNQ5ak9g59pwqSgMmyaUx3G2WW4fdmQbA8eLzicv4zRjRetsbeQ9lWWUreWT9lGtGuNs3CekNylKHJjvq4NF-OzT5yBMTtK-B4E0m6yZyVroZk0tkUMTvRs8dc1dKabahqFUn3x-MvDtT0_LayWI1RzESZwjOHsJ2DOGyglW2rYVir3D5v0xn_XM4sEoeFp5lRF2RACJ0dZs3FjV8ufbZfFvD8ZJEKRcL_SBT-0Qk-rIwlD3sLd8wTTBtTE2Eut_HHcapEXNZV31DX4Vh0K0aogwRISS3ljy2Qjph_tdl8-jrsZEVP5C3pBh8ao9RFuXJQg",
           "width": 1080
         }
       ]
@@ -87,7 +68,7 @@
       "date": "2026-06-18T21:23:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2880,
+      "views": 2960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +86,7 @@
       "date": "2026-06-19T00:36:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2790,
+      "views": 2900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +105,7 @@
       "date": "2026-06-19T07:54:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2550,
+      "views": 2700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +124,7 @@
       "date": "2026-06-19T09:15:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2440,
+      "views": 2610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +143,7 @@
       "date": "2026-06-19T11:41:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2160,
+      "views": 2380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +161,7 @@
       "date": "2026-06-19T11:56:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
+      "views": 2220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +179,7 @@
       "date": "2026-06-19T12:06:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
+      "views": 2380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +197,7 @@
       "date": "2026-06-19T12:16:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 2410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +215,7 @@
       "date": "2026-06-19T12:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 2420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +233,7 @@
       "date": "2026-06-19T15:56:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +255,7 @@
       "date": "2026-06-19T16:14:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1330,
+      "views": 1770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +273,7 @@
       "date": "2026-06-19T16:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1240,
+      "views": 1760,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -310,7 +291,7 @@
       "date": "2026-06-19T16:52:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 1730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +309,7 @@
       "date": "2026-06-19T17:03:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977,
+      "views": 1770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,11 +324,29 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5892964471806103464\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B7.png\u0026#39;)\"\u003e\u003cb\u003e🕷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e داستانی که چهار دنیای مختلف اسپایدرمن رو به هم گره زد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4904518555115980029\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e از اسپایدرمن کلاسیک گرفته تا اسپایدرمن 2099، نوآر و آلتیمیت، توی این ویدیو سراغ داستان کامل بازی Spider-Man: Shattered Dimensions رفتیم؛ یکی از متفاوت‌ترین و خاطره‌انگیزترین بازی‌های اسپایدرمن که مولتی‌ورس رو سال‌ها قبل از Spider-Verse به تصویر کشید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e شکستن لوح نظم و آشوبی که تمام دنیاهای اسپایدرمن رو تهدید می‌کنه؛ آیا چهار اسپایدرمن می‌تونن واقعیت رو نجات بدن؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6019089631016915133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://youtu.be/Q5Ob-WfOQtQ\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://youtu.be/Q5Ob-WfOQtQ\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5390854796011906616\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/23E283A3.png\u0026#39;)\"\u003e\u003cb\u003e#️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"?q=%23%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C\"\u003e#ویدیو_اختصاصی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5107339271748977730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107181663629083853\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107378635124245748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5109651063665853610\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-19T17:31:46Z",
+      "message": "‏\u003ctg-emoji emoji-id=\"5105155474152489703\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BB.png\u0026#39;)\"\u003e\u003cb\u003e♻️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اولین تصویر از \u003ca href=\"https://t.me/marveluniverse_bot?start=632565288\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدکتر دووم\u003c/b\u003e\u003c/a\u003e در \u003cb\u003eAvengers: Doomsday\u003c/b\u003e لو رفت!!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23Avengers\"\u003e#Avengers\u003c/a\u003e \u003ca href=\"?q=%23Doomsday\"\u003e#Doomsday\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
+      "date": "2026-06-19T19:26:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 463,
+      "views": 750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/cKfbsKAtzz4iqIoSBGiQiOxlrarH_nD6G9JGlCopkP2ETkyO6oJFWh5nc9keXk8oL1r6-3KaxwuBMbxTbqqOkFmJEVnypMOuDgTrNK0ePIntwxYniuR9dBUtoSrSpU4yxW_s3opvQ8RHaHjGFX0dT4OWlUQ0cRM6_HhnCwSxhugi_aWXlymbnw-CQxYgrwLcZ4yw_wM2kmCywxHaU6phTnNtMtNb-fvzdpCfW2GFV_MishCYjCRrkh7mymfXkPb9iH_nnaaeMbmNzosTgSvQdvZehOOnmrLLIVQSMYEOhf4ZizbpnxGyYXzciE2BCio-fz5pS7wrDbRhN6KGambdIA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5892964471806103464\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B7.png\u0026#39;)\"\u003e\u003cb\u003e🕷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e داستانی که چهار دنیای مختلف اسپایدرمن رو به هم گره زد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4904518555115980029\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e از اسپایدرمن کلاسیک گرفته تا اسپایدرمن 2099، نوآر و آلتیمیت، توی این ویدیو سراغ داستان کامل بازی Spider-Man: Shattered Dimensions رفتیم؛ یکی از متفاوت‌ترین و خاطره‌انگیزترین بازی‌های اسپایدرمن که مولتی‌ورس رو سال‌ها قبل از Spider-Verse به تصویر کشید.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e شکستن لوح نظم و آشوبی که تمام دنیاهای اسپایدرمن رو تهدید می‌کنه؛ آیا چهار اسپایدرمن می‌تونن واقعیت رو نجات بدن؟\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6019089631016915133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://youtu.be/Q5Ob-WfOQtQ\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003ehttps://youtu.be/Q5Ob-WfOQtQ\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5390854796011906616\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/23E283A3.png\u0026#39;)\"\u003e\u003cb\u003e#️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"?q=%23%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C\"\u003e#ویدیو_اختصاصی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5107339271748977730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107181663629083853\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107378635124245748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5109651063665853610\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-06-19T19:34:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 159,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,11 +354,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UbmRU38KUTk1Gugn5k31pFCoING8teXy8-stzGpKOczyXcuml1XA5lau-UbSPwSJo8gZVCkyrWGUIB_CT1-6HvFkKOTYkm3KbUAYMIUuL3E0nzBsFfdGvClhFf8xh9WmsjYIH4KktfiLU9rg8_nFHPRrzXAmBOuS8OYsVIA9J-e99pon2XNgOR6iugWsl7fCwbIv7zUqECzFoxFgRiMDSHcK_vUZpr7aniEUP_wfSIEe72RT5EBemzcx3b3RCyw3i6aUt1SbSZQZXFmETrr0HeI_J6kkmvnBuI95EAG1-70E_nNgRoua7gvtwcQkCCz-ryVb0PCUYah1IbH3vAlo8A",
+          "url": "https://cdn4.telesco.pe/file/gmWDmpobDwfTQ-VPuqORxETDbmC2WK9Ql4t0XjsyxkR2AZYLPZbbMPu2E5RZucWzKdhq54Yu-VbruTE0qRDnzWPDyugAKhdnThJYbFlyejqqcyFtu-acfj-YLuEkPfkV81O_j6VkhP8vs91Akb6M-aftbK3lTxXIO96iYuSXguS-cm0IQ06toT-pbn5NAtccgZDex6QJEWvzAMcORmSYx5nFl5_aiM6O_mn38BSqTCMEU4k2Z_MHPrE-u9zaXjdf9VtDU4kidFj1JyE-75sjCuOUDvaYSFj2H-3_TJqDeKVf6DuhBmUv57prsdTs9X3z_V5bzJ1biNdjvsLuYcfu9Q",
           "width": 1920
         }
       ]
     }
   ],
-  "last_updated": 1781891872
+  "last_updated": 1781898705
 }
