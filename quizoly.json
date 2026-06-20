@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "وقتی کسی آدرس جایی رو که ۲۰ ساله دارم توش زندگی میکنم رو ازم میپرسه:\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-16T20:57:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 79,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ao5iV-crc06Ru3ueD83FTyd-Cm7d4sd__9sjOxFsfjvMaApFDDutKSBRq3uEcl-msQbNRfzyLDhsMlKJH8mP8INKk523is3GGqly85-p6hTvc_4f69vwxj2DxKXK5d6Io2ETd544wd4aQPiUvUGRTFTPwGrlOq6j5WYFDv8un7DBtC_xr1SIsQPF4TI8bZWdecXVedGAkXmSiqUhPvnhoZS1u0FW9pnGqgPHTso02SY3njKMDYM6Fx6ESIqqFlru-YJ-DV8nTzLeIT8QpYWqoQrnhFUHwHbutoC3NF8Mrv978IR0zlR4VFtiFQ8uDcD-pHo_Ex8roHwazMxksM1plA",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "زوج پزشک ایرانی ۳۱۳ عمل جراحی رایگان را به عنوان مهریه ازدواج خود ثبت کردند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-17T08:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115,
+      "views": 118,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +30,7 @@
       "date": "2026-06-17T16:55:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 79,
+      "views": 82,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +60,7 @@
       "date": "2026-06-18T09:33:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 96,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +78,7 @@
       "date": "2026-06-18T14:32:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78,
+      "views": 80,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +90,7 @@
       "date": "2026-06-18T20:30:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 111,
+      "views": 113,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +108,7 @@
       "date": "2026-06-19T08:38:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 99,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +126,7 @@
       "date": "2026-06-19T16:11:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62,
+      "views": 68,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +144,7 @@
       "date": "2026-06-19T20:37:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43,
+      "views": 51,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +162,7 @@
       "date": "2026-06-20T08:53:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41,
+      "views": 62,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,5 +175,5 @@
       ]
     }
   ],
-  "last_updated": 1781953035
+  "last_updated": 1781958459
 }
