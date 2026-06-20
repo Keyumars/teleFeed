@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ای جون دلم",
-      "date": "2026-06-16T02:19:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/pbFTYrkbrarrE28RZMz_PFHvcxR3Mn2KYSSQPIU6kwN9J-YnZM5N24tEeQcLicBYE6_j9I1WF3VpjGRyb4cIoyD2IdukAvE5xB-V8K5GX8VelngCpDooPbdSD0L7d_JW3_tlbgWaE-P9TEujF_gagbQx8e3KQn6thKD1pyfscC5wm8XUI9OcXMD5wsmsTKWiOLxOy9SDsDWoxfSFSEyyGJnaXe5XYlnYIJhtOVMXCBDMawicy7Oqoqi0YPH9RsBNAG0CZG8sW6ng62ihRyFJHZXnb2137e_VgZNcUdVawcoJM5XJP7N-gTI020b0koS6Q-HNNPWclD8enmbRoEWbgA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ای جانم 2",
       "date": "2026-06-16T02:22:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +31,7 @@
       "date": "2026-06-16T03:04:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +43,7 @@
       "date": "2026-06-16T03:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +55,7 @@
       "date": "2026-06-16T04:00:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +77,7 @@
       "date": "2026-06-16T04:11:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +89,7 @@
       "date": "2026-06-16T04:21:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +101,7 @@
       "date": "2026-06-16T05:42:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +119,7 @@
       "date": "2026-06-16T06:03:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31900,
+      "views": 32100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +138,7 @@
       "date": "2026-06-16T09:01:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +150,7 @@
       "date": "2026-06-16T09:46:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +162,7 @@
       "date": "2026-06-16T17:06:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22800,
+      "views": 23800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +180,7 @@
       "date": "2026-06-16T17:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +198,7 @@
       "date": "2026-06-17T01:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +210,7 @@
       "date": "2026-06-17T18:52:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +218,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MzCnU6SEhECHZueWv4d7O2SJeLZWATUl80naEw2O2YKZLz3Z9plYl4i3KNhQBPGTF8SKXtVh-0wRZq8hLAubqRVJgYxWO--ULVoFed-gDL0zwCJl4IeuqtsEBn0cuxE8wxMwKeJPDZQUmqlNZSiGCztHVY7Xr5rp03Wa3tuLZZOOnY_kbUydl2nfudjGxVoBuS5ozdQHodG6RbUO2b2GI7P7Wyp4wC-oXT4-bUkvSpaO6UPDG3y-vEQHZrDf0h9IlCgAnwHvecga3l850r16HbDmfnnr_AdJoiTbZIeo_Bu2w-jm3_OFfEaVl47vyYw0ViDBFUr2eDFFNiTYkCBvXQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/SE1M56fdlIU_AoUEYPkMadockwlWIjgu6V5F_aRl9aXJoiaF4iWde-zFo6zk_PvqELyPyCs3y0CDLe61wo-UPJA6QB4FW6kLM6TV1OfF1uTbMB4AmbG68nppfbJIbUkEePTMXZX52d6jrKpkWfjCTFa5CFEmEuptVG1se8y__Q_qCEiwxVHX4wf9LjGJaBQpqyQW6TCuCTB_TnDYyEUsE-IVaXFmho6YY1mZNWhAi11qrTTbTR6nXxNCiKtGq8UVusuweeIwEqEEkuilSKgmWac-BKvgDZkWIrG_23AiKCIA9YmvRUcDkrmmPN6IGRNVLwkulPChV-CR1OawkO8AVw.jpg"
         }
       ]
     },
@@ -247,7 +228,7 @@
       "date": "2026-06-17T18:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +240,7 @@
       "date": "2026-06-17T21:06:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29300,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +252,7 @@
       "date": "2026-06-18T01:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +264,7 @@
       "date": "2026-06-20T16:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +275,25 @@
           "url": "https://cdn4.telesco.pe/file/u0lJPV5u0lu38GfqhKU9F3Y4s8oPgd0SZezScgvRGvy3jPN7kRRJyJ0VSGfW4Aaxs9UpoVZGQZpQtZ_Sp6gwORy3E6kzqiCtsh8qKw5La7ECUCBtpcM8BmNgYM1cp9Csg13iVESu19pIz4g5a78Z9B5A-_l6izjjfBwp_bkW_HlJNAAmktq0nf1CJrvD6ktYApOJAQjFWJktdjltGcAbYZcXnzUJiIBs_v02sYsK2PQOfZNnDc3WimwK9tHvGSUcdfz3IRVRbzPoZra2pnkuSgJ8hiT6R_cQjhpk3H0xlVFMpCUaUDfw6htr4spkia3Vdn2GURZWA7qN-5l6oETN_Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eربات چنل با نام نتوری برای دریافت کانفیگ رایگان V2ray راه اندازی شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eآیدی ربات:\u003cbr/\u003e\u003ca href=\"https://t.me/Ne2rayBot\" target=\"_blank\"\u003e@Ne2rayBot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکارکرد بات این شکلیه که هر 2 ساعت یه بار، از چندتا منبع مختلف 200 تا کانفیگ جدید رو جدا میکنه و همشونو تست میکنه و به صورت رندوم 10 تا از اونارو برای شما میفرسته و باید بعد از دریافت کانفیگ ها خودتون تست پینگ بگیرید و توی برنامه هایی که دارید بزنید و وصل شید",
+      "date": "2026-06-20T19:00:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3860,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KEx6BMJtCdF3C4i7N3QpZ1FaAjZNuuKoZ5ROPy_-KB3qVd8nfV6638s602HgT1E3VMP0s9nwH767nV4VX8TsymxXx5VW74TDpXJUbenvw7t2_Ooss-cJF1KrpPwEIeQJOgjRn8AcCCbZswVbNiCb8AyVMqPgtGSpC3b1QTFlAkgU56na0LbXMgHW68WcoREGcK35hkFi1G6VkAxEPQ2PbwAUykxLKScy4tdDpInWcPmCo-TFCpBRkwOf1U0LA3w_Aq4GXlwsZGEkG3pj4hb8g9hqTd1LTR4z1YH4_h_eeN6Eocck0KtKRJYeXnVqKqfNmMaeMSIFtZUiVXzaVAdUBg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781978076
+  "last_updated": 1781983482
 }
