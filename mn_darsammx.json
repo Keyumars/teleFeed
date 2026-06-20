@@ -8,71 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e پیگیری امام جمعه همدان درباره تعویق امتحانات\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-19T12:04:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mfLSul6aAmagsobgaXLwBSteLWfIhdrdTwFQFplPt4-W77FdDZHaFnrVFegB0hhhJ9YWdmXqQTfbnJL5OVyFP5qrM34Rcbvj2tY94AgTH8T9a1KkOo0kRMQwRhLeKTTZ9FTs3DhzkJwv8vmSiLz1Jx_F4Zx6VUSasMwaqTfCUzJu8Oncm1AoRBE2P2-jjie6wQ_AFr7zd6R1lZjRIoAxxzg9BM-N2meu71PBCL5C2rVp8WrRv4rBQyPNMG_jR8JMaLxp_NB3AUWgWs0iPSFV3OrwXcoi-XQFxz8HUMtyXUZ0DKap3VvxH9lsZOHwJYDMneMvsuWWWFfbVezYiTBZ4Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5807437164543219242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آمار عجیب معدل پارسال یک میلیون دانش آموز :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e۱۱ دانش آموز معدل ۲۰\u003cbr/\u003e۷۱۵ دانش آموز معدل ۱۹\u003cbr/\u003e۱۵ هزار دانش آموز معدل ۱۸\u003cbr/\u003e\u003cbr/\u003eحدود ۸۰۰ هزار دانش آموز هم معدلشون زیر ۱۲ بوده !!!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-19T12:55:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4990298741463319592\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e نقشه نمره ۲۰ امتحان نهایی دینی :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-19T14:24:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UbGCEoAjFzL2MBxrERBEGAAhtewyFxsMfi1jd1losKmkhLXfDAqE2NCepb-hpZZNU2EdfhJ8Dy1XkHLs7PEmY-YIMxUanJEHSs9m2gQ29T373qbMMJVguukbmKrtrcN7q03p8RpKTL60DfSp0NS2RtL-0zZnxh0Wfox4S0Wjf2RVc2aM2QNjBGjS-1xSSGF5hhR0cyrmwYNE8jfALkZBFCo8AnaDv78eJEqcRMdRmSj2CmCdahpSU2nCYkuTyGgAHL5lsXUP8nEUMqdOy2MyF5KsYVNIeD_VGyX1k8f8j-kpGl6HLsAWU1uIWDUez8tw0fxDI1JwIPfdo5T_EMPjyg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "* هر سقوطی پایان کار نیست\u003cbr/\u003eبارون رو ببین، سقوطش زیباتره ! *\u003cbr/\u003e\u003cbr/\u003e(بعد از دیدن نمره ۹/۷۵ نهایی)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-06-19T15:05:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
       "message": "هیچی دیگه...\u003cbr/\u003eدستشوییِ کتابخونه مونه\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
       "date": "2026-06-19T15:40:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +30,7 @@
       "date": "2026-06-19T16:30:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +48,7 @@
       "date": "2026-06-19T17:00:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 28200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +60,7 @@
       "date": "2026-06-20T04:40:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22200,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +78,7 @@
       "date": "2026-06-20T05:26:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 22200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +90,7 @@
       "date": "2026-06-20T05:44:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +108,7 @@
       "date": "2026-06-20T06:06:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +126,7 @@
       "date": "2026-06-20T06:40:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 22700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +145,7 @@
       "date": "2026-06-20T08:36:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +157,7 @@
       "date": "2026-06-20T09:25:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +169,7 @@
       "date": "2026-06-20T10:01:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +191,7 @@
       "date": "2026-06-20T10:09:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14500,
+      "views": 19100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +209,7 @@
       "date": "2026-06-20T10:12:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +221,7 @@
       "date": "2026-06-20T11:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8760,
+      "views": 17100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +233,7 @@
       "date": "2026-06-20T12:28:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 513,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +244,67 @@
           "url": "https://cdn4.telesco.pe/file/T3GHFR_LsnNR2pEWat0qPTCWsZOjHH_pH3OytpU8qLTvBFbyyVOOxubNtHiNGzTjVg7Ng2QUEaXmNHfluLjjAmpLDCcc8GaPzDSiu7xpKhL-3EZjeCbRaoZAEvC5kFjEoB0ZuSaljKFFNEP-Uq1_7BqjwOR4Lv5bp4rtJKj2dVrTvFRY-fOqKeoDLJRqHoutUHQB8a3vMvbjLwm6sIC_T8T8vohNdkoEc-mY464TyTnnGjy71ibNDa8GV2YCDhAksF6U8pweoz5KqLlaF2hE5yfHJ6Eh2QPzh40EgVFZ6jQ89l6M-PaF_4VuoZHNWFkFo5fPoNzbwifc3FOfJXeTXQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5246944653969730653\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A4.png\u0026#39;)\"\u003e\u003cb\u003e🖤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA580.png\u0026#39;)\"\u003e\u003cb\u003e🥀\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-20T13:03:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KNOTMNfrNNx-kvMgsMft_0bhA0HeQOFDcs3yUMjT50aeSdbP6RhAvOFYy7BO8uPrfGDUiPwVjCsz0UlmkcAfYAw5JmmUBBbt6WjDcEYKqFwdo7g0qpurn9qlYAZGzceAk1ez0o5vgWEpm0CX0phx0bdpgSW2Q0llIRlUDYMZ_KBMBSKUNGk9WR9lZr9Sa94Y3GkM_6Wz02iSE9iy1w3dq3onVIh8rbDNlb10JuEJRLC94zQlAQNkXngrpy2XEardfFwRG6GvLjAotHHEVWTx7LAceIvJEL25YyS7TZwFtTQCR_9D_abw-AsbXlm7IgvI2pSiEXftKMpCTxZuIF8Wgw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5807437164543219242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بنظرم دیگه برای نهایی و کنکور تعویق نمیدن دلیلشم اینه میخوان از فرصت ۶۰ روزه مذاکرات استفاده کنن و زودی امتحانا و کنکور رو برگزار کنن!\u003cbr/\u003e\u003cbr/\u003eیه دلیل دیگه هم که تعویق نمیدن تاریخ شروع تحصیلی دانشگاه ها هستش که همینطوریش هم طبق گفته خودشون احتمالا از اواخر آبان یا اوایل آذر شروع میکنن یه تعویق دیگه هم بخوره رسما نیم سال اول تحصیلی دانشگاه برگزار نمیشه!\u003cbr/\u003e\u003cbr/\u003e  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-20T13:24:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4926956800005112527\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنیروی دریایی سپاه: شناورها به تنگه هرمز نزدیک نشوند\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e  \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-20T14:09:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "سوال ازمون تیزهوشان ششم \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-06-20T14:40:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aLbQBefZBrjZfT9Y3utoEhNgRv2zow7peky73T2JlGVnrkwvetb3UA0xncoNm59gDWFyf_dcV0CqlMlWIdfJPv74D0RrK46sgS4DXMC2NjevCjVB9DqNdTm9iA3J_fMInn8-Aivr7c4A5Pn9QESEYHqzhnc4Y3eGUEgflkeOKjiSMx6ASr48EYDSG6ZyFaf8fX5GHwB1X-JZNmtsWRHJh27Gw19V-FnLlHlceBu-mCbpKZXLCiS72Pr-Ni9MzK0ISU9rkp0R6tRG7s3MN8JUaTcuP9xtp8YGDfts9Pae_26NTR6QXeIeTLA_v3EhHrcQDMgmR2aJqeqAo1BAKml08g.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781958564
+  "last_updated": 1781966637
 }

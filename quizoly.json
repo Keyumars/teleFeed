@@ -48,7 +48,7 @@
       "date": "2026-06-17T20:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115,
+      "views": 116,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-06-19T16:11:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68,
+      "views": 69,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-06-19T20:37:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51,
+      "views": 56,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-06-20T08:53:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62,
+      "views": 73,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +173,25 @@
           "url": "https://cdn4.telesco.pe/file/prK12aJVZpQxlBJGOTU8p1t_oS1u3cCdo9oxE81wdQtunD5PEvv68du_meSUvtciVo_o0WJJU4bB_wIDUJsioebSxI5Zr1Ofu79D6yqBAKX5HEAxMkSAwShsPo2aew3-hYCFr_CDxfcKEm4DOxNPMiTO5_SpHJbN8D3aaZs85RN8wzSiR5VmROhW5GgEy-f0Ilu5KQoh5eor_o0T4DU1ORWZKJuFw-4N90P3hW4MFxIfOp6jlpCKKHAOaYEHimYnzDkFIDEcnY6vw_R-s_H2szfqaDdX-8SDPAa3cPj1tArSEC9erzo2uCqJvL7OwHQ7pxcP0wz1hOnb2sC4yR2apg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چرا هرچی فک میکنم بیشتر نمیفهمم\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسوال تیزهوشان کلاس ششم!!\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-20T14:32:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/mw9G7t8xrDRbxz0ojAcHPMCs0mBuuKvNhP09HNa_fhRtu6hGfd1ht6UrfzF6mPlNHXUNti7OAsvBosFKmGkSgOK-uWgfo7aGQ2HBec7SXiYdP-ja-wnc4n5bc1yZqR-5U0_PynI61AnPyjCPOV8_QOVQLHEcWIO6lSBGH086YYnw8vBwZThNoXrj0XFodfcIYX70_BfDZfvIJ2xmpXQfXx0-2lfM8XtcFQGC6B5xhxL-OhYLxldWhoLh8K4dewql_AXYv0wbFJ8u7_VVSTGmg8BkMoGKaf3bgRh-w0KqbSqRGKtUa0w_i5UUPSC8vyzuG8-L_rvKFRemkRSAOSN8UQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1781958459
+  "last_updated": 1781966538
 }
