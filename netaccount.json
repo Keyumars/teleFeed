@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ای جانم 2",
-      "date": "2026-06-16T02:22:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sJ5PncmBoNeQTsJf5YQhOnWXZGqvFwk2YVA_n68soh7s1GAmyQN1G0dY0jz1HMZ0jEDjjPecjbwmmB7k_SPtTkDm-MKPOiRzcsqosE4kfsyR0FNwqKvk-waYCJMOlxNITDCyFoznDk6DhN71FM8Oon6Bmtdrpu6Da6v3FMWjDfl-zpbKPyoMHeypr4T_bRqd4ajRaqEzGRh8UIJvE8Qc8MQsudcybcIL8Cw-fdB9POdUWJb_N-z6mSoSiGgZHKSQKN1hpb8JLEDVi7CHjLYEWHQydcd98q2RNluZQ_TgWGLseLB_cLF0r2CiijlGvU64kzsx3VIuiB7DUST4XeFNaA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "خب ویزای ساعتی بازیکنان تیم جمهوری اسلامی هم تموم شد و حالا باید برگردن مکزیک\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-16T03:04:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +24,7 @@
       "date": "2026-06-16T03:10:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -55,7 +36,7 @@
       "date": "2026-06-16T04:00:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +58,7 @@
       "date": "2026-06-16T04:11:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 34400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +70,7 @@
       "date": "2026-06-16T04:21:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +82,7 @@
       "date": "2026-06-16T05:42:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 34300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +100,7 @@
       "date": "2026-06-16T06:03:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +119,7 @@
       "date": "2026-06-16T09:01:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34000,
+      "views": 34200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +131,7 @@
       "date": "2026-06-16T09:46:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33900,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +143,7 @@
       "date": "2026-06-16T17:06:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +161,7 @@
       "date": "2026-06-16T17:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +179,7 @@
       "date": "2026-06-17T01:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +191,7 @@
       "date": "2026-06-17T18:52:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +199,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SE1M56fdlIU_AoUEYPkMadockwlWIjgu6V5F_aRl9aXJoiaF4iWde-zFo6zk_PvqELyPyCs3y0CDLe61wo-UPJA6QB4FW6kLM6TV1OfF1uTbMB4AmbG68nppfbJIbUkEePTMXZX52d6jrKpkWfjCTFa5CFEmEuptVG1se8y__Q_qCEiwxVHX4wf9LjGJaBQpqyQW6TCuCTB_TnDYyEUsE-IVaXFmho6YY1mZNWhAi11qrTTbTR6nXxNCiKtGq8UVusuweeIwEqEEkuilSKgmWac-BKvgDZkWIrG_23AiKCIA9YmvRUcDkrmmPN6IGRNVLwkulPChV-CR1OawkO8AVw.jpg"
+          "url": "https://cdn4.telesco.pe/file/tRmLxwls4j3GMa6o2OVgo4pnuk5IJkPx_BsYL5dG3C8BF0jgxV7e0Q19NF5ueertfVMvnK2ramKkG8OLqLvdAEUhbDzfZEQwsWBdS1fip_Nv6yKYqyXKydPJWrCi3CKbGZFDl59HFWxnI_-T6kbv12DjpOtyli_wCujl3eFrTjfNjw7k377h8dB09FeTAA4Ar2lsTrG0y3rRnk6FrjilWVLz1JLnOF1JtgWxyafpu5fFrBg97hyRi7iehwJI8eJZWueoI1hUI6dIwTFI9gFt4jowIrAsijUmhJZsjiUH8rHIH-G3rzf8NQc37FrZEhrwN0zqQ3CryCiD3_ihX9swKA.jpg"
         }
       ]
     },
@@ -228,7 +209,7 @@
       "date": "2026-06-17T18:53:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 35700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +221,7 @@
       "date": "2026-06-17T21:06:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +233,7 @@
       "date": "2026-06-18T01:16:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +245,7 @@
       "date": "2026-06-20T16:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +263,7 @@
       "date": "2026-06-20T19:00:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +274,19 @@
           "url": "https://cdn4.telesco.pe/file/KEx6BMJtCdF3C4i7N3QpZ1FaAjZNuuKoZ5ROPy_-KB3qVd8nfV6638s602HgT1E3VMP0s9nwH767nV4VX8TsymxXx5VW74TDpXJUbenvw7t2_Ooss-cJF1KrpPwEIeQJOgjRn8AcCCbZswVbNiCb8AyVMqPgtGSpC3b1QTFlAkgU56na0LbXMgHW68WcoREGcK35hkFi1G6VkAxEPQ2PbwAUykxLKScy4tdDpInWcPmCo-TFCpBRkwOf1U0LA3w_Aq4GXlwsZGEkG3pj4hb8g9hqTd1LTR4z1YH4_h_eeN6Eocck0KtKRJYeXnVqKqfNmMaeMSIFtZUiVXzaVAdUBg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/proxy?server=135.181.74.189\u0026amp;port=443\u0026amp;secret=3XnnAQIAAQAH8AMDhuJMOt0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=135.181.74.189\u0026amp;port=443\u0026amp;secret=3XnnAQIAAQAH8AMDhuJMOt0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=best-sellerst.co.uk.\u0026amp;port=443\u0026amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=best-sellerst.co.uk.\u0026amp;port=443\u0026amp;secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=65.108.126.206\u0026amp;port=443\u0026amp;secret=3XnnAQIAAQAH8AMDhuJMOt0\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=65.108.126.206\u0026amp;port=443\u0026amp;secret=3XnnAQIAAQAH8AMDhuJMOt0\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=141.94.35.198\u0026amp;port=8443\u0026amp;secret=KJMzdV95II7M1QRJJE5E6zRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=141.94.35.198\u0026amp;port=8443\u0026amp;secret=KJMzdV95II7M1QRJJE5E6zRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=For.dear-iranian-people.com.heazshddd.info.\u0026amp;port=88\u0026amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=For.dear-iranian-people.com.heazshddd.info.\u0026amp;port=88\u0026amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d\u003c/a\u003e",
+      "date": "2026-06-21T16:46:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1782058516
+  "last_updated": 1782065123
 }
