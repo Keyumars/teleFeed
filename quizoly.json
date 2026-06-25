@@ -8,29 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بیرانوند وقتی میبینه دوازده ساعت گذشته و هیچی به فالوراش اضافه نشده: \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-22T08:45:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BeHwE9_fWCAsLMU3fM8r5pibCw7X5XUcY19jdP6w9WB_BL0WZGv-xT31BOldM2vDIUo-HaylEPsYhpBaAOyYpnbCcM2WK6QyUqjiDCZ-8DTj7zwRrrSAfvEu2vjZp_Sg5mYkzX6aiX5T_4HUv-VmHJUge2urxL7cytTyIDxYJyMU_MY2bwjCwYPsJ-fyssAhr9inYoYO4b4hbFgUKqd6JrPZZlmLdxk1jcXQZrGUybYkxLX1ZW65JSD2iUCC-w3mP_olo4wO0uTo05L13nnrLloyMA1riWlai5qsy557sxYbRVjtMUqMS4flue-NGZxH23XW9BgDX57L6kdkHk-HCg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا می‌دانید؟ \u003cbr/\u003eآفتاب‌پرست‌ها فقط برای استتار تغییر رنگ نمی‌دهند، بلکه برای ارتباط و تنظیم دما نیز این کار را انجام می‌دهند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-06-22T15:53:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 73,
+      "views": 74,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-06-24T08:33:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 72,
+      "views": 73,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-06-24T15:28:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66,
+      "views": 70,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-06-25T08:56:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46,
+      "views": 52,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +149,29 @@
           "url": "https://cdn4.telesco.pe/file/UpFsjIyF-mCtnuhulp5jpXiqhkopp3AmDq9rIFsKwWqhqe6GJscsQwiGfumJ9bjS7lLLVB5K-GAsoCF_Rs4Y4qop2mh3tsfVijsAW3ZZnU2OedNqXm4NRMeZxzrhKDDZAdovdSw1RXROBeGPnxCuGFUTTcDUiqzqX8_OK9XHdFGrQXoQ2AuOdE_22iDzMKSOcNbA8fkmjl7ClhP20wc1f8btaPwXFrgzrh0sDF_Sbq2RlojnwwzHlswUyMyyq-aAHnx0Ih7fL2dRu90D4ghejlCgOtoPdk2EXUVJZZT-mT0titD0qkS-E-zd69oGASC8OjFPvzP-97TITgrsqqjzOA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eراهنمای ترکیب درست رنگ‌ها برای استایل خانم‌ها و آقایان شیک‌پوش\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-25T16:55:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BQTU0wkartLVkn0C2W-x6C4h5yvTZGx8qXYnuxTS-y1uouttQsMeFlVk2tNAICATp1rRVvyGtExfVB0pMomE4kUPZpdzyHGxPlsdVSp3xJCmx_nX3ohedovusD_mCCmk46EiTwLojiNl-Yvpa3wzVQA_d1WRDV9vZNZwx9Y_474hn4dtQRTt2AdTu3oYuPpmLjIoM9kF18RK8OkAvzOk2BoXD5ad0kX9_NayFZRxcabY0t2b8YxaJLUrNQiad8EiDAyT6w3yDRgZFlJFZ3w6BLUX2gCH86UR8Nq977NRdTYIuaroPLvh4qgkV_ZSC29nPXGlBnRgNqgCPsufp9IIRg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Sc73Ov_iGvp87nY3uZVpEb1BVc4mIPRjT9l2sQtrPPLLwbfy2hLyjg_DRtP57R8rZBGPX_Osq9K6KARAHYk5mpRrqFob-4EVysRe-uSOWMRu9ppr9xB_6mQ-F6nLbmQw818BtrYnEvQQpokRmaI0zanWifuNqPvi_jsMQo0Nh5X-htALuvAIK1-F7sVf1gTDL9FYDEe5KJCA951k7dgXLGag8eQR13giOcuSHxzcsHuuVNcgdAiPogAU_qY0t28xD26nY4AQakbBvN1Blv6tssSp1BdKumZc6nXBkKgw0jSUJ1rlwstLI4I9T4HOW_ud8nWiJzeGhIa6Klq0k6Zfzg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782404565
+  "last_updated": 1782412322
 }
