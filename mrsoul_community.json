@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Mr Soul",
     "username": "mrsoul_community",
-    "photo_url": "https://cdn4.telesco.pe/file/o2YGo73IPeDXCv-gAAl8Axzdh-_6eN_yQAFp2xxFpBkZN3RV5-yr8b8SB_nIaHFSTU-DlyN0PKx1qsYa2uwFyC8_FxKs3oLx0lMJqRX-SU1bsely8BdX7xAvJ9M-egrtqO6qZY-TncNeP4H7XHqMhBg2HhNT2NNqhXRRKmdV4b9apoFObxnDE_hdDXDFVuxdchl4udpQ2m-L8BLspO51292uW4GTUf70U-IoWomkj-7yOGU_Dvi6YVgK1n-VT8tgdB99T3JG9k3ZvdfftdxtvSENfFgQ-x0KtiE37tzdxUJtOm_5dZQUo5BnWhO3OS6Rm4ho2TY6fAhgOkNdnaonjQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/O6Emoh2f5cJhJVkPlVl_k2jz7HRwoIJ8fakYp22I5n1Oe_A6GrMye2BoJuMEoDoslgVae01IGzeqNeWtiNngjXEIeEXblHqsPisZDJus6dBQh0UXZLx8jDtmPu6MGyfXlOV2CmHJFkNFdLBhaMfwCnV42RxQs2dwHM-04din2QEIJ0-O3siQpbe1gHSj-4hKpEG1UHfBpgJBz3MtgVbcS98ehleyB3Y49C4CzXJ4YDZJb8WhoAjZVaPM5H_ZRA7r6mNM7WW2hzl8yuEkTOPZ1-M9lDcO05ZTjVMCe5Gix2O58ONvWWBfmCyxlNr-an4JUOKS38nkFnxtzltecsa76w.jpg"
   },
   "posts": [
     {
@@ -138,7 +138,7 @@
       "date": "2026-06-04T13:14:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 20300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-06-07T19:07:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,5 +235,5 @@
       "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1782590089
+  "last_updated": 1782594260
 }
