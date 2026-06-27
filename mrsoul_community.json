@@ -158,7 +158,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZZt24A6qCaX9IdXtWo_PW6yiGYnh_zkJ7Ls18vVUeEh8ctnK707VnL4kq7XK_7FZaZcPY-Eh43WvSz2PqJ7gWsdmt6X7E4J9YNFLHz1yrnU9hdLhgS62w-9FiUVEAxs9PcCcb0KsnrEYT9Tln2rT7ILjvtPvb6-UyLgjIIJMun12Ue0b6iRzqKxKaTK4UdTfnwHwgIyHgSiVde9KG5ofXaOf6l-FR8Jf5Gct-qkUJsMaG_zRItaMymJSbGdLAJVIl1_9-phmeJ6wmMc-VrERa00PH1MePVCaIK2inl4ijsoxzBcZeZP09zmbUZ3bldxC-MA-WGc8m20Vi4j8YK7kkQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/f9FR-YrL3pVf3WpTbiCw92wO6gkyh4P5G45rE9qdfhlsgt7_igR0nfqn_ekkxG4Pa1_Ao4G4vbPrsywc0QN45e1AuSncFJK8cV8numFZ80uu5WbPLf0O5mIbgeHVMOn4NqjBPHja3ulNlkITkGVVA6pARr30Rf8C7FtaqbqfGqUn90IRxpi6NLWj_ckc3zfDpy4nHS0795Gnrt0kV1thoJ4FuDVw0rzy40yYytBCCA2PWON8HCRWmXqjcblDr-m1OJw11O32h-sQlZzkx1-RJO239_6kRHEBZA6dRknbCxCAFoh7D4O66SJL0mFL8Xsi7i-f6szZI4wCTdv_U2smpg.jpg"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "date": "2026-06-14T19:53:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,5 +235,5 @@
       "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1782567723
+  "last_updated": 1782573376
 }
