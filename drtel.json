@@ -3,71 +3,16 @@
     "id": 0,
     "title": "𝐃𝐫 𝐓𝐞𝐥",
     "username": "drtel",
-    "photo_url": "https://cdn4.telesco.pe/file/SxUthylIs8yYKGK_s62fXHFUkKXQIEslkcRw4hprOAIiQyd06SNFsXaYs0Wl3Lv3KmquXo3-k-vHI0oeObfNgZRoXSQ8j4-b5VMhqPNdK1i9n2Hk2yA0Dv1hFdSyD7tOHjElYG2KWPcPzIkYlHY-DFGDLXwNXzWppaQhi-77uqS7hO5iZaJsce0HoEOFJXpF-ybqL_7mhzyeuUGQXz5EzajBmPxSAUZvTYFOW69GessLQhoOfqF66h6wSypKOr52KQxkDZ7MaChPZb2FKpZPZkGbeMfsw7rzIKU1gXdGINd3_MWezRx_TUjI84ok1EDQ-N6wKSELkvVlewHhxzOlgA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/icR5Si8KRgMYwtHWRLG27j8lIN67yN50Yt8hqAIMi9Cq_bXlofArhqnApMooyXxB5Ca6Fy93IUsHQPEGEkYl3VrjQlD-kSaT93KfjSlOw5lO_OWfC-xYOppWOZEitnMNP4dcXVLGBjx1pGXL9B4i1gVgf1SLQ8Z3hOuSf8eshil1HobhpsP7HbRXgo0K_9hH9dN1f8oakI_fd6brKPLJyOqM_Piw6gkqinMN32ZYS51oN_C793bfKLq-mJsJoFCJ_rh1WZ4rkzrIkrqb23YOe7OdCahQWl6sP2iOk0CkJu2Zoq9Epvap0aMaX7yqQilY-4sGClgZ_1BNbUf2gnvWCQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "وقتی به عنوان یه ادمین قدیمی، میبینم ادمینای دختر دارن چه بلایی سر دکترتل میارن...",
-      "date": "2026-06-28T14:11:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/I2iFxJCf0bvn7TCkoXFpfYRtmCK_7m5FOrGTBBB563_-FR4IxGK37t85dY1yBoLQIhEgElNdX5E5LrjC1Z3wDb1RQdJrL-NNBshNOPXLX-y50yN6yR-zp3btOg43qemLxNN5oJVcyMrSpWN2gv6GAzgLBjvX1KzxLQauYD0yo1b_jC21Tr7_7z9BTGUDO7LcpZ2ARtZJNx9TQkbP9tkepLORTmK-Z1OWzecRfBahEEY_YWPTKZOXHJ5pYNsHcc2fK5O8-uKBPGFRnM8LZPcCwSZRpZlA3i1ZSgYpfT1qN-yg8L7jbaoofatOtUw-qL_oc5nlpjWdr52ci9TbKjD-lQ",
-          "width": 576
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‌حداقل ما یه محتواهایی می‌ذاریم که شاید باعث بشه چهارتا جوون به هم برسن\u003cbr/\u003eاز شماهایی که کل محتواتون شده مسخره کردن پست‌های ما یا گیر دادن به کس و کون ملت فکر کنم بهتر باشه",
-      "date": "2026-06-28T14:22:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "آقا کمک میخواین؟",
-      "date": "2026-06-28T14:28:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "امیدوارم شما ادمینای پسر همتون تو یه روز بمیرید",
-      "date": "2026-06-28T14:36:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
     {
       "id": 0,
       "message": "شیما ازت یه بازیگری بسازم که جلوم زانو بزنی",
       "date": "2026-06-28T14:40:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +24,7 @@
       "date": "2026-06-28T14:47:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
+      "views": 157000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +42,7 @@
       "date": "2026-06-28T15:17:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +61,7 @@
       "date": "2026-06-28T16:01:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +79,7 @@
       "date": "2026-06-28T16:36:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 122000,
+      "views": 140000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +98,7 @@
       "date": "2026-06-28T17:00:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 135000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +116,7 @@
       "date": "2026-06-28T17:00:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98900,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +135,7 @@
       "date": "2026-06-28T18:06:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
+      "views": 134000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +153,7 @@
       "date": "2026-06-28T18:26:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +183,7 @@
       "date": "2026-06-28T18:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 97900,
+      "views": 130000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +201,7 @@
       "date": "2026-06-28T19:17:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81300,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +220,7 @@
       "date": "2026-06-28T19:51:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45900,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +235,80 @@
           "url": "https://cdn4.telesco.pe/file/aPreVnYYAncsb5CWJ1wu2pW6RngmpyZ-MZCuOG2eQvZIBd5LRs-Z2G-7-tVw2FgRvFk1Fu3Z3fKAefyMw5iUe5-2EAMjOAM3Qph6ivzcFNJLaojIbSWKhkwry_cwuMNBRVRtNYp4pQySGe2psJHEmfVrXCcpP4l2pkeMN8MjPmkycQUZ45gUy94qHrs5CQf3V8Zhz2GSlZO4wnZz2STvyFSDyNlrFoXNyl8oMGUDccQXLJv159i15W9DJ1yNh4AKRE4b-gen7DU6fiesTlV0oVhP9FTkwxd5I0CTTu0JmUPZgwY6m601ux7ALA0-VpPKmi505TZEbA6fj38aEcZ3gA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eعارف، معاون اول پزشکیان:\u003cbr/\u003e\u003cbr/\u003eتشییع جنازه‌ی علی خامنه‌ای شاید \u003cb\u003eمهمترین رویداد قرن بیست و یکم\u003c/b\u003e باشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-28T20:24:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 87600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qTM95DSY_iHzK_1EUl7EJyW1SorVlYJMtO-kDIFG1pjpxq67Zdm8SrCIFrUk7O1IuoEROglAiiYjFqcBwJLXD4T_O3QZiIeocakCrmkaBVmHHo6gxDf_Q_PrDmA2W9ogh7em0nBV8ffCczTu0Xi_iZ3bKENoTmpXgMHPUXruUPdOsekC_qILW5QojT5HnqOoyd-aV0aAxk1jZPCOVZDCH8l2D3Md8BQcQ7Ibsz4PXckyv3MkJDtesLMD69jd6VPXMujFT1NhjqyepCSlieYG9oT0QpKQ72Zp7wSqyEhpIrvKDLS5FxNk9SX5EJa-b9Qmd4XGbuykSxq6On8Nn4PGFA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eایالات متحده و ایران توافق کردن که حملات متقابل تو تنگه هرمز رو متوقف کنن و سه‌شنبه تو دوحه قطر\u003ctg-emoji emoji-id=\"5228799250367788944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B6F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇶🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e باهم دیدار کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | axios",
+      "date": "2026-06-28T20:35:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 79500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DYfzS0k6LDTi3MWwE0nE0Ff16Io6nI8d5Hxl_yUbdeEOEUUjau70jVRnq7-YQRkiYeWJ_1tWHHVnyfsWL7691OVynk39CzJXg8DE-BuwivPq1ULqzu11y5ezNFG_0vzLXRLkCXfOgvLofasFpyGd6klbLF8a1eDAC1Zduz2RT_bTXlAb4XApkgn8l6pZbCWKjsOx9mdR8vsdfijqjrsY6KZSSL4VO2CUj1qF0InsfM09hmzxyapLt2rpK3AF-wcxzYjQ7M7NIf2TH4GPU9uEoUjaqzhkdSabGY_04RPLy5VyXc0UO0FHPby6cnBSJOOSLfrjhHrf4NV0boEUb_D8pw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهر وقت احساس تنهایی کردید؛\u003cbr/\u003e\u003cbr/\u003eیاد این بیفتید که یه موجود میکروسکوپی به نام \u003cb\u003eدمودکس\u003c/b\u003e روی صورت شما زندگی میکنه و شما كل دنیای اون محسوب میشید...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-28T21:02:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 57000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TFvESjg5ojGWm9s7i6WM_CTLPCtFxokmMOo0Y3IuFOBHq-5eIygtxykgWN6K5LHhGqLEVSn6bbOjuDa216lYV0-EIMxa31ey3cK7PucHwLtokUQqSJE9be9ZzXSJ_0vqEyTbWRod9ZzBSN0w_C-W_1vk1QFmRDBmeGVPNzqZjIdgi5VJmfjuuDvS9RXlv-X9TsQQOm8YSEQ3Ekesl6JQukaecHXA06Wo0nJJ1n6pv3Fvsp8loacsTCWZkRyPmU-OrPN9x2TyO1m7i6B9Hm-0RXyI4eYB2Wm6Tz6djUKEBNC_tt3HfY_fWYZiEhMQhxjSk5hYXKTp6RI2Gkb0sFRHww.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eحمله سنگین اسرائیل به منطقه \u0026#34;مجدل زون\u0026#34; تو جنوب لبنان:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-28T21:31:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/YWxwmHegMDTZmCeer0exviOsRf1eBncq-WaAoA4xLORCVXS0bIKQookwhTMsgRu-MI7Tb5k07iMvYRgLoVhwBBB9GJR7zQI4ZxTriUT5TEOrJ0WKFc2qbusUuvAah8a50ACstQbaZoT1UvJQ1VvhIGhDQbcKOCTFk3EJ5mZ8KEQCay0X99fBV8G6fmoRQO2xtNBQaFyx2grMhxUz8nhCzrCuWwGI_pq_m3PmZrjnvT1cwKSf57FG9AhzClLP5d52cn6EePCGlyiJaKFsJQdO1tUCphI8eFp_QDFRBLq4gU89-Q8pP7uhN6V-8TrrKnGA-pUquYBjS_f8ZGmDAZ96AQ",
+          "width": 464
+        }
+      ]
     }
   ],
-  "last_updated": 1782677545
+  "last_updated": 1782682664
 }
