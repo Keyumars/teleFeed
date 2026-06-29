@@ -12,7 +12,7 @@
       "date": "2026-06-29T15:49:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 135000,
+      "views": 140000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +38,7 @@
       "date": "2026-06-29T15:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 135000,
+      "views": 139000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +56,7 @@
       "date": "2026-06-29T16:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 135000,
+      "views": 140000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "date": "2026-06-29T16:28:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
+      "views": 147000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -93,7 +93,7 @@
       "date": "2026-06-29T16:55:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 113000,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +111,7 @@
       "date": "2026-06-29T17:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136000,
+      "views": 144000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +129,7 @@
       "date": "2026-06-29T19:02:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124000,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +147,7 @@
       "date": "2026-06-29T19:34:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 113000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +165,7 @@
       "date": "2026-06-29T20:04:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 97800,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +184,7 @@
       "date": "2026-06-29T20:19:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95700,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +202,7 @@
       "date": "2026-06-29T20:36:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81500,
+      "views": 95800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-06-29T20:39:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80500,
+      "views": 95800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +238,7 @@
       "date": "2026-06-29T20:55:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69300,
+      "views": 88700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +257,7 @@
       "date": "2026-06-29T21:03:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62200,
+      "views": 84700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +283,7 @@
       "date": "2026-06-29T21:23:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33700,
+      "views": 58100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,10 +291,32 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hFqJZNnZBY291AGH8ah5GHzsODw6r59DJIZBsAtDOegkLXrlEvinl_K2xkbJmBTfz-rzhF0ebykbOxec5HQQlkaoCtrilF9dZGGgEbrRYWEvPNRBr5frjYAcOO0rx2YqUy9Edqx4F8LnKAmQCP3yp4sp3Q2f9mJfAwd--0xuLtapVTPjqBgoBkstP3k-BD6i2Y4ns_nXzAgIBqnzHtxkU134Hc3XBWayDBWuMdg30n36HpgtN-ffXdly_JmVQ7Khk_WweZHRxjMTlO3o8V8wuhBBHKGyHdL0M11-57OlPu16RQ_QX5CyU-9vfp48njogJIUdXRg41BLJID0Lf5tgYw.jpg"
+          "url": "https://cdn4.telesco.pe/file/Mp7ECYNt2wjth691emTISejENS4MXDleexggGsvc1pcvD4D-zVnkiuqR4iJ-c81I3vsbaoaP6OT0RrSXbUh-nKB8FfkQVDZebRA2vGRc9PPB4edKZ68AEg8RD1CAbYRfRGVHZaqOe9P4XKxbKgHMz7HKsJRiS419xaoBrKb4FsoGA3TT6TAvU3tAHbAfIt9XgKCUGv_cevz689mjqiujBUnK5ew3nYXvb3VC_TdAbTFUnGqvKtSvcu6AiZFMuUKGUV5jH4fpj60tT9pIYIBlVVR9zQisTmtTBOKzKg8VD0Yv1sz7mTtRD-_MRoBMlm3W7gOjlNeGl7AQ8pPkq43hGQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "- دخترا : برم یه گربه کوچولو و كيوت بخرم تو خونه نگهش دارم.\u003cbr/\u003e\u003cbr/\u003e+ عادی ترین حیوون خونگی پسرا :\u003cbr/\u003e\u003cbr/\u003e(\u003ctg-spoiler\u003eداره به مار کبری آبگوشت و چایی تعارف میکنه\u003c/tg-spoiler\u003e)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-06-29T22:15:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 35800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qE-NM9IRtMr4gF5L3q6MskDvKLttdDTSDS-imLkSoifTsSHkho0hyViQuw1JFJW-JZct4Lqj0Ln1KdsFQ3WD-Lxg0ab8dznD1EkK1OTJXLa9MwKAE7TGQlE3xmhHLwaqqxQzji_9-hxRMhDCyUDSMpUZTpkd2Clz4qNIW6hT6KXx4Y2a_QKstWWSG0AMvKr57FQ1h4jvNGS0_-YRbdT4F7tPxoKDq-uG8QWHGKAqXpEcnnLJfGEUIc3AFSmn_I4VyIhOPGh7zZG8nwGDrJQbXMkDBTPQJ6zQFHyw1Olus7UBGY-pH_EUKfskazcWDpGX3E9sEPMOvxf6jRA_LYrnBA.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Kmk47Zf1W-GIJTIZl4_ya-7UrDEmX0rH19XFzqRAU5pAqQFBamyuaaHOU6Hz-DzhFZWDWBgq7PLVPcbS8KA3U4tvCwcHqUERrlyT7KV-nXI14ZAZSzaQjGSvucjfW73KZb9v44IQwOftmcx6lSgixtYuEv6vTuTJDXpi4LtV0oZqXZmG2trkvnYMFKr-DaOSxiWwXYRREapFGvQFWuPxcN8qy-4Cs20o6n64L3TQX-dIXnaAV4WSbkDIzjVs9wE0UOImoO9JqlyFO9rHYL_R9nGHmG3q--5h01kIpCTMCOTpY_AuypobBkizxttvzgPEluTwlNosrPQX1HluBSc42A"
         }
       ]
     }
   ],
-  "last_updated": 1782769868
+  "last_updated": 1782773769
 }
