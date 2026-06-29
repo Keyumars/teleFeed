@@ -3,27 +3,9 @@
     "id": 0,
     "title": "Quizoly",
     "username": "Quizoly",
-    "photo_url": "https://cdn4.telesco.pe/file/A9GvQOuaOxhcfpItJ7Wak5MLPB0Vbon8pHFd8FGzSS0Nk6VpR4Jb1FDgvrv6g8HP4k7ZjNTdZ0Xjz_zlifesDjPnpeF-ReNQLI3UNAekY2GeHb_RlfRB-G0CYDANI3VLqCVfr9et6WoXd54TqbWgCzemMo-tsMhWT6cnFwnB9CcgkU2_sgHZ-Y82lTV-G-bzZrhc7iGgQDXfsKw-dqxjknk65rxVLidZ3l8hyrG398vG0fBmqb2PodTNQ_9CTTqCeg0wF2YwZJjo9_UGYeaROavvfmmdEV_O0hgbaIxDRjnlZOHaHErddqEelGPdbAZ3tVYBImAFFGJwRExUIfvkQQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/MX6B7Kej93SkOzK260uCz9zNUJMOeuHYlXkK1saPECk9s2JfZvlM7A9ZmXsBYGk7UshveHyMZSP7BpCYoQ1DZXaYJyvcBHYCkVuU5LFUe4S-zZYYmgYNOuJiYxDmM2xmAziDOMP50IebKt72ndVbA6wYJ1xh3N2BnT-XsuCkQMtPPn-1eAMnrtBPcjj6Km6S3ebldzPDLLuiQCfKSL5VzS8UJ2AFlYJCwoW6jPUx4YwhsqVC8Tt2YtVmaLwkGi0f4WC8vwnza2IA82VPiKPQhTIWwJbDY6WvFdFyaskbQMMYxDyTaVFr5Jp0GLsMpAC2M8h7t9diGL0l1yBdIATPSA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003eطبس با ثبت دمای ۴۶.۸ درجه سانتی‌گراد در ۲۴ ساعت اخیر، در صدر فهرست گرم‌ترین نقاط جهان قرار گرفت\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-06-26T09:09:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 114,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JrFBFfDeuVKLhjXjZqbN7ugchgzQFrtAlHtPiUJAO_2-gUkRkjN-pkB9rTwke79xLQpHM1oQZkxgcQxWzzf-bRUPIQJPtWKG4ztmcrkzJuRQw7sLwodC5JO-pxfaccrdz8dKoqqI2BDFApohfhuKL1o60zNhoWydBWur-v4eCgs10hPfY2pwZIW-lxAiqEVxhONm8Mv_TwMoBpNtz_WYETPPDHRcXfhEUEIin-ncEYvx9Oa6I2p5252BOpjGWtLlnbT527BT0tg3cAjS3mKN6lyDQK-xhWbp67ynJJk2zts_SpFiUwKxv4UDMr9nroui5guW31MEXexkJMUgim2K1A.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003cb\u003eشرکت فرانسوی سن لوران از کفش‌های جدید خودش با قیمت تقریبی 800 تا 1200 یورو معرفی کرد\u003c/b\u003e :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
@@ -60,7 +42,7 @@
       "date": "2026-06-27T09:41:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70,
+      "views": 71,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -68,7 +50,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pg4lQgkvAb19_LWEtrdKOxlShXeNd3UbqJrbVypjqJ4V801QY1I3mEJ5ZLMIZGeciMHAs7yAyjFViA8JH16YQyj9fzhbKdRIP6mN-H9tWFUOmCJYMJvs7k5M_ErCZn3kJyAIvvf3H14xcT5xV89fUaz1JA4U-9PazIGB-ByC55Y7somPUkkL3Fy5jKoLhsfE_YQJ5ambFHYQ6KG9Xvt5XZq1WyCtQy9JHd9lq-vg8MRgvLYVuq8rnF_XXIJCG91CTiuVcRnMypSyu1Ip0Y5Iy0b4QR7HxfwFGTYQkyzZw9lsx61HAId-Cvp4f9HnyQbPuh_xeI48Dcb4DjbA4ldBVA.jpg"
+          "url": "https://cdn4.telesco.pe/file/Kwg6FzDwJhSCUu6dOYDknI2aERq9x60LNDU_CRL4xovp-0ET5YiCseayYlNwHZ4SUt-gpPJHLaa5TpkWQEG9fZgClaYKGSz12ZY4K_FpBA1VKq_1U1MyC1HVcSKUslxRcjzccSEQh2Aa0sVPNpGNu3XzikUTJXXeLp6PoAY5pvG4aSn2cmPHIft7iEZIcuMbcBLQN0tDAmHfXOiE03lEhCh6tpVgNT-iC7khWZHM2TDt4YWsFzrXPYQEMiaOkcFFAma6vvw-F4ORgmNwQ4GRDGsh5sno7xBAOJbBbsU08tp-uhpuoqjtSCtkBA8DnRuRmFQQZiZPbk7rY96ieCHQIQ.jpg"
         }
       ]
     },
@@ -78,7 +60,7 @@
       "date": "2026-06-27T16:23:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69,
+      "views": 71,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +78,7 @@
       "date": "2026-06-27T20:48:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65,
+      "views": 68,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +96,7 @@
       "date": "2026-06-28T08:32:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63,
+      "views": 66,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dTOAkAPx8r6Dvckvkbo46ZXF_UmtumimFgrsNeo-Y14UxlCgrbLwOguOvRjpWUrptCkxhIO8PsLcfEEVHqA_mPrPrEO_3eFZ3giUJeJwMPbVSgACSUzci9d9he8rPPksZHNTvAsOVB5oMzvNa4x0J4QSqragq94YJfFi8poDEZg1HZxrUjOfPkPTe19FDgK1M7Xway4YWwO1wGpy55-kUg29Wb9NJrl_ikhm_E0XxYfbCLTEeeTr-xe3gwQxyGv_-NFipv3u53lFIoA_D6xnDdwMACQOmCGst6eacd1ilPARejb2Qqdms9u3f0k3AfjLrVY6kxd7ZFVE12FXz3Tepg.jpg"
+          "url": "https://cdn4.telesco.pe/file/lJytOmvowadAeJx-oONUnbhGSYJTKCS6zM3125zSXNo54Qq2kwJK2cOm-rj6R3cdRNWYPfZfSbfg1LNpyQg1KvJsjdBgqe-XP4g8KvePho5MT8EMPr6SNtAGSraXKFeUBGDXWjtR00q2XfxVdLgD8C-zASk5W6eKomysZYgZdCuQ4YQNCCmrmawv2UQoKCLmaeGfOmRYXrN4KWvSnxi_ABUoMACK2yhg3rEG7O2hqlF378YJKUUKGs-r_yCHvclSUw4oDmAG-ANafniaxhtCkpG6PHjGMp1FAZYd5ZrbLRm4fC1UOmWVECzpCBd68qE-3oH4mgnTIjqgRciIpolfHQ.jpg"
         }
       ]
     },
@@ -132,7 +114,7 @@
       "date": "2026-06-28T14:33:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80,
+      "views": 87,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-06-28T20:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50,
+      "views": 151,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +143,25 @@
           "url": "https://cdn4.telesco.pe/file/qaJjd3ni8XTOByaMxRJOOkXG_XUZQ3ix3R50slOCXc7ekXhdTV_kjeCiPlJLnxI16GT__BbH-c3cCfOziTtyz9xgCa8y_Bg3p7N0KEvHOSbCIZl171iW6LMUbHhzNc_qJDyxn--qQm_SP3_Pap_oVTTwPSmCp9Fkc1RsiUZzZyazMc8Er9jzJIKQ-ReyakerYga43GgEQCYpmwVxt3Z_xVY-3xHilS76A-q5hlDwgmSHO3xsQjp7RCBeThKhjyi4iLClz_DX97I19nqccJV1ntERqfxoLHQZlQ1fnOquHpSKyFJo5FUL91r5DYP4adsyMgN1PhRZIR31GpU2WqaLjA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا می‌دانید؟ \u003cbr/\u003eتمساح‌ها نمی‌توانند زبان خود را بیرون بیاورند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-06-29T09:52:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ib9zN5YLt7ywVgVihehiAPVB2yKZtY52p_ds12sVDbm-VajiYFiNfAiQ-9BhSYkqN93MEgfc30YMpYumQSQ-dsfplAsZ5CY-TqfUJPq6f4bWHs7IIOjXZtM_6K5YB4BIBRzOviMBNDZ7J1aIIUpslVqRksC7qkoMG6KrgkE-oDXOL0PosMm3-_2oaCpyNj_WrmzSaQGmGFBI0n8aG26SZLkk_w5U6Kvo9j7-3pc7zWZyjRcPRvHVRCbZ04phgSHPMyjDh9n9oN09GbTeA9cTQF6rIldrrBb3PxS_hETb6pW5N4xbyOBQ9e-_vf9gPK89SXbZ0W7dLmOzZZgSeKTXkw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782715545
+  "last_updated": 1782734287
 }
