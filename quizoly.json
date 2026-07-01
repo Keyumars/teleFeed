@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Quizoly",
     "username": "Quizoly",
-    "photo_url": "https://cdn4.telesco.pe/file/S6dkqDl-BR2PFDtrZ3IInB5U5rNjvzvSfb2hzKFOKcKmFLUgCm9m1mIDKu-ruvgT56u1qeDxSrY-WEZ1Jln_9ZF4nbCPfvP_iuaoVIozbTqXuwUMwPQz-bK2Lhkb_cc1skxYy_viZQ4xUCguDU589MbuHu-asWGkWb1kZlSw-7GmhjYAqFEfSrzePvvVKNJe8xZ-_sBSJeqUCYgQj2kLzX0hFbW234i9K80rXd8e08bLYLYPo2ai1peh1N4B1icTUZsLHfNhj-eiXXnV6dRJ3rMTbxXu5rhdrNjR4KuXgitjNiDyIgAMnMGWoJ_dChjoqr8tj5ipdtmx11qiRNrheg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/XDTQjP47qRVCFJ37lCY4yjFoUIG0dsu7ifAvSGkfkYzPYQs3Ki8Nyite8c2UJOBCjnlqIQaPNz4xE5WGpqFBbd2pbbAkJndC67Vn0UHhNN2zjwzm3TvcQopv9P8jZ1Kbx0ofu4vKWAWgkBnSFLIHggmCu9avZP4urBe5fEWMvR-TcV9MWUGHtLdif1DWcAa5pMGIQaPuan-sYn7IWY0OQsb1cJw1vWEL4iEeCPvGRIpxZlAoUUA9vdslhCqq4F56tz20pKobCFPQnYkrn0CibYDBuVVdkcgRg6qSbsEsfj5V_GIBsrZYGQC2oV0ODU3B433kkrJ6rYDenLqnHA3KLg.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-06-28T08:32:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82,
+      "views": 83,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ce9Bkr1dzaC8TJbvSIeEu0tpx8ni-39swH4ByTcYcLbV7SVDg0YFeAhp6ffoNNi_SeDKg58wyUd7aSJTCZjHpoNOdAbhiog5F4NZqoCzxOsYAmlTUzs9t59DKRYM9yQqCHYxC5qqvd2voCW5x1q6RD7TCo6Z-KKvXlwMRHmDUOcVYYrX-H-9rQ9e9F4xIiYkB-Fb0RKGbbG0JzQX0No8Nd5tH5rH1uT6Va3VvBouf8LaajH56ncsiN8yJGBzCACwg8FRJeZe5KdTaHw29o80X7o8oeIv0HQfvX_6zV8TBpVV6r-Xrqdqr-nNde60r2hCbuj6EoIMlJVzRRdeQGo9gQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/kGUACz6NEYWmCgpeQMCe4nN7Z31Du53JQMXzvQcW1atBWaluSGKk4Rc9apocuovZuGuihrxeDVwBCEkmTUTWaaxnD59m_lxdxj9fQmxNSscxwVZYnTW8WsOw5y635cxjUe8zHzioqxABJvMEpolBqn6c7QkMtzhdQku8As4ZKR9_8RvW34oXqD389u9z4b4JaPtzTxHPNGaJ0I0Pv5Hjmn0DuC_KqlPIb-WuX5_qIM7AKDwCCFDOZqP_3p3ObaD05et69WPTDXOfWLJLGn1w0Hp3OYkEx-Z9wkq7DQhJcZH46OdNR0pAmmeO5vmvvZ2OEGjcKzNNWQ2H07Rur8lLtA.jpg"
         }
       ]
     },
@@ -30,7 +30,7 @@
       "date": "2026-06-28T14:33:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107,
+      "views": 109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-06-28T20:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 237,
+      "views": 240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-06-29T09:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68,
+      "views": 70,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pEVwOF2WhriYUVG8egpioTYO4djpTPap2xj9Lr-gA03VIRB9k52aPTvDTsrWoZdsfJq55nv72Ub5q6ilPAzhyagyLciBkuxi1ahmdp_QL5chPxKoY3nmd2EBrQbtuNKQ1ZNsApmF3Bsf7HMjC-9qfoPHhZ1DcUJKBojC0Jyim7vXPfkmkBI56fOXprU_2b9C1-7rKSgT1ag3sNGlLP4xZqURXDKOpRIdtfgAWunENU3smw3Kn_lIaHeOrTmN8oM8jqpMdGrDDetjO0zNU6EijccTQGQBEn7KX9fpVtNywsgCbEPo8J2J9w765rvioTc6tL9lVwyqjrRByTP_YVgKfQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/MHxdw4N0xY5tBNAqqSH-S3bAS0OMHthsbx9DhJ63lg94d4n1MuunL_z56_igG24usuFUjRsgdDYjhz2G-grjMqgZzBMC0e3Gah5AGQ40QJ0NF6cKzMViBmM3yp1TE4Fe1Rs-ahmXQbehqZkyARdTAYeK5XDOeBYJDQwaC3ctg9eugF-dFVYdl5h515DWXzam8U2jrFAUDooaRWD5f2zn88d_RxS4SjJL7snUQLh55LkkOm76bpitYxITWI2f8ad_h97vMNmpbgbP9Zhspb7GB5DkQXpKjzKpfwpJvanXHED9zDOKvPOWocK96d6vSdYG2_vqW2Ws99N1S8KuiNKVLw.jpg"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "date": "2026-06-29T18:34:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 65,
+      "views": 68,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-06-29T21:22:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66,
+      "views": 70,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-06-30T08:33:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67,
+      "views": 71,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dS6YOjAAejbTY3mNcc_y-os5eYsww7j8vqBtURu7AzdQLoVPxgGs3uBZiJEqa8QsVLymnyzoMJRF3abDtvyGr8J9MJPT-6ker3BZop-HOjg7mtGHxyu-JA8wy82VyD8N3iZu6A2enPtkLlM8Bqtu9Mv0TfmlKVhgTu2cKlZV9qupmmfZvAPLA0nuhqomi-UbvgaZiREODVR9HebdHFgxrE2tA0ZSTtpk_o2afop0bvzCwn_kDb68u8KqP61j5MH-QFzdookarxGKtz74AQQrZ_ksdq5nxlCkhYlTSNDyKt91aYKElj8FP0ExTU25hzDSRtAVIU8OQUIQsNAb_KQ2Sw.jpg"
+          "url": "https://cdn4.telesco.pe/file/alD8ZjOvMD3UCf2vqAuyQ0-gbKvaHquqrU0AVllEpwjBxmURcsz1_k41RzpYXk0rsM2U4505leulQposkAKHYvkqcIDSNdGt6pAVmmbfKmnCr10OTktG8dKdk-0UGbTshgDTkbiQgHOf0KtVyz5aL5jpPrQqAFNJghX1KMtEcYJZNhREdSfMzh_9qML_IPVyDZhIm2arAEOS6Q4x8NQN9U7Qj-eJNawaf6dr8lqN0xeQXpXupWzo0O_KwXlDwK9wNgvoDdel3hzn1nqOFGx0kFN-wd7E-ttTmaif7Y-UNg9YCAVFDFDPdUZ-vkeoAqsZlEpEHvWwcnsTVFJk0odTIg.jpg"
         }
       ]
     },
@@ -142,7 +142,7 @@
       "date": "2026-06-30T14:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 279,
+      "views": 284,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-06-30T20:31:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 282,
+      "views": 290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +171,25 @@
           "url": "https://cdn4.telesco.pe/file/I_EknYECsno0d5xQVwH7xAgOEbWG6kjdTIoVbXIHTm30beV5ZKn2f18lG2i6kk_0IKYSI-qb7N1si9Y0Bp8S4ELsxMqBtMmcRKCOJ9pZHa35e8kkiCB3JDkx0aLiDym4xlrM3FT2bk4oNDuiFEz3ShTaBMqj0-hCpADnrsaHZOVdcTAv895e3ELgqgqHvmKLHLj2U84R-yqhWRma-a2Cm_w3p37BdnPIsDmkaU7NJ2GCHicX986vbcTUrCahupkKjh8ybt_s9AR6h09em2Ew4qWiv__kFFkhiA1pvFW-lNFuGcUMEYiYori6LX3sLVYegsUe_32ZaMXhHXDMdAnG4Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا می‌دانید؟ \u003cbr/\u003eبلندترین آبشار جهان بیش از ۹۷۰ متر ارتفاع دارد.\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-01T08:52:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 231,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/U08SJG0fTBkTO4mLFkkmTtzj6KlGu49wl7cZF33ql8Hva0c08tdHcZrv7R_fv32B-3rQUmZrMdm8NwPrHU-J_L6K7lv7JrIVy2nhsR13aAzzHzOuB4BZWbj0y0m58Xyi1fbyixi418THjz4wOZP9Hh0_wZh5MFg1-LefV-u9qYTUwoOfhNQxPq7Tw-kknu8BrokC_Cw-K4k51-Q8ghQIDVW4VXAyr5BRY6MxA2KpOroO8EnV9Ido7BhKAPBsWcrARS5mX9qvxstCSSHm8xqDCPLmZs7WCUnFvAwRXm2qTw7haOpllF-ikAn9F5Q9pC3-PLx2-ocaSsoH34nw2zNGHg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1782887121
+  "last_updated": 1782901779
 }
