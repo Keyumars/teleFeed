@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eدیروز حرکت این دو جوون تو نیویورک \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e به یکی از وایرال‌ترین خبرهای فضای مجازی تبدیل شد؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eآنجلا نیکولائو و ایوان بیرکوس، دو بلاگر معروفی که به بالا رفتن از آسمون‌خراش‌ها بدون تجهیزات ایمنی مشهورن، به صورت مخفیانه از آنتن برج امپایر استیت نیویورک بالا رفتن؛\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eجایی که حدود 440 فاکینگ متر از سطح زمین ارتفاع داره!\u003c/blockquote\u003e\u003cbr/\u003eاونا بعد از اینکه به نوک آنتن رسیدن، یه بنر سیاه باز کردن که روش نوشته بود:\u003cbr/\u003e\u003cblockquote\u003e\u0026#34;When the power of love beats the love of power, the world knows peace.\u0026#34;\u003cbr/\u003e\u003cb\u003e «اون روزی که عشق از قدرت قوی‌تر بشه و آدم‌ها عشق رو به قدرت ترجیح بدن، دنیا بالاخره رنگ صلح رو می‌بینه.»\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبعد از اینکه کارشون تموم شد و شروع کردن به پایین اومدن، پسره یهو روی یکی از سکوهای آنتن زانو زد و از آنجلا خواستگاری کرد. آنجلا هم همونجا جواب مثبت رو به پسره داد و همون‌جا نامزد شدن.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | NBC News",
-      "date": "2026-07-02T08:45:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/k2hxxyGL8miqxfHsZAdhAdSP6c8HjEVG8utye9yCljFAIV0USABqC4S3bXLLkOPuKxNVmb2zA8Rb1g3sqyRGUl8262AWCU7pzfCYAoKun6JBufWYnovXhe9KixhssAHoHPpisBRh_40W8XjkHHGP6VugCyQLrDcEQA9-37_-ErL_y2sc19RSJ2j4eqfNG2uLOLF6yg0Ovpo5h0aEwSwETvuFm_rbPBO7L35TsXNl1nnDWkZJ1oudFAake_2l0arQelhVReW0QX3g8emxE0wbrw1Qvu__KqLEypbljtqCLywVJlGkhRTOAXYKZv5vk3RiBoQq2wKWSKOgngB1qWHthw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vDBbPikA-q9efNjsNlNGrObjzIxrxLGk0tD7HlZxPHCB6gIbvbHBGjedkqoiY0ZmNiO4P6-TU7FeyM2-vyFbx8ObN4_ge-_gAmKypFNGtSFyiOC5qlPuefmFQ02u3rBqv01gJ3UPaYjpk1_cqVbMImgUxqIvS1jZcl_fPTtMEPl8edR0AVzHH83MkI_AnGb1OY_DHmWoIK632kbYp4yMnVxtZPOeJvw9EOyUuAFch9H-eLaxOTas4mk7FpFjrurJgiBL8Kzirgq_4KwZJ46OuhabEaMwMcKPlH78-Z2VqCPrTlsqEWnZk3Sdto_b1ZFhMpSG67b6Rf812RglXiFnpQ.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vJCCzJBX8OpDK6lJlhWVAnvVkS-flH5VNBOayPcPz40XEU2-AVh031YyzfW0W3VCSKAWzrOalzPFh9rWhS5Ih_7Ptr2hVMHFoPoJCq9yg5O97KJ6rAb-1O8DOIoQIatc-2rI_k10nvb74mTMUtVXxZrWvFzTxbfZ0-C6ADC8KtT9N2y1bXTjFr0xseqmO3ouj8FV458U598b75Ab-KVEn32kKaFvR17Rd6yWoHpXvnMRvQPEOjJK001Sz-qznS57QsuWSbSHi3Mebz4kgVYhoOBhEb-PZyxIZWky-f0rY0qtEjqvY9KYkmjVik_gXVdA9nrGd8dM-WqpjfFchY0iiw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E67EdKAC8imq7Tf1xZhs7r9uZtlsAWCfaJbqxNJ0b2VsuTF5rEgBXKD93M-jN1-ev3bKVspH-dIztMJVLCw3sj1nDipY3elS9t4BahGEdDQQ2WtbQashHfu5nDJb7VP_wrtsp0t1pXZ1IoTtUxmTGsGA3tNsf_qKdAdtnii4435VgUZX_tWX8xcEG_wOntmyRKdyA2LEktF9XUZIcCxBPvH7Hl_1OsaZq1Hphn_s3sW9lortq_VPRLxTWgdm1FwhunnSq9kq0nhwJ9fafhfnOwD4QmNXTfvgvFUjwQ5dpX9KD0W9JbkEsRPqa3mQHgaZRBOqEyCMuDHf5dGoMjk1KA"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "وای پرجم ایرانو اونجا نصب کردن",
       "date": "2026-07-02T08:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-07-02T09:17:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +56,7 @@
       "date": "2026-07-02T09:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 142000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +75,7 @@
       "date": "2026-07-02T10:07:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127000,
+      "views": 144000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +93,7 @@
       "date": "2026-07-02T10:23:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 116000,
+      "views": 134000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +112,7 @@
       "date": "2026-07-02T10:45:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +131,7 @@
       "date": "2026-07-02T11:02:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 105000,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +150,7 @@
       "date": "2026-07-02T12:07:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83200,
+      "views": 114000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +168,7 @@
       "date": "2026-07-02T12:07:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 88700,
+      "views": 121000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +187,7 @@
       "date": "2026-07-02T12:51:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68500,
+      "views": 111000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +213,7 @@
       "date": "2026-07-02T13:15:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53100,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +232,7 @@
       "date": "2026-07-02T13:30:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
+      "views": 116000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +250,7 @@
       "date": "2026-07-02T13:54:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7160,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -292,7 +262,63 @@
           "width": 352
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eآمار مرگ‌ومیرِ گرمای امسال تو اروپا تا دیروز 2129+ نفر بوده!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5202132623060640759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e1058+ نفر فرانسه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5201957744877248121\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e1029 نفر اسپانیا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5202196682497859879\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87A7.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e25 نفر بریتانیا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411124743841524806\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B3F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇳🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e7 نفر هلند\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5291847690940852675\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e7 نفر لهستان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5411159898148840778\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e3 نفر رومانی\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-02T14:38:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 91000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/F3Vc-nxp-rDQ943bHbrvjZLawinVWVIBi_aZ93Y21HhaD7fMVXSpCl4GaN8gCXBVCZvSs7Q3Kn3rJ6HcN0j_EiiCuK4SMXCfF9JIil1fhvPv-_rUzzRjTU2UNtDdraWYcwmkQUcZV5NSId9UCf2NdJZSjt6eXUOkxzDT30ajHhE-xGr8x87IgMUj43RaeGzmiY7dt-K0X64ZpAlFRtSKzFCGayZBn3_vI-rINTr_uM2ycEL4pFVegI5bp1mKWv_JmGTJi7HI8hrxPvoaEewYzuuz4DojLfoF6VeYINHbOTPitrwPpkhzRhiHYrnFXuTWcLcXzLq4ZorhJUbwRE7VWA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eامروز 11 تیر، سالروز تولد سارینا اسماعیل‌زاده‌ست.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسارینا یه دختر ۱۶ ساله اهل کرج بود که تو اعتراضات ۱۴۰۱ کشته شد.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eسارینا متولد ۱۱ تیر ۱۳۸۵ بود.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-02T15:03:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 77700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/da-UWJ_Llu-K-ma6HolksoRtdOrAGMkzzxYZrKpeDrxkvQ9Oh0hy1bNAd8LPacmsKZZLoR5A67WdgLUkg33ktvqTNon-g-YIKd3mZ8EgdM1chpOqIDE3wph_oIblmfqznSyhLSCk3a3LdLZnFqGUkm8n_mu_vmk5xsml3es2OT50bzkuHJ3whcFOBIW1MouhdxiBcANNj1Ek1XcRfzhvqwbgllDQBrO4jvLRKJ24-Ti8jMWlAv9c0Vts0cXabZ1MKxhXxOuKzJ8pFutzlqVj3KczsYKQEws08T1TepQNGFw8n1trRz4i9Nhrij_t-MOd8ydA-q3y1sprosZc4bA_Pw",
+          "width": 240
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیوی وایرال‌شده از «ریحانه‌زهرا»، دختر «مهدی حیدری» عضو سپاه پاسداران که تو جنگ اخیر کشته شد :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-02T15:33:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 57400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HC7auTOvGOZU9mLEjxcgHTsm0tKJ63RublPl0C84QGjeHWV9vCaQBNsu-B0fsQ7PFBnNuCtrHqpM96df_LthySjA8e33Vzgex08ercL5MrqFXY4se1mmf9n2-vUMOLFVLH-V_IuOKSHPePoW_nUNa8s0dc1HNFEmRIaocINU9ecO5Sh3YktF4i5R3uKZbbFgRPSx5waSaNPNg-6axoCuN3A2uPrjLj34uJ8f0vVpIWEJZx8v_zvyWzkVTnDWhPZbqgUxLPSg9EIZcwyz7x4T9wrGnuMqy4_nzy9IJUyf1d8fLLojhMIFOM2Sa2SNMvGTBq--6hQgeoDfuthnnsS_Ug",
+          "width": 360
+        }
+      ]
     }
   ],
-  "last_updated": 1783000601
+  "last_updated": 1783008377
 }
