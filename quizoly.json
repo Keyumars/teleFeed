@@ -12,7 +12,7 @@
       "date": "2026-07-02T20:46:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 610,
+      "views": 611,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +64,7 @@
       "date": "2026-07-03T15:29:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 430,
+      "views": 432,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +82,7 @@
       "date": "2026-07-03T20:33:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 386,
+      "views": 388,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +100,7 @@
       "date": "2026-07-04T10:32:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 367,
+      "views": 368,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +118,7 @@
       "date": "2026-07-04T17:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 386,
+      "views": 388,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +136,7 @@
       "date": "2026-07-04T20:30:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 336,
+      "views": 339,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +154,7 @@
       "date": "2026-07-05T10:03:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 282,
+      "views": 289,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +165,25 @@
           "url": "https://cdn4.telesco.pe/file/sGMKG2M1vjTAehaCCZGtTOtKIrlUnl0qamYs2uLoateVFkIGwdzfHLE7l240DkF63LMFjHzwM2AfNQNL9K-Y78pGJX7vT0SeSciJY_Wo7ctCKn8HesMLjIbq5aozKA29Ht_MumZkazgTHpNbKvhptSQ7hXXEyW6bMKmQmkqtPTpkBMi3HyWi1CXLBcfzcZ8CU2-EgqUkNypb_q1km3yFdvBFdo-l-jG1k8c2LyPoWis-F8QoGha0K8S8K5aTvRYm3LUUwE3KzacZsalhs3WtJ5fyv7kHh5Jxu2SUUNpl06Lpvj8D4AaGco1-t8bi24CRzuJv7qMkGKLWQSsWfFn_tw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eتوی سه روز اخیر، ۲۴ نفر در ایران بخاطر اینکه میخواستن ادای اون زوج معروف نیویورکی رو در بیارن و از دکل برن بالا و از همدیگه خواستگاری کنن، به پایین پرتاب و کشته شدند\u003c/b\u003e!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-05T17:15:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 35,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gIJQfRiqfBp09TELj55yBhGsVCrOyPQ3BeQ4rjsmyCHIfOMa-2rfvTJ5VC-Pf3NlxgIAgqrwWET9qzt-rhPyVgjsbj7it5eAmdn1OdJapMjIF_GfokMjs6tBUL84IQS8pxP2MxSCBcwkx6iqaJ2qvTCTtxbiAK7YHjLsJyXcFDf3i3l_KzNQnQwHhMV-9D_bCx2qH__CQhuSGIi3a1b7Ow-EhfK9YmmQHiUmZZwQ850ad5F1LVgGc839kaH3U-GQCDwJwwjHQT5ncUm5SHHa39C8EGsIuuvE318XzMOT1auGLEmUaYuSevcdOMK4ukI_p0nzDHP30PUtFOxdlCCMxQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783267638
+  "last_updated": 1783272950
 }
