@@ -135,7 +135,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jXd_gfxqzh0nPGVXXjyJsbKbYxDqHmbGW_FSHsr9joA436DkAZXxc7gvqXH6MLR_VZZwfdE0BwXmldKYTn4cJuE6fvIELGoG-dag3MqlrcA6p054VAzMoGy87RI0wXbOHRBIw0qm-0_tg4DphJFZUACVg372-IzOjvqguufvQgn4vEZKAqWTgKjVgI2H_Y-5KxvcutIHxDr3V9wq8vduGHl9Mc1kavqtZ9KisFScFabj5nvOmewnwgaJe0db4dAjjGEjWVWofJDwophNpgrNgLbVgSwVK0CjDUbsZtd3HQbKMFys5227pCAr9tAGAVROwCqS5CrOTee414LrHeXXdA",
+          "url": "https://cdn4.telesco.pe/file/HUVVfp4zXpahGoln4F2W-RCjIevzO24EhsS3zyly2UCO7C0nv0SD7Hr84vok65AQ3qZDb8gtS6cOlRY0jwD7Pez0rZDZCnZqbjmARlJ2_PdB5SXj6D0V7JDNdKA1rAKkyIGa1TmOARKWTKaoUuUhw6LV8zxAP9gLfYhVlgK7xIkZMZ_EZ1As2YXRHjvyI0_gTheNM45OUnQqoRlc1CKuu04R_j4WuMHRJ1OKVfG1TdnLhz18sy3W92QKM4LvE6x7znrW9zF9d0vXFCINkNiWTzgRRI2t5ac93C2D7hxrQUm2MNpntv8xubfBFKGsbPLV4eSXraxo5WkN0GHGDC6nnQ",
           "width": 1072
         }
       ]
@@ -301,5 +301,5 @@
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1783317424
+  "last_updated": 1783333139
 }
