@@ -12,7 +12,7 @@
       "date": "2026-07-06T13:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +38,7 @@
       "date": "2026-07-06T13:26:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
+      "views": 153000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -57,7 +57,7 @@
       "date": "2026-07-06T13:36:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137000,
+      "views": 147000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +69,7 @@
       "date": "2026-07-06T13:49:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
+      "views": 154000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -87,7 +87,7 @@
       "date": "2026-07-06T14:17:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +106,7 @@
       "date": "2026-07-06T14:49:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 148000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-07-06T15:45:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-07-06T16:13:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 117000,
+      "views": 137000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +163,7 @@
       "date": "2026-07-06T16:51:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 106000,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-07-06T16:53:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109000,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-07-06T17:14:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 102000,
+      "views": 130000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +218,7 @@
       "date": "2026-07-06T17:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93800,
+      "views": 127000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +236,7 @@
       "date": "2026-07-06T18:24:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64300,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +262,7 @@
       "date": "2026-07-06T18:51:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
+      "views": 106000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +274,44 @@
           "width": 1024
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیوی وایرال‌شده از عروسی یکی از خانواده‌های مظلوم مردم غزه\u003ctg-emoji emoji-id=\"5449405314904369668\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-06T20:03:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 76700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VEMGFEeLXIvcCk3tc7wOKWnw6chw_LyJsH2fyZ7SZ6TvzzKvKAnfTNPwq0O8mSmSsl6OowWjsO-IU40m_v7tC85Pi6Qnjc_ioJiL0nmEolXqMhq1u1v_5hvaR1tyoFTSZEgvSWy_MfRQz_pZGpm_2hf6Ti5DlTS2MpRxEABGfN1-TcXPMa1UPnSqwXZQn4jPE4R2nibeUhX4OWH-bcnQeB57hDkes0akpdJgpuJwJyC9pmzR7bOzsY096Vva__ersZIZCVjClz9LCnL7Rw11Wb3pX8_mA_z2I38Bd1w2RSAY_pGTf9scS8sLcpbMIA_4zCwPawCodiKnWcuD08x_kw",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eرحیمی، وزیر دادگستری : \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eهر کسی که بعد از کشته شدن علی خامنه‌ای از نظر روحی و روانی آسیب دیده، می‌تونه با وکیل رایگان شکایتش رو ثبت کنه و پرونده رو برای پیگیری حقوقی و مطالبه خسارت تو مراجع داخلی و بین‌المللی دنبال کنه. \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-06T20:32:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 51100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WT0d6XpR3npnq89RGcE3ropjgIB5n4m8WR1VNXMmxGyjvBLILbGGRQjwMMvADeQzlQKIqc-PiSELxAWH_VmvwCbIAszMB2kwgf6MsCApXkJmyC57D7IgMnhpiCBiD3W5xQIjmG2UKlllvAWzgCZ2kIqLGpAo935qFelduE5Klusk5gifAWY905VBRxwNeOzmQXt_TdaAWsDFRHANNuGbF6_rL1RtyDoy09nr8ov-e9rvTojy5B2KSlv1gvtviaMgxhbm5xLiCd0pbWmmnkKC2aOJEOSwI_X6cMOOmXmCykTSlBEjzWhrWu5oabF_4_bQCUZ_w2kaIHQ4LEKFuKTVmg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783365328
+  "last_updated": 1783372210
 }
