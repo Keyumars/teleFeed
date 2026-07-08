@@ -8,119 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بریم وقت اضافه اول",
-      "date": "2026-07-07T22:00:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5832643584574105014\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830011705924526124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تیری آنری: میراث کریستیانو رونالدو دست‌نخوردنیه. خیلی از بازیکنای بزرگ جام جهانی رو نبردن، این چیزی از میراثشون کم نمیکنه و تعریف‌کننده‌اش نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e براش بهترین‌ها رو آرزو میکنم، امیدوارم بیشتر از 1000 تا گل بزنه. اون یه نسل از بچه‌ها رو شیفته خودش کرد، مخصوصاً با اون طرز نفس کشیدن، زندگی کردن و فکر کردنش درباره فوتبال. به بدنش نگاه کنین، اون یه الگو برای همه‌ست. مرد بزرگ، تو هر چیزی که آرزوشو داری امیدوارم بهترین‌ها برات اتفاق بیفته \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-07T22:04:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rEyTEKaky6OEcXgtewy0kHgh-kQBjGBlEUJUyOpQXN8cN2cCjS1GCnFS9QQkin5I0LBpM_CEwc_jo0I3apAt0ATJ2hPp06AUzgaTrvr2T0qLOptXmeGmyEkOy0SBdN7SKBJHCu6mbY-JCEZMZRJLaUe9yC3YjG31zHGuTsn3PsJWJzd0U55D8BrQH_nZ8NI_QGBHb0Rykciq2p47uKs6kdpVzbUCMgLdPoV9v4ac6AYBMgUEDlMvlQWVyARwvYr5MVHg7tojO-u0UsevdthdHv_uafXNjFFHTTbh6Am9YxyB3egBO0nM9S7U5ilSYOTVc3Gf3zmRMsulRckL1Kt0UQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چیزی که الان تککککک تککککک رونالدو فنا بهش نیاز دارن\u003cbr/\u003e\u003cbr/\u003eکریس فنا نگاه کنید حالتون جا بیاد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-07T22:08:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/g0FqKg1_zD0NTvuB8_suw69P1eiY4xPnAI6bDoeAQy3TK8cXzXzNauSSRxKzak0KLDpY_8mbYCL92sI9nscUxpDkjBTyBuJqpF0F2pmhT1wY3F_rQ66QItahwAyKuK2WVDDGDrQ7gy-awAA8aLz4kK6LgKHGsTGRnwCXkUg-PfenaAZFgUm5OnhIAW5rB553PFp95T1mfs-cyo9__c9f_jG7IRsC2tWBuuiGL7gEKfvaUbypiFGYOZhiN6f99aQtjQcgwuC9QViiNF9CTQpptdVpq4jLzmM-rFlnYG1disdue0HAJ-S5lVilNaOb6jgujdWXvy0UTeZHMTb62gkQBw",
-          "width": 1276
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830372517537128047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830192811810496339\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فیفا بعد از اینکه تو بازی آرژانتین و مصر به اسپید توهین‌ های نژادپرستانه شده، تحقیقاتی رو شروع کرده و ممکنه حتی هواداران آرژانتین جریمه بشن \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-07T22:08:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gpddbJvixoWrbMl4FiDqF2OyKEBAwvBJuC2a5q2ADQT0NY5zfbH_Q_2NuP6spb-DlK3oBVUq8H-iDYDstNJW5OnsOYmjNzt-YuYtpHYEiRRXxivW_EKtUfNfm-U34-TKKNzeIL6znbeJp2TsZIkMvpAyBvuaQrx3FA8JDzc2-r38DI3UYR2m2arSFifatbzmG20muWs3rLuttpYsSPd_Dahe_DXzMQYeajFEMDSHPxjbCQ6BTAHUoEDuwglwtH1Xt7O50ceUXWVASEKK5jmLQNHMTY9ziAHUPJrkNp1hHcBCDVyc0hGfM05MgRBNcVQc40R9ZrpOeqvyi3saN91NPA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oCFqH89kFeluwCP8DLkUnPUiUvwLaJ2U8tRlMJ7GrDb-GAQ8j9Jl6w7hvNJqgmDlxVwkA13U2u_HfY4t25gSrbDmnZfBOuZxwL-_B_I58dKsL9SSrkA032-68y7Y-0TaieLc56mb7sLuUdDz_zmHBx5IbskZwDIM_GG87MxVmcuHsLMYV3zw-9NWLuT5gPNu4R2HoVonyyDb_dVuNQXPKbIGdqACKQ8aXaORvDZ02MZYgdUKGDj_bc43DNFwVXxYAXszze7wMzufG1yahvYqjfFrDu4t23oSgEgbI0dgK2wozkpkWkQQ_WERefq3ZcG2D1bVnK6DmRHL3b68jnAJ7A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4990449417505997741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830372517537128047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بازیکنای آرژانتین اینطوری وسط رختکن درحال جشن گرفتن بعد کامبک مقابل آرژانتین فریاد میزنن «\u003cb\u003eبرای \u003cu\u003eآخرین\u003c/u\u003e جام جهانی مسی، برای \u003cu\u003eآخرین\u003c/u\u003e جام جهانی مسی\u003c/b\u003e»\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد اونطرف بازیکنای بیناموس پرتغال هم اونطوری...\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-07T22:14:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/jD8gXCGf6P_vG0QlMJRd4vFH7cGS0gFkaSTanuKWZfaLSa3lneuZkb7Tk44hpF5WfCk1N7fkCWavUSnlUM-soGouWH5ZTih_HlZWUeJmg8lvB1sOmaq075F7NvlkXwAnbNQqjUtnMWvkeRfRBawZ4AYyH5fGk4CpDdYU2vCJ2CL7MQCrHsxyQlxC6FzG7YZdtdeg4GhSDcruZxFVBLUAlQ4KjEXwfzw4UU36iGEPAv_hn7ht9dg6DsLM76OF4QNQZJ7rMxwgaaiZmCBqOAFJO61CnhWAQVFsgrb9VIqqsvXIg5diPEkqoguSRZzxpZ1Q2ZqZ6xEtmXSP1yeAd6J7LQ",
-          "width": 320
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5830192811810496339\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87AC.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830127962099294389\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830372517537128047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e محمد صلاح: ما هر کاری از دستمون براومد کردیم، ولی یه نفر هست به اسم مسی که میتونه هر لحظه بازی رو عوض کنه و خودش به تنهایی مسابقه رو ببره. باید اعتراف کنم که مسی تو یه سطحی خیلی بالاتر از بقیه بازیکنای فوتباله \u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5222141780476046109\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9090.png\u0026#39;)\"\u003e\u003cb\u003e🐐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-07T22:19:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pBSFzeaP4UMIqF-Z09o_TRCl5FL761sUv3vms7_dfERVryXg1AN8hqQY6Qg1-1z3Pdyzmk6T_5YGitl6LClObR0tYk8GXx4QtdrWxUkQtr8UJd7DmuLQf6C7OU8vdzlYkrQVjmVcpccCB2U6lfc2lnUjMkot4nsLzmiVAafXIzGVvegAL94RhP8HQQQ1g8XPHxobrZu5KG_PDFE14BQknUyvcdPUmf0TmcAwl9wqch7OfOkJZhmHypArpEdT2T7iKw8otxTPHBtQ3iR4HKCgF06HR7Fw_iKrEb_wrEP_Z2SBloL6GTLP4OppLpB7shCZ26EPWkgArrkmjFpRhJxYQg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "لحظه طلوع آفتاب در بندرعباس ساعت 1 بامداد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-07-07T22:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
+      "views": 48500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +30,7 @@
       "date": "2026-07-07T22:32:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
+      "views": 50400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +48,7 @@
       "date": "2026-07-07T22:35:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
+      "views": 47800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +66,7 @@
       "date": "2026-07-07T22:50:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35600,
+      "views": 45900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +84,7 @@
       "date": "2026-07-07T22:51:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43800,
+      "views": 57900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +102,7 @@
       "date": "2026-07-07T22:55:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32500,
+      "views": 44100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +120,7 @@
       "date": "2026-07-07T22:56:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31500,
+      "views": 43100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +138,7 @@
       "date": "2026-07-07T23:01:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 40000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +157,7 @@
       "date": "2026-07-07T23:05:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 39000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +175,7 @@
       "date": "2026-07-07T23:05:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 41000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +193,7 @@
       "date": "2026-07-07T23:12:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 37000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +211,7 @@
       "date": "2026-07-07T23:18:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 36700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -337,7 +229,7 @@
       "date": "2026-07-07T23:23:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8119,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,7 +240,124 @@
           "url": "https://cdn4.telesco.pe/file/swoJdwFMqqbdj7B3Y6R8_xZE7hJIIW0O66w7-43t13yf415lAtQ1UvlgJtzcBJP3VXUeOgdM8zB6XrpK3m2tWMB4r_0QAyZeoy_afF6L4eFq98kobdHhsAtG1GDA7Tdwyj2P-y7JS_biUqvC4DfeYv3O_4aS3lpv4mgAEnSIyXfzojmJI0gulBDmQ4U6xVZl8L63WRepiuICKvpm18R3qhWJtRAZZDE9NhKjK-AqewFLWb1RCnAveUOc6aRodZbWQEtEZwOPQEWUQOl7Urt_kOKAbPqV4AM8s16iAhf5bef5PVXpJylqLE2rGNBBBtWYWpd36fvx_y007K_6LqzgdA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5830372517537128047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4947246964245791495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشماممممممم موهای تنم سیخ شدددددد، سر و صدا تو خیابون های بوئنوس آیرس بعد از گل سوم انزو فرناندز به مصر\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-07T23:30:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/BakvfBMq6NqZo_XNRpq2eflLS-kBcn44lHXDNuGmWZ1lruCD8L5aTWIyhAacl18GLNpTukq8jFPaKAfAFyIIcT7CjCuHsmGb_kjlCnXR6r3H5T1WmYoAEXoRdrd4auBHLTNnX_eZFLOCa22MN1TzXuzN7AQzIfP2d7UcUSu7pCrdVYMfGh_twHx3ltFlVjf6L30DR0zw-RkHGxUP756gtBfZdBkwZv4Tcgd5ff5EihcWSz0DbrBRxv254Ysh37Tq-qbXc1D18hw0jd4Zn3FYvy-GoCaNiq1HS8DPwUMbLt36QMT-9hlbiNRQhjGx7A3Nuzrhj609TZ1H-Ndy9cYoTA",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5352870229800138061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپروکسی ضد فیلتر اختصاصی اد کنید حتما\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=nab.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e |  \u003ca href=\"https://t.me/proxy?server=PAyDaR.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=soh5.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=tassian.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e |  \u003ca href=\"https://t.me/proxy?server=tassian.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e",
+      "date": "2026-07-07T23:40:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 29200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5830372517537128047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4947246964245791495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پشمام ویدیویی دیگه از سر و صدا تو خیابون های بوئنوس آیرس بعد از گل سوم انزو فرناندز به مصر\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-07T23:43:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 30200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vvpDBn2thPKVUZQQslc6ib7s4OHPqmnOgEtLRZ_BwESXLRIrQ4pBDcqb1bUTDd9vUgJzEy4rSFXlhC6pW0hSyw35WfyEI8Spg0Y3sZUMUuUMbGxnpYmKqyqFEiunLDAX5H6z9wwDqB-4oBuQQK99po8XkDLnpIDuJB7ycZ02mt-wIjiYYK2TIllexN1G5mwf9hJX8ZDPvPjUouMyL9ooAM2qfHZU3w3O74G4TbUmpT5p5FVzoMsOaFoVhMheqcWqilnU0kV1fEMtptHAaCX5yh1u1ocNzTlFEpihGQMmX4cZrOO41B36k9Yp4WCyDkJfQTmYX3o-ue5FWvHtVLBPjA",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5830011705924526124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5830437315708722764\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 24 ساعت گذشته و من هنوز باورم نمیشه که به جز یامال و بازیکنای اسپانیا هیچکدوم از بازیکنای پرتغال نیومدن سمت رونالدو برا دلداری دادن بهش \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-07T23:55:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 26400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/u8tvPi99hEkiIHaLPqD74S58CL3UrFhkLptMzjZWVT5qSKICJ-O82H65p7TyFLdE_Q7D7PdjrCML7ZGpDAWUbIPLd46jmRdnPoCCdcbwasW_MLsah_kBr4G9nGWwfVopO__HbCnF0YiOFssaoxfnP5droj-s2a7ortaT_9aX7peh09q9Wot9qrV84YVj3k6qlrviylgBlvKGfjUxQjDLk0aD8X1ofSQJc4dkX_svNjKIUaJ8ujdky2Brp3x2bb7HsR5LK6Z6xDx-WVpTsMhDV3q1LWX-oVb1d7aB2VshLAyjuhMlB3_agMesPhjFpsY8Z00tDPIPUUmtvvHf3YeJIg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعد از رونالدو \u0026#34;\u003cb\u003eپرتغال\u003c/b\u003e\u0026#34; میشه همون \u0026#34;\u003cb\u003eپرتقال\u003c/b\u003e\u0026#34; سابق.",
+      "date": "2026-07-08T00:36:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "عکس اول پست جدید پیج اینستاگرام فدراسیون فوتبال اسپانیا \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48D.png\u0026#39;)\"\u003e\u003cb\u003e🤍\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-08T00:46:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TJ6qAETBMV7K8E0y5qb8ne5KdzVGd6AJCLFJUtncHjsH1bFJ11BVUYZ6Emk-Xge6byxDw3awCys9PG9hpTmVfSXgqnCe0HzLUU3t05Xb-7OOvRiRFdlQc6wOIZ4-sTwCKWZxGUWUpIZjRrgHKb0ShTMhswXJ8F_Ljv2-Vom8vUcoz9cRKdCQT3WffnPbXAp-_iXQqCgEPQxKkVbSiwgN58vfeYZksI-X6RWSaGqdcndh6kmR9H4nZtzVtwn5yD67ci8fePmaOjyWqwBtPBwV0gRcyKEpn_w-ENhM-wuUjRCN37_pWoqC951NpOshuDS8fK0Xq1uLzm5tkFg5GrHJNw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5895425144469330605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5893073997767122460\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به گزارش مارکا و کوپه باشگاه اینتر میامی در حال بررسی امکان جذب ووزینا، دروازه‌بان کیپ ورده.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-08T00:51:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "جام جهانی فوتبال ⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Rhe11DiCWt7x8cBvDQ2oWIV9fZIlIbDgViRkhvgNf0v0StaWHUU51KGkSiQwFyCkb8zTqJg5UqorIedfYgFvaQuE6w5PJAOmCZ8lgpdsBgAt9A6sCY3jn0Z7BMZTSbHeBIf5lXCkKTJT3DcMJCGyIgILuuZMM8qetPUNFmKam_0lt2efTsUMnrxUFteQeCPnFrkDQYF1XIWHsSDzP1pSKs1g6aZAccOyqLN9FlY8bl87TTlZ4ek19AO-0PGyzh70WyfHKtAE3dI820nNIZhz1MJmojBrcLCReaRC3oRzZ-nRmYEi2abMv0BF9YA6rIaB4lM38pxZg7_4S-Zd10b0Zw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783467035
+  "last_updated": 1783472678
 }
