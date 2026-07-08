@@ -8,166 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیویی که گفته میشه مربوط به حملات امشب آمریکا به بندر عباسه : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:15:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CFQMhx3dqMC9ukc7X0sXMR5Xo_PC46KS9CQ7jeCb7sCZ-ka-XSKKGKdezOLwURDf5qh8qSy0iUFuHmpmvdjIuGvvJGR3UhbqCol31cEOhFxiTiGQG7Xztg-mXiY08URk2R78MlqmnYMj8MyAlWUUfHyE0Wi4246run0gC2J5CctP3UPbMBEA2WNyrSveEAmm3kNcjoXwQyE4B442qBz3Qb1rgBH5iMhBxszBXNrQSvpKxy09fPIEkML3fhe5JgJQj5ta7LG9Ydkl2-RIKRJgFrGkLZS8C1RJPR93fhmp39MdjVjvjxhzFi7rsoazz0iSENjqC_SJgaiiAttRHSRttw",
-          "width": 1022
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چطوری به بچه هام ۲۰ سال دیگه بگم بخاطر یه قرعه کشی چنل تلگرامی جنگ شد؟",
-      "date": "2026-07-07T22:17:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eیه مقام آمریکایی به CNN:\u003cbr/\u003e\u003cbr/\u003eحملات آمریکا به ایران \u0026#34;تنبیهی\u0026#34; هستش و به این زودیا قرار نیست تموم بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:19:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GpIrV6S2OjmzBJJ3sueT3p-FgYB5RqjxIXwx0t5p4xEQ0htbF0uOoVMZ1S8v18KqqSFOTXHnvvEtJnchBUaCX-ASSpla2y_xm_6D1FZY2sjs8ut3Nfd8PwZbjGNiKiLpSV3xI-XK1b_K0bZPbZCPBxjFV6oaapqhE_Q3P2-UoV_dpvSf6l56BY8lR7ROUi1YsekX3jjjntWTii3c5iWZ-LWhMTXADSLKJMHxWECkN5bViCxtCdGOPnipLzS86iqjJaQgEtw9u_ltLCyJssKZQEsNEeRcY6vCPELxJgKyW-oErAOEQvjTOvDpNbl5KTdcBHo8zmVBnDeWcsRshT657Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "احساس میکنم بابک همون ترامپه",
-      "date": "2026-07-07T22:21:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "ولی خودمونیم، مگه میشه؟!\u003cbr/\u003e\u003cbr/\u003eهر وقت جنگ شده، این آدم چند روز قبلش غیبش زده\u003cbr/\u003eاینا به کنار، اومد گفت دوشنبه ساعت ۱۰:۳۰ قرعه‌کشی می‌کنم، دقیقاً نیم ساعت بعدش آمریکا حمله کرد!",
-      "date": "2026-07-07T22:24:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتصویری که گفته میشه مربوط به وضعیت امشب بندرعباسه : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:27:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZxPm7_e-L8HF6R6cwjR6SQtJymCze0vXhw0T3Mlxhje2qPiZ-uycQWcJZifJ9LvlmbmcAM_gJ4yKT9CivpI2k20hEHdGL4VlyXCLKHkMsxdzPFUXXzlizMwYrQqUp9g_XK2QxpDXbxk19ZlZJU5X9gJJlFyhQHaeLV9TX4PQ2v2S1v-dARLaEXcS08kz_ptly92QxfnzudEzbhJluVZbkeeB80RGBwS2SGwdlgZJpOGjCFwzNa1TuXhDbfpLOjY6PKBq56vQMC-QdTrfMuWg-P_aGovx0Xmnz7rQQ3BkfGINQ53y7lP4g7qHmIzYyR5HMJPhWntg5ueopwTl37z3cg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "داداش به نظرت این بابک و قرعه کشیش نیست؟",
-      "date": "2026-07-07T22:29:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/taSiM1xTfg3gdrLotOaFq2qdJ1QhIMVmYidK07FAgw3yBlGXhOPOkbnUKyRXQ62A987ZqkP8x9ofyLeubr_Z940oVCfRPBTp5zkILT74BfGNYcelKty6MpHeT0t4dqKrn74CFPMUPnt7MByhw6i96HFlIJvrz_D50msCXWMsMn5X3J9R9q08qwPmAaT4Sg_yfnuVfmQ7mg74SSa67hhfb0MO8auXoXHZYtZGj98MKk43mnrca4TOt-NnSAdAgQ-7UGCqiY-wWTD7At0pxVBluWs8ttNnu4r8qBk1QYA00ua76ioahw9ucuG3aHFL-P88Bo9QPNm3CAzbKPb0VxFOgA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eآکسیوس به نقل از یه مقام آمریکایی\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e:\u003cbr/\u003e\u003cbr/\u003eحملات آمشب آمریکا به ایران، از نظر گستردگی و قدرت، حدود 4 تا 5 برابر بزرگ‌تر از حملات قبلی بوده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:35:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهمزمان با حملات آمریکا به ایران، ارتش اسرائیل\u003ctg-emoji emoji-id=\"5332299462461107995\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هم حملاتشو به جنوب لبنان شروع کرده : \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:40:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 149000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iCSVMnRafFWMuSdWeF3wHwFwtTe4HvlFYGDTnZI7yTXhzDfhkNUZec1zOJNo2NKEKT8eiQWbEwkijkAlpgk_U_-aqujGuAysaT6mbXOVt8SPgZNlIClfOHbLJifDo4SMblMEk1KK45FIgQup180SJSFpew2IRATH7ylda2ZVfJ404dN0jTUWOZiW4vyKHXMvTtx3iWaIs4H-fpzwpunC8bV5g2Ss828nLGOjDlJXiFs_OCrloPpNRIal4LU67Cf0fyr-GMsmHn2MNx8ssng66t8zTfi9i_1Hj6w6ZcII9uu_sKbwExcXgVB_Jvehij03JQVgzkWLTqsaOU_CLcqi2w"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/uzKqeV9-qqiAnbpP5VKhYatFex8pt0SlOQMl6psEUvduHNt2iU7f22tVZU3IhYPgn_5hrON84jtd4wXBEI33QNbk1tLUzf0cc1XDP0iQMBNb2Sc07dfzKx8JWt-_tKFDTjVEnhlNCHkolTMw0KJyUzAz-Sv6xg3txMWwBtu6eFysFfI10OhSc4FCjdow6b91kyTUpCRt-nRkDF3qRNFppxLB01mst9LywYCrJx_RjANkRqEk9M97loITBByBHVxh--_HALOAnaG7Gb5Z7v2T5NFcFsfT-Drz5XBUZlIBEWvM1eiVK_Z-u-dognX0ybiT5de5Jb6b_qZWN1p3JRVuVw"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e وزارت برق، آب و انرژی‌های تجدیدپذیر کویت\u003ctg-emoji emoji-id=\"5429154466794317724\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B0F09F87BC.png\u0026#39;)\"\u003e\u003cb\u003e🇰🇼\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e:\u003cbr/\u003e\u003cblockquote\u003eچند تا از خطوط انتقال برق از مدار خارج شدن و به همین خاطر برق چندین منطقه از کشور قطع شده؛\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eتیم‌های اضطراری هم وارد عمل شدن تا علت قطعی رو پیدا کنن و هرچه سریع‌تر برق رو دوباره وصل کنن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-07T22:53:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
       "message": "میترسم امشب تو تلگرام بخوابم فردا تو روبیکا بیدار شم.",
       "date": "2026-07-07T22:55:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160000,
+      "views": 187000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +24,7 @@
       "date": "2026-07-07T23:01:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 171000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +36,7 @@
       "date": "2026-07-07T23:13:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
+      "views": 168000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +54,7 @@
       "date": "2026-07-07T23:55:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 128000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +72,7 @@
       "date": "2026-07-07T23:55:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137000,
+      "views": 177000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,11 +87,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eطبق گزارشات؛ \u003cbr/\u003eهم اکنون صدای انفجار هم تو قشم شنیده شده، هم حوالی جزیره خارگ.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eطبق گزارشات؛ \u003cbr/\u003eهم اکنون صدای انفجار هم تو قشم شنیده شده، هم حوالی جزیره خارک.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-08T00:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 176000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +103,7 @@
       "date": "2026-07-08T00:35:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 131000,
+      "views": 179000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +121,7 @@
       "date": "2026-07-08T00:58:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 178000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,12 +133,198 @@
       "date": "2026-07-08T02:39:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
+      "views": 166000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eسنتکام یه بیانیه‌ی جدید + فیلمی از حملات دیشبش به ایران منتشر کرد؛\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eایران اخیراً سه کشتی تجاری رو تو تنگه هرمز زده بود، این کار نقض آتش‌بس بوده و آزادی کشتیرانی رو به خطر انداخته.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبه همین دلیل، نیروهای ما بیش از 80 هدف نظامی ایران\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e رو هدف قرار دادن:\u003cbr/\u003e-\u003cb\u003eسیستم‌های پدافند هوایی\u003cbr/\u003e-مراکز فرماندهی\u003cbr/\u003e-رادارهای ساحلی\u003cbr/\u003e-موشک‌های ضدکشتی\u003cbr/\u003e-و بیش از ۶۰ قایق تندرو سپاه\u003c/b\u003e.\u003cbr/\u003e\u003c/blockquote\u003eاگه ایران بازم کار اشتباهی بکنه، آماده‌ایم دوباره به حسابشون برسیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T08:00:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 121000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/uClP8tAVfd2EN24Dq3GQbH-nu9IsAyBuh7DD5NZg_NzWGIh0WhHQ96qSOJA_7dtX3v6winjgsRMpixzJVV7ynth96qG35SC7wk5kp89827QvD8qBQqrE2weBO_4-HZYHTfPFswXGvhCjWLHGEwYxOtgnepubroLwTFLtMo6dZsQFcXUT73ZAYozTaDuC-vmAwgkixZv1wuU7BS7Cc4_AUFv9xTh2QlDRVQePVUqBHsB2SB7dvqVWSUGPvVnJoAKalS4T_iQ2SgpHSwRAHR21Kxijf5rhRxwf0NUDCRyNzhXxWGb4_z3hKuVTQQ80Xz_GD4CmyguBVZBSVqzqtrNCjQ",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ : آتش بس با ایران به نظرم تموم شده! \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدیگه هم هیچ علاقه‌ای ندارم باهاشون سر و کار داشته باشم؛ اونا کثافت، مریض، خشن و وحشی هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T08:30:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 120000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/EnR5knsdxqX6wlvsMbv1MZT3SlQHQNteo7f-8lNJeb0TQuLjj04rWrKp6BXSHwiKIGTN9FkTCeQs-EyngeO8IDhTy5mYgxV9KInNuWt6_FjlFAxmPPn4Tk7BwRbQpcrdd2qYL6j2ng9ugQxdBdj__8USS7CCm86iVFaHMwu6uu_rLHkKqRho_GEvPTfKa3-oX0sAfEZFbbxuwhNIDHeGjj30wx-nLWDALwr1GBTyfkm0aG-IHK-d0bQ-RaYcXTuLkKav4NDR9K6pVUhFe7NG57q6jWA5_2fufPY86ZwB3tm55iUPJUWToRW_3MUvKW5XNIY60nSFQejIWK1EgDl86Q",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eترامپ درباره مقامات ایران : انگار خُل و چِل هستن!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاونا دروغگوان، باهاشون توافق میکنیم، همه هم قبول میکنن که نباید سلاح هسته ای داشته باشن، توافق انجام میشه؛ بعد میان بیرون جلوی خبرنگارا و میگن اصلاً همچین مذاکره ای نداشتیم..\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T08:39:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 108000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/R_XaRw2KENuNTATQcG0Xpp8A3ieTyKuJPoJmcgCUcpEd4UJxOZhC7_UYX8WBPlYPCVf0Us17fd3YUsx9kVxhYmm16UMn1um-w1e1zpzYXq9LCjNTEEeVpVntg5VQ2cTpAiaSkcTqhbr0OGw9T-R0oTI__PQDSt58_YR8y44Eh4XsDjSIG4FmdekdUdMmizFSJ4ha2kM0w7cl5hkEDnJL0dFwhjCcBGoaC5udV9MFyXS4mBQH6-nzGOKnTwLvik6LXQeEJeMJMCC-0vznZX7-b7BXeVLfMd5Lqq7ah_Iy47Sas_tmgudfJnOHwhb1C5TTqttU1LYVYXfDRuDsP08RGg",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eترامپ : اونا 54 هزار نفر از مردم خودشونو که اعتراض کردن کشتن؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبعضیا میپرسن که چرا معترضا تو ایران نتونستن به قدرت برسن؟ چون اونا مُردن، اونارو کشتن چون اسلحه‌ای نداشتن، به‌جاش خودشون کلی اسلحه‌های قوی دارن و رسانه‌ها هم گزارش نمیدن.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eاونا آدمای بدی هستن و نمیخوام وقتمو باهاشون تلف کنم، میذارم مذاکره‌ کننده‌هام ادامه بدن ولی من خودم دیگه ادامه نمیدم باهاشون.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T08:44:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 106000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Uh7S11_4_i1XA9SyZ0iFXq43JMxBeuZHlpU-MDXQHb7rglSmxDnjJ6pJG0kGJCp9xz44bjWAAUNhLLZdO4ANg_nm8j3G4bMi2g4FGelNRatKMhiSzvyZ4NFKnxCCQU-ULYHPDEBOthVEAadrpagQlDFbUPzy0uzHY3VEUaYMxgEeX9O-Id-sz8FjkMC5pC3OD_daHXbJSqR1fmLocH3Dv5u-ohFALfRAyJuS5dNL4J-nhaaZmT0D0ZMQ7fQY81Y6vBff5NW_DZvEBgWwW_-chAMCRyZrHCIYLezhFIhe1VGNZPiOWEZFj4xqT7wfO4S4AIXNcJMim9zZd_egd7oBAw",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ : اونا می‌خوان من رو بُکشن!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eاسم من تو همه \u003ca href=\"https://t.me/drtel/61912\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلیست های ترور\u003c/a\u003e اونا هست تا الان هم فکر کنم یه کم شانس آوردم ولی معلوم نیست این شانس تا کی ادامه داشته باشه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eما آدم‌های فوق‌العاده‌ای هستیم ولی اینا آدم‌های شرور و مریضی هستن و باید این سرطان رو از بین برد، سرطان رو باید همون اول کار ریشه کن کرد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبهشون گفتیم برید مراسم تشییعتون رو برگزار کنید ولی به جاش دیروز دوباره شروع کردن به شلیک موشک و حمله به کشتی ها...\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eما هم دیشب خیلی سنگین جوابشونو دادیم؛ واقعاً محكم اگه بخوام بگم ضربه ما 20 برابر شدیدتر بود.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eراستش رو بخواید اینا یه مشت آدم آشغالن. ما هم هیچ علاقه ای بهشون نداریم...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T08:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 105000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/EHVE7JO5WJ4_A7esGoFHngZt7GTpb0iqGTgZC8zux_IZxp2wtV3MyWYmm-9OOieX3-ha5ihPKsyrX6Twp22Lewoh5o_8RgbeW6HynDdJxmVk7Ma2PrSFvWu912sbr-DZFoSSJu40j_f5CN16iFNN6v5RdxmNrqDJNfDKu0MSBwBaFkibB2HsaGKOzPXpXPvmoCvtFEH6pGTCoGc6Er0MG7tfHoKFTWcRlVObjb9kCbpaeTOE8PjM6NlQAWH8RomUD8Z7GnWFYOyenC2GQTZWKgEslsh74Smwc3pFtA0IdiMFI_ISq2gonqimGA3K-W2j9IzrhbWQud8C62xnIaLM4Q",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به وقت طحلیل : وقتی که ترامپ رفت ترکیه و بعد خبرش اومد که امریکا میخواد به ترکیه F35 بده یک بوهایی داره ، که الان ترامپ میگه اردوغان عاقله ، احتمالش هست که از خاک ترکیه جنگنده های امریکایی بلند شدن برای حمله به ایران استفاده کنه",
+      "date": "2026-07-08T09:01:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
       "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنفت از دیروز بدجور کشیده بالا و به 78.5 $\u003ctg-emoji emoji-id=\"5436341901290658109\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA2.png\u0026#39;)\"\u003e\u003cb\u003e🛢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رسیده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T09:05:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 89700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tKa0tPaU94DDlM3UDpflaDhijrfCEXwNMl7-InxhYyVxM9s9FnYL5p4TSYanY32UNoor5-2_DaDyhCpuL_-1wqUF3CKmMak_Gd-zwgv3jNLjVvanBKP4acdG6a0avaPPlTfxS3uoU4VdQyL8NBH0VU772rMmCtL5jzEQ25OPVQxikPcM2mLhomNLoazonb7E9kuCWDoRTSVL1T4mSCavC1Wcrb-yqAxzmXZIFOCpNtdB74eDNDxhUABGLJl41v4Azc6LMwvX7P7N6yK1bMdk7qhZ-a7Vrr-LHhX5q9QQSysolOt2ulboRXGO7hk8bm7tVTLrlGG8qCqYlqS9b_aAeQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "‌\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتو تاریخ بنویسید، تنها کسی که تونست آتش بس ایران و آمریکا رو نقض کنه بابک (مالک دکترتل) بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T09:11:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 83600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "میترسم نتیجه قرعه کشی رو ترامپ تو سخنرانی بگه",
+      "date": "2026-07-08T09:16:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 76500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e پزشکیان:\u003cbr/\u003eآمریکا همون رفتاری که همیشه تو سیاست خارجی داشته، حالا هم تو میزبانی جام جهانی داره؛ \u003cbr/\u003e\u003cblockquote\u003eقانون رو به نفع خودش خم می‌کنه، برای بقیه سنگ میندازه و بازی رو ناعادلانه جلو می‌بره، این همون سبک MAGAئه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eایران هم زیر بار این بازی‌ها نمیره و محکم پای حقش می‌ایسته.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T09:26:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 62200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QEKHgfYreeE9hbTTucaWVL-18Jh8zicuWRzYQ-Yi6P8NdTVRbq1c78EQKqp_-HzrVfHO6gdL_S8UKodv0rnLXDbHK7bVVKFGHvv4Ec_-4DMti1A0MkNaCF7rerJMdi99TOFiCFMn7KTtFWFNK4OdqB1p0LGXQ90tdnKX1A3K8L2hd4u7Lrfi8FbYApXBTew9YE4i4YXrF1UY8GZfVakWZhSE6vIOXKhR-ieVvw8zXWEDFKHTZJ8hNFTa5EeBoF4hDOtnrmZRbaHRKg97Nr1dG7bOChYLRmTOMQUd_Rj0f2IHMw7KU2egY5Wo7UZa9lCWXHXxfMgWoe2lEiBq-eM_yw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eرهبران ناتو\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5278635894796988982\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA96.png\u0026#39;)\"\u003e\u003cb\u003e🪖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تو اجلاس آنکارا\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5226948110873278599\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e جمع شدن تا در کنار ترامپ عکس یادگاریِ دسته‌جمعی بگیرن :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e+حالا بعد از این اتفاق، بعضی تحلیلگرا میگن؛ ترامپ داره با ناتو خودش رو برای یه حمله‌ی گسترده علیه ایران آماده می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-08T09:35:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/j_QMskBdYXftzQZ4Xye0KKdnMsima3BaguH7GU9An206HDsapeg48hthfc2FH5r4lxOwdIwdS4DSrAPlqaDcu6hiS26JOt-JV8aM0LS6Dh5S6HGgUSxr-SxtQDYzxVSUiypzQ8DqMX7dG0zMeRneoUsT0st6JcwEhE4rqqOQBCucaSXzCqV1_XuAOYo9RIjx84jLoKkaoeU8j5okG1Wp3nMDmIrUF22-6wqAM79Pumgsmd13yABGjSmrfzBAzUn4QOSu_MZPrhAk-oE2u-VyORv8QbPXET3mbp1yzA8TaqyKJnscuWxfFhW9nq0zuqXElgTFVO9W6qgcbv680ps-kg",
+          "width": 1280
+        }
+      ]
     }
   ],
-  "last_updated": 1783495675
+  "last_updated": 1783504580
 }
