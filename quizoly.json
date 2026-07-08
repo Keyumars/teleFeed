@@ -12,7 +12,7 @@
       "date": "2026-07-05T10:03:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 330,
+      "views": 331,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-07-05T17:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 415,
+      "views": 416,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-07-05T20:38:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 405,
+      "views": 406,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-07-06T09:50:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 306,
+      "views": 307,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-07-06T15:47:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 531,
+      "views": 533,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-07-06T21:16:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 370,
+      "views": 372,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-07-07T10:13:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 102,
+      "views": 107,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lfGDyvVb9qySc1A31XA1uEMZG7k8n1j5ILIeg8myA4-IYJf9c02RWuGhZTWnHSFJKy8TjD_sBeoE4LyRU0WqVCpZewh7S62OJ1RpcjvsR2__lXImLl_nqH_0JQD5y2q1H2kmBkjS-a83i8BrhRFx4p2UKUUcxRy28P7rie5X8xMSf--8ULP8IcRHsEc36pXK2sGz3o2VhIC2GZae7CpxAsnSymo4vdwHzVUpbyMBbzSQYyyHlSapuHV8HOJGaVmpxNHqJK0t-Ps1SJMg9nXwA61Eq8p4X8oJVtvd_V4182ay6JpOksSeXU8Lq0cDgNHwoBerwRXvYE_PqIx8gz4gEQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/uSOaWzwL7qwYQ5oRDPQny43nuBWrmv6TTgLxD4ja-YM4l45YbQDkydOAQ_el-9NGGXk-9LEV_xF_gn9WWyVj38bQvgha264IPXh3xfPupLZDsHOwRrtfa_C873cDfARvaVxpaRXeykQ3dBaOxZfKjniOId_KnlmwZncK5ruvlvK1EoZXRHc1HRdmKtjseU0-xtjNRVuoTW_7a0gUiTeoXODQK6JTdtVWKTAqBQfeOMRhafD1X5vRB0pZEQGDRqE3pW6p1l8upl6ylcdovm_vziGiB3TBsvjGSFAW3HUT6eouGDZ93z9Q7jqCS0MM565yfBe2aa40kXHi7SLW26p9Wg.jpg"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "date": "2026-07-07T14:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 302,
+      "views": 306,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-07-07T20:30:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 296,
+      "views": 305,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +171,25 @@
           "url": "https://cdn4.telesco.pe/file/RR81UgBxvZfYaBvmdr7oC2LS6IrdMFxdHq7e1K1DgJkPvu6HupcIrvJcf3GHTYYd55k4fqOUWVka27Lb3k6lvGTpQCvbDQ4Z9vOuPVDEI0Zniba3-VOvA6dNOTcQxG6vEcDopJAZ48bpGfH7N251w3lwM_mhU9bqr3lLHKAHo32t4Hu9e-tCV8ffuDOMGHxNswZxO9ajL62DudGepYFgVikTeqMLrTonouBK197WccMoIIHSae3XBAYFxteiXyXXIC7cxuAzAt2ba0wlhN_uXQq6RW0CaQA46KQQ5xYIdmFkkH4TkbVv1SECf-j5urWjLDsNZUA7Rh1bAKHSOQKeqg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003eآیا می‌دانید!\u003cbr/\u003eفشار خون زرافه تقریباً دو برابر فشار خون معمول انسان است تا خون به مغزش برسد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-08T10:28:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BU4fdfezNA9n0gvHxvADG9Yfl1DbNoUlDH1d0Zn8YEEjtVzQtlbeJH_Hi5HKB1ZRMk-kkOFIUaLNlIZH-Qcry1cGqPymPXehZg_i_io0tesnu-13BATpJEy2EgPLeYyM-dWcjidmQCU0NKukd9pNPqqV12QJ8z4FkMjFMBfnmWDYh4blOQPJp-Frg6ZMnOAjoymnDApXe_HjaUzdVO-3PjkO8rv6q-mBHywdhv3TmVMp6K9LOYF1vCMX2cWnaW_dgCHVvpNa_e8gabGFdcMgetcxxX9mhaAorhOITJ1xkIUoN-hG6QStBZ89X0qbAMxeAm6xEu6bv4ClnfmJc1Hx6Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783504572
+  "last_updated": 1783511203
 }
