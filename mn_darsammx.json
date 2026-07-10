@@ -8,131 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نظرتون چیه همگی باهم نریم ها؟",
-      "date": "2026-07-10T07:44:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "اره راس میگه هااا فکر خوبیه\u003cbr/\u003e\u003cbr/\u003eشهریور باهم میرید \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A3.png\u0026#39;)\"\u003e\u003cb\u003e🤣\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-10T07:45:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "تو یه کلاس ۳۰ نفری نمیتونی هماهنگ کنی اونوق میخوای با کل کشور اینکارو کنی ؟",
-      "date": "2026-07-10T07:47:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "تو بحث تعویق متوجه شدم امیدوار ترین آدم های جهانیم \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T07:54:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5987766683635290551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\"\u003e\u003cb\u003e#فوری\u003c/b\u003e\u003c/a\u003e\u003cb\u003e آکسیوس : ایران و آمریکا در مسیر دستیابی به یک توافق پیشرفت‌ هایی داشته‌اند و می‌خواهند مانع فروپاشی تفاهم‌نامه شوند \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T08:00:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "استایل مورد نیاز سر جلسه امتحان نهایی :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T08:20:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lB25mGbVRh4YqLAJnnl3HtVWgmLB0-XhXQpPl64l3becGNnqxqU1vuVlJMsbghvvkkhB0BrligiQAFe-FKgbzDNTfglPzdjwNGcTDfnlB3aJ2MsZminzJvO7-MhG2zomIhUhEWyyuZLTriwSQJoJ7vHGPqjqtBNUmgGP15G3620bfA68ZTqLscBhr1c7YMf04pK8XfmvYQWad2DDIw59PP6eNDrNCFuw_A7A_49Cncb7RaUq64Q3WH8wMsjcuyDiHUORU9KzMi6yWOXGVcq3biptCb07MWA35BojvGrUtv35moIOzBi7xSVJZANIB-u1FVJmTrkLiLh8OrQzPpAlxw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4990298741463319592\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کتاب نوشت درس ۶ دینی دوازدهم :\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5816477898902605998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ۲ نمره امتحان نهایی دینی\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5816477898902605998\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارائه شده توسط مصحح نهایی\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T09:17:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4967853603151676186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9496.png\u0026#39;)\"\u003e\u003cb\u003e🔖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003cb\u003eبانک نهایی دین و زندگی دوازدهم\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدیجی ماز \u003cbr/\u003e\u003ctg-emoji emoji-id=\"6334567936824444680\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eرشته ریاضی و تجربی \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e پاسخنامه ویژه ماز به همراه نکات آموزشی \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T09:25:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚"
-    },
-    {
-      "id": 0,
-      "message": "اینم کیکه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
-      "date": "2026-07-10T09:43:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "منو درسام 📚",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PJnqByd-zSE72EQflYT6n5pBZmGP9gwNbvi4xW7kZ_zqVMmjAZWitTLTuV3Ngr7UKqpusH82X05neeAcUCG6i0Rgza5PMWw1HquS2O-IYErALE69OVbIuuEy12RvlMNF55rpA06qvNV1ZZXZ_JcvdJdxafUecFaUgbx6LVzJjq1ZaanvxAEdTTD4EALOdfZcboSIE2m30SUCi7UG2vH0upSfOv3wmc2eh2jo2RSd-vNFY0Fltb5SuzdzFtG6xyUbjg1bc5AhOrBfGqbz4Kihvo2eB9Cs15w1YnKvDJER5kAxcgmOb-ZDx0Yo2mj7sApZYS7VgZitecU7pi8iSADogw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4990298741463319592\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e آیات مهم دین و زندگی دوازدهم :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
       "date": "2026-07-10T10:12:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26100,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +30,7 @@
       "date": "2026-07-10T10:22:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25800,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +42,7 @@
       "date": "2026-07-10T11:04:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +54,7 @@
       "date": "2026-07-10T11:51:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +72,7 @@
       "date": "2026-07-10T11:55:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17800,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +84,7 @@
       "date": "2026-07-10T11:56:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 25200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +96,7 @@
       "date": "2026-07-10T12:10:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16000,
+      "views": 25300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +108,7 @@
       "date": "2026-07-10T12:46:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +126,7 @@
       "date": "2026-07-10T12:53:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9940,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +138,7 @@
       "date": "2026-07-10T12:53:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9940,
+      "views": 23700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +150,7 @@
       "date": "2026-07-10T13:07:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6320,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +161,133 @@
           "url": "https://cdn4.telesco.pe/file/MErwY5hKgJuNahnNH4yiqxsvJHTz1oUOmtrVItyLnMGysZp4IUDXJKRobAXOGr1QB_LicnUyaCTq_e2NJ68G2ipUCApPqfkwhAuuekoHU8QEiZlyzgVDcf3D0uYO4f4p_r4MS2aJk2nBpjnbWSVg6ShLRWyq8Uemw4kQOy3ZZxcGAii8NLUELe42LqKAg5nSFG27Y0Lpmfd7SW9G54wNY0AC3RQfo0okpjUPkYs6SUhxBso0nH7Y6nk2lrpaL0fjvrhmXzDALLWeOjxatL_ESCl6mYfV4OIJEJwcq9zbslNfaIP8u1dOjA34tRVFqLBE_W5jgcPJsxO1rpR744Iz4Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4990298741463319592\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA2.png\u0026#39;)\"\u003e\u003cb\u003e🟢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مجموعه سوالات طبقه بندی شده درس به درس امتحانات نهایی و شبه نهایی فارسی یازدهم\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به همراه پاسخ تشریحی\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T13:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5947164356331443681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای ورود به جلسه امتحانات نهایی، کارت ورود به جلسه و مدرک شناسایی عکسدار الزامی است.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6296577138615125756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدو نکته مهم در این باره:\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e باید کارت ورود به جلسه پرینت شود‌ و حتما همراهتان برای هرجلسه باشد. از روی گوشی نشان بدهید اجازه ورود ندارید.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کارت ملی یا شناسنامه ی عکسدار هم باید داشته باشید. برخی از مدارس، کارت دانش آموزی را جایگزین شناسنامه و کارت ملی کرده اند.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6296577138615125756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e وسایلی که اجازه دارید همراه داشته باشید: \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخودکار مشکی یا آبی پررنگ ( مشکی بهتره)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبطری آب آشامیدنی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eماشین حساب ساده و خط کش در امتحاناتی که استفاده از آن مجاز اعلام شده است.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکارت ورود به جلسه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5949668090336776775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمدرک شناسایی عکسدار\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T13:43:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "اعلام وضعیت کنید :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T14:34:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kiLCXAVnNcXK-OMo05Ef-WnArWprzotkl4GTrxsBoOrsNIkywetrOvbBo2T2nPc8PawngJE_m_eSKiyKSSvgwHRZRQ32YZDUHXrzrP8MOURbyiqhDrnkVVToeYGdBgzF3k2nPuVrnFfl7c6gZgJ9BIc1fzRKJnsgkp9C3gLQcsso0ds-Kz5JKYJ2kR8UaZvx1BsE0pouj85OudyMdQYo-srzI1bgzeqrhxKE2U7wkAvHRY1ov8lgsWO76uy-6at0yPXAoZ3k7MhhPQHJuImIGB7NEUNW4LUdq3YVKR5akEd7zz8wv2HdzHPA7z91PPOJz1nlFEjfaZh0vLlhOresxQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4926956800005112527\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\"\u003e#فوری\u003c/a\u003e ترامپ: جمهوری اسلامی ایران از ما خواست به «مذاکرات» ادامه دهیم و ما با آن موافقت کردیم، اما آمریکا به صراحت به آنها اعلام کرد که آتش بس پایان یافته است!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T14:37:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "سگم اگه بذارم شب امتحان بخونم\u003cbr/\u003e\u003cbr/\u003eشب امتحان :\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T15:09:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Vi-HxrrBW0zhSTsZ0JIRyA4LQonaIWP6uz2O7oQolOtkgfsI9twusXnZlQlZ62MJxulyscxUAdUGw7_jbHRuzQXwsQwuuCh0nZjcHA-SvqxWzxduZ_xCe5PIdQvCH9TiIL72nlNyFPliRTG5FiapKR2Eu0XJOwr4zUlUFY6NhAluaOdORkRT6WerGLS9YSu_LrHpPd6dKdN3lhuz7nD9FrwcTJeUv76RtiUVo6P4ngHn3EgTfmAoMWsI7_DEDMarrlzHA1n1Uq4iBvQvWHYc85BGErNkA1fg4beY1_YiturYiLynmW-gwHAGMaj9ob_-X_S1KcDkLurEW5Z23VI_YA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترامپ به نیویورک پست: \u003cb\u003eمن دستور دادم که در صورت موفقیت در ترور من، ایران را در سطح بی‌سابقه‌ای بمباران کنند\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T15:14:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e۱۳ سوال احتمالی فارسی یازدهم \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T15:29:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/L7KvNUfHQvjwKcwc5L9s2TUvZWTwv5Ti-1ve9XkBRDTtNH_zxvLDK5gapjHx5TAUbnrOVBz9m7UylFxginP-PmMmv0xCG3gEE73EThAyBcIXYWRmdrE0iZXEUlMLPP66GMfhlMN11dDyjtI2fo8WS2z17XTH_v-iTFet5eg8rfHRdBTZ17coL8bI66NypSa9N2fH2CWopUvbZ3mnO7PAUuvvEiYQhKGMI7NWQ39kyt7v0XTDwC4tgn4d9tkN4khVD2QM0y877i8xpl34moyUzwGPf72WAtp8BI332E05bTLsKbksijRrNFoF1l8JY2w96DKWfJmS3djIJV6s7PIdzg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5987766683635290551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\"\u003e\u003cb\u003e#فوری\u003c/b\u003e\u003c/a\u003e\u003cb\u003e آکسیوس:  پیشبینی می‌شود دور جدید مذاکرات تهران و واشنگتن، هفته آینده در ژنو سوئیس برگزار شود!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/mn_darsam\" target=\"_blank\"\u003e@mn_darsam\u003c/a\u003e",
+      "date": "2026-07-10T15:48:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
+    },
+    {
+      "id": 0,
+      "message": "حالا آرام لای کتاب رو باز میکند \u003ctg-emoji emoji-id=\"5336995334889417428\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98A2.png\u0026#39;)\"\u003e\u003cb\u003e😢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-10T15:54:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "منو درسام 📚"
     }
   ],
-  "last_updated": 1783690084
+  "last_updated": 1783699022
 }
