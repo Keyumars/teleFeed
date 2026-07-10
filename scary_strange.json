@@ -12,7 +12,7 @@
       "date": "2026-07-06T18:41:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12200,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -34,7 +34,7 @@
       "date": "2026-07-06T22:52:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 11600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +52,7 @@
       "date": "2026-07-07T10:42:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +60,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/m41PMvoZG5zC0RJ_o1S1l9r1FLqhjfMqs34SsnDs1RG5QfNh6d29-PtvmVKjHxsHQ4jrNS5ftbvav7kX5V87je7JzxIFOUeiZM46DMI_97qVly1lrUENQuzeuF-XwyLH4Qok8COJ2UjA2mdstTCdtFc21i0_Qqpfk_kl8yklJk--oikZwMTdfQF8lFJRIKvFXRUjl2w5ZykD0wBA2yiZgliMAk3xWn7R4qJqxwrq-xQwnE1QMnp39b2ixyc5iPfvS8O9eZnIPL_8BxoIhvtTwvMN1SKdk-DaOUvZ7J56QVMYCzcHYk9NacjbGiVbMjJ_qaQzThxedfZpvN_Pby_RaQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/CMP353OvHQ-91lvXhximDop_TFq9LPWRJjH7MT6pXy0ZxodzXR-mWVTcL6zizFXwAgIz_gyzDJWY31Qr9mXnE89VcLubTjGdtf2nT8AuqehYQgUtQeAYKmwe8MX3frF81g4A5C_Q1yM9ooLATUg8CAZXQsAWIyG21Lgt7aChiC0MeflFND1ypmRinYqnSH_JNv2b0M-T6ZiFl_zKXgedOh1-7BkYVGrihDVc7YD--9xu2gtGdTibWt4eCFde4_C6MgVh18U0WlUs0bL05rroCG06UQb-BskUiKfKqnZagRkA1ehY2aCKktdp_5aUYYt3vsEH08HdwDh0-8mOwpS0FQ.jpg"
         }
       ]
     },
@@ -70,7 +70,7 @@
       "date": "2026-07-07T13:57:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9800,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +88,7 @@
       "date": "2026-07-07T16:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +106,7 @@
       "date": "2026-07-07T22:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 12000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-07-08T11:53:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9770,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +142,7 @@
       "date": "2026-07-08T15:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8430,
+      "views": 8800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-07-08T17:05:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +178,7 @@
       "date": "2026-07-08T21:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8990,
+      "views": 9390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +190,7 @@
       "date": "2026-07-08T22:49:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9300,
+      "views": 9720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +208,7 @@
       "date": "2026-07-09T12:02:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7210,
+      "views": 7800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,41 +222,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5856971593598637901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین سایت جهانی برای کاربران ایران با واریز برداشت مستقیم\u003c/b\u003e\u003ctg-emoji emoji-id=\"5406745015365943482\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5857447699313335177\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eسایت بین المللی و معتبر لاین\u003c/b\u003e \u003cb\u003eبت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956222745814762495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e❤️‍🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاسپانسر لیگ  فرانسه\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852440446051028724\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e واریز و برداشت ریالی\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eبازگشت باخت ب صورت هفتگی \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958686613933655185\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eدارای پشتیبانی فارسی فعال\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859744248391275144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبونوس \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958734459869332468\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e روز های دوشنبه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859505538403931900\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA1.png\u0026#39;)\"\u003e\u003cb\u003e🎡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eکدهدیه ثبت نام \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5422537816271756628\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e L5670\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859645137725953745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://linebet4434j14x03.com/fa/registration?tag=d_4695095m_22611c_site\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e《 لینک سایت برای کاربران ایرانی》\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859458560051647268\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/linebet_tel/341\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e《 دانلود اپلیکیشن اندروید》\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5927238474036941759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+dukgrB6-zGsyNGM8\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5911100357760522346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eجهت استفاده از وبسایت از آی پی کشورهای آسیایی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e یا کانادا\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5875454001809462498\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e، استفاده کنید\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5776252815756235806\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش کامل و جامع شرطبندی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-09T16:11:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QP_3-bqPODGXgDxXhEY768eTFeaD1LrKeSwZow090zn4q98fMKvh67h7gWJjMzWyXePmSMeTdpzG0C99LtfBCMPerCHsAHIM5R5im8LG48TiY6LoMBQMF29E2J-W1p_LTAU_OHNg8ZsfJnhsPQZiMhDKkqYKbOL87ZS6X9JJ1mVC1rBcszQRyzmD8kCqFET-ZcFRl0eXC3N1OWjMVIVC-Elup8cqk025AgYkwHQxMWrs23vsDcyGCsd5dQcbmz1d-hKoZmZptn3oIcm0OZ1F-0F9zyHp29YUlS3dus2fsfSwGDEl3ZdIpwmq_aNEY93s1I1i6nFIKQw5dOCtvvUNhQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5857447699313335177\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاپلیشیکن اندروید سایت جهانی لاین بت\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5852440446051028724\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e واریز و برداشت ریالی\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5859744248391275144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e هر پنجشنبه تا سقف ۱۳ ملیون تومان بونوس ورزشی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859645137725953745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e بدون نیاز ب فیلترشکن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5267509429829393505\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش کامل استفاده از اپ\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5920285072308572176\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949C.png\u0026#39;)\"\u003e\u003cb\u003e🔜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5453971449255567733\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454394589433569901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454224006217473533\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5453999400902729948\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454160307557508255\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eTelegram Channel\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eG18\u003cbr/\u003e\u003ca href=\"https://t.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+dukgrB6-zGsyNGM8\u003c/a\u003e",
-      "date": "2026-07-09T16:11:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
-    },
-    {
-      "id": 0,
       "message": "نوعی جن که در مازندران به ونگ زن معروف است. افراد کمی تا بحال دیدنش.! معمولا سر جاده ها میشینه و افراد رو تنها گیر میاره و به اسم کوچیک صداشون میکنه, میگفتن وقتی تنها بریم تو باغ شبیه صدای یه آشنا صدات میکنه و با خودش میبره…!\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e-\u003ca href=\"https://t.me/proxy?server=77.232.43.253\u0026amp;amp;port=23\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروڪسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e★\u003ca href=\"https://t.me/+hA56yS7uKNRhNzQ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e𝐒𝐜𝐚𝐫𝐲_𝐬𝐭𝐫𝐚𝐧𝐠𝐞\u003c/a\u003e",
       "date": "2026-07-09T16:11:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7610,
+      "views": 8330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,41 +240,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5856971593598637901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین سایت جهانی برای کاربران ایران با واریز برداشت مستقیم\u003c/b\u003e\u003ctg-emoji emoji-id=\"5406745015365943482\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5857447699313335177\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eسایت بین المللی و معتبر لاین\u003c/b\u003e \u003cb\u003eبت\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4956222745814762495\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e❤️‍🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاسپانسر لیگ  فرانسه\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852440446051028724\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e واریز و برداشت ریالی\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eبازگشت باخت ب صورت هفتگی \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958686613933655185\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eدارای پشتیبانی فارسی فعال\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859744248391275144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eبونوس \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4958734459869332468\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e روز های دوشنبه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859505538403931900\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA1.png\u0026#39;)\"\u003e\u003cb\u003e🎡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eکدهدیه ثبت نام \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5422537816271756628\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29EA1.png\u0026#39;)\"\u003e\u003cb\u003e➡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e L5670\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859645137725953745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://linebet4434j14x03.com/fa/registration?tag=d_4695095m_22611c_site\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e《 لینک سایت برای کاربران ایرانی》\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859458560051647268\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918D.png\u0026#39;)\"\u003e\u003cb\u003e👍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/linebet_tel/341\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e《 دانلود اپلیکیشن اندروید》\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5927238474036941759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+dukgrB6-zGsyNGM8\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5911100357760522346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eجهت استفاده از وبسایت از آی پی کشورهای آسیایی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e یا کانادا\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5875454001809462498\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e، استفاده کنید\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5776252815756235806\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش کامل و جامع شرطبندی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-07-09T22:09:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2640,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vNN3XsY-AjkoH-Ln6kvlhK7469K36zLpY4AlaqEZn2HRAJzxgpXA8DCdUROe0QpijbUCN8Fc_0ci9782LM-sHH9ej_BCcLbjM3X7ku1mErlKBKdlpt845_IFnAskdLohbotdiCPR97fKfJTUgo9KLzX_evr0iKicqSWVYu45G9duQEl5fDNP8IUBjdTUhj5302RFAu9vRZQ9oD5yktFv8vj7j7VeRxo9evOAmTKh9KhOVTL5km15YGcg0wk1nqjOLtrhzeok4pc0LesGKY3qfnr6i8FzeGM6xk-312fZ5ZukGkPy_V6epbo2HBv-jRD-GBpkogK1E3G8YSqyQj9Y7w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5857447699313335177\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FAA99.png\u0026#39;)\"\u003e\u003cb\u003e🪙\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاپلیشیکن اندروید سایت جهانی لاین بت\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5852440446051028724\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e واریز و برداشت ریالی\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5859744248391275144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e هر پنجشنبه تا سقف ۱۳ ملیون تومان بونوس ورزشی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859645137725953745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e بدون نیاز ب فیلترشکن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5267509429829393505\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش کامل استفاده از اپ\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5920285072308572176\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949C.png\u0026#39;)\"\u003e\u003cb\u003e🔜\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5453971449255567733\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454394589433569901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454224006217473533\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5453999400902729948\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5454160307557508255\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5330237710655306682\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eTelegram Channel\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003ep18\u003cbr/\u003e\u003ca href=\"https://t.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+dukgrB6-zGsyNGM8\u003c/a\u003e",
-      "date": "2026-07-09T22:09:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e اگر به فیلم های ترسناک علاقه داری حتما اینارو ببین!\u003cbr/\u003e\u003cbr/\u003eترسناک روان‌شناختی:\u003cbr/\u003eHereditary (2018)\u003cbr/\u003eThe Babadook (2014)\u003cbr/\u003eBlack Swan (2010)\u003cbr/\u003eSaint Maud (2019)\u003cbr/\u003eThe Lighthouse (2019)\u003cbr/\u003eMother! (2017)\u003cbr/\u003eترسناک فراطبیعی:\u003cbr/\u003eThe Conjuring (2013)\u003cbr/\u003eThe Exorcist (1973)\u003cbr/\u003eInsidious (2010)\u003cbr/\u003eSinister (2012)\u003cbr/\u003eThe Ring (2002)\u003cbr/\u003eThe Grudge (2004)\u003cbr/\u003eParanormal Activity (2007)",
       "date": "2026-07-09T22:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3720,
+      "views": 5360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,12 +256,66 @@
       "date": "2026-07-09T22:23:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3860,
+      "views": 5650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5420323339723881652\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخیلیا نمیدونن که اگه ثبت‌نامشون رو با لینک زیر انجام بدن... \u003c/b\u003e\u003ctg-emoji emoji-id=\"5314504236132747481\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5276032951342088188\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A5.png\u0026#39;)\"\u003e\u003cb\u003e💥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بونوس خوش‌آمد گویی تا %220 بیشتر میگیرن!\u003cbr/\u003eفقط کافیه به لینک زیر مراجعه کنید و وارد ملبت بشید و به راحتی ثبتنام کنید! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918C.png\u0026#39;)\"\u003e\u003cb\u003e👌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6328014916242376226\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لینک بدون فیلتر سایت معتبر ملبت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6325786042964117069\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://vcsfmhfamc.shop/registration?tag=d_699225m_33771c_\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003ewww.MelBet1.com\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5235826903490764103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد از ثبتنام، وارد حسابت شو و توی بخش \u0026#34;بونوس‌ها\u0026#34; فعالش کن \u003ctg-emoji emoji-id=\"5352625743081775722\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E9A.png\u0026#39;)\"\u003e\u003cb\u003e🎚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eنکته:\u003c/b\u003e فقط این هفته فعاله، پس از دستش نده \u003ctg-emoji emoji-id=\"5461117441612462242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5235826903490764103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کد هدیه 100 دلاری فراموش نشه: \u003cb\u003eSport100\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5429381339851796035\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MelBet_Iran1/1422\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eمعرفی سایت و اپلیکیشن مل‌بت\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5341498088408234504\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AF.png\u0026#39;)\"\u003e\u003cb\u003e💯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"http://vcsfmhfamc.shop/registration?tag=d_699225m_33771c_\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e ورود به سایت مل‌بت (فیلترشکن خاموش)\u003c/b\u003e\u003c/a\u003e",
+      "date": "2026-07-10T10:00:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5382357040008021292\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8695.png\u0026#39;)\"\u003e\u003cb\u003e🆕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاپلیکیشن MelBet\u003c/b\u003e \u003ctg-emoji emoji-id=\"5375338737028841420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5235826903490764103\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کد هدیه 100 دلاری: \u003cb\u003eSport100\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456371000239212004\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسپانسر رسمی جام جهانی \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5274156304036800055\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کاملترین برنامه موبایل  \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224607267797606837\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29884.png\u0026#39;)\"\u003e\u003cb\u003e☄️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://www.pmxchange.co/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eصرافی معتبر\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5931683494605360367\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://t.me/Melbet_Help_Bot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eربات راهنما\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5935873982526920769\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید. R18\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5429381339851796035\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eورود به اپلیکیشن بدون فیلترشکن\u003c/b\u003e",
+      "date": "2026-07-10T10:00:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک"
+    },
+    {
+      "id": 0,
+      "message": "تنها دو سال پس از غرق شدن کشتی تایتانیک، کشتی Empress of Ireland در سواحل کانادا با تلفات مشابه (1014 نفر، تایتانیک - 1496) غرق شد، اما برخلاف کشتی تایتانیک، Empress در عرض 14 دقیقه به طور کامل غرق شد و1014 نفر جان باختند\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e-\u003ca href=\"https://t.me/proxy?server=77.232.43.253\u0026amp;amp;port=23\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروڪسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e★\u003ca href=\"https://t.me/+hA56yS7uKNRhNzQ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e𝐒𝐜𝐚𝐫𝐲_𝐬𝐭𝐫𝐚𝐧𝐠𝐞\u003c/a\u003e",
+      "date": "2026-07-10T10:00:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "حقایق عجیب و ترسناک",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BZvp5ocCArZ2xtA83lkSR84uVKM7OW2P34W3rO36q56oOxMZILyG-S0MICM8YDXZqw7q8HhBCd26kJBTNyL8yehqH56sNz-WNWx76Y_ZRuqP-L_w9TlL0vf0FYNM-rG26_zD5d8ZsHTB-u9iLvb0aU0kMIWCz0axyAJrmwCCDWps9AMkUuf8arjuBL7860zJu6pBoR-uMHwBMGvaR5QxiIpgPCIh4nFxoGk_ZUNs0kMsZSww7z7r5thQ5L5Q-mdiOS2dYLe2wq8qNWPyCdBVnA8dAO1t3cwFLrbocZab6rtYGPGipuXGZs-brur6uwH1SF8tHygPVxVSisz139Y2qQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعد از قتل مبینا زارع و اتفاقی که براش افتاد \u003cbr/\u003eدخترا اومدن از اعتماد های بیجایی که به اکسشون کردن تو لحظه آخر گفتن واقعا تجربیاتشون خوندنی حتما بخونین و این روزا به هرکس اعتماد نکنین:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+CiFOI06MzPE1ZWQx\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@tajrobeha\u003c/a\u003e",
+      "date": "2026-07-10T11:18:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 293,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "حقایق عجیب و ترسناک"
     }
   ],
-  "last_updated": 1783671735
+  "last_updated": 1783682745
 }
