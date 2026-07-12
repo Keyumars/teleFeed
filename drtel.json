@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "یه آب خواستیم بخوریما",
-      "date": "2026-07-12T02:06:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DEfZMqdrvx6kIC_CiqBKlyZYPoiolhRN4Dxf4Wl1aPu1RL4uQBmIVSLYrW_UG4rXq3cczR_5lViW3ygDGmF8eRjC9c0O4Klpqa-C5WUr1EIA7DZI_JBPcAzUgYxuIg3OD4q0nEsbsOwrczhrWH_QcPpPJgPUEyHG6DQoUSFgnUnKZdAmASPBat85vpUsXyRoVIN5cQ1Z6yG-q9It4e_q6nfJFEpoBfcjAOjEUseVCJD5S4wt5ACRvSTL3Wqa1mE8eP2yIyhseK02oLcyL_z-_AaZQutLNa51JsNZm71JTZx3-EIDTWv8S7N0CeFKg4BseiOs4_FISF5iWp-_Y4SZfg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eطبق گزارشات؛ ازچندین نقطه کشور موشک به مقصد‌های نامعلوم شلیک‌ کردن، بنظر میرسه حملات شدیده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-12T02:09:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EB-I9EI9Vdt4G2VMwpelyrJcgyhBt3ui3tr2-PPDqBOpdcFgplMzlNTbKg0MBw-JK9MgarjQNg9KLv9SWNMpOwhSNKuhrKHeDej_2AZhv1AhKTP7ku99lXMA9kIn3C1I5-rq9TgU8fiHi3yvPYq8C1Zl07mSZ7mfgGIjsw6YwYDScfAfxubaMTSsJxYHRJFaiWY7vjmBBoxt5Tf1JiQA2H42xlq76IiZ0vPudzma-wyDycgbjSRwbx4M3n1unmlmbYM0xsOrPdlT5JKbvQsg44xDpuGz3KXvqqSwuBHZrf4bCjhxhR0DtmaZ1tZ1o0ja505KXDmmT4ikfupLYodFrw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Xtu3Jt3kz_Fr9R_phvkz0l2Pdk9cIplIxHDXkgbSeeSo32X7COlq7PTUdbBPIzQQjI9WcCj8cVH8Dy7PF0ATZc0KpASwrnrvZvgaOBXgBSWZTt2fn-vEFHhHbPL0lRHXBHhQTKZTrwoZIZbp0ZpTOaSVL_foeFAXIN_bPS_RUeS7cenqj6EFEUfT7fB_ai2JFkwselNn79p8m2i6OUhKzeE17XveOBD4pvLlS6h321foZUuv0RfIg9r6sb7a6VK0dSa_R6Bh5LlQqfVGse3R4PYrO3nThaCzR7Yz9PMRiOalZZmafAGxUZBINq_KwTwLdcjzdG9JcX6dn1ytGuiChg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/L9PEM7xfW6Z7R3J0SoXh3MQRl72O9fJZhPVRbSZaHvbSvOoHs_hfcFPHDtpVPERCXKP7FONHJ-jYg3jZQGYndAYyxjU4GFY1jXvrMC5RzOII-uBZxNgiBXOvW88shvtslHpbrC-u-Q2rjjxvGRDyOv4gxJodRDmO9nve7EcJG-SNeKOX8CFLElfwgCW1tXBlArq0qtRRsonCPU41RwO9bf6hEHycIhqQ8KNVzOotvvFJHzybAJ9u_8Uc4bxyK1vV7MyAzZb1ePeMjKsyhUJuXx4jBkZfLKFKXbK_kl7n4a61IyaArwD9IzcpoVhPkLa6KDqjBaaWl67rDJb_TthGqw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vwIwx0M-P1HRMhIZhvJjwIvStN82ZyzUDo5H3a21-P2ueBtbsSOzsTBfBmZbxBpCxkIsUztjivK-fGgKSY9FUbVBfmmv90ZH1x3hZ3Na96TYsrYuxnMMfYPPUhbPK8I5iptrhB55Ci2IkaSbW83WfDRozerFTI2K8rDaNgQiyYg3umkvIUIqBIlT3qNr7hHIkkz233UUiYlLhg28z7c6XN5sfPet9DV_ul08PFV3OTh5thr7JTZx-mMTBtCgdzDlAoJ4w7-VEw5PizzTP_YpqYYqJQ9vaEDCImVhJYUp34Mmrafd-YuwFSqzGf3epP8SmrZctY-Bn3J3UyusyuDP-A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "باز شروع شد",
       "date": "2026-07-12T02:12:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +24,7 @@
       "date": "2026-07-12T02:16:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 186000,
+      "views": 201000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +36,7 @@
       "date": "2026-07-12T02:41:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 149000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +48,7 @@
       "date": "2026-07-12T02:48:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 167000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +60,7 @@
       "date": "2026-07-12T02:49:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 165000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +72,7 @@
       "date": "2026-07-12T02:53:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 200000,
+      "views": 214000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +84,7 @@
       "date": "2026-07-12T03:33:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +102,7 @@
       "date": "2026-07-12T03:33:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 215000,
+      "views": 234000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +120,7 @@
       "date": "2026-07-12T07:24:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 244000,
+      "views": 282000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +138,7 @@
       "date": "2026-07-12T07:37:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
+      "views": 179000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,11 +152,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتبریک و شادباش صداسیما به مردم به مناسبت مرگ لیندسی گراهام:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتبریک و شادباش صداسیما به مردم به مناسبت مرگ لیندسی گراهام:\u003cbr/\u003e\u003cbr/\u003e«به درک واصل شدن لیندسی گراهام رو به ملت ایران شادباش می‌گیم » \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-12T07:54:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103000,
+      "views": 144000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +175,7 @@
       "date": "2026-07-12T08:08:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90600,
+      "views": 136000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +193,7 @@
       "date": "2026-07-12T08:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64200,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +211,7 @@
       "date": "2026-07-12T09:24:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13200,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +222,85 @@
           "url": "https://cdn4.telesco.pe/file/fKF5MW8msBS-ivmKrmQXgKK5onD1KoHbXRI1YE9zpF9tVayFruf_vvgoQDQxa43JlXHp2bMnoDIsshizga7CJo6FkJHUQ7mkQn_v897BeCCOVexUT-TK7CiDxbdNl4j5-Fv9BPnEHnPPh73hymV8-NwJYdNhN9vGwdofULbgJnFvzYrqSHrcUivMeEjFP5WY08bDRI4Uyeqgp1bpjjLUGAqh6eq8v72H6Nq1Du6D0SWP1MjHezF8MzCE3r_NgxTcj5RX-XC3CQYTzZS9yD5hBxW17YumNvuY20NoV-wtqP5c8H7NS0j26Wc0HvZkNNnNtLKbcANR4uUFqbKeih12XA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eعباسی، مدیرکل درمان ستاد مبارزه با مواد مخدر:\u003cbr/\u003eتو هفت سال اخیر، گرایش به مصرف حشیش و گل بین خانم‌ها افزایش پیداکرده و اکثرا هم این اعتیادها از سیگار شروع میشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-12T09:51:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 92800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/K0scKk_TrAnKJk3PPTencueGDMcqBwJYvA3u1fDwAG_4huF-Z6Bvhs8uvfRW6lcYl1qO29d4qD8P_FzQq-eS6ncX09BmBWkw4_trcmAejMo9Fld_dfUUU1YaUDnNuhoVTH4AWU_K6_pbeilscM-U_9mWof9Hvi09cAoHNr1oMDXYZUZ9yG1I_jfVFsHv2WJDg1CBlVcVCCYQ86I5v7qIqdZpFb9cuGAMKxjiArP6pIgcNKogEsla9oogH4y292NC_aUlYmzP3FNnxUwmr9D-4kgITFdnbDXcCrbIH5_jSS8576DOjZueSJ81hiONylLnA1R8YUWICeq2PmAGw4a-ng.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eچندساعت پیش، میچ مک‌کانل، یکی دیگه از سناتورهای جمهوری‌خواه آمریکایی بر اثر ایست قلبی راهی بیمارستان شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | fars",
+      "date": "2026-07-12T10:25:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 69400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/f4NjiUBfPRy5khHNV8q2sJ7bOyxYNCP3WoD5KfWN1VNe0PUIBg4CjaC9mDzaanem1lcNlvzaEEyhsszQkqpsjFR2dxCE8dRDu2gVsTC7Ts0PuH4YEXd4nyrGixx_ozwKNjSxBLZ5rjV0g6drzgLHI6jPS281i8jZiW52mlAMt7E4dWz93RoT3oUslWrJbyitDiEf176lvlyFHrtlVmB9EMK8lGu-lCiDBEo0CZinEGs8CSRH6XSMVKn6VKZ0b3EsskvmlbukbVgN12Vg_huNawz1ZvL3YPaSTspZC2AF1T6INV0jlH3JjfjOsR-no65ZOhwAONQ-buRYj6HhfOLiDA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ایست قلبی واگیر داره",
+      "date": "2026-07-12T10:29:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 58100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "جمهوری خواه یعنی طرفداره جمهوری اسلامیه؟؟؟؟",
+      "date": "2026-07-12T10:37:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتو حمله‌ی دیشب آمریکا\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به جاسک، \u0026#34;حمیدرضا دهقان\u0026#34;، از افسران پدافند نیروی دریایی ارتش، جون خودشو از دست داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-12T10:47:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mhkOP3I4VIIzJ8_XGxugyu1H4f7ZbAovzRuHkd-ftMqRPZLK1oOewrp2KJ4BZ1Cj4_tOb9mgPV0CnlvjPD7c_3U-CNbCHJLAZkxFOraq7NtD42wT-dJc1bDxJIcShMu5m4OcTkRH1xvv-LKeszkp0cU-fpCNOZ9qyJzrowKzaw4h_TrbHfkyQe7Y04ZfXeqUmPHRtmuk15_xV5sqaWlMfEI4oN6fWnT3E77NZ4xJP184x-PGEzBQ4alocMKUh1VuV4g-t8K_45g2JIrolt3t3HpkBL1723ye9I4i4GKitHW6qhGjG0kPji6WEAJzppTOILVbNqdDcmQj0As0PU50rA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1783848444
+  "last_updated": 1783853693
 }
