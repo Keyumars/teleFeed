@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "از قدیم گفتن ایرانی با ایرانی، آمریکایی با اسرائیلی، بکش کنار",
-      "date": "2026-07-12T23:46:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "کص نگو اول یه نگاه به فامیلیت بنداز بعد زر زر کن",
-      "date": "2026-07-12T23:49:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "واقعاً نمی‌دونم چطور براتون توضیح بدم که دایرکت دکترتل چه دیوونه‌خونه‌ایه...",
-      "date": "2026-07-12T23:54:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bGs_AjL5tV1px6TNhrEcPkT1AbFlVjuK5-JXkn6TTMBRuQyvEiSFiaQUP3VU6m0qvz8HLjj8g7EHFHgBIi4oYNgbAxT_kETYVDop8Ii9cvQNYUvQCobVSUMgIMoHkPl8DIsUIiyhlG9DDkChjNyA7cD3eu02ED-G4RoVnMlv-7lrLsZHYJLKYEh3uF_go9f4Zc2antsa8zZrGDrOwzjl_AMzBRO64cdZlv0Wad7EBHbOnsDaDyYv-wh8nnE_5QGxrkYMFgizth5Rk7_lPgYHYzHKPfL7x7RjFLNrzdfKEPBVyZitkfYKqNuS8eIVgQW3K2so0bvm4gClIpAsjM5DMw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیویی که کاربران از حملات امشب ارتش آمریکا\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به امیدیه خوزستان برای ما فرستادن :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-13T00:00:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
+      "views": 144000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +42,7 @@
       "date": "2026-07-13T00:03:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +54,7 @@
       "date": "2026-07-13T00:13:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +84,7 @@
       "date": "2026-07-13T00:16:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
+      "views": 152000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +102,7 @@
       "date": "2026-07-13T00:41:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 106000,
+      "views": 152000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +121,7 @@
       "date": "2026-07-13T01:08:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 101000,
+      "views": 148000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +151,7 @@
       "date": "2026-07-13T01:37:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95800,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +170,7 @@
       "date": "2026-07-13T01:37:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99900,
+      "views": 159000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +182,67 @@
           "width": 360
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبقایی ، سخنگوی وزارت خارجه : تفاهمنامه رسما داره بگا میره!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eآمریکا از همون روز اول بندهای تفاهمنامه رو نقض کرد ، ما هم بچه نیستیم؛ نقض کنن نقض می‌کنیم. \u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنمیذاریم آژانس به تاسیسات هسته‌ای ما ورود کنه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eما به هیچ کشور منطقه حمله نکردیم و حمله نمی‌کنیم ، حملات ما فقط به پایگاه‌ها و منافع آمریکا تو منطقه‌ست.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eمرگ لیندسی گراهام؟ عزرائیل عادله! مُردن این سناتور تندخو دل هیچ انسان آزاده‌ای رو به درد نمیاره.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-13T09:03:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 64500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gnakL7vNixYGqMthiPaVIwm-RwZs4zhhZ50DM2HUH0rukY7Q2rSriZtIl9zl3xJzL2aYOEjBoJRNmbeehMBWCMqjCvan1lLYWOAcqskYu54atQJdFzL1OOukiuI82-qoeByuhDbXjZ7kvasQACa6AQVnKDvskRmm-VNh8aAN3H_gqGEoUC15DiT0XwYtgS4iN1nhtYZkTQo9019KkfYqPjCcDuF671XkLoMAXDqMy_C0gE4eyxeXtjULvTwKyg8rbZAEyRgs3nHlGF7Pnmwka8oGcDQdfyWfvy7SCE83F2eGwFwURlouw96uFauPmZXe0ruB9VnIFiSmSyHOaMu5zw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاین ویدیو از یکی از عجیب‌ترین دعواهای تاریخ مدارس ایران دوباره داره تو پیج‌های خارجی وایرال میشه ؛\u003cbr/\u003e\u003cbr/\u003eملت هم تو کامنت‌ها انداختن گردن وحوش عربستان سعودی\u003ctg-emoji emoji-id=\"5202079966761590204\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-13T09:29:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 40800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/f1TTEHC2np-Cw3N1Vwm5WFYClfQnMo1foQRtJJ7CK5BSD3XSm6X0xZtF42q_Lp-dIbYq3nNFeGnaNuRrpUpsI3uzukxYRAL51nJG9zLe-T-0BxZM3z00fZW_zKWZ7Nqjydk8lIlvb0a0RfixhulEWaUR_85M09HEtbz_WpACIhKoBEvDpvxt-GuA2bYtw23r3pN-5lQlFmBXO7Y4zNPi3QPeR_h08YGX4dcC_tJ0Q4VzAZV7GsC5-u5SQf3kEFCkiCWCcImu63dz2cY4lYcdHEyaokxFZ-oD3qNwuz6TPCbAc-NZ0tKlr7eX-XM-v-RcAxypjsPkFLEBSYr7KoCiAg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Gj_7UcC33wqW9jRdt5bN0AcDhe9X1S2Ux4aZiMX_tZgeocZekW5kZX_p4oAS35Gwd83365ENxn7RI1E-MTz78lgcEadF3xxpjQpEt882G8TZc1j2UiNe6yDSu2kxWnukoSiGrzvYYQtmg-P_tsfpUO_jTemP1Hz09SCyftbNbS8nW5TeozJM_dr6mMLRjncjMOH0O7x1IIx2sGgAdsMwfePwqOXXa5Zpjch3D6xEHR7sWOhd_OFCnBroeP42UOD8o4_o5EHkH06Cb4L467-yeFV_T6ptnojLtze2pcFTX_PKGiG-578hewKH2rwUMTj3G6FpFx6jOBJGm318T__TBA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nBIHtScGO-VNOt2JoylVsts_PmeWh2-k00W4sLPS8jd069ybhTgQS1x0M8oSLnxXprQ8yaT7NVOhrt6Ck9yIf59Yvxqt1jyn6HRh6Y97y6RhAOrMZzjvBtcxwDgcqwODQE05JJWuaSbVsh3Ws9lQ-LIG7k6rBsLvCCj8i7LlDxeNT1cNb02m_oPcNsE4jF2Ar_WA_YgT3e9R5c16YaXgleMt3penVsl73B8BtbzjCt_UJIGsi60uoLe99ZQyrOqqReLz7y6dltzAKopHsdiKGeeKCWlEu8ScKq3SMT3iFJIFv04vLMFE1ptz59kp-AEFHlNxAASLuKqjfw92nsL5eA.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ePyk3LAnDfs_bQ9JVQE0vb2vCkg4yHr44A1INA-gXcYgq-3aoMpdcJRVi5B3Y_MjrsIBDnTWUzpaXTnKi0aNZOTP44v0BsS9PuJURVC6i4AqhFtjDy5BC8Dk7dSCOPpCEmnVGqYz6p0_pBEck2WQ0vP9iSNa078FoBy8BNt_zWdmMmONuohxQfNhL9ZmpfUccWJqlVXxYqdIX1WtKrU397N6MClKqK2rHRIPawrH5tE9lAp2oROP-yN0fPL01JegO1KCaX40_tYRpF_IjWh7semOn6MQNQDVpbyIyXTypJAIep8FlHiZN5jgTkYdcGLI_O3sLG9VDQ0yR5-Kh1flMw"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهمون همیشگی ؛\u003cbr/\u003eحوالی بندرعباس و قشم صدای انفجار شنیده شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-13T09:52:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2029,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
     }
   ],
-  "last_updated": 1783923384
+  "last_updated": 1783936404
 }
