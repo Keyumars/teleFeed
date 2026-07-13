@@ -3,47 +3,16 @@
     "id": 0,
     "title": "Net Account | نت اكانت",
     "username": "NetAccount",
-    "photo_url": "https://cdn4.telesco.pe/file/I0X6Muz4Itcdbwcyq6BFNSieLZhYzUQfKVicUoutNLCNkvpd6OaVUcpSJ44YiGGfbP0X9CSrtXfLmu2x2RjwahSveIPerSpvv732Mw_lCZfo_W1auNcVfFsbQnX2vLPZwPFn-V_YvGLC2Yn_2lsSx0AFKUrD9BEE5la0Zs1-XboeC3xTrNgiHZOAOT6xZyfwrMkJ8675dk548xtTE69wgQDUgTzFRPJqFx1CXYf8O2fqZbkfK8cLHNuskpMqFl-qI0GtIoUxbavvYUTCJCrKpv8dRnlUFSFtgfdfI2vn2N_zVQNeyw5I89IhdF9abdjS44OUW-kYyuht_lMAXvx2Jg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/OrwEDogvUCexKZ_S_9F_wY4Otm8TL-umHczf3e6g3ZRoqJmkV2kuLQgjAQiS-p0oXptGjejqZriIM3sayU19YyZFrRYCS7R5b64bPI49JZqTkHeGDocubXaOeRyHYUhUjpi_dvPII12b6Hl95jzvoadayHBjjGesE97REjXRvNcQjPc6-eNia6NKTJJkY8W4rmNaMPPlJuPr1Ffi-XBlRqItZjpeBigGw2VEHwyXxp0l65Z1w-K8yGDSbvidYBBQCulwl2wdboqIdmzDSiJjn1vyDr0cvjNDNETokHF8G4hxThGPbi2c4kha14AMGIe4Wyj3yhBJ470EFZLLnGgYXQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "10 دقیقه قبل پارچین مورد هدف قرار گرفت",
-      "date": "2026-07-11T06:15:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32299,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/BAQjh-39obqpQynrvplkPg5w61juYpxeIZrWi98iGGxHnQ_CfFq0LzscuEdz3NdjI5ymJ0csuh0rpR6sPf0VKQaERdFA2b032sWzytcTX1za3X2Vk9iSPera9HSa-8ZEJ2xcTwrXP3rcyHR6XYB1AqTQ6zndHicOsLRoWWedJw4wRkwE3rTWD3gvKoeLZ0WxnPenw_ylcFs_cyTJp5fw3_8Jza5cicd0lflZf3qsaKFqopk0Jfrfnn05qFcclt_T9NbAmHMkDUacLPNT1jY64tjYZBIDRkXpMUtqThsrN7nMRlTE1WrsJn5hSnp7UE5hy7N94W5W6CXnInmcy9pgHA",
-          "width": 476
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "کانفیگ V2ray\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://ea5dbb0a-4dd4-7b78-84f3-3188b2de74ed@x4g-production-23fd.up.railway.app:443?path=%2Fws%2Fea5dbb0a-4dd4-7b78-84f3-3188b2de74ed\u0026amp;security=tls\u0026amp;alpn=http%2F1.1\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;host=x4g-production-23fd.up.railway.app\u0026amp;fp=chrome\u0026amp;type=ws\u0026amp;allowInsecure=0\u0026amp;sni=x4g-production-23fd.up.railway.app#%40NetAccount-US\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://ef61d287-1771-71f0-211a-474478346d4f@x4g-production-7c77.up.railway.app:443?path=%2Fws%2Fef61d287-1771-71f0-211a-474478346d4f\u0026amp;security=tls\u0026amp;alpn=http%2F1.1\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;host=x4g-production-7c77.up.railway.app\u0026amp;fp=chrome\u0026amp;type=ws\u0026amp;allowInsecure=0\u0026amp;sni=x4g-production-7c77.up.railway.app#%40NetAccount-NL\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://65bed288-9602-d3aa-f7ef-752da3683677@x4g-production-1e7a.up.railway.app:443?path=%2Fws%2F65bed288-9602-d3aa-f7ef-752da3683677\u0026amp;security=tls\u0026amp;alpn=http%2F1.1\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;host=x4g-production-1e7a.up.railway.app\u0026amp;fp=chrome\u0026amp;type=ws\u0026amp;allowInsecure=0\u0026amp;sni=x4g-production-1e7a.up.railway.app#%40NetAccount-US\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/Ne2rayBot\" target=\"_blank\"\u003e@Ne2rayBot\u003c/a\u003e",
-      "date": "2026-07-11T07:23:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
     {
       "id": 0,
       "message": "آسمان دَیِر لحظاتی پیش\u003cbr/\u003e\u003cbr/\u003eدقایقی پیش چند انفجار در بوشهر، کنگان، عسلویه، سیریک و اهواز شنیده شد",
       "date": "2026-07-11T23:33:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +30,7 @@
       "date": "2026-07-12T00:23:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +42,7 @@
       "date": "2026-07-12T00:37:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +54,7 @@
       "date": "2026-07-12T02:02:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 29000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +66,7 @@
       "date": "2026-07-12T02:23:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +78,7 @@
       "date": "2026-07-12T02:24:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +96,7 @@
       "date": "2026-07-12T02:47:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +108,7 @@
       "date": "2026-07-12T03:12:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29200,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +126,7 @@
       "date": "2026-07-12T06:18:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 34100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +144,7 @@
       "date": "2026-07-12T06:44:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30200,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +163,7 @@
       "date": "2026-07-12T08:00:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27900,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +181,7 @@
       "date": "2026-07-12T08:58:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +193,7 @@
       "date": "2026-07-12T10:24:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 29200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +205,7 @@
       "date": "2026-07-12T13:58:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +217,7 @@
       "date": "2026-07-12T16:12:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +225,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/popqE32eGn8C0YJjopOBZHFl4u6NqTYRitXKm5058mXt4zbUyIhTKxird2Q1o6OSbwt2KwgYUwrYd8mXK7smF2C88koWjCfa22VXRIyfkbMFPI2_Rbd-X0_V9jPUsGubUeGqr7cn3m2cxBpiUpkh_0hngzh5pjoKjP2Mzp9NRFROTBfaUJbfP1egTR1Sz0rugxIcjYtLyTEojiyHDG4whrxB-BGlLQ39VJY-Q-zgt3b-J0mAyEXzK667b0tCT8CPSm8gE5Rwz1KcfKSUGS7Cf7Kuc0xRC6DOxvhBv61fsqHaIZhnQFXcsDI77bFk1ZTMWxACaWFqvVAhq854Cy6HLQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/D_ONfrAvtSoxCucOHWnqsB_phxepyTlLu5EANhI8k0Nr9vXnDGTx0V6fIbY394lf92-8QqSVBwYafyys8YRDErK0cMie0jEXJbmJofS7oaCVrRyhwcoXR3tnqjkR9C9zq5pbkCOwGSarZ1KEYZF0-f_UMmEYmIfp4kaX4t31E3TPvREf3Zz21NpADpEZO-PGK-Hrhx-uoVplhpaHCT3a8-pRTQ6JI05I0_UDtS75Q2F5zhSznAX1whbLNCuvLSOnfAHefG0Eqb9y5diFhlb-Us-1_RtNynn7DqIBuZYoJzIgler8RGTW2nvgQsu_x27doraUPI1YOo5qFKqwvrH2yA.jpg"
         }
       ]
     },
@@ -266,7 +235,7 @@
       "date": "2026-07-13T04:48:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +247,7 @@
       "date": "2026-07-13T12:12:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14400,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,12 +259,42 @@
       "date": "2026-07-13T12:30:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 18300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "پست جدید ترامپ در تروث:\u003cbr/\u003e\u003cbr/\u003eمن به فرماندار، هنری مک‌ماستر، پیشنهاد کردم که خواهر فوق‌العاده‌ی لیندسی گراهام، دارلین، به عنوان سناتور موقت ایالت بزرگ کارولینای جنوبی خدمت کند. این یک ادای احترام فوق‌العاده به لیندسی خواهد بود که او را بسیار دوست داشت!\u003cbr/\u003eرئیس‌جمهور دونالد جی. ترامپ\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eجالبه بدونید لیندزی گراهام که بیش از سه دهه در کنگره بود و یکی از مهمترین نقش‌ها در رهبری حزب جمهوری‌خواه رو داشت، به معنای واقعی ساده زیست بود و از نظر میزان ثروت در نیمه پایین فهرست ثروتمندترین اعضای کنگره قرار داشت و ثروت خالصش فقط 1.4 میلیون دلار بود. عمو لیندزی هیچوقت ازدواج نکرد و هیچ فرزندی نداشت\u003c/blockquote\u003e",
+      "date": "2026-07-13T16:09:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/PJqmJYHavjBQPUv-XLwruscQ_Evvuv_o43gQ2f37MNrWjRWUGdX61mf0tYovVjwyTh4HyQV1abOsjb1TFzljBe8xlBeVhUwMq8CP3HUg5Lk3AuU02u8rxZPJD70hgHAEDBWMgqQIlBEFNdhDnEeyoiJxbF2PDMGvU0NmQQ3DZtv2nzkmP1Tk-kkiHq3KBviAPjSn5JlSC3QKpqURzJLlocUxEqPBK6_m6ZZFOEN_LkHF9SWRGZN1Do-wjcFux6dy4YzpWVE0pA8gOw-CppO4yppfNceWMmUr3nxeR5bu-YR9S71Y1tP3nLf2tQslqCK0Lm9jUWO6jXzoaS5BI0PRkA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/proxy?server=book.malavanann.co.uk\u0026amp;port=2053\u0026amp;secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=book.malavanann.co.uk\u0026amp;port=2053\u0026amp;secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=rain.golgoli2.co.uk\u0026amp;port=2096\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=rain.golgoli2.co.uk\u0026amp;port=2096\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=permiiium.lavazemi2.co.uk\u0026amp;port=2096\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=permiiium.lavazemi2.co.uk\u0026amp;port=2096\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=khob.nisti.co.uk\u0026amp;port=8880\u0026amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=khob.nisti.co.uk\u0026amp;port=8880\u0026amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=87.248.129.7\u0026amp;port=2053\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=87.248.129.7\u0026amp;port=2053\u0026amp;secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d\u003c/a\u003e",
+      "date": "2026-07-13T17:20:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1783956377
+  "last_updated": 1783963809
 }
