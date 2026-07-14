@@ -8,89 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "صدای 2 انفجار در چابهار",
-      "date": "2026-07-14T02:44:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
-      "message": "دقایقی پیش حملات به بوشهر",
-      "date": "2026-07-14T09:38:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vfG5Tp0Rr72LjIETWxEIS30NdY0J8B5P2nn8jcglgB2buHB5LAcL-4xXRPGq-TMCTJlUVgYCzPnFrWQVB-2ZQfO8V1qqIvUopdq8iXb6jPRJWxdXTebbhOww4FKz2jzWZXkcXoNkK5CWlV4buQryQwArprs0WUaqJELtX2cY8lKmdFqIEYNtiKWJGxRKB-8yHliGpGMaRLHwOLJX7J9UxkNSFwJkd-LxB024vq8AKlqnEs_4AY-h1wvc8erQS4FPZX33UR6LppnFD9vBcxWVzKy_qjBF-pubt_XiZrrZxOtdXJq8Pc4sPxD0Ig7-fCSvM1-0YuFpHN4biNg-MwT10Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بوشهر",
-      "date": "2026-07-14T09:41:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ppepyZc3udnhH4I6pj5jNy0s_eWfcjTF9Vn3_WbDxHC-22rdJjE4D0iaQGVvqB_y922KeY2xZnjHMM875MwKcnCdrteZ0ydJc857KvMgKmZ15eL3Mjn87doFKNG07uvdOWuHgTkHuX2ukrRf-DexmmXJl3UWpzOkGPnmUwqrRXch55w1D1VlCb8W04bcLvf0ZFPS1h1ebnsEh9Q-dkI8LxmsV7P2bHxeQClMJAdthdfzUYV5_YzcyQ2vuDgLa0itMy1cU5sWUFPpH8nRVWzSFPyUdHfns5WRfBpmW7tvF2ybyoOZXu49xUY8OoTOMTv-jEDUK0GVU2AFW9h31BAFXQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "صدای انفجار مهیب در بوشهر",
-      "date": "2026-07-14T09:58:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
-      "message": "خطر اعدام عارف خوشکار جوان 26 ساله و از معترضان 1401\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش های مردمی، قرار است جمهوری نکبت بار اسلامی، شبانگاه چهارشنبه حکم را اجرا کند. اگر میتونید اسمشو توی توییتر پخش کنید",
-      "date": "2026-07-14T13:29:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rlI4p4tqc5x_Gbk4Dj3NE-6p7cMFL4bnUErGO-kaum2Ntr2D4KFjYBliXFMGCUhcXdLkqzV_wxr-z3V1pN4KjwlZOzmZIJs6yaKMkt_qcYVMSomHV8231dEWsCAFPe3rzPYql7Lq3DCNvh1K-RzxJwNarlpyNbcjii9xV3pskRj_Zp25FxVk4BZC3WVvAq_-puJ5N2KgE4JkNt19aG0g2p5frt_eReb_jQdu0jcYTMJuH3H9OsoG6WE8E8qK_xef2zRNOU8MIf8IaHbN8lRtqiBrEizbxla7DlwFH8IZERhec3QODCNp5PcppALCgGOQosCQh2P2k8Mz6q7ByI6jPA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eآپدیت جدید تلگرام منتشر شد (نسخه 12.9.0)\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eقابلیت های جدید:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eویرایشگر متن غنی\u003c/b\u003e\u003cbr/\u003eیک ویرایشگر متن پیشرفته با قابلیت ارسال تیتر، جدول، لیست، نقل‌قول و بلوک کد اضافه شده که با استفاده از این ویرایشگر میتونید عکس و ویدیو در وسط پیام خودتون اضافه کنید\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eانجمن‌های تلگرام Communities\u003c/b\u003e\u003cbr/\u003eاز این پس میتونید چندین گروه، کانال و ربات رو به هم متصل کنید و جامعه‌ای حول محور یک موضوع مشترک تشکیل بدید. اعضای انجمن میتونن سایر گفتگوهای انجمن رو ببینن و به راحتی به اونا بپیوندن\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eپیام‌های نامرئی ربات‌ ها\u003c/b\u003e\u003cbr/\u003eبا حالت ربات مهمان، قبلاً میتونستید از ربات‌ها در هر گفت‌وگویی اطلاعات بگیرید. از این پس ربات‌ها در گروه‌ها میتونن پیام‌های موقتی ارسال کنن که فقط برای کاربری که درخواست داده قابل مشاهده هست\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e۳۵۰ میلیون گیف\u003c/b\u003e\u003cbr/\u003eپنل گیف اکنون به شما اجازه میده بین ۳۵۰ میلیون گیف به ۳۶ زبان جستجو کنید. جستجوی جدید با استفاده از نمایه‌سازی آفلاین از گیفهای پرطرفدار و عمومی با مدل‌های هوش مصنوعی متن‌باز انجام میشه\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://telegram.org/blog/communities-editor-invisible-messages\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوضیحات بیشتر\u003c/a\u003e",
       "date": "2026-07-14T17:04:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +30,7 @@
       "date": "2026-07-14T19:03:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +42,7 @@
       "date": "2026-07-14T19:05:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +54,7 @@
       "date": "2026-07-14T19:06:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +66,7 @@
       "date": "2026-07-14T19:38:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +84,7 @@
       "date": "2026-07-14T19:49:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18700,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +96,7 @@
       "date": "2026-07-14T19:49:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +108,7 @@
       "date": "2026-07-14T19:55:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18000,
+      "views": 19700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +120,7 @@
       "date": "2026-07-14T20:07:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 18800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +132,7 @@
       "date": "2026-07-14T21:18:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +150,7 @@
       "date": "2026-07-14T21:27:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
+      "views": 13900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +162,7 @@
       "date": "2026-07-14T21:44:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +181,7 @@
       "date": "2026-07-14T21:55:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,12 +203,79 @@
       "date": "2026-07-14T22:13:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3670,
+      "views": 9320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای انفجار در بوشهر",
+      "date": "2026-07-14T22:47:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "دوباره ترامپ اسم زدن پل و نیروگاه در صورت نیومدن پای میز مذاکره اورد، زیرساخت به باسن ها شروع به پروپاگاندا کردن\u003cbr/\u003e\u003cbr/\u003eای کسی که وقتی جنگ میشه مهمترین زیرساخت یعنی یه دونه پناهگاه نداری بری توش جونتو نجات بدی، حداقل تو اسم زیرساخت نیار\u003cbr/\u003eدر وهله دوم، اگه نگران زیرساختی برو به جمهوری اسلامی بگو زودتر تسلیم شه",
+      "date": "2026-07-14T22:49:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "مجری فاکس نیوز: آیا احتمال یک عملیات زمینی محدود در ایران را منتفی می‌کنید؟\u003cbr/\u003e\u003cbr/\u003eترامپ: خیر، گاهی اوقات به یک عملیات زمینی نیاز است اما ما افرادی دیگر داریم که این کار را برای ما انجام خواهند داد..",
+      "date": "2026-07-14T22:56:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Fa84U6GOVHeZ5W_HObFfLrgxRc8DG400dAfXVJN796y0ijxm4Crn4fnDkNwW06loIMOQ-kdfL3F1AW5qThkrwzcg0UntRt9Rxk6-f-vYZ9gD8PJ1UNkddQHLgxcFi_adaUlvWVUSdaXr6makWo2cqhgUlsZuXj9Fxpq_Dx5C_O_eibfYnxNcGfhGNaJcPAf9ZcbZXUzQh9J3t-bInHNfBrDESo_1gH29w6Za_-4UccBTYYi_oJ4o1KVk8uBfrzNBcs1VvSERqGWx4nIZ_Cvb7SEMlJWChHmxCLVvrQX6IK0rWnyWoIc3AY8cQxpC6zDoQ7-UcF-Mi2DPvlr-DQbeRQ",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "طبق گزارشات در این حمله تعدادی از سربازان کشته شدن. تأسیسات داخل پادگان در زمان وقوع حملات هدف قرار گرفته و همین موضوع باعث افزایش شمار تلفات و مجروحان شده. جمهوری اسلامی و فرمانده هاش در چنین شرایطی که در جنوب کشور تقریبا هر شب درگیریه، مکانی که سربازا درش حضور دارن رو تخلیه نکرده تاسیسات هم توش گذاشته و اینم مثل میناب، سپر انسانی درست کردن تا باهاش مظلوم نمایی کنن ولی همه میدونن که خون تک تک اون سربازا به گردن جمهوری اسلامیه",
+      "date": "2026-07-14T23:13:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "یک نقطه در دهلران ایلام هدف قرار گرفت",
+      "date": "2026-07-14T23:17:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1784068459
+  "last_updated": 1784073176
 }
