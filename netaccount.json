@@ -8,103 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "تعدادی از شباهت های چپ با مسلمون",
-      "date": "2026-07-16T15:14:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/alW_SnI_04EDDzwAdUUbi0tpSzZuqnkM8gO7LxgraKsl08ysgS5TK4YK_95iR4iXm1dLWOmTxEw66PC1GUsOEpzYtSCMQszuB_cr3knO3FgUmn0mFQNbpO6OD_ebyqfqVUMYz6isM8qwlvgmyQHtumR9T1KBR024my9b3DI5qo3WV1jWc_1iwn6N9g1bC--5yWQRB8qlR5aZmq2Fwha-rj211HrgX0hCKKiQZMscOE2JaN--nUtAFiZd2XLBSnIFDxquYt70siJnxNDqcv3WoXrxqZEp9M8h5IhF83puyOAKDFiF240gmkItAy07XatjrlVqt7l1i1u3UqENVhUKkw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FzmN0OerlLAlJhgolJTUTadGqeDPiq2wnjwFYsP625o4E4T3J6ktX0ZU9xFQfPxyiku5DNkwIZG_Vc8037Gd9uKiRKMquGCCGUpyEoJ2U7JeXJVsaX3MPqezY-eYM_vUEuIooaOLabF_eFz9AzeBH_alT5sDRL-CgXZDGY3wHeQdH4bYJVVJNun9AfMGC1wQ0jW8rykkfziBLvpF2Y6NnTWO_MBnH_NlwArIQOP11TIOIZqSIQMxK-ZNREjU5joU-Cz2AC8oOhJBi74sFflFXO_VP8AWixiik8zrM1TD8LRL5W3nIdwrdsMdlL2o8g4kpb4BAQW0rOw9GW11lX6yKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WCLXPGXceSFCRz8T2MfHatR0LDbP_mYAzohf2nzFF2xmdkET6kSkL5oC9D7nK9ltv6M3Gp2QcdvAADVOOpT07Nbo_k6lHVHJry0tv968FarDonCLjMSF3UtngCYhTcS796FBNPc5raPnv21b83jqArJ_Ip5xe-SWs0s0yVZhnqE_cbNwoosvoGUzSte5AuDAn-Qznn_IIPcMLjqA-tt0eSSb0VEDCaj2-TzLzygIcfoRMMK7lH0cvWOU3hs8YN2w3l_Xc1GPPXlPQGN6KFN8rwN0ywP_aTh2o3O94rDApUFdWSPeCjPFCaHjYE9xt-EWs2H6VfWePblPjPgOjmzjcA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/F-VdHZb1scs8GeUsJ7ZkxRMDjEoEFSTtBX1xT0ZFvWoy7LViDaYnjxFjqTTBXYedewNVEWa9gJW5UO_eyr7_6vSE0pfY3WL9wXY6TGGVX_Ac0HQ38c0a6PI4L0oKEPKj64u0OF8EXdepVbUGqGZv1vL_euFJZCMeW7AJ_G0ishpXOGPwjJWrPchY1sEjt2JeYiWBRsC2LkCm0-1Cg7debqx72tjPQ0jYDnEcMoxa-Tk_6CY4DTCkO1qzcRNsiG36nKk7T8acfdKAN_VWk7n7WLFzLVMwzD2MH633OGqq22dclkMrevSo-Sa-DIX4JanHCbrLbRzr-Hf_fKxx8iTjcA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dg1aBCB_NnvlBDBlOTsjkk1uAJOSqlhwqDR_PBLUdLYYqh9c3Tg-cQoR_58jFJUlKDyL48k-l8h03dFFoUCADR6E28_lyJrE6KB4-MNoVR8rOdtTTzMFik8QrjYBRJftAa8Lut7jG7t-hPkIhqItLzfPZ3jV_7FLxOURd09XxmELZotCl4cISMbLvCSCw4jqa4CBxFFcJgD7mlxMsV9Wb3KgwxdaNIkRT63zH8rEBFha5AdRKmNaVb2HrmXk4_AEosGW3zOnfvlgdSb_UKoRyzq2QUvxJT58QxVfll0KCDPj5ZihWpd6EtwHutEF-kfuOv5kVLzhqQ-kBSXDvb7ZWg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/u_MxeRP6-NaDU6X5a9_QdqnkgPiPg5bKYe3ddYpRi3ZuXyEysqteVhb9F4rI-WHWgnftoCQXnfM_zxQqdO1aH998DkGhjDQBlLLMczwq5p-JaIN5_UsAP4liqXvr-X1dnOb-OrOMlGFF2BtcbDNve66o0wQbmUglazADK2JzBP3wLcAYisSCev5P6UhZDQxPDXWV3WS_DIb3FaI-qtirxpwilaJwj01dZhOQLDuW_VQ4Gib8WBO3Do254OPlEGRmAH6rI_2CAk3JTYQDnjYGV8wHnLWG1H-v5Y159WY5iH0ehrsjdR8lsX2NinAbH0whPcn2MhqXO7L3NHlWKjgynA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HA2ZVWznzDierZc9rNSySFKLDVP2WbpbA5DlINtU51S5GqJ7BWJFXtK-gZInU_vlx3FxTZShDiBc9OTY6zWxb1AR_6hoVO1JwMODkxbNa_F8nbHyA-Ik-ucHSN_YOKxMlVy5cmnbKJmmO7ic1V5CXleDb_jS4AeQDQ-77qGpWwnvnry_QX-n9bXF9PmHN5iCZLjhKSxTrJICZ2flKdQ6tFtUm6763bptXrlbqdrcUf-RPtAhGs0Nx27t7B4bc_0E-B5nZMZC5jsRHSP8r5nCbMXL6lt3S-HM4JBR9v7ULOjX43wyggs4G9qoH3f99I05KGLH2My6OvERa4z_mD0WDw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lb8hxGUe9A8BcrM1m3MCIcOPmqdI-zobSsCL6pVhPhP3b665Z3BknVGP4NL_1ojNIeYQ4UsCFnSeHTY6h6cme__Bjz4Bi9POi-ibe8pS8-xuiyLoksq--V43sDY01wr68Hddrsh1fG1_Wp6yOhqOsDJpaMv4ITaEh60fnMD_uPjeYR6cmyEllCSxTW5DtzUSuG8dbPEpuGBVISRAuDrNGnI4K8TX0g0MvH5F12VqZeGXxnkVSyy26ythCSZMCLmwE1YYezxXG541kuPEAnmetazeMXdlrJNi4fh8IGAzxkMxOKAvixhS-FBn_em37HEoRu8KKiUrv8SD3g9wb_dvnA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z0DAhqdKgpGAkhHdePxw8khT9nUSnyv_YpjSvNnQi0y8Ify_wiYYb0SJulxNqnBrjMasGW6obV3gfUu5_5dUEh_F6lm7Q0gedCQ_3v0pTIOiPqgY8LKNUjOI0pWBoek5T5RUXc0gOY7xCmwK_sA2yBHbf2EHhl-oyMGMbUWaNTTsWzbhgGSxaziJwz7pHsXm7SanWqlbEz14PJwDe28-aG2Olt0WQ4aoVmER21_UiC9ckNWcxRoPDhH1A02XNesm3J5wJUH9vBi0_feTLmXtcSvYstLLaLzDkAYMKSvL9D8WFifAvM6mNai9Q5X3C-QAEYMaE0q2WYPOvET5APCrew.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mJ3oz61gIVzViYQAhDwRoaTRvRblPUg0T5IYD1J-XoY2lEdQEz1m1Q_ABqMRFyc3bhyGDdzRakVyRkVfij2wGiECNO4JnCnrlIue_nvSO4ccriwz70UwMtqnyslKw3HnuzS5brSfQvW9vCvpFFUuzp80bvw_uzNPKBUopsdQj2ztpelYbtyF-hNcLI6A7g4i29agphrzi9SouS9kgYuJ0QXf2te-R94wPV80HUS9ycivUxs-Jv4zzA03FN3lzy2_2ifAQfz1i_3H82-mlnkm37DHZYaPkcwFXcNA8CzXymf5jgpLuGJXwobp2iwm0446NAfhE_13g4f_9AdDqsyv_A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تعدادی از شباهت های چپ با مسلمون 2",
-      "date": "2026-07-16T15:14:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bsdwX1-lzHhScU7SwQUpOeBvzASjFwk-sJJipksmcUw6TT8HPR7znWaiWv2H5kX4rw2ONgo6_H6ap9w0Aeh9Mm1p-tZl2fz43F-6Ymu4f9lcM5txd6iY58bquNQuFbHE0RtLnuI8_zXlGbqrz_0L8gWO_yVtAmaGkgmBkrfKvQF4szv7S19l3BtkJPK_32a5n7Bs90iF0TQAJW68Oux8S63BqP7BLDNTbx8kUVPjjcAijB869yW21QIdYnudcMqY4EgF1E5zdFKydNLG8FzzTzolWAL6sREJOG8uzhfM7Ks2jYimS3Z26f61tFjPmTOqvZDMV9Owt0zY7v5eHHOCFg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R0-MUmLiuWcA7qDWRy8NQfgN3JYtu4Wf5QgtKNk0ULvC80ZeL6quh13IyqEnnHGgQYWr7kc8opyrNRovLnn10YflQdB0k-zlQTWKVJ9m1xcfjqm2Yhi-RdtxPd7kJt43MZE-ovBF-dUNPDIQ61Qp4S4WEQl7RejqLrhndt23FGYbf038LfEjJCt2nPrnNaD2-JjTt51Zo6ty_GPJVPVBsy6L-DyCxCKqSZw8GTeuza18oOrPTrPGm36LoV-lh8UIjp0FBqpcwlMtbqP1zD25MRwuqUiO-yyQ1KoRLQ9g4hGFiPr6CO57B9ZcgeV5p8d9LjIFqiNUdJjKgaiXqgYUKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cgYCnZitzIGIP9bj0YKuM3RKDAmYtyjPTY8mihIHj-7usL5yNZIpQZrP-DE13pgAwTErmY2E_RfBizPG3dXqWItwLOhDTyM9zausIha20EmjtE_RiukoRLlCncGDGzacmOSeDo8zLY3eQihOu7t7RnKWiPRGCEYKKuoWNvbDYKX5OC7K98AlcXBhA2rZY2d7JkICG_7-Aa9xLIs0oPpfQFh_ILwzFBrGsj9RKIJSSKuMa_iunn82-CDt12NamjtgzEBXLQhjSgS2odsQJjQ8q3tMlkDNsDxjunDuYA-dIgaKvEGyBWB3mh5Kd_9eWDCHcPhOHpZ4Ez3OYuvo4qIp3Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MlxfyvIp4gumiWDX4fa5zXufNcmPBClQbO1S-4gtNB943CGXYaFlFfEhwvo-yKN_qTE5XyFjg2oHunkD1x0dLL5On1Hg-71GpEdSrRPa60wGhUwWpu7nogvrAWRjIEiXXT-aE60qNooxVzQRZBCDXEOBVUiUWlMv2fsDjFUmrfb0JTW8UnqE2vkai_zVwX8Y89_ZUB0BSnubiYQQzHlohcwvgvgPRrprzC4XfuQMVOqsjfmSKjRx3BZpjYsaSamnc_HTOg6a2cqFDdqud1rykutkyHKuFdqSchMidmyakwdvHBjitwgNK9sIj45P416X7ap5ytoluQU0tpMlglHjFA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/H20-r9PmclzHws8um-tCrZHQ7sZxu7M-wdFIvY118DebxpMPQYaQcFOubvGYeHD7y8dR6x1GtSzgNEsT1tjU7l8wvKHM3PdP72zSt3BbzGw-CgZ2S4bcpf9ni_zEk6BMB_JHZMP_sOcRuXM5TLcFOm481ByK3B9IubJTIIHQVC0FSZol4HEEpUxhR0ahrmAXDzXBR5ZQ0b7uZA74LOlHzDb1nVR7Em8-YKycueUXloDsHLJnWtjFbqRHjhdRmWTirJMmv6tl8fKtxbh9XY8b9PBfszpOmAa8lFPm7REpkqc4UF-97lgTk5xolBAa0mP5IEchLO2wq3s_VuPaf8_i9A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NPm_Pe7fQ6WYms4cN9-x6Jpxj6-gmHpUhLeOtlFJpHQQtD_HtR0DAigUF31Od_zvMwltRqyaMYnGEpyjUeDZsPrQHk2XGmDUWBOkZr68qQd8V1VcUh-a5HHZu9rJ9sAebJIIn_ktFlJsHYfmRqDon9wcqi0thaA2vdkSNXF7MOrvuDr19SZDvrReeNBU872eC4P-HzIlCGaRgRG42cO2NePd38XyP5vOZHK968E8g0u8AbtaKBQHXXGnQbpIFuqQRRKb6aakdsSzeTySMRFnkKQLTY6_fsuaXHz-4W2cJTs28lZ45tz78W_4eI8Egwb3RTeHDGnICaDtpHnpmr_LHw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "‏در حالی که جنگ‌افروزان جمهوری اسلامی در تهران و پناهگاه‌های امن خود پنهان شده‌اند، سربازان وظیفه و نیروهای جوان را در پادگان‌هایی بی‌دفاع رها کرده‌اند، بی‌آنکه حتی توان حفاظت از این نیروها را داشته باشند. این رژیم بار دیگر نشان داده است که میان جان فرزندان ایران و بقای خود، همواره بقای خود را انتخاب می‌کند.\u003cbr/\u003e\u003cbr/\u003e‏جمهوری اسلامی این جنگ را بر ملت ایران تحمیل کرده است و مسئولیت جان همه قربانیان آن، از جمله‌ سربازان در پادگان بمپور، بر عهده همین حکومت است. آرزوی همه ما، صلح، امنیت و آرامش برای تمامی ایرانیان است، اما تا زمانی که این رژیم بر سر کار باشد، نه امنیتی پایدار ممکن است و نه صلحی واقعی.\u003cbr/\u003e\u003cbr/\u003e‏این رژیم تبهکار بیش از آنکه دل‌نگران امنیت مردم ایران باشد، نگران حفظ حزب‌الله لبنان و دیگر نیروهای نیابتی خود در منطقه است. برای این رژیم، بقای بازوهای تروریستی‌اش از امنیت و جان مردم اهواز، زاهدان، بندرعباس، بوشهر، چابهار و سراسر ایران مهم‌تر است.\u003cbr/\u003e\u003cbr/\u003e‏خطاب من به سربازان، افسران و همه نیروهای میهن‌دوست است. جان خود را برای بقای جمهوری اسلامی به خطر نیندازید. سوگند شما به ایران است، نه به رژیمی که در لحظه خطر، سرکردگانش می‌گریزند و شما را بی‌پناه رها می‌کنند.\u003cbr/\u003e\u003cbr/\u003e‏من با خانواده‌های داغدار سربازان وظیفه که در حملات اخیر به مراکز نظامی جمهوری اسلامی جان باختند، عمیقأ هم‌دردی می‌‌کنم، و از خانواده‌های همه سربازان وظیفه می‌خواهم تا آنجا که در توان دارند، اجازه ندهند فرزندانشان در این شرایط خطرناک به خدمت سربازی اعزام شوند. هیچ پدر و مادری نباید فرزند خود را به پادگان‌هایی بفرستد که امروز به جای محل خدمت، به میدان مرگ تبدیل شده‌اند.\u003cbr/\u003e\u003cbr/\u003e‏این جوانان، فرزندان این سرزمین هستند، نه سپر انسانی جمهوری اسلامی. آنها نباید بهای بقای حکومتی درمانده را با جان خود بپردازند.\u003cbr/\u003e\u003cbr/\u003e‏هم‌چنین از مردم شریف ایرانشهر و زاهدان که برای اهدای خون و یاری رساندن به سربازان مجروح پادگان بمپور شتافتند، صمیمانه سپاسگزارم. این همبستگی ملی یادآور این حقیقت است که مردم ایران، حتی در سخت‌ترین روزها، فرزندان خود را تنها نمی‌گذارند.\u003cbr/\u003e\u003cbr/\u003e‏ایران به فرزندانش زنده نیاز دارد، برای ساختن آینده‌ای آزاد، آباد و سربلند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/OfficialRezaPahlavi\" target=\"_blank\"\u003e@OfficialRezaPahlavi\u003c/a\u003e",
       "date": "2026-07-16T15:27:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9960,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,12 +46,186 @@
       "date": "2026-07-16T17:06:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7510,
+      "views": 15700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای انفجار در بندرعباس",
+      "date": "2026-07-16T18:15:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "حداقل 3 صدای انفجار بود که مهیب بود",
+      "date": "2026-07-16T18:17:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای انفجار در قشم",
+      "date": "2026-07-16T18:21:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "3 دقیقه قبل صدای انفجار در جَم",
+      "date": "2026-07-16T18:27:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "سنتکام:\u003cbr/\u003e\u003cbr/\u003eنیروهای ایالات متحده موج جدیدی از حملات علیه جمهوری اسلامی را آغاز کردند.\u003cbr/\u003e\u003cbr/\u003eاین پنجمین شب متوالی عملیات علیه توانایی‌های نظامی جمهوری اسلامی است.",
+      "date": "2026-07-16T18:28:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 11900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bSWm6vmbhJhoH0pmf5gHkkwvEf7a6REpHa6Equ0Cnmna4H3_1dxFIMdeFM1_OkH94QDQl5Y31MeeQ-a4YG-62iSvYtEQaTjS10P53nKaufltD8jhsfkpUVlWcg4lpz5i6CdgcIkCZdX6xVgYcjLvPh8E9SfCVV0I69USMeCOT3EnRFXnEsx8DD7YE30cnnKQJqS40Kgvj54eDSCWP3aPV6KZES_LyrTjmk5N2xyM-HGomKcFfZF_5-T-NS5GYp88Dc8-No6-rllhwHqcdB63jQS1YwwqIqjWfuMJ4Evf1pgHNvK_VI9dk0ZpOhdVVf7Zpg7Zyo0Bm31-33EYCsO2wQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/proxy?server=88.99.175.27\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=88.99.175.27\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"tg://proxy?server=167.233.145.149\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\"\u003etg://proxy?server=167.233.145.149\u0026amp;port=8443\u0026amp;secret=dd104462821249bd7ac519130220c25d09\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=rudomain.info.\u0026amp;port=443\u0026amp;secret=7vDusL2a3E_UqTmU7jsqIWtjZG4ueWVrdGFuZXQuY29t\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=rudomain.info.\u0026amp;port=443\u0026amp;secret=7vDusL2a3E_UqTmU7jsqIWtjZG4ueWVrdGFuZXQuY29t\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=goat.nisti.co.uk\u0026amp;port=8880\u0026amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=goat.nisti.co.uk\u0026amp;port=8880\u0026amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=always.for.you.ir.mausjakaqd.info.\u0026amp;port=88\u0026amp;secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/proxy?server=always.for.you.ir.mausjakaqd.info.\u0026amp;port=88\u0026amp;secret=ee0000f00f0f775555fffffff5006e2e6963646e2e79656b74616e65742e636f6d\u003c/a\u003e",
+      "date": "2026-07-16T18:48:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای انفجار در اهواز",
+      "date": "2026-07-16T19:01:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9470,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "مجدد صدای انفجار در اهواز",
+      "date": "2026-07-16T19:03:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "همینطوری دارن اهوازو میزنن",
+      "date": "2026-07-16T19:04:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "دو انفجار جدید در اهواز",
+      "date": "2026-07-16T19:16:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "سومی",
+      "date": "2026-07-16T19:16:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای چند انفجار در بندرعباس",
+      "date": "2026-07-16T19:34:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای چند انفجار در قشم",
+      "date": "2026-07-16T19:37:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "اهواز انفجار",
+      "date": "2026-07-16T19:39:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 609,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1784225124
+  "last_updated": 1784230863
 }
