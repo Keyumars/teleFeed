@@ -8,28 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5399898266265475100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e With 400 validators across 6 continents, TON is one of the most decentralized blockchain networks on the planet. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431795571033645908\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA791E2808DF09F92BB.png\u0026#39;)\"\u003e\u003cb\u003e🧑‍💻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram becoming the largest validator opened the door for major exchanges and custodians to stake TON without increasing centralization risk.",
-      "date": "2026-05-12T17:28:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BSp9Kpew-BQdtksHaJkilvTeMa5k6q-b9SUIti0xuMh70s1vz2JePUSi5e2nqyScWmjyHJmmPc1mbLDDfPHla78Uhj1IBPbc66jYD2SwwXfchMyY6_p6iGJ5gEfKexBfA7uudYwE1nCA8ZlpJjiAc8lBDDWFdgf9hjmFt-WH02d1OwraQCXS7pf9cT7du_7gJalxcg8ET398pDNwasG2ZrHijvO_W__btEDphoELEx4SWeWOFY-G6pjiHLx-xWXW1VRWkdv8zcXIw_4mYGu5heiXk7dRMuDL6Dx1TESI_wAPTOuHnmbTcn7FUlpa4CduCnhXv36kXjXKVHZdnGohoA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CVlta-7gAEGMwMkmtMcSBrdLjWuuWTdM5oy-X8lQmmjLcSgKAw6inOnruajxJYcqjjIFsSQmuLaK6UgWppe_UV9u0vkF06BDIjyRQETbLlYWqXmar2VTUQGFQ0aVRjzqvyUQE697UytsLPBglkEEzKFp3I81NjHublJEC3QUtiqNRVUwm09yn6nVpXJQ-4mFkcpo-fbZsd_SnvcSLaD0h3T-SXNqznSfhpBso5X8zCYpCnjy3Kmm0PuIzgks2XId22vNedJQhfRkMoAhNMADHmc0BTdCd49FkHDP8qpvr3VJo6zZTJMgKn9KhbXYD47b6pwGw0A67OaZgASSDpavxg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5929303365463838232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B5E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🕵️‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Now you can search 100M+ Telegram stickers and emoji by keyword — in 36 languages.\u003cbr/\u003e\u003cbr/\u003eTelegram’s AI scans and labels millions of public stickers so you can finally find the exact suspicious frog you need. \u003ctg-emoji emoji-id=\"5846197380373810711\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-05-14T12:38:57Z",
       "edited": false,
@@ -306,7 +284,26 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5224362841208793190\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA0.png\u0026#39;)\"\u003e\u003cb\u003e🎠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram now supports carousels\u003cbr/\u003e\u003cbr/\u003eOne small step for messaging, one giant leap toward turning cat photos into keynote presentations. \u003ctg-emoji emoji-id=\"5373223594484587136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BA.png\u0026#39;)\"\u003e\u003cb\u003e😺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-19T21:45:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 126000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sl5emzzfcFW9P0ywLg3dPwg9ZU03BWjdTR4DehFTOepDvQX1JuuebiS_mKEmV--pvhIIkMj49d5GYM92Ba2fjvV9CvGkB-bqAtkTQhX7HtTaMU8QAwgSzwC407iH9CxL-kALG2CcgX8sdkNJlUXxjaGHRA39RoH5J3VTp8GrIMgKW9PXfzIki2LtoYvnl66_4PVzt5bIVK4xCXM6oHQ6Z2LP6ULVJBHM77fwSvbXQfd2LqBU4O1LhhhGwMof5CIVVATTpoXAqLTUSO0h7XucxA6P1YKCsO7L1bIPxtWO6N8w4MwzsaMkLr-kz62jloFlKwlUH3Yufi9Nianc-NAb4g",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1784493969
+  "last_updated": 1784497964
 }
