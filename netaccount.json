@@ -8,82 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "برج مراقبت دریایی چابهار هدف قرار گرفت",
-      "date": "2026-07-17T01:49:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n1Rkgr144Yd01T34SyFiuMEiUmymypvi_Ac1GXf4QK7DAzp2eLpOakIpcSQV_fXTTFcI7z1GaJGy0p9_EbRYMKAepeXIjUTeWrv8Gnyio5Q-DxKjxVXAPPOgqYxK20CQ-Wvt5e39vT1i5ANIn0HQ8t4ZpHs5-5DI9V1X7WTu9wEAh3dzcesYmNHzhDMClRDaP0jwvT_Vf2NYPgsqfdIMeRcwq9lxvRgUKPAoCjPhDSz6zwjAhhEtlKKDEE3IpkU61y6FAtlbcdsZjFC3Oa76jDFuRqai3jKOYXjFnqnpAxE2VEuwTW-2I-RQUIym8M1fixX_uzrsVzTo1KsCcuzqyA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kYfOK3LFo4F7YMGCsvvyAL8p8p3uU053A4wZyAIa8LwaZEUoSM0_YQpL5JNC0ocyEuYYgHZQhhK-kMeoe-qefh0Fcqor0R5mpaFM99nCmsddJCfw0ZXkLlD7e3zkR2aQgAhQVxrenRkUvZpeFKBCO7Bj_MZTzlUqmfbjeG0vcfCmqQaNicnsJQcRbtwDcrs4RgXRYHHQ1usJqEQmDJXkKLf6R1IiBop2VWM0rKTK_hfo50hixwUteS1kRCOQPxc6_8tM7sfw6U_ScmxLK4G61zhVuWelFMObnIC8xPpw6jpKVMyaEJ09ywDXFzB2F3ZWOZMhT5ANEEhPLGSuBBBJHQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سنتکام:\u003cbr/\u003e\u003cbr/\u003eتازه ترین موج گسترده حملات علیه جمهوری اسلامی به پایان رسید.\u003cbr/\u003e\u003cbr/\u003eنیروهای آمریکایی، از جمله جنگنده‌ها، پهپادهای رزمی و ناوهای جنگی، با استفاده از مهمات هدایت‌شونده دقیق، ده‌ها موضع نظامی ایران، از جمله تأسیسات پایش ساحلی و پدافند هوایی، زیرساخت‌های لجستیکی نظامی و توانمندی‌های دریایی را مورد اصابت قرار دادند. این ششمین شب متوالی حملات آمریکا علیه جمهوری اسلامی بود.",
-      "date": "2026-07-17T01:55:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
-      "message": "پهپاد MQ9 لحظاتی قبل بر فراز آسمان چابهار",
-      "date": "2026-07-17T02:20:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/D0ANa4EIjjGFFMU3eDp99we6OvRlw8h5PmnG5DBLR-IiUfOu-b_ObRWZoEJWkk3J-WHFOnmaFrj224FoDx4hguXqjRVzsCJRhLrJAuQ5TNyrd9naTOeU2QwJ1QLaPM2nizV33ltwvaxDWbTVgEWeVmTlz3mPZ3mGX2CyBaF0ufzpbNgOOfmcqlHGDO_dMTykDOjjrPjifoI7ZCzk19-V8B-_nrvxcsEtBmumQStTr4cHBNVDG9TjMko3tBq-76IV-TbmM1isMU0mjbe85-nX3UR83sr7NX8veJFi4lEkA5Jh211OpTnOYqQ9yD_Jw3MFv7BeODOvemhoR7iDZiukLg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "برج مراقبت دریایی چابهار هدف قرار گرفت",
-      "date": "2026-07-17T02:20:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p9wFGEVM7Od7_O5KduaRVVez0xMUaHycOvCrG5dOK00Tcl6RncqWIMNGYCPe7Xv5aPce8X603iFdcsoUtqISxXFjh-QOg-DG0bfUt9PzOGWtUTD_dmt0k3BQQ6VAglOZwtSitH72FFXzL_nohch7tGapdGoiRRgcGHmUcAf8Rrl1C5uZ7gmnJX5n0MTGUbbO-aAV_-ZSXYZoX9iqcmdMa044dt7h87ylkIo_JYDaIDquj8ZhTXUq4p6Pdq9Q_0UcYsdtX4lwwc4JhV_APLb9LpWsT2zGCvVj1IkziBumDn9V_vr4sxdhGWx7ND7QSvwnZiibRY1DPT7Pv19mPNUIbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "چرا اینجا، ونزوئلا نیست و شرایط کاملا متفاوته؟\u003cbr/\u003e\u003cbr/\u003eتعداد زیادی از افراد این نظریه رو دارن که ترامپ میخواد کاری که با ونزوئلا انجام داد رو اینجا هم انجام بده. شاید از نظر تئوریک هم درست باشه ولی بیایم یه بررسی داشته باشیم که چرا اینجا شباهتی به ونزوئلا نداره:\u003cbr/\u003e\u003cbr/\u003e1- حکومت ونزوئلا یه حکومت ایدئولوژیک نبود. آمریکا فرد اول حکومتشون یعنی مادورو رو دستگیر کرد و نفر بعدی که معاونش بود گفت من تمام همکاری های لازم با آمریکارو انجام میدم و بعدش سفارت آمریکا در ونزوئلا بعد از 7 سال باز شد. در تلویزیون و بقیه رسانه هم شعارهای آمریکا ستیزانه نمیدن / در صورتی که جمهوری اسلامی یه حکومت ایدئولوژیکه که هیچوقت نمیتونه با آمریکا و اسراییل رابطه دوستانه برقرار کنه و حاضر باشه سفارت آمریکا در تهران باز بشه و روابط بین دو کشور عادی باشه و اسراییلو هم به رسمیت نمیشناسن و قصد نابودیشو دارن به علاوه اینکه از هسته ای هم دست نمیکشن چه برسه به موشکی و نیابتی\u003cbr/\u003e \u003cbr/\u003e2- در ونزوئلا مردم اخیرا خیزش خیابانی علیه حکومت نکرده بودن (حتی هزاران و صد ها هم نه. خیزش میلیونی که جای خود)، 40 هزار کشته هم نداده بودن و خیزش میلیونی که در ایران اتفاق افتاد هم با فراخوان شاهزاده رضا پهلوی بود و هم ترامپ هم بقیه اینو میدونن میلیون ها نفر با فراخوان چه کسی به خیابون ها اومدن پس اینم میدونن که یه آلترناتیو برای تغییر رژیم که اکثریت مردم قبولش دارن وجود داره\u003cbr/\u003e\u003cbr/\u003e3- حکومت ونزوئلا با موشک به کشوری حمله نمیکرد و هیچ کشوریو به نابودی تهدید نمیکرد در صورتی که جمهوری اسلامی به 10 تا کشور توی منطقه حمله موشکی کرده و نه تنها عقب نشینی نکرده بلکه هربار هم این تهدید رو تشدید میکنه و همین الانم هدف قرارشون میده اونم توی جایی که یکی از مهمترین آبراه های جهان به اسم تنگه هرمز وجود داره و آسیبی که جمهوری اسلامی با موشکاش به تنگه میزنه کلی کشور از جمله کشورای اروپایی رو دچار بحران میکنه\u003cbr/\u003e\u003cbr/\u003e4- مهمترین مسئله که اصل جنگ و سقوط به این برمیگرده، جنگ اقتصادی بین چین و آمریکا که رژیم ونزوئلا گفت من راهمو از چین جدا میکنم و به سمت آمریکا میرم در صورتی که جمهوری اسلامی حاضر نمیشه چین رو ول کنه و میخواد ضد آمریکا بجنگه\u003cbr/\u003e\u003cbr/\u003eپس آمریکا نیازی نداشت که بخواد کلیت رژیمو در ونزوئلا عوض کنه ولی اینجا مشابه اونجا نیست. این وضعیت \u0026#34;نه جنگ نه صلح\u0026#34; که تا قبل از پودر شدن موشعلی و جنگ 40 روزه وجود داشت، دیگه نمیتونه ادامه داشته باشه و به این شکل نمیمونه. یا باید جمهوری اسلامی زودتر تسلیم تمام خواسته های آمریکا شه و مرگ بر آمریکا و اینا بساطش به صورت دائم جمع شه و روابط با آمریکا بسیار دوستانه بشه یا به زور تسلیمش میکنن. حالا اگه فکر میکنید جمهوری اسلامی که توی جنگ 40 روزه با فقط حمله هوایی سرنگون نشده و الان متوهم تر هم شده حاضر میشه الان مرگ بر آمریکا و هسته ای و موشکی و نیابتیشو بذاره کنار و اسراییلو به رسمیت بشناسه و اجازه بده سفارت آمریکا در تهران باز شه که هیچ، اگه به نظرتون تسلیم نمیشه، به زور تسلیمش میکنن. چه کسی خوشش بیاد چه نیاد، چه پل زده بشه چه نشه، آخوند اجازه بقا نخواهد نداشت",
       "date": "2026-07-17T09:56:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25400,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +24,7 @@
       "date": "2026-07-17T10:26:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +42,7 @@
       "date": "2026-07-17T10:50:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +61,7 @@
       "date": "2026-07-17T11:28:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +73,7 @@
       "date": "2026-07-17T11:35:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +85,7 @@
       "date": "2026-07-18T00:41:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +97,7 @@
       "date": "2026-07-18T01:29:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +109,7 @@
       "date": "2026-07-18T01:55:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30000,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +127,7 @@
       "date": "2026-07-18T01:58:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32000,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +145,7 @@
       "date": "2026-07-18T09:13:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +157,7 @@
       "date": "2026-07-18T10:23:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30400,
+      "views": 31500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +169,7 @@
       "date": "2026-07-18T18:22:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +181,7 @@
       "date": "2026-07-18T22:29:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +193,7 @@
       "date": "2026-07-18T22:30:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +205,7 @@
       "date": "2026-07-18T22:47:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6140,
+      "views": 9470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +217,7 @@
       "date": "2026-07-18T22:55:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5490,
+      "views": 9510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +228,55 @@
           "url": "https://cdn4.telesco.pe/file/QVE0aUBkSXAYoczVSR6NckFYOs3BABHQ65P4742bp33eCmWFVovjABJB84JAU8nhGFDf0IWBZdoacnMrZ5NX9NbcIymHRAnIOuW_nDjF4GyBOrDAnk79fcJzjWIK3wyAz549k1Opm7QC8pWGgMImktT20OCPsJD49AI8Vk6ksnxKJ8bAA0M2CUTru46PbVWhoMSbj7ZY0itw_KMrFUokOXDOmtF1PzVds2ugo0GQUV4C61fbbU7e4Fs35fYqb9sEJ5wxzg9OZHiSYmbC0M8rUemKX2aiOq8-SXavXm_Si5CTyCWTlpgIsBFkuBcWCB0qutB9nJ9zknryso2wJtOqzg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "صدای انفجار در بندرعباس",
+      "date": "2026-07-19T00:05:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "انفجار جدید در بندرعباس",
+      "date": "2026-07-19T00:06:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "صدای چند انفجار در قشم",
+      "date": "2026-07-19T00:09:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "انفجار در سیریک",
+      "date": "2026-07-19T00:21:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1784417158
+  "last_updated": 1784422837
 }
