@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5929303365463838232\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B5E2808DE29982.png\u0026#39;)\"\u003e\u003cb\u003e🕵️‍♂️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Now you can search 100M+ Telegram stickers and emoji by keyword — in 36 languages.\u003cbr/\u003e\u003cbr/\u003eTelegram’s AI scans and labels millions of public stickers so you can finally find the exact suspicious frog you need. \u003ctg-emoji emoji-id=\"5846197380373810711\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-14T12:38:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/h9Lxz9f2c21pnuDkGrW4Yj1ut44rx9-A0Eg9ywpzijVMIXCQo7ohw22ckYSoEUALB-Dedbseu2zNVftYMWBfglWycd9dXv-uwqBJS8a8-k5Xs9rIK4aa138CW-JJJG4MVAo0BeWAFht4931U04oRbdCBtnDOPZo_i3h1-YI9M_CcyoY-izf1capJZnbk_iURZx_rq2TJVpte8nrhdA8FwPmOa64cd8n5FXW0ku-P2JXvtaI1cdeyEampI0DTE4EfVzhEreuj_DuFGm97I_VWutp_i3h06iTq2TznG1CPbmYxQsNBaZsu62PfmAuC4Ua3xL9r2CmV8hjDAf1EVr3n5A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e$100,400\u003c/b\u003e just went to the \u003cb\u003e15 winners\u003c/b\u003e of the \u003ca href=\"https://t.me/contest/452\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTON Consensus Challenge\u003c/a\u003e. \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e \u003c/b\u003eThe smartest engineers on the planet — some armed with loyal AI sidekicks — helped us maximize the security of the new consensus mechanism.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/contest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eTelegram contests\u003c/a\u003e offer generous prize money — and the only path to joining our engineering team.",
       "date": "2026-05-15T18:14:32Z",
       "edited": false,
@@ -303,7 +284,19 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399898266265475100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e This summer will see \u003cb\u003ethe largest rollout\u003c/b\u003e of a non-custodial crypto wallet in human history.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eInstant zero-fee\u003c/b\u003e crypto transactions for over \u003cb\u003ea billion users\u003c/b\u003e are about to become reality.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5235630047959727475\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We\u0026#39;re bringing a \u003cb\u003enative\u003c/b\u003e non-custodial \u003cb\u003eGram wallet\u003c/b\u003e to \u003cb\u003eevery Telegram app\u003c/b\u003e! \u003ctg-emoji emoji-id=\"5395335069671910047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB3.png\u0026#39;)\"\u003e\u003cb\u003e🏳️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-21T14:36:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 309000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1784638448
+  "last_updated": 1784646276
 }

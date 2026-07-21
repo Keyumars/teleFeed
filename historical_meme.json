@@ -12,7 +12,7 @@
       "date": "2026-07-19T17:50:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7910,
+      "views": 8070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -24,7 +24,7 @@
       "date": "2026-07-20T05:15:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6830,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-07-20T06:50:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6930,
+      "views": 7090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-07-20T07:33:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7960,
+      "views": 8130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +72,7 @@
       "date": "2026-07-20T09:15:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +90,7 @@
       "date": "2026-07-20T11:30:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 8390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +109,7 @@
       "date": "2026-07-20T13:37:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
+      "views": 7960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -117,7 +117,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sj6VMWP7gzUPgWfTKO7LfRn56kzy2rJ9NZaqBGtD6MqmMoeYsaFeTlB3cr7Lbw6uoI__X9yMR4M1M1YZLvVaTMS_OZXzfDhbGji8rHzsRoMKOT8iBf_KquKiChojaE5590pDqN2HXwyvoFWDIOk30nTc9HqADsfeQwB_6t6piJ0jucih6GMzD6dy-4xO9lp8utwkeUmma6kPU331rjwgSzrTCh7y3iPiUGDDWHwo1rXLxFkuyMCDtKKegSBpsIcqfaNajXBk9aD7wKtfpgAnJd1CduCfBdVri_7vyfqFHFniabYCT3wJA-c004zI7NyYD2mcAKaT6m5spK3vbkdASg",
+          "url": "https://cdn4.telesco.pe/file/jxNx3dzdLzxEV1a9bkO1R8bp-XkFMVWWIgwNWN2uuTXMxHyll_ArtS19pO8Y3YsF415pOOx1qrbBn40zxo-klRgAAx9YPhWyeVkTNPzEwFEvI5Y8m-Ii8akwKrnwBZqPxYmA2C1GtrPndzV_HSM6d65znRGiCJobCl_fNSMmj8sly4uLi1TjqKL3Aa6t3knhFnzpss8lu9yKZBwvOjSR7BP1LMp5sDOrbge2kYcLQbAjD7RA3vxnQcPzaZgkjlki4FP8rs88j7whkeavV2pTvA5XM4C0e9d05Dt-86ph3IwmjGAiq6rwGfU2dQYomlseYTiWm4VYrz0usmcSvQcXiA",
           "width": 720
         }
       ]
@@ -128,7 +128,7 @@
       "date": "2026-07-21T06:49:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 6240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +146,7 @@
       "date": "2026-07-21T08:30:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4700,
+      "views": 5540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +164,7 @@
       "date": "2026-07-21T11:02:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3180,
+      "views": 4360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +182,7 @@
       "date": "2026-07-21T12:04:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2110,
+      "views": 3700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +193,25 @@
           "url": "https://cdn4.telesco.pe/file/Yz9Jd8tuPQIknucwTVh0cBZ4CaUiTRIJtPhQzFduSXE0eAvX6zG-e7qooCbYzqZyoQTH-zLlTiDkmeraKPFeD3FKb6MIOcd6HpitR38KD9vVwBUuoQufJjGV6FgkjyvDoF44nyEPKLLjum74YccscMV2zDsW1c6CxUw3cD8erMA26ggC1GVQcJ8Iphymbn4ZCK6_1jzfdk2-ycp3Rr0oyxpKaO5zI4qO3AYHNYiDOjJv8JqdIqFkVsD3jwXuoIsIivuw-KvkRKKPeDluoQBbQfK_F4aK7V6pKv9h5EGDqY8MXAVDH9zEVi7aZd4FFiy8WLjORqPJeMaWfxi6yvizWg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4992305620766950781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Historical_Meme\" target=\"_blank\"\u003e@Historical_Meme\u003c/a\u003e | تاریخ میم\u003ctg-emoji emoji-id=\"4992583883108123466\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-07-21T13:32:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تاریخ میم 📜",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/J3-G_jyuuhFC2eQJVLcCVt_FcahAzPjhdvtfB95Z3bHmlV2o0X9LSr01tWAI7yXFYr__JDJHv2Wqf5hQ6UxUFQLIW79Oe0b3tnBVzlhG4e0Id56tlTgzjNjdWF63hU2TkCUxXOz_DWEkpgnBKGG_IkXxuaCgjjSQdsU8ftNOd0NIdsjN58j8ayo12KxSrSIRpAaEHOU4aieIeCAYziKiGkrN2RjaJEHw9uB0n8te8XYGkTxp-gGH473VQZs-7WutTdsraoU7kjwpi1fdfT2YKKiy1HGRNfbklu7b2-YcB6Ou28yT2Mhej4UHr8s1L4tMke6vK5mq9iiiXm8m7AC5cQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784638417
+  "last_updated": 1784646244
 }
