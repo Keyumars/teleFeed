@@ -8,91 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eنفت برنت\u003ctg-emoji emoji-id=\"5436341901290658109\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA2.png\u0026#39;)\"\u003e\u003cb\u003e🛢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بعد از تقريبا دو ماه، مجددا 100$ رو رد کرد و قیمتش به دوران جنگ برگشت!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-23T14:10:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/La7RE50nPEPn9hpripyE28Zh5SGj73JzbzIClCa8bOW4zwOpH-Qzg4_meRUEhubbb8Db3B3EdnI6qWgNkp-zEne73emvTeSu6tApOlvM7y20Uok9IkpV0FC0yB8GXvKLGgVInNeTLw76Cca-ffPecFSAO08dmfQtrRLVMIGgpHNEurlz0h3bRQuPq06xNAltpOzRzGE58iwtu3psYK6LnTNafCLyW6s1Mj3bdgYP0b57XTWJIL7k1TCnOY0uuyq6O5b8cgoLih6zree1b22Lrr46kvPbi8Zmhq_sg8DQpZVhb155tdqvzaih8i7yZdboZ988vHbAIeMm5WnrDj0qbQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دلار 190 رو رد کرد\u003cbr/\u003eطلا داره میشه 19 تومن\u003cbr/\u003eنفت 100$ رو رد کرد\u003cbr/\u003eسفارت‌ها دوباره دارن بسته میشن\u003cbr/\u003eتنش‌ها تو‌ منطقه داره بیشتر میشه\u003cbr/\u003e\u003cbr/\u003eهمه و همه خبر از شروع مجدد و جدی‌تر جنگ میده",
-      "date": "2026-07-23T14:16:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/DQGuBG9hp4Adewpl-2gTJZhide4UPwrYJVPjH58_p2T8dHn98IAYfilM7FwhYPzsS1CIxICLvuKFiyVwh3MSUslegmDOm0cLkAe9rYZ7T6pWQhxBr8zFXDD51AZmYrLtiyruw62bAWpaecJ1sSLei6gju5xWTx_LqBJFAoMTngKX3ESNZaLH4yZi6jAqWSwhvZGxQclIdQRn_0qnrWohNUV_NOx5t2ROVbhNjK36Nb7Tb9fMnfCF4KKvpFgB8sCtKGSkKxY_3XfkgTJXrzg_m6AmJWZlLLJw5AxNgE68n7448WT8gK0NYPuIZetHFz82RPuE8ditBhCtXmX5OLjdtw",
-          "width": 320
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "چرا شبیه به اروپاییا پست میزنی، یکم ایرانیزه پست بزن، یاد بگیر؛",
-      "date": "2026-07-23T14:21:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "دلار 190 رو رد کرد\u003cbr/\u003eطلا داره میشه 19 تومن\u003cbr/\u003eنفت 100$ رو رد کرد\u003cbr/\u003eسفارت‌ها دوباره دارن بسته میشن\u003cbr/\u003eتنش‌ها تو‌ منطقه داره بیشتر میشه\u003cbr/\u003e\u003cbr/\u003eهمه و همه خبر از شروع مجدد و جدی‌تر جنگ میده",
-      "date": "2026-07-23T14:22:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "خب ایران وارد جنگ شده و حتما مردمشون الان از ترس خواب ندارن.\u003cbr/\u003e+ واکنش صادقانه مردم ایران :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-23T14:25:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VY7bJ9TftVhDK1b9aWQik5kKRvikxbJs4iqC9blo6bcrTeWSWLAZDvHxU60Hxl1-BBcNFllj0D72IFiBIol9c1-92tLpr5Yit-F-kpQNPMhKYf7w8Dbvqjhojw3XRDFii0R40loaLa5bG5Eeh3NIQgYXhycl5XHm6sWwWGwklR4q-rXkW8Ms18_w3OSgG2FCEnRBlYtXgJpAq1CSTAbmonuABKs6s6jy5mQI4-7SGRCIgBn22wbQt9ZSZVI6_epkUgXMDaHTegB_-ihpGLqVU09bkZki7_DCYgO7iW-ce0h7Mj6H2xhap5cCW7ETHfj0TwRT9Ellwh2boWiJRODh9g",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eمجلس نمایندگان آمریکا یه قطعنامه تصویب کرده که اگه ترامپ بخواد بدون اجازه کنگره علیه ایران عملیات نظامی انجام بده، دستش تا حدی بسته باشه.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین طرح با 214 رأی موافق در برابر 208 رأی مخالف تصویب شد.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | AP",
       "date": "2026-07-23T14:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 159000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +30,7 @@
       "date": "2026-07-23T15:13:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
+      "views": 162000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +48,7 @@
       "date": "2026-07-23T15:36:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152000,
+      "views": 166000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +66,7 @@
       "date": "2026-07-23T16:11:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140000,
+      "views": 156000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +88,7 @@
       "date": "2026-07-23T16:41:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 131000,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +106,7 @@
       "date": "2026-07-23T16:41:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 158000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +125,7 @@
       "date": "2026-07-23T17:10:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 133000,
+      "views": 153000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +143,7 @@
       "date": "2026-07-23T17:47:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124000,
+      "views": 148000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +161,7 @@
       "date": "2026-07-23T18:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 117000,
+      "views": 146000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +179,7 @@
       "date": "2026-07-23T18:55:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 97900,
+      "views": 136000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +198,7 @@
       "date": "2026-07-23T19:18:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83600,
+      "views": 130000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +217,7 @@
       "date": "2026-07-23T19:34:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69400,
+      "views": 125000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +236,7 @@
       "date": "2026-07-23T19:38:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62200,
+      "views": 123000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +248,7 @@
       "date": "2026-07-23T19:47:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47900,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +259,92 @@
           "url": "https://cdn4.telesco.pe/file/vKACHnJ5Tr2N_K7zA29LrxrO5KB1cw4Z6GqjhqIa7hYNFDOViJt4Osm_BQQpbDox4SBsX0c7MPtugxr5WxXsEAkwPg8gmMV46W5vdo-oSwhY8rFj15UpCGcC8Ur0JoEgSMjaN9piTdjQ9qJdEwolgeqQDONiW7DCAm2fsHkJ_qEK-IMgZdWkYIZFZh5YKIgVTtIdyPpm-HOrv1e81MwMPw9IEKgyalefDGkrBKk__6DZiKZ3o7e0sXa4xJoj-y9Wl0mVKvzMbJyaif9W7eI_3h2tZbYqO8JRzzGp9E7o-ZUT4U2xERzhsG_A17PoE_VrSKAux0Mpee-3Q29xK9L-5g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eکاظمی، وزیر آموزش‌و‌پرورش:\u003cbr/\u003e\u003cbr/\u003eکنکور تو زمانی که معین کردیم برگزار میشه و قرار نیست زمانش عقب بیفته.\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-23T20:11:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 105000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KGbhJ-80sM5ZYlNn86J-dXl58jzn_uo5Z-2ygrojjXTHxU-Z3OeqJO46Hdu_Jl502PZUKdkQk-kecTUkay0S9S5mySdcDCfiHDhwqOX5bdNpPXtiaHboXL5quhbhkQ6NtV7CX7_qInzEPB_FRWmxJ_E8IQGCM3LxBHG3LvCfdfBGhv2xfi69J2KZXSgDwNbsMHeEeD4JaT7kb7LuwM-d7aYbqUNnPY40THmWTX6-vFiRy416G0YUc8LWB0w8UZ5GY6KoX9i6UMs0HCwuuEh5VlC5cGxllcc_1Udx88kx2ZTpnqM5VZzLrTmPH6dQi5JFwzQTHfOLE5KBh8KIyDOioA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eقسمتی از مناظره دو نماینده مخالف و موافقِ توافق با آمریکا :\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شهریاری، موافق :\u003cbr/\u003e\u003cblockquote\u003eما نمی‌تونیم بریم دور میز مذاکره و بگیم می‌خوایم ترامپ رو بُکشیم، اصلا هدف شما از انتقام، به نتیجه نرسیدن مذاکره‌ست.\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ثابتی، مخالف :\u003cbr/\u003e\u003cblockquote\u003eمعلومه نمیشه، باید عمل کنیم، بخاطر امنیت باید انتقام بگیریم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشهریاری، موافق :\u003cbr/\u003e\u003cblockquote\u003eمیخوای جنگ رو ادامه بدیم چیکار کنیم؟ 1200 میلیارد دلار بودجه نظامی آمریکاست و واسه ایران فقط 5 میلیارد دلاره! تا کِی بجنگیم؟\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eشماها دارید کاری می‌کنید که رهبر (مجتبی خامنه‌ای) تو یه مقطعی مجبور بشه جام زهر رو بنوشه...\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-23T20:26:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 94800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/BrL6d4FoEAVs-zSXU8GdjDTPR2lmvREZYf_sJgPnCKuvIqeNhypdZhAPozJ7YPDOVfnG4GQJvILinJkUhRQqg4c3M56jclEHDEYqeRtZ1Q6FeRuJVHufqjOEObyPJyzfeZ5rBmSYKbWB7mJ7b_JhB8gRgMG-lMJMtzigb81hNtaQMbi2NVn-saXLNwbZkeCURw63Mgom8JF700W4d3NJBbdVHhB_RA0on3wCr-4UncRerumL0QUAKiYc3nE2Snxdsdbf7LCL1v4yPcEzwinJZOl_CKO4Nw8i8HiESZjLyFRz7BNMfXHi7jiOIln5UKKClNXhVm_ee4L2HrW9GQIEeQ",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eعجیب ولی باورنکردنی؛\u003cbr/\u003e\u003cbr/\u003eطبق تحقیقات، دخترها وقتی صابون از دستشون می‌افته کفِ حموم، قبل استفاده میشورنش!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-23T20:58:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 69400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mfxqWsQxeZX0GGTVqPhX2hp7cyUH64NNgqEMQLh7At3cYyJ4l6hUrQxADKFKyVADR8w1C1mDgsXOkDz7Vv-Id7YOhywm9Ne_w6sK55xVUCrpZqdMQKJR8NCySLRCMpDN-rVdlkwNGjTTKJz3vaqV4lZFwKtjzuE_oCxCEWZ075bsfngITNU2VXnvsCGB7bVtNRuyze9Mo5Z5kHQAVvdeRejyQmfeK6wIkBeV3Nuinks3BWIe8rBmS6RegLnbFGkl9CJkhzrjzQ0fDcKf4NRrTc7Wt1KlTsx6YkCeGuM0JuC95V6rklMD4ySZhSsXCCrIp9miR7Yq0G5qVPDVdPWBjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وا مگه شما نمیشورید؟؟",
+      "date": "2026-07-23T21:07:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 54100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "صابون من جا دستی داره از دستم نمیوفته",
+      "date": "2026-07-23T21:10:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IKFTf7h-bSDwEzqT_gTY5bhoXepw2FfckusvbiKaaGqHA22kG5OccMa2FgyA8jF7YSY0J6IWP-tYDUIicEeo_qr4JVyj-EioPSP9sv73SNWQfV5PZROX062vWP7pKF1yrebBOaD905-59emdl5bFu2UkMvdLLclohslzZFy0fEWzgRzsn8S_xcyygSSl7pabkm6OJ4YMVozx4P8_D8pqLBf8_BTzsglyIlv3ZP1SqepK9_0OCmLUqkLr2olHYfwCKczmf-v_Q7-OlO3o3O-87dVX7e8X91lGetvaKP4Wxh4cAa8BftbT4BC_NhaoP5n8dW61RxCUgQXXHqkGK886IQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1784837453
+  "last_updated": 1784842502
 }
