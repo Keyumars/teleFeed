@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "این پیامی که پاک کردم از یکی از ادمینا بود که عزل شد",
-      "date": "2026-07-10T22:39:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme"
-    },
-    {
-      "id": 0,
       "message": "هیچگونه کارت به کارتی براش نکنید",
       "date": "2026-07-10T22:40:09Z",
       "edited": false,
@@ -48,7 +36,7 @@
       "date": "2026-07-11T16:34:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 2630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +55,7 @@
       "date": "2026-07-12T16:31:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2390,
+      "views": 2400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +74,7 @@
       "date": "2026-07-13T16:34:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2290,
+      "views": 2310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -105,7 +93,7 @@
       "date": "2026-07-14T16:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2060,
+      "views": 2070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +112,7 @@
       "date": "2026-07-14T19:32:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2530,
+      "views": 2550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +131,7 @@
       "date": "2026-07-15T16:33:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2029,
+      "views": 2060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +150,7 @@
       "date": "2026-07-15T16:33:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2120,
+      "views": 2130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +169,7 @@
       "date": "2026-07-15T19:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
+      "views": 2360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +188,7 @@
       "date": "2026-07-16T16:33:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2140,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +207,7 @@
       "date": "2026-07-17T16:33:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2020,
+      "views": 2029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +215,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AlHld7y5YZRj527KLQ36RLTg_rerhyewvCRDSF3XahXE5RQyzEyV8jXzRhAplSr50233G-YzfO1U3VXqtnKC2WGIO5OZwMB3y7wCgl2R56ly7-N1oGBt6N83JRitmSnEU3FObACFlh332vvlbTxBngIOHddBktunxh9BoKQiIgD5QP_dX-hwKHGdGHjaNehU01WSu5VdoXQlS79FiKjBW3kOriu--2mRNuxapLp_w6oTSB3i7TGC0ZUeH1NOwBoPRALs_H07PftJiWaHSxCKWc62hb_T4v3UyZoy8atLJXTcaWo5C6e7aBvpadCntiXJTDayLNyG-2GhYr5-Z5sk8A",
+          "url": "https://cdn4.telesco.pe/file/gYW1IiDOG87mRV6jSma942O46KAzyTMgupTbFjMv9JXMAEHCa_-wNEWHQt7IBiubJfKT_o92c9LD1cFj_6L2ISCJWS_eX3Hm3VwN9PwGuZS74GXdtlebgfmHCnu1x3PS1YZxIxYEdPF834MhT3hTwdaBr08faBJ34gQviYxqUBOH8JtVLikD7ZWLJYAXAX9Fduqqcs1bCCfrVfJXQVkViU6GwFqVGskNNJyGN6rk3o5yKLk-QmGXmSR2WGxzjqdgL3So8qGWbJmh9x9tBI5Xk916GRIlLheHAbSQlEw9UhWrkWdCbnIS-ZK8ggB_oiOoJVvyEt668EK2ntjYD4ROSg",
           "width": 720
         }
       ]
@@ -238,7 +226,7 @@
       "date": "2026-07-18T16:32:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 1820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +234,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vWgOMIQorHsPc9xsOM4MG-G5jxAaA5_mKagPDbwbl00Cl1EX7pwDF35Fy_eDfHvsHCYSDOCb8sWqGArn9up9N-iRpMgBXOM0ctihwu3PlbyF6BrH2tSoLnOgUUXhwIPpXR3C8t5qDhP4HSnKu2eLq63FZy5hxmNBHlHc0i0pBgdsNSOmXNNDjT0SYNPa8Qfv4gfa-7X4hIU4rZqGK_MwC_ixoUnt6JGtUPb9FvIjrVZM1N369kuNPAyhUO0x07xyF8er_janE7Ylj_uHE35M8BZG3zq5IAMPA6CHcY1fX9hcXf1RAqpMJa_BF1wlPEtXSjGwCcfMZFQHFAdq-emXuQ",
+          "url": "https://cdn4.telesco.pe/file/PO5kwwDrqG2--CJ6zpMT_mpjvGrRhqWg5sDQ7tx8QfWMkAHJze4cpoiburRrXxl-OJ69WR1zrfySlW8rW_NKWdgglAdjOEzyQ4Eg1lB7MJsotJkGsgy21OtZy8tqS4wpv2K1Nretn6jOIXaVzC-9YJ1zQzUzT4t3ylIrHHb90ZXDydeAekRqALIMM_ORbkdON5y28nkeLnd6DZKCzZR2awlF_30G1a9VoN_eJg1u7pR7Nqhhhn76iPArEvgEVoWoWGsxiUZRDxFIlo0kymShK4W4RbEKsR4RrLb7WVWZkdIIxOUJ7JF4W4RWAWcX00ox9QaXmZ3R54bgnXnCryT9WA",
           "width": 720
         }
       ]
@@ -257,7 +245,7 @@
       "date": "2026-07-19T16:32:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1510,
+      "views": 1530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +253,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Y1pM45qFAcOUItDRsq_rjnaSqOmlNtWlZQzURz7zaYwOEXr_bCBKnoR9DTpais-lRDdS-Od8TU9cILnN1GvBClslgs-oK8HF0xMUNFsO8P1AtidABo5at30LjtQ1MLlH9RrIENRsbTvlhRoWLktB2x1Ctf7AQYPS_6Dae6gHBla1xQKGB_HK07vH_xiVkAB1OFFWTZ7l6Ig98RCCoe8woD01CCqSi37m8jUswVB-WUlzFeSHHlcpzgcx7K2iZZ0E60YY56WdfRveA8ebnvQffgxucR2ZLK48FbfEsdEaZThwEyZUK0mk4_8g31bMOPSYJpEtRTOb15rJOB7CZcdExg",
+          "url": "https://cdn4.telesco.pe/file/N3E2EXXaMf1n8I4eodF4tE3fjYcr-P9iaA9J0D9Z14L7lvjrm50748Mlgr9DvTlJunv3oU8WtpYm6FYLPMwyHvEvqIpUTGjvMVWUOaiPPOCisXbpfbL9vJQb0yYbDF7k_A3neYcG-L2xZUhxrJD5MOhy-pp5mfPJ-NCab6Z3ucd4ffziMmlH7DiOuMXvZ_ABec8OhX8ZD46igDdfVHm-k7HJQebU32jDqqNrmcJzWY8MZHsCTE0tOZwOr8exzMnuqgEEZe7kxXPPA_ab8KGgruF-phbf6lYt0pskdlYzl4ogmT3IdJEZpQMj5vj_w06-kJhZkC_zn_80ShbvIuXuwA",
           "width": 720
         }
       ]
@@ -276,7 +264,7 @@
       "date": "2026-07-21T11:07:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1140,
+      "views": 1160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +283,7 @@
       "date": "2026-07-21T16:34:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +291,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ac1bslSflV_I9Bn5BYjt-0mvk4RH1iDFS-RfSryl7c21wYKcv3LUan0DxvdlL_t3bnY-0Age3lm1ojRYv73azlDPlK_Sjj1YuBzdreEaSJoKUqKqC5zV-FgIS18O9UfR4l-yAR7nriUUhSoBAhWdoMyyhX7vQeChHYc0vrJruK_fjHFBbJO40fRJKKWBf980TYbe6fiUTG28SZBqXiUwPjSyhJFVx65Sea9_I4DLcJb2SD23x7DMYFJt50pfg8BHoNb7HY8Jm2fVhINpZp1Y-md1tdPwsvXUbE3UXZP3SDGF72th6OKjmygb-F2Lh9PV3Zi6e5qxGyUjW0uHKEZRfA",
+          "url": "https://cdn4.telesco.pe/file/QfNsRdQ_0Pm4lHiNmSU35MXhNUisK-TcVy9Yx2QHWsFjgyx0Rf-an4_CwW8l9gOFudi-GL_FcTxxxmxrRf9MLhlu2Fz9Mr5LOm_asVHVZOnB1k89eYxTKKV-IF7wJ40RXSONAe0wg47XMxP0hGHvxAKrHzi2RZ_PlAo43cLvzb173CRrohQ39f3w3EGTK-9phWTqQPzxcUjcFCrBrk4u96gZjiIwh_3f1aTflFUXF5GmsgRoHOnZZp-mcs1RPZv4Tg7gCCzPXVy-j2iBmgmZ0gltnSbBGqP8Oo_O6ZsgHfDDcxGrTbP8sz3_wHv9HC4DbsSATHNukVtK3x8w8M0C1w",
           "width": 720
         }
       ]
@@ -314,7 +302,7 @@
       "date": "2026-07-22T16:22:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 753,
+      "views": 794,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +310,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MZUW8XPhVxF4agnnhjmiqjEfwxvwaew5EykCpgV2VS5_8w1VYki22SvZUuPchq9xSjR2Nh9ivokwCBxOS26Yc_y1n6FeFRVMk7dvCpV93UYiEAWeEZBta1DY7WF3ouTEzIIK2atKdmwWZ_b_af3NUBjOI_dHxBMVDP-jGmxm3bjRqqlGR8IdudKk6i0mOM4lAKoXVBDYNi0TG8WShb2yv0QPloF_VHV2eI0KnEQBT4j8pHrQn6CvrG9QPavELtb8S250VEb5wVZTvh7qwJuascdnfxVADxFZWfYAu2prLhCuSQsZMRKnmj-vbABb7M3qIfstAXE8TioClP8bT99RiA",
+          "url": "https://cdn4.telesco.pe/file/c499SZ685O8kLQBMn3K7Emss0MPbpP7EEx0Okxm5SOKsEZIMY1hy3Xxs5ao1jk8QgxFEwBL8s-fq7vrKX-HZx69_OlqBoyfKWkf-iqp_ifNArLIyeiApZ_iqwoXTTbpF22cBdLlETazis6Y4llD34OTff_7gEpkor0I18tKoqYHlmCSxgFk8dJ_lsVLkXnrqu4zVY-gDnbhCxnnEphHqfLGpHrR7XJZyhbrpDBbM8BOFXGIC4QmWM1fsWDbH0jXQdfqmR1s6GTwMf2ls2U-DVC1AB1oIuUalwAFMEzrxSVKZX2ehDeVxD8CJIceDjC2ERCWGJTYNxyWnFbKSOSKYPw",
           "width": 720
         }
       ]
@@ -333,7 +321,7 @@
       "date": "2026-07-22T16:34:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 741,
+      "views": 789,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -341,7 +329,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tCBqPPT2Y5yAyALE--NB0jgu2RHDiSYXBehPuOwRyvQNDhH1-JsLe4Mf2QwtWz0KJIJtiSzCA2EWn3loniCwx0Xpuzehe2vh4WS2QVWriLIvtWu-VgZ434vceUk-b04lkgM5GQ1mG9a2kiW4emPCSs71-F4SIHzMSufZXjaf5S7xCwIUwNpyZKiiVsllxp-JQ41NQIJYiDMj22Yr_-n3rQVxyq1CiGd_RGUQRrbp98WmOK_rp2Rm85AFeLTZpmUiMgGTYtAX2CUE6vk_iXiihSN6Efxf8BnqJQFXT4GrnXqolSVmcROHoRYVZcfq4DJkISRCCAFt11BJOAoKBbgEyA",
+          "url": "https://cdn4.telesco.pe/file/Z76nXPucf1iJOykX51A8YxyQJOQ6NKwvzp0gmwGjXBKsa8eIOE0rCWGEUXjw0MGUldA2Jdy_IJG5SfwO5YokNm37w-5tTXdWV7hJr6N1VX6WFDKxI5HwfAg4nMug4PM3dvYlGQvvu5lbKDiLkPp4r6oibdx-J_aEt739X_3mVZRIsErmVc5qGenOKCq5GZhQeR311dDI8C9QgHc3hGIrsRwMpyfFUBUwfaRQBeZNM0n_zjT1NmxNxqP1ouiHOF1PBFr13eTaLsn8HvHBREA_fcdwNEIqJK9aLrcHt8esT9cmcFsRvgtkzryZY8pHptcXSXfhA8pgzZb5KXpNjXeIFQ",
           "width": 720
         }
       ]
@@ -352,7 +340,7 @@
       "date": "2026-07-22T19:44:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 709,
+      "views": 773,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -364,7 +352,26 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/Sanay_Play_list_bot?start=file-KpKtltJTDx82HzwrzVT\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدریافت آهنگش\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-07-23T16:30:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 117,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Rj9vtpVF652MTtcuoPqjOHBPdd7ZDXsNmFWlzlwb6xHwso-sGhBBA3eT5p2NcCSELVnCdxqRx7-KXH15K7ashObp6ndvVV4oIHnb3Iok6d_sE2M-l03OEYHRaXcvHxif4XJ5CEqNXPOz-D9Qte5kvZRnE9ddidw_eXtQolP944T5jjfI5Nf8hNt34pKU4VXlrGj2T2F1eHANmTZq_JDAuMScEaLK99c3slhKjEV8Vm-9oc99yz_YYDzaVQwi_A1679PIDUKGcX29arSBdTjHFt03jmKMwOdzxsZCgE73DX-Obsd7a-8LQdKSrSTY8EjSyhmh-N2t02ObURePjOUjSQ",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1784822123
+  "last_updated": 1784827324
 }

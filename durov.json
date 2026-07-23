@@ -217,7 +217,7 @@
       "date": "2026-06-15T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16,
+      "views": 17,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,12 +291,12 @@
       "date": "2026-07-23T15:15:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 336000,
+      "views": 498000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1784822163
+  "last_updated": 1784827365
 }
