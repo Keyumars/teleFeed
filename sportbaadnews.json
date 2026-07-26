@@ -3,266 +3,16 @@
     "id": 0,
     "title": "⚽ Sport Bad News",
     "username": "SportBaadNews",
-    "photo_url": "https://cdn4.telesco.pe/file/dwli3VAPm-Auk0e3gHVf8qAt9CHEb3yb8WAJZbX8UBdOf9UgUVCD-4Syj4BxlYCSw8NST3kFV8QtAPTDAEAZCC-XbEANm3vw01AaMAlIpPquNp4c3AWVK-DLiLv2j0ahspScy4Gw6RgLQJG8lUD8NdGCOMdUIIVmPDopG0NKcmpCI8cfoty3-oReVaQBgtqif7TdwCQbtPq9G6ej5XQlRFGud0FRhIu3AMu4SJOeyTx_BJZKn5rSOfYJifBbP0TpYdSNOlOqnz9D7mTgzDe4lXVP-k67akMh4-1c4CWmY8nw0My6WzxWS9PdEWrz3Nt5G3G42BFL5lFmnC2Ohd2--w.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/nzEK20OarwEFWCWig625qkQHUDS3Enu2buQ03CFPlv9HnL997W34OW5t4QFHG7Cskw_DUH2rUaLahVz4XwR8MpCUcXSluhWpbSBgjB57kxODWyhOBLHTe1wv1kGbaT7R6l3UqJriBw7AzKO9nScKdeJE_ozb0KumNbZiKzkyF7FePrJ84hT0-WJ8iiKYqPYGhNqF8PPpdnCUzLurDyN6Z5bJv_Oi6D1RPTZ9Wfifc7_TOp37m4JyiKKFsm7VLuqzvCIyEYiwcS5SW4S4c4eUy-9RKlAwd1Hv4OxDfJMwyoMyclE2A0dXigKnfyl4NbVuEW_i9M6CmGtp3R6Qdk1Qig.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4981386521115363677\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e غیررسمی، کیت سوم رئال مادرید که عکساش لیک شده و به زودی رونمایی میشه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-25T21:29:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "تنها همکاری ک دوس دارم داشته باشم\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988F.png\u0026#39;)\"\u003e\u003cb\u003e😏\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-25T22:16:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "چه حالی میکنه نیمار\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5774107161764305091\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-25T22:19:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 75900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/O8I-ijTTCAGAY_QHeFtiiz8zsXlQYFS_5-WuMwdWkPwKKEnUSPevRDaZjXtf1-NXlGx4r9lHAJDRplbAyCQha0kEZ001D0VPdYn9fOi8lPEeV_Fc-14nPC9eOKtKbBSb4QdyMZtmZ-PHGOsreQckSzTbggsEJooSQsaaWcn9241-IquUaBcj9yY3I-8Kcu29eKj0oCv-08MtOvWNQ9hbmvF6yJig5yS2aIBI9roYrOGOS6LlAER3TghHt8eOHBud6O7yj8X2BE3D6jZ4Or56TNOLXgciZOIKjXj_v-UobSBahRxTAzV02T_vdlKG5HgrL67IT1xpGIFgRXcOEzFfPw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یه پنجره نقل و انتقالاتی مگه چقدر میتونه تخمی باشه؟\u003cbr/\u003e\u003cbr/\u003eبدترین خریدای رئال تو یک پنجره؟\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-25T23:11:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JNaoPSDmtmtlZCd4hBUwfVeUaYtHxznW2m1e9vboaEsmcLZ_PNquTle0sb2eNIJxtduny47Ijoiy1dqpzPePG_yXOkaGhcAEUeAADm0KJ8UsbXX7-J_QR6O-FK1HYeIeB0jegxbVewrlcHUQzPmTzK7H2SfPT-C84Sa6hYvZCNChGcA3hvk1iYLg6O7dUV4XycLwg6YvGB-Yf0DtYs4Lz8DTQh1RmDO23xU6yiGKtUYMTAmfafgXaATXe5vcRivxdJP-2cLvl7nNYy5gRV_sC71pCqZCG65Xy2kiiiC-HsIJl0mQfJsjnmk8n-mvNC66azJav135j8bUvryREWLUzg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "نیمار تو بازی امشب سانتوس دبل کرد و اجازه نداد تیمش ببازه. بازی 2 - 2 شد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T00:15:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BNfO2k6N4kZ0fO6LOyqe90RnHBpilNN45to-P2UL1d_MPUVOE7blR89mtygtcTurFXpUT-Ydyuj-M-W1lvpRFrRI9Vax4irnQ7C71xV--6ogLhl-W1O8465do3fcHYMt6ZW3UAhJkTibIU85GZ1jEtdZqX60fx3xItFq4rw4sm6HAV-KZw_JeHOphGC1OMEMLZ-PXLCn88o2CF9erSaUuwsn0KHhfhRdJo6-ggBwpscBqbl7FHziMODRDuxHOVoS6aiES3VB0RKxeYFTG732FcQwrMzAbUopDlTUhZ6QoVHxRMYlkCTGxHoi7BYx_e9gcyOG_ltnpNxTzX9gFg-5Aw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تانک صورتی اولین بازیشو برای اینترمیامی انجام داد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T04:16:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cD00AGncVzpYrme41FrsRZJasffRQWdvzmKBY4xVcDMIjsFRUyRekN_LwbkXEsgJ_D0odFgyK8v8ZueDWhine2Dy28voWQIqtfCCN2V88b4ZB9iJR-g3hDRqauUpCnUgU4pfVOu8XPzUk61Li9qyl26dn711Tnhk78kVA_zfMN5w4SxFrE3xZWE1rriyRFHQheaEFwkF-sbiUiXUZW98UoMqxPNXdAZOUhvT4cvP8-Jg_B0Ziqylv8SfMpT0WbhouwiJsio2qgKgg1HltMbPjmA4YQjrev6a4J046KbRFoc4i7pq9MJtxCqcp9jtfLIM3GG3dKSUx6BvKmrm-V8Pqg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kHv1siPxNuG4Ef5cAcr2fP-AKSEkHZ9_LvmyWlUpVTqEsx69CpPSkyWwAmQRu8L2GkoKWTLaKdz4XoR3P1p2j6o2UIgovCKSsrtYx5icYct_csame89FB7eJSEqDbEhe9bTWgziITRdL_3B8zY8-dyK_OkMaNox9UKid4ybnbS6jqhpf7iwFITKXw1_RacrlgDuZFn0x2t3CaISYCqlk51_1AGOxgXqhj_5ORMEKUEIXYEODRzfdcWmJJp2CHD0IRwPmqdcItm1ZuCdY-K-ZOfGVrcf5nTP8CVbc9horOlHZvsCxwbYERQFG1sB1s869r4Y3amKDgAkWbdIJEa3jiw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5969627799793704327\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تراز مالی(خرید منهای فروش) برخی از تیمای لیگ جزیره تو 5 سال اخیر :\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969663795914611864\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 817 میلیون پوند \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969919041526046520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 683 میلیون پوند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5972252484373060914\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 682 میلیون پوند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 555 میلیون پوند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969647784276533459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 448 میلیون پوند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 290 میلیون پوند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5972091264185671550\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e 273 میلیون پوند\u003c/b\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T05:03:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ON7HemFrF2NRxK5m8DUumrRHrOuWz9c-jh0xsTYAWEHAURjYvIK_C9LEkc5HO5y98VWVHkkTQ2r0ZeEJT9QSWAora3wK-KtzOFpiGws6_PwYheAdiTcZPVaalmkQRKPK9NkW_e7jmFmzB1hCVqsGgFImWbmWjgIdcE9HbrMDoRrbmAASRXYF8Emnf55ju5wl5kyCked2Q5s7UrC09JRabG4KUVYXNAVX0jn-CrsVYgnnR77-xpOt7PeRmGO-S_TYug-M65GtBt4_PjFnR8v5D2iyiexIDVSc0x9tkJX2j9cJ7shHISvDLTWX0sLsrc1pPziY7f62xM1q_kLhnav0KQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "انزو فرناندز و خانوادش\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T05:15:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R-tS_RMWyPt-TPBEr-Nio4vLURZESq0EDx0MR65Z0B73K13CaVnssTVtyuLJ8-hwGsNL70QI4fIzZ5rLSihwDSw4v2j6u7RoZSqV_FIkuz-dBNoBszOv7IVgCn2oz33YvX99pL8tJsVFlNzzH4TAvfH0rKGy2aObBSGH7c6LjrSPNuY9Fx-7LYD0P4He1ptBacrnQNuwUTTY6_0Pwu4-H2Od2I2a5-jzoR_By72F4dsmSKvvTrMWeWyC-uHdVqnNMCxofqQQXt4rhL7fvaLVv4vSKEh_iXbVrzxlh3_seMrHFuJ9hIiynlMcXOJXw_7oRHTpaWQM1M-z1xQbXc-6nw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآاس : رئال بعد دیومانده و رودری  میخواد به تقویت پست دفاع وسط بپردازه و اصلی ترین گزینه اونا باستونیه. اینتر برای اون 70 میلیون میخواد\u003c/b\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T05:33:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sILrPk-HhnGsJgs1cNuK_AfYkd4JY7NYksX0ujn3L1ZYxeMsOWTbp_NXxb_cPQ7K_aXgLjaVSKzf4KPfKQf4AHRrFJcSnOfyUp2SfCm-XNEYx0FgqIQjGmfz08C8JvcGED8VvwyKIbYsZ3YuaR6-4QQ8c3n-P37lmwDxTD3qgmeoIpFAms5w_cMv9oYdW3micSkhG-9AtKIccms90EUwrpaRTJr19q8U1hLjUYxJcmpnHv6E8TX_wKzIIkBmum7n-kv9DAkmaMlcXT-Pv6KAXGU61WDozO1f1ZUcpjI1_1VRN5oRIdCCgTB-CFufxdFV8beLmOuKGHpEFQ1Y2kdb9Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مسی دیشب \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T05:48:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/SvFtQR4UWQGzMlCvo2pwH-TZGp2YXAqhA73Aew2L886c1PRrCH-mkuUbKORDr8WotBx6gZsJGytqvkuXlCzmrbU0lFeas5KVcZPUxtDlStDPS37xSq4h7q_OMhNpXRdPEnVq1ZdNcnvRwW_EdvtmyCpHZgVvacTvxnS2Lr_8zw0EGy_dI_pp6jLlOuBUwnb_4BcOOgvzzE9gGvOh8n40E1n8UYwqVA0OTJaf_DeNucctXCHTnGQphxAEUjE7SN77QAD8GNShAQWNWdLqAJ_29ilt-K2q23EAEFTr90MTvshzJ8P6WNk3Z9Ig1eS9dbWbcajY2LGaxB3UEzbK-FkhBg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "سوفااسکور اومده چهار مدعی اصلی توپ طلا رو به این شکل با هم مقایسه کرده:\u003cbr/\u003e\u003cblockquote\u003eبازی‌های انجام‌شده\u003cbr/\u003eگل‌ها\u003cbr/\u003eپاس گل\u003cbr/\u003eمیانگین پاس‌های کلیدی در هر بازی\u003cbr/\u003eمیانگین موقعیت‌های بزرگ خلق‌شده در هر بازی\u003cbr/\u003eمیانگین دریبل‌های موفق در هر بازی\u003cbr/\u003eعناوین قهرمانی\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T05:57:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Vqeif_NNeo83DNG6RfVFMtH8lAmWRS3_yxp5r5ESA1y_yTVR4kE_6KrRoGqoFQFNpB4rRY6wv7hoScTahJw3vqiJ-rOueS8wpNphFSXsxHOePFErhS_PGd8IsIdfzI-iFTjhMm8zGDCkRv27vthW4IaNS-xfer5Ngjwi5JRuhS4D9yddxER2GRz6gviY5WOJ4dq6dclWnaqjD7-YN2cfj-ZaIRpdAn_ZEnkca0I3RAPTUMiAvGzMM10Evdr4oQagGUX31dBQQt9SH1NI3_Pol6Y7voJdIagT-wwEshuljP78OJ6x3L6WArgbZVFnTfOP7nA0vxpR3QSN1zQ_0gJp6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شاید باورتون نشه، ولی بارسلونا هنوز بابت انتقال فران تورس، 8 میلیون یورو به منچسترسیتی بدهکاره. \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T06:07:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/ji7jCupWODSc9rFDvTX6AxFNS8PiuVVIFf7lXGealQKDVpHBjWxWyEKYYc27vefWAglsWMsp2XIHN9AtWKiPud3gyJ__ytN6pfutoKg5g48-i1j8DHAQP2oAmbJOaChamMA9lBEUzG9VYx-HlGAKCBzaArrXTXsrBUkqh4SzCr6Py1F7Mp5BRabawkUCBGQdAimgFM5w5E-4muw_Qo3dDj-OtvXsRW_3GqZQwyCS62DpwIvdRs4ADa6MyBn5_TkqdFwByzgh6QnVSqKrE6MHS7XqkbJGpSf2FmjHfstMWyULbvpuMADWJVhW3LMMkE2YKdtuHwmzyRys6W-vCNM4LQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eموندو: \u003cb\u003eبارسلونا نه دنبال جایگزین برای آلوارز می‌ره، نه قراره پیشنهادش رو بیشتر کنه. اگه آلوارز اومد که چه بهتر، اگه هم نیومد، باشگاه معتقده اولمو، رافینیا یا حتی فران تورس می‌تونن فصل بعد مهاجم نوک بازی کنن. \u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-07-26T06:16:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/K09eRkucQuTC8WREJm7T9VJ3TlD2Qsk5Ifyj7wCGU8lNNLm5Utz3gPa79A6CgAQdfY6-e2l7zdKGzTf4hRe43D0CQ2v38IItE9cYoZB0MOJhUjy5IPfn1kjGChdfp8YQlAtuiyLIs4oLaikHkNLDUcf0hwbs65aSyiEBIC7JnOhJYD1_8w4pftc4G83TH93EZFDkFTcfDC4ivqy-gyp1jurkhdUt5db0batwPhsmudkgK3302Ysn8IbfCmlta6glWlugiBcswObx5XghZZYBQdZkJwUS2nKsjy7SRPhocerNAOyt1218gZP8QlefVkCB2m3wTiAZCb2OMijo697h1w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/kzv8-EEwrdACT5_8KJV0R-35Tl2vbyNgne0dXIizCvM7EJQvs6I8r4mec8yP4X8A3CZbSnl8sSJq7_9FOTGc-jll9XTxlQ6c_sh3xY5vmK7oo6Z8ch6yyK5bc_J1aA6M7FH3YbZ0KPdCD-sYf7ImLlS91k49zzo5rh_4GRYeO-zg03rdWoV95jSnF4F9GJ9lYPJsKU1utefHchxmP8XvIJ4s_gsoO8EaPGPnoXlJM66OjQ3ZkYEAu7OLbSgw73iqsUzi-LFQ33VzQoMlU59ko1ckUhy3bFSWZ1ZZI6kVMLm5Lx2F8QQM9EfxxEuKjTOK7t4NfrPV_3FxrYR4WfIbcA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "*\u003cb\u003eیه تایمایی رونالدو فاصله تا دروازه رو نمی‌دید؛ فقط جای خالی تور رو می‌دید\u003c/b\u003e*\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5017387439501608039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eداشته باشید هایلایتی از خفن‌ترین گل‌های از راه دور کریستیانو رونالدو؛ شوت‌هایی که دروازه‌بانا فقط تماشاگرشون بودن. \u003cbr/\u003e\u003ca href=\"https://t.me/GoalBad\" target=\"_blank\"\u003e@GoalBad\u003c/a\u003e",
-      "date": "2026-07-26T06:31:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/csvyy9_knxNAM6Ti6aL041YaeWYQ52rRhyXcsu3NvMENX2Gk5phF99Yvgfrf7UfoguFlVT7t3K8xqwRq4a7DUFYExwVRQe_jhbkr_qoPcqaeevFAGf4UOmPQg8BqkroQezjFIx25WJcBxRla8U3uE3xn1CAdguE_6K65GIzymSGIE7uN9x5yLkiHIk2MByVWxNeL6KFkruH4Bysl2p7NKijEssRzoVdAMh0SM9eO3bQgKDPyMAAU8Tx4BoQj5UvdDSGEvkI63NT3QocIaEMP-KzHCH46oRlV5y3bRXWOriou2uD7ZBxmtBhg0xEjgh5c1wFZVEHx-eCSUcDEbicagg",
-          "width": 1280
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4940721221001021186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eولید اشرشور تحلیلگر فرانسوی: \u003cb\u003eاگه جای هوادارای رئال مادرید بودم، وقتی می‌دیدم از اولیسه 150 میلیون یورویی رسیدیم به دیومانده 120 میلیون یورویی، با خودم میگفتم یکی منو خر فرض کرده! یه جای کار اشتباهه؛ انگار جنس اشتباهی فرستادن، بسته رو اشتباهی تحویل گرفتیم. من ترجیح میدم 200 میلیون یورو برای اولیسه بدم تا اینکه 120 میلیون برای اون... رئال مادرید برای شکوفایی دیومانده یه جهنمه.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-07-26T06:39:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 64500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +30,7 @@
       "date": "2026-07-26T06:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
+      "views": 62400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +49,7 @@
       "date": "2026-07-26T07:04:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 62400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +64,260 @@
           "url": "https://cdn1.telesco.pe/file/aRrLBG7nOTgIAPkx59NHru3qrJoGPyxZjtQIltaNZ0NptQZOb42s6bN3L4uKoJaVhDxxanLG063-LpTFvPAs6x2Zle54Nt7Dbvww98WknGw_mRdTGKaHMn-Sb51xQ1_ET-UK5UyBrTulM3YMdnhGlOUyXEVaiRkGEFUx0EwCbdi_UeAe5wXBwFMNI-qO5eqTqgj-yKvcEXJDrZnWQNQuIVewIgN1F5aoWdbnp6e-2gwrpdvXjf5uKBMLbGwaTmX36_bF5ts2DGMekC3LKvT93JBAlyIJy2bMkRDR-amN99wK3zSxA5QzKMdZaVaGhFQHGJKmkJKp4Lko1tjHWd4imQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "ساعت جدید رونالدو که با بوگاتیش ست کرده\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T07:44:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 58400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oenw04f0LnZM1gjGOVIKSd4zs9Vrd3aQOdszGYIw8dflwLKTTMyckQjwRerAKjrClUse-iWvnC1FW7RVxI5-imRsMx1m8XMkVS3-_nKDdifp6M4NBXx8lqmlUBcOV_6iEVIz64Q8Rzvtuc7d71MDyhkbwvQCooQ71J5cVmmjOA58TMJjXkDEIHKjmTyEPtT22o7VlxwR-WJxo9zhGM2v3CyC-vpXtE7CfvKU8ghnxo4ZLPOSeeVVOClrs8rPoGoAaC3TWPgBLNwcSSxzyZ25yEqNdTu0G5OKJMLqO4eIMh5Ws7q0cnW9d7gLqURR72c3IxfEqnIW0Am8EDGkUwUjEg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5017055498659170830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017055498659170830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017055498659170830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووووووری از جادوگر غناییییی: \u003cb\u003eدور بعدی جام جهانی 4 سال دیگه برگزار میشههههه\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T08:06:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 56300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/T-3GqfpjSw0gJIWkr4-P3DuZOtmvYePbXFALZ0K5-hBBogeLZlJ-ZYQ002bZuPR3Gpmt5uBH0FKgQ8JHrdpQ5UUFY5ZFnxg9RqtdLvD_61i7SGMwTvaVqFzD-DGVlIcIyIBMyb_636xcSmLw4Df6j2vCVQlUC2ZgXiFrXjscgkV6OuUZnbfAK8haBuOq-G8-h5iaseyUuDreASv_r1t6g6-e9yBkSnx-ldrGSoDMRo2tzt-c_GCOyn6IVmRu6pkmDZ9INfM1KdXrbupVmFUwxnx3Joqn8Zhb86m3BukO3JfGYlqn32UlS7fV6AR__B7WWxmebvj-URTWOUC-Wynw8A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوس دختر یامال قبل اینکه با لامین وارد رابطه بشه 25 هزار تا فالوور داشت و الان\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T08:21:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 48100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qNOfab-Iz2nUpR55Yx1jdxRUWbn12ml7Jkj_n2DX89gQH6CXxQROuH1rjw_5lvj3HBnahF0F58UOrq_aQzV9wXJMFxNbPhrCtMgUNMugFUo0bgc8sIj1AcqFIiGZso3lVDKpQl3RWrBMuYzbT-vzqBA58tjo63zzuI7kVpN0FCMcOFy_e5ow_N9R2xjqcqmZV-bocFv2vbc2rehTQUJxm8iI2yCqlrw_VzgtfAUzJ_IKp8KFuINNiFY-mSxsvqBlZ73YF3R4PqQVb7n0CrWUhMJx6NBswyMyprTnMEihrxwVtCKTtVO0cx9Uuj43b_UT-VWrrdsoKS1H1ZabIFHgCw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گفتی طرفدار بارسلونایی؟\u003cbr/\u003e+بله\u003cbr/\u003eبه رئال مادرید خوشومدی\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-07-26T08:38:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 42000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fFw3PryvNoUBTI1DUcGFCANc-Lutr4V2YMYZx3_leNQMIfHs_r8mKilRcw2I4j-f_rEySgZaWLRJnGN6oS8a5zQK5o5-49UV-0erQTVmyZrHk5lIOcDj_F63csD1HShfP5w0ZoDcZqQ5qnq-OplrhcpeL_WwrF66MLdQ8WNMjl0mMQD5BEFVC7aRiII_7ml3K_YKPbJufQ39IoItnQcl38JBLbituvyqxEnUITP2CJaxMULsjhk4epmAcGfkU_mldw6sMP2AInxn8C_rSszZnXlQEKWv3kx8ZJRI6eRHy6Zu8OOVPTenHVXuOFRtEzKJJOKN4VEK55AXHLUtyTkRbA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برناردو سیلوا روز اولش تو رئال وقتی میبینه مورینیو بجای نکات تاکتیکی داره بازیکنارو آروم میکنه درگیر نشن :\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T08:50:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/c2ttDyxYjeyeCcOcq2-jB8sMXuBQml14CroaZLVOdG3ZXRxloQnXKLitmvHApLPmVNL0byFthgfrQEHjOCTg9UiyaGn7gyiH5T868e4B4MW2tACa3BLL1M_Sd9FyUp4hjtasLHmzP_r6Vc6qK8uRbrmQvJmbip7_PIjuzPc0tr4xnxZV0nyrwreFMs3Dg734XsrZvZ1chvNN49EgJ0h4UhZ7rFF1Q72chVFd2e-QfHLZHF-MMVmoy2QKiczLxMJC5oJWdrUF3Ba-CdgAL5Lm8zJfLMc_JFnlo3QOYSnyabaIsPbV_tfbgaeGyl8lin-GMP1oGQ33-yvwvywXCXXloQ",
+          "width": 820
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "بعضیا بازی های دوستانه رو خیلی جدی میگیرن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:15:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 30700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZnSSl4xTsdQwaeFlWW3gGJAqvxYItnMCojfKRXC3W8_JB4CKxFKiyZkPos7MrIxg5Dtw1Oz3-MLTEOParhmOnDAjkenmcMRnKIEH7IHwus7_Y4mfNAtKLIeGgT5J_dOmc8xHUm4syCAabAKfC3uiWLVbsIL1lilvaLzpMsu1fsMQXfZysJgvWXKJphfanZITeaN-Ftgvp6XYGKe40tsr4VE0goDbXsygCkwCoKTd70dRoAIg5Jnh9H2udi7_3hSo0aGj4NChgl5X4HX_0oRb3lnwUQaoOPls3-ONYEJw4eq0mwkKZM3dbeySzl1RdhG3QqS6Vl7wJA__0zDBAs6_TQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نیازی به تست DNA نیست\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:33:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/uEy3x_1hsPQvciTAmaQbRufSiCCo-jHqeqQvO6nS7n9WNBLIIr-xMzpTmrM0NfQT5aXE27k_UpYlbSdpaTOGzep3RubPqL0LdYr_SMpwiPyjf-mJGljCuxxs8MXKr9S4y-qawbyHtCFq7y1IUbg3oigpPAgig89j9SZ6FobJXp0MQI7AXOREGvHy1iPUkgm5KQggJic-4u2gYi7WTNTLkJkT5zzuxrn0P8LO56kzehjC-9WgBnY6wL60IKrtdzsW0r63zZV8tfPTyTFVcP6BeB2zWgMs68Fv_3mr1Tj6xG4Q_oTB1Cca8-2dh2hCP9UQQmV2GsD7EiyqmhgK98VvxQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فوووری پپه‌ آلوارز : یان دیومانده با قراردادی تا سال 2031 به رئال مادرید پیوست. این انتقال در 48 الی 72 ساعت آینده توسط باشگاه رئال مادرید اعلام میشه\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:37:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cmBSGJS5mxv3UDWB58QdGaSwT171BqlYLCgV2UyBrvW4BA8zT3XfLtT-cMfTlcgYxszXbl5PB4XKzgmlR8tSxBxEGOiKwVDRkxDreAEIqZU7vxk5LKsoDWGcuznaJTJUMcmWk8WELfMz_5ygbT73QhXjqVfiELRqikqCQr2agQ06OLQODMDc17W6rFITLoGaMkt8n82SkgDCPw5F9Y6iqmF4F1F1puVfxTEq4crGVmjn4ZPjg0Y0Iy_Z9Sr_ohcxJx18mF3XjLXmoHFv21UZuVD-zVXfxXlLWAJs_sU6wi7mmqIRh7rBqgrIVY0SJh9LD1s2TfiBHKwHdjk60L5nHg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبچه های رئالی - بارسایی، چنلای هوادارای مجموعه مارو میتونید دنبال کنید:\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eچنلای جامع و پوشش خبری:\u003cbr/\u003e\u003ca href=\"https://t.me/UltraMadrid\" target=\"_blank\"\u003e@UltraMadrid\u003c/a\u003e \u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/HomeFCB\" target=\"_blank\"\u003e@HomeFCB\u003c/a\u003e \u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eچنلای توییت رئال و بارسا\u003cbr/\u003e\u003ca href=\"https://t.me/Tweet_FCB\" target=\"_blank\"\u003e@Tweet_FCB\u003c/a\u003e \u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/RUltraTweet\" target=\"_blank\"\u003e@RUltraTweet\u003c/a\u003e \u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859210710373899025\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e منچستریونایتد:  \u003ca href=\"https://t.me/ManchesterNews_ir\" target=\"_blank\"\u003e@ManchesterNews_ir\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5859527288118319790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لیورپول: \u003ca href=\"https://t.me/Liverpooli_Newsir\" target=\"_blank\"\u003e@Liverpooli_Newsir\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5856971232821386512\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e منچسترسیتی: \u003ca href=\"https://t.me/MCFC_News_ir\" target=\"_blank\"\u003e@MCFC_News_ir\u003c/a\u003e",
+      "date": "2026-07-26T09:40:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "اینم به مجموعه اضافه کنیم؟ \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5856971232821386512\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MCFC_News_ir\" target=\"_blank\"\u003e@MCFC_News_ir\u003c/a\u003e",
+      "date": "2026-07-26T09:42:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "خنده نشانه رضایته پس راضی هستین، اضافه شد",
+      "date": "2026-07-26T09:46:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017387439501608039\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپپه آلوارز: \u003cb\u003eبه احتمال زیاد، رودری بازیکن بعدی خواهد بود که به تیم ما اضافه میشه. متأسفانه پاری‌سن‌ژرمن قصد داره قیمت انتقال اون رو افزایش بده، اما خود بازیکن تنها یک هدف داره؛ بازگشت به مادرید.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:46:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رومانو: رئال مادرید به‌زودی پیشنهاد جدید خودش بالای 100 میلیون یورو رو برای یان دیومانده می‌فرسته و تلاش‌های 24 ساعت اخیر پی‌اس‌جی هم نتونسته جلوشونو بگیره.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:47:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5857487719818599383\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فووووووری پپه‌ آلوارز: \u003cb\u003eبعد از قطعی شدن دیومانده به رئال طی چند ساعت آینده رئال مادرید میره سراغ رودری تا این انتقال رو هم نهایی کنه، هر دو خرید قطعی هستند!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:50:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DhlM9wwpNICysopDkXxDx8SUgde5fyvL2K2Pxl3Vlz0mfoNcuQYwwoUlVE11eQ62vYJpnDpkEYEnV-vwaQx50FOk7kgU65lzZumApxPgw-IDEMhOZUVRVXhRBQk5jU2IRvKWLZ2pPvWybOgGzcaESUGM9K5x2CbwFrUq107hiYkm35hONs0uUn3hqqYriEaeGjGZgzozwrZH17fDeTDLII2mtuiyNBe6hD6InHh62PGLSiYXvlJngp9eOd_7JwZWHPnGyE7lapQOnwjZWLoG6GLhi4mPBi4vpVQHqBmtsiGvqLKx8fHAcWf1Q33P5_pQ8k4wolKzi-oeHzZ1ZsTK8Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972178198618709684\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969601450169344213\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فلوریان پلتنبرگ : فعلاً هیچ توافقی بین لایپزیش با رئال یا پی‌اس‌جی برای یان دیومانده انجام نشده، ولی مذاکرات و پیشنهادهای جدید امروز در جریانه. با اینکه رئال و پی‌اس‌جی گزینه‌های جدی‌تر هستن، اما لایپزیش توافقی رو برای امروز پیش‌بینی نمی‌کنه و دیومانده هم هنوز تو تعطیلاته.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:52:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EGs0SX_aEF2LAeOOHRqWihWM0J7NYOch2YbHwS5jyiX_dDSCZf7zzI_f64cxfz19H9ceGdHIIhCfzweTjz74kGtGQYQViaJW6bcnun212wnCCmUhjUGoMj9CUgNwGCNhq0s96lX6to0plq9o3_UTs6smHNl0MnQI4RgK7NZcA_Db5bJdGRTAAPv4Cps3UvQ2uZv3WVk-MqeMA6oNIKiLb8f8sgIBSWadlTRkxMkkDto9-8GU04--ZCRs-ZACyVWu8jb-zTUI3k2mm2109RAv8RnEDT4HEf0Iq8mjCb24ImbUhcc2Falh_QWYEjK13jFAKr5FAP0S1ay2McZk3aazeA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5976390874341319242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5832710405675294017\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووووری گاتزتا دلو اسپورت: پیرلو به خاطر ارتباطش با یه شرکت شرطبندی روسی سرمربی تیم ملی ایتالیا نمیشه، سیاستمدارهای ایتالیایی مخالف مربیگری این مربی 47 ساله‌ان \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-07-26T09:57:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
     }
   ],
-  "last_updated": 1785051404
+  "last_updated": 1785059934
 }
