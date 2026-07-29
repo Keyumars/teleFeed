@@ -8,165 +8,15 @@
   "posts": [
     {
       "id": 0,
-      "message": "The end",
-      "date": "2026-07-12T20:32:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qsQ1-xJmY3aAC24vH8ydJf0JjqnUmo3eXGMqXTD0z9iDJ48Qpt39a4R4J9Wm7TL-AF8-WjjGKtDN33rO4zVt7e8xvV8jNFluRqQB82P_oX2wgyCtF0pGchb1-eJDyyK-yTvw2GEQgeHqNIlF6rWbXcOhyDYKP5USe4gujUH0Or8wDW1kTlsR7LvzDvKuUPpjBWiLDk_sRgTNvT7DN8nXTLtE44HHxjKjytsjFHNBVLCoXELfp2OQSV4lveY5-Y4auJUdmDVGsnDm4kjxsPk049tjOBKFCjQZmuur5mL9PM_92oY8a1h8FyfyBFhqYeNOMZUu5jKh2GlM6vTaddSE4Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تسلیت به تمامی خوانواده های سربازان تیپ ۳۸۸ جنوب.\u003cbr/\u003eروحشون شاد یادشون گرامی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-15T19:18:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/mrsoul_community\"\u003e\u003cspan dir=\"auto\"\u003eMr Soul\u003c/span\u003e\u003c/a\u003e pinned «\u003cspan class=\"tgme_widget_service_strong_text\" dir=\"auto\"\u003eتسلیت به تمامی خوانواده های سربازان تیپ ۳۸۸ جنوب. روحشون شاد یادشون گرامی.   \u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  Mrsoul \u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  GitHub\u003c/span\u003e»",
-      "date": "2026-07-15T22:27:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "Beta 0.0.1\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-16T15:26:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rY8EclxllWuEw79s0ktLQU1jhVfyRs-0MaNA4Eh2jQf6k3THlGsP-slCmhD_tUtnpNCrrXYFdkItyHkZk84h8srvC-BzflzIj-ex7DH1cgoponO3K8AohLBuOuNRp9N_6WsO52qv5957CaG0OOSCuYLqkbop454d-PR_jqARskCclQwyoO8gO8YTRTkgayVL7s3_hI35TC2uRNEAtXQPJSWxoKHa_eGhnvx_uZPr3GOxf_ot2uNM1x8yuNkLu66eadCvc1EL6MsabJkTAeIqcqp7VxFLTS88PA-eb7gVfdYePAKAMaJw7IK5OTfMlYYgrwJPAQIs2U65dOfadFxGnQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection/releases/download/1.0.0/Soul.Connection-Portable-1.0.0.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود نسخه پورتابل \u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e سورس کد پروژه \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنما : \u003cbr/\u003eفایل پورتابل رو دانلود کنید بندازینش توی یک فولدر بعد ران شدن یک فایل دیتا درست میکنه که کانفگیاتون توش سیو میشه،هر ورژن جدیدی اومد فقط فایل پورتابل رو جایگزین کنین تا دیتا هاتون حفظ بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-17T12:17:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "پروژه زیر 48 ساعت ریلیز شد.\u003cbr/\u003eهر باگی داشت توی \u003ca href=\"https://t.me/mrsoul_community?direct\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدایرکت\u003c/a\u003e چنل بهم بگین.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-17T12:21:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t8vPQmhJ85tfSjUzWhJKUsMTHWp_WsFBowHCsKKfbJ8qV1CjoDjrxGKrDrbWENQQAw12k103e37Bkm9Zi_KExZ4iX4wJ5t8392WzxWRU6RXAcj-KxwcZ0wm_H6Q3KZ99QqGfdadCBIOqJHH68JubHgVPN6UeI79elXZWlipASITp98I5X_kSRdAFq0F3oMZSOZa7FgWtb77bBEEOVhCKt01jGhGwjBHWtj45vktUYilJ5tDrP5u0jUXIN6_XWtEWyumVpWK0kMghzgPKxbb3x7ONzZ4sesbI_k1VWC6Jq-Ndi8LvMoPeKB16xpztK2ZeZ0L6cSskUkVbIyhOiHKvYw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "توی ورژن بعدی سرور های خود سول کانکشن به اپ اد میشه و میتونید بدون نیاز به کانفیگ از اپلیکیشن استفاده کنید.",
-      "date": "2026-07-17T12:24:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j3bDj8CC6NY_yB_30R82QPjqmPppYykU8l_VON7KUymfzrTa9CfbDAfAoPRC7htvHnGGqgQ5IPt9VLDhkNxrd__a-Cg-MhWgciJHtBuwl5bFakFjTK7ANFcSRvfNllBTeFZYma655dWiKCAatlcnSJqj_xhICtrmO_YiRtWNmp0CzlxYe4fPBDUP_3mZc8hxJfTWSBWXixn96FmX5hG1xjntExAd7bM5B1N-61aRQAGbtVgUGS3lmvbbzlRH4M1U3TVeGvgsANy_GwIMuwmAj8BX7LQcXJDMEd9N6hWxJaO2VUWFUY7BO-AJM65URtvkc5UQfe3FM--aeMm2-eqktg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca class=\"tgme_widget_message_author_name\" href=\"https://t.me/mrsoul_community\"\u003e\u003cspan dir=\"auto\"\u003eMr Soul\u003c/span\u003e\u003c/a\u003e pinned a file",
-      "date": "2026-07-17T12:24:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 0,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection/releases/download/1.0.3/Soul.Connection-Portable-1.0.3.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنما :\u003cbr/\u003e فایل پورتابل جدید رو دانلود و جایگزین فایل قبلی کنید(توی همون پوشه که اطلاعاتتون نپره)\u003cbr/\u003e\u003cbr/\u003eتغییرات :\u003cbr/\u003eچندین باگ گذارش شده فیکس شد.\u003cbr/\u003eکیل سویچ اضافه شد.\u003cbr/\u003eباگ های ui فیکس شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-17T16:28:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "دلم براش تنگ شده\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eدلیل شروع کردن اپ سول کانکشن این بود که بتونم ذهنم رو مشغول کنم کمتر بهش فکر کنم تاحدودی جواب میده ولی بازم دلم براش تنگ شده",
       "date": "2026-07-17T16:35:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12600,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "جمعه ۲ مرداد ساعت ۱۲ ظهر ، مشهد مقدس\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-07-24T10:15:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6620,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ul1R9NH7emwvsn58KU8dyj12OXN3Gvivy-bdVdfhVUJ-hkCpZwUhqAlvcgzQvKHpNPZsUCuynbIjx72_fD0eYSosE96xH0l4x_U7nZFEITmDArx_M7dlfp0MiOTWE0RIYY6WluGl1-WmvI2oHDTAlQzSkpDq4F3ZFOyy4hQGQl_JLekWc6_x-Qj3moe-tAGgT8hQoc2VPf8_1KSizfajct0f0w39-dfZDHZiNuez7AjHUPBY0yG9TL1HbOjkNRGWXTEDCJslCzca-8smIUBP43NtFcf_AvGzHMsiF5cABKomNm-PfYRZ4INRoHOk7VXNUfiq9-WDxUN5XMK6Ao0xrw.jpg"
-        }
-      ]
     },
     {
       "id": 0,
@@ -174,7 +24,7 @@
       "date": "2026-07-24T10:21:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6720,
+      "views": 7360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +42,7 @@
       "date": "2026-07-24T10:35:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6580,
+      "views": 7540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +60,7 @@
       "date": "2026-07-24T20:10:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6490,
+      "views": 8000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +82,7 @@
       "date": "2026-07-24T20:39:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6340,
+      "views": 8119,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,12 +94,172 @@
       "date": "2026-07-25T02:18:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 7450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "به روشی پیدا کردم برای تانل مستقیم روی مخابرات عجیب غریب جواب میده.\u003cbr/\u003eالان براتون یه سرور میخرم تانل میکنم بهتون میدم تست کنید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eاموزششم میزارم اگه خواستین خودتون تانل کنید.",
+      "date": "2026-07-29T11:02:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "شدیدا توی این وضعیت نت جوابه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AB.png\u0026#39;)\"\u003e\u003cb\u003e🤫\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T11:05:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2570,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/g5pDgiVrUp1G-_P8VpjkezPMM06ZG0thGogmurq4NtM57Y8Oru8EeI5KOTRFXoIMMwFwNks6f7XUK-ZcxIPqUbj4MKTOl7BmJaAqo5cIxvgrhkYMPlIwcKZ6obroD0XKBym8Z-OKaIhvdp2S45E8ugQ3CJHwezmj5quycTKImCPJ7b0D0zTVkyzQqhkpEJtj3RtQleIhYUgBko1mc4NAPiJ8I8zDwLZhDy6G3z0h32q6aCyQGfHtwZo_C8koaume-CyZp_rtGNfP3wMkfnbLoyVskZa4e4hwoRkaOfb8KnQsgMfXXkLQA5ynqaaQz2B8SDm56dRbXQCU3h3bDOFDBA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tRLmA-yx047X1jUlNt00vJCoxv6uN4sseC7VwKrVZAUWMpKDmy0WnF44cHhUaxbld37ojZoUx10qUcFQIkVI185W07z4ZHURor2UYad_Cj827gs5raTcKowkh1jctybukfiE7YDQX316NwGSg8oWgZS9S8A6Lzfx8pGYaQaAbtKt5fM_NaMCunsiekEZZKSUzROjJRhh8y5Q_1Yw5cw0FlGiEFuOGvFLu_5gWimIG-oVWUThXavMfM3sU8FTkdAC8JkN3NqNgcEHDYWhl2sQsr9YLm5CmCXS5hg-3TUIheRrGBhlUgouwfrchISZYFsvrpEPE9Ev0Rfy8dQ6p5okGw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اگه cdn بزنید دیر تر فیلتر میشه و حدود یکی دو ماه یا بیشتر براتون سرور تانل میشه به داخل کشور.\u003cbr/\u003eاگه فقط از ای پی استفاده کنید حدود ۲هفته طول میکشه تا فیلتر بشه ایپیتون.\u003cbr/\u003eخودم تانل اسمایت رو پیشنهاد میکنم ولی این روش سرعت بیشتری داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T11:16:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "ابتدا یک سرور در ترکیه تهیه کنید و پنل \u003cb\u003eسنایی (3x-ui)\u003c/b\u003e را روی آن نصب کنید.\u003cbr/\u003e\u003cbr/\u003eبعد از نصب، ابتدا گواهی SSL (Certificate) را دریافت کنید. سپس وارد بخش \u003cb\u003eInbound ها\u003c/b\u003e شوید و یک اینباند جدید با پروتکل \u003cb\u003eHysteria\u003c/b\u003e ایجاد کنید\u003cbr/\u003e\u003cbr/\u003eپیشنهاد: پورت را روی \u003cb\u003e443\u003c/b\u003e قرار دهید. طبق تجربه، این پورت در بسیاری از شرایط پایداری و عملکرد بهتری دارده\u003cbr/\u003e\u003cbr/\u003eبعد از ساخت اینباند:\u003cbr/\u003e\u003cbr/\u003eوارد بخش \u003cb\u003eTLS Settings\u003c/b\u003e شوید.\u003cbr/\u003eمقدار \u003cb\u003eSNI\u003c/b\u003e را روی IP سرور خارجی خود قرار دهید.\u003cbr/\u003eیک \u003cb\u003eClient\u003c/b\u003e جدید بسازید و آن را به اینباند متصل کنید.\u003cbr/\u003e\u003cbr/\u003eو تمام شما الان پرسرعت ترین تانل مستقیم رو ساختید",
+      "date": "2026-07-29T11:20:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "دیدین بدون قطع کردن اینترنت هم میشه جنگید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T11:22:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2180,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "اگه نمیخواین ماهی ۵دلار هزینه بکنید برای سرور پنل zeus روی ورکر کلادفلر رو پیشنهاد میدم شخصا منتها اگه امنیت براتون مهم هست یه سرور بگیرید خطرش کمتره",
+      "date": "2026-07-29T11:24:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "به عنوان کسی که ۱۵سال تو کار امنیت سایبری بودم اصلا توصیه نمیکنم از سرور اماده وی پی ان استفاده کنید\u003cbr/\u003eتمامی ترافیک شما با وایرشارک قابل ردیابی هست\u003cbr/\u003eو هیچ وی پی ان فروشی نمیاد از سود فروش دیتا های شما توی دارک وب بگذره\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T11:25:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "حدودا بین ۱۵هزار دلار تا ۲۰ هزار دلار دیتا ها رو میخرن",
+      "date": "2026-07-29T11:28:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "یه وی پی ان بزنم براتون با پینگ ۵۰ عشق کنید؟",
+      "date": "2026-07-29T11:31:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote\u003eٌ\u003ca href=\"https://185.226.92.154:2096/sub/xfhhag8jh50s33ap\" target=\"_blank\" rel=\"noopener\"\u003ehttps://185.226.92.154:2096/sub/xfhhag8jh50s33ap\u003c/a\u003e\u003c/blockquote\u003e",
+      "date": "2026-07-29T11:39:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "از دیشب به شدت این اپلیکیشن رو توی کانال‌های تلگرامی مختلفی دارم میبینم که گذاشته میشه به عنوان توییتر.\u003cbr/\u003eاز هر کانالی که داره نشر میده تقاضا می‌کنم که نشر ندید و لینک گوگل پلی بدید. \u003cbr/\u003eبه خدا گوگل پلی نه فیلتره نه چیزی.\u003cbr/\u003eنشر دادن این apk ها توی این شرایط یا از حماقته واقعا، یا از ندونستنِ مردم سؤاستفاده کردن.",
+      "date": "2026-07-29T12:10:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/t0EC0V_BXiH6IFFmBedSTFfPRv_ehMucDuzGEmfOdoBUm60dzx9xjJWBqFmlG3C8c4dARV__h-2HhqdumjXme-lXrfcpiwfFsqHyHmA1WXdr9-3SHMp4zmAM9SPHtZENRON3kqpp-R2QuaE-emLssAy5EnyKKzJBqv3oqRPmbP9JOfltHaP6ES2Xz3rhqdz3oAUHdvUBKa8OGJhIgJKgPLZDdm_IkBgkeHLQZhgll9p2dwWmcOnplZpNDL5YEsLUtAsY1Q2cbtv561CIcEn2yv3AcdW8O-Ujowug6ikNV6s10LVdAHm7A4NwlT6HXYy9y6zQrUB-TLeAvHLTWktStA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه چیزی که خواستم روشن سازی بکنم فروش پنل سنایی یا هر پنل دیگه ای هست\u003cbr/\u003e\u003cbr/\u003eهیچ کسی براش نمیصرفه با اسم خودش براتون پنل بالا بیاره اگرم براش بصرفه پنلی بالای ۲۰میلیون هست\u003cbr/\u003eاگه با ۲ ۳تومن دیدید اعتماد نکنید چون دو تا سرور میخواد یه دامنه میخواد و کلی ریسک که هزینه سرور ها و دامنه میشه فقط ۱۰تومنه\u003cbr/\u003eبرام تبلیغ اومده بود پنل نامحدود ۲۰۰هزار تومن\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-07-29T12:19:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 981,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1785321521
+  "last_updated": 1785330067
 }
