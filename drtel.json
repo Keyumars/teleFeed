@@ -8,89 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پشماتون بریزه",
-      "date": "2026-07-28T22:13:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oAnYlMdNxNKHdvivrAhKDfEd9Jkw9aEYJ08VNMVGHbJxqqTbgiVBGP1etu6ofCm4B7XqD9AqW5SmqDMjW0plwlSGucqg3q2UWGF8oKZrxXdccQ1WrgWcOfaNTTyYJyMK9jCiIFoKUHzN_WBhp8jn-8bSe-K6NabLCH4-v3eGvMZnQySnuOou-GgGEG-c0pJ76N4plk4Hdo19osUt4kJtKK0od2yazAJwOdca5urEy533mUnAynsffVt3I17d7JGKpdsnXODluQIOBBDTjVQIDMRg-HouoGTq4EpPZDfPQ37Vqmf4b8JUe-sWvo2Ul_b8i1MDNnDbkdxt0CSgFQc7xg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e باراک راوید(خبرنگار ارشد اکسیوس) به نقل از یک مقام ارشد آمریکایی: \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eایران چند موشک به سمت یکی از پایگاه‌های آمریکا تو اردن شلیک کرده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-28T22:20:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BFo31gqhBsTLt4LGugjHHvaSxVKE-75Tub_LRJJPoOpPJy9ZrV2xRPrWuudHV1VqVPZPhZq04p2M__HC0RozoHOAmSgOWo0TwTef2pX4EBcOF4hxFdgr2drqvz7P88dEx99VmO-UdQ9VqtR2TKdHkLiLtGE_gJJgZ7-pSFM9-RiiulJn2K6XhXklmF4-4SR3EPRtpntEPrrDdkZfbdbQO0Paj0E_AWDymS1iQbivZ3rsvaE0RZvzMepyESe6Rh1kisobevS588KD1SBrvzsR-1AC1fxKEeikjrikQc0AyUG36KcRmvQ1l2XBgnFnLIK0GnC86ubkO0aGT4V5gNAJ5g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ای بابا چه گیری افتادیم، میخواستم امشب دور دوم قرعه کشی رو شروع کنم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA\"\u003e#مدیریت\u003c/a\u003e",
-      "date": "2026-07-28T22:21:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "ادامه نده \u003cbr/\u003eهر ریال از پولی که تو میدی ی نفر تو خاورمیانه میمیره",
-      "date": "2026-07-28T22:23:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eسنتکام :\u003cbr/\u003e امروز ساعت 5:45 عصر به وقت شرق آمریکا، نیروهای سپاه پاسداران\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e چند موشک بالستیک از داخل ایران به سمت نیروهای آمریکایی مستقر در خاورمیانه شلیک کردن تا یه حمله غافلگیرکننده انجام بدن. با این حال، همه موشک‌ها رهگیری و منهدم شدن و نیروهای آمریکایی همچنان در بالاترین سطح آماده‌باش هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-28T22:31:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 149000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V2H6pZczma56zGKvO_tbSUtibSviZCgIbt9X4NPa4NOhif6fy65RLmyyD74v-banz9obY568IazUrHyMDCfNKIkZQA6z41iVYekE226LkbObGGS2iUAa-8gkwtT4rVQzS4Rq-ap5uruv8UJrY-g3latlFgPpvxab4_WFx-pXCys2jJy9uQgp2_-NWqvAJZFv5gQ8uuAFDt9ktHGWf4StDwPMjhVcQfiDD1arvRoeIWZNlTrj0Ge6K3iA-jhrXQ1R95lqBISIkHY8J11xxpUBNF5QOKDLSN9cJjiAMzMs5oBw0lS7wKopvH6-Y11JJibniQ_KVLHze38uswQWqm6IEg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمحمد مرندی، استاد دانشگاه، تحلیلگر سیاسی و چهره نظامی نزدیک به حکومت ایران:\u003cbr/\u003e\u003cbr/\u003e \u003cb\u003eایران کاملاً برای یک جنگ تمام‌عیار آماده‌ست.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-28T22:38:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 169000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +30,7 @@
       "date": "2026-07-28T22:46:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +42,7 @@
       "date": "2026-07-28T22:52:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +54,7 @@
       "date": "2026-07-28T23:05:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +73,7 @@
       "date": "2026-07-29T00:14:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 125000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +92,7 @@
       "date": "2026-07-29T00:31:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 125000,
+      "views": 154000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +110,7 @@
       "date": "2026-07-29T00:48:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +129,7 @@
       "date": "2026-07-29T01:01:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 123000,
+      "views": 154000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +147,7 @@
       "date": "2026-07-29T01:11:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 157000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +165,7 @@
       "date": "2026-07-29T01:21:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 160000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +183,7 @@
       "date": "2026-07-29T01:22:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +202,7 @@
       "date": "2026-07-29T02:11:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 131000,
+      "views": 169000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +220,7 @@
       "date": "2026-07-29T03:51:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 122000,
+      "views": 167000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -317,7 +239,7 @@
       "date": "2026-07-29T05:13:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99800,
+      "views": 154000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +257,7 @@
       "date": "2026-07-29T05:52:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90700,
+      "views": 161000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -346,7 +268,69 @@
           "url": "https://cdn4.telesco.pe/file/C4Ot9sv2vyhoZvWLMO9JSoDG3QisNj4NQ4kLmbIfjLuE7Ytyf6AbtT4GrzVY4WLHCzKW1AB-Xk6pSqtoaiGZW7uvB45Lj9wbC3WKkhCLBWAd2DmWiBAqm4R2AHHQvvRyDK1-Y-Bak7MnvaxmK6LP6_Hcj2AH1eSMeAc5ihKKt_9V22OlF-V7ZU_YyScyksMKcZmKn3rqR_MrX7OtuLZapQx0JIbQWf-ypO2dpwSK-U_604surno94hd1RzzohFnhc3PBpvPOInYdex6o0r-jK5Wrdglv_qwozIJO59HVJ52rtoBPZN8mjOo_3cAVKvUTfFxNTqPMnXhAFUVIW0YU0A.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eامروز 29 July، روز لازانیاست؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین پست رو بفرست به کسی که قراره امروز تو رو مهمون این شاهکار بکنه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-29T08:52:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 106000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Nayav_xtnMEH3ktnJ5lg71fYex0BRYAH_pDSe2zE_ct2wvCGgGSIR8nr5y0GnbUvmkRt31duTd8wX7qyNsnVMHEhocJnfZ7UCj3uyEYX6tWoJ0MyIYQEYrEeOE4OYo6cuadcg8u7LHcRaZtrVe_IeIA07RxPbNO60YT2QsmCDkObUQd2gev2Tlb6CX7H-bN7dtxPruzIX7SOew4dtg75rPfBC9_Zw2lDly7VNL-jUciU4pkC95FJvnAPrMasrcV_XQVY292ocrQKySFm54EoVppBTGg-b2MR-uvsaPPIZT6aonJ9wY256eep0L6bRE2gViSQqwA33XWYQNzAZoA6jA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/C2GyzShoof0ZFx3gQIr9I0uoNN1APYYgzsKXexYtlsBAkNFlddEShenVOCvoCIHvIkoYioZQ2DhmsITwGyf5lUJwo_cN18nKt1Io-jD7t6R6kbjGq1kfglvQlg0kI4ug0pP9_9FUex4L-YIKBMLUTiFpl_qne8dkh7NH0rVUTI71fQdcofoHlLKawtvuqgf8tldhXkaMrNlkf2EwpNr-kjw4Z04YEdppBShwxqgqEvAgDRAZ2CB7Vd9EuC1py82zy9CLaX99p24ZukdpEz2DS9e_HjknfEnoQaAe2Fx78UwAsXW4e7ducXARUl2ehGH6PBA40b_B_FxHnAj5_WJjew.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eچند روز پیش تو آب‌های ساحل سی‌برایتِ کالیفرنیا\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یه پسربچه 10ساله غرق میشه؛\u003cbr/\u003e\u003cbr/\u003eهمون موقع \u0026#34;رایدر ویلیامز\u0026#34; غریق نجاتِ 16 ساله آمریکایی واسه اولین بار تنهایی به دل خطر میزنه و با وجود موج‌های به شدت سنگین، دست اون بچه رو وِل نمی‌کنه و نهایتا نجاتش میده...\u003cbr/\u003e\u003cbr/\u003eابن ویدیو خیلی وایرال شد تا جایی که ترامپ هم از رایدر دعوت کرد که با کاخ سفید بیاد تا بهش یه نشان عالیِ غیرنظامی بده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-29T09:37:21Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 77400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/TPfxLzEcodWOlyZf3gfgV23xe7IYMMsheJgCpZ5dbIdW0TjK_FD8sNkupXv-tL6BUcWkz_10TpXrx0xYQ3uvK0zy_ghf2OX6O023NCn6qpl7LkZFXLApqAEYjacCgqALGPfDbE-vZUY1p1Q8O8Ba8OxHC_9IsC8Wpjs6ovligDSrukM26RVo-XkUvZYjQX31yHabVVjlYBE0hXRNSuG5VwzCRSy0ljvqmMXijNMlcBOyJwk-so6KjkcYyGKmZCbLAwQn6sngbktoPj-5Sh96wdaUN16vbSXifo34ny3haKkWgtSOhFk-Ynfwkynq0wA3Zy-awgKW7z9CjGfAI2tIHA.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/IB5LdrpGWgZyD9ad-IfsZXlqedCydo8kSy4E8buvYJSjaZx2pZlVndO0FMYcp4dgd50OzpVGNr60sHf4bKCs4IC3jTuS9s-W5xUZzZUvDH0mXDFbpLApdnegxpTUE4Up1Im2qcs9da7dln5r50JrkJ5IQwlD9IGtVWu9oiZX_24RGyefJASpXQS6HmoT2hJH9BA7BK5KgbhHM_fWXHSd0tfbPZa6_42hzOnkmpyRD2kh_nTrmTjAejEQI00KUW5mDK8kNpyJ4VkTo4WIQ_uO8izvNZ9zwZEVldHZD5g0I-C0lewOo6400NadShkduipOibbmXfJJOFYXqqD9CkKDOA"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eخارجیش رو گفتیم، داخلیش هم بگیم؛\u003cbr/\u003e\u003cbr/\u003eتقریبا یک هفته پیش تو منطقه باباگرگرِ قروه، دوتا دختربچه تو آب درحال غرق شدن بودن که همون لحظه \u0026#34;قربان رضایی\u0026#34; به دل خطر زد و اون دوتا بچه رو نجات داد ولی متاسفانه خودش ایست قلبی کرد و فوت شد...\u003cbr/\u003e\u003cbr/\u003e+ این شیرمردِ کردستان تو شركت لبنیاتی کار میکرد و خودش پدر و نون‌آورِ خانواده بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-29T10:20:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 35700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lQTLQz6PU0ocCXwy47CA9AqAPABfyqXJlCRWK4fQLgOTHbJWpiTlDCJ6lFBaW6GfpSS5BkUMAMfF639Xpa3qoEyzhU6y2a9JwgF5-Hu1pvuoqOPI6CXJcCvlDsD3Iw37RiB8F9LTlfwTOw6AOIFdm-OdbIn73HKrH98VNkjsh6QkcjQ4Tpio8HRgxv33SCvsox7q903kzmOzpVWCHk2jSzyht97wvXt_mgsB16yiTS7T5uGSy3bos3eMUJmdeBZi58RFiP37xG7JskDpqhge84j7EC-7ih8n_QJIy5euXVtnF7VJWyBAuMPqq4P-owcNV7YGega99oLzhgQF3kVRyg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785310895
+  "last_updated": 1785321389
 }
