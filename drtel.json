@@ -8,57 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "الان دیگ با قطعیت میتونیم بگیم همش تقصیر بابکه",
-      "date": "2026-07-30T02:09:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eطبق گفته کاربران؛ برای بار چندم همین الان جوری اهواز رو زدن که زمین لرزید!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-30T02:14:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eوضعیت شیشه‌های یه خوابگاه دخترونه تو اهواز بعد از حملات سنگین ارتش آمریکا\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-07-30T02:16:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/g_2UCXppi2Wq56VBBeYAWHLhLM_KKwcZP1u__KMsp-CoO_FYBWDI6famfBMU3fMXktp_ZxA0cW2g4Mhv0S_r3bQ6RaOONVMFXmouF15lvg-ihquVNVm8lpA3BzJ539Bjam3tY6jf5CknhfpBuOA4ycahh4wIDkH5EHRdykzliymTrdnjFetapFS7jE-tI7mLfbn2A9WrIgHVJDnPUsylLVxOCtL4waH0o7nbmHLnQb-an09nWym2WdIwfuasEHKVLELU47bitU9Udoj8dWAI9d6R7THggxj-kQ4nFWKzyfXaseFYfau-0KzaJluGmE4B2ixyXXLb2oyHz8QxoSormA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W9-B2LLF10D6a9_DKpx1sJShyRL_FwZ11Ii3PJk4fMh1CC0Z7QHNRTMr81mnB5T9kSBZ2s8vBWY7Cm-YfKubJDwLZcyf8ij8w6MGoWREctoKSVv2HTZv-4jp_lCjBSXJLbWE0bXSqULacPzwF7FkxAw3G1lwryCbs8EhGrQw5NKlYCmfor34iPH02DfKyc5K3ATxD8IEM-gbbz1llV16sTdk3sje20UC1JTcCyLBAn81K0kbN7C2ZWBqozvpNs0AvvBXaubZoMuJbd7qFrjOg2vILtRcGPUQ_avlKygodDbe6OC2udXZKdGtDrAG0y4qbXlrPSNMZ9RUZpJu49KJkg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eسنتکام :\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eعملیات سنگین ما علیه اهداف سپاه تو ایران با موفقیت به پایان رسید\u003c/b\u003e، \u003cb\u003eهمگی خسته نباشید؛\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eاین حملات در پاسخ به تلاش ایران برای حمله موشکی به نیروهای آمریکایی انجام شد؛ مراکز فرماندهی، سایت‌های موشکی و پهپادی، تأسیسات دفاعی و دریایی سپاه رو هدف قرار دادیم تا تهدید ایران و نیروهای نیابتی‌ش علیه نیروهای آمریکا، کشتی‌های تجاری و کشورهای خلیج فارس کاهش پیدا کنه. همچنین همه موشک‌های شلیک‌شده ایران رهگیری شدن و نیروهای آمریکایی در منطقه همچنان کاملاً آماده هستن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-30T02:26:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 157000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +34,7 @@
       "date": "2026-07-30T02:34:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 131000,
+      "views": 155000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +46,7 @@
       "date": "2026-07-30T02:43:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 159000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +68,7 @@
       "date": "2026-07-30T02:52:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45900,
+      "views": 58100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +86,7 @@
       "date": "2026-07-30T02:52:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
+      "views": 177000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +105,7 @@
       "date": "2026-07-30T04:02:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +131,7 @@
       "date": "2026-07-30T04:34:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
+      "views": 172000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +149,7 @@
       "date": "2026-07-30T07:37:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 90700,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +167,7 @@
       "date": "2026-07-30T07:51:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89700,
+      "views": 155000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +185,7 @@
       "date": "2026-07-30T08:42:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44800,
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +204,7 @@
       "date": "2026-07-30T09:11:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4090,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,11 +218,11 @@
     },
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاضهارات نویدِ زیادخانِ کص‌ بالاخاهیان:\u003cbr/\u003e\u003cbr/\u003eاز همه عذرخواهی میکنم ، گوه خوردم غلط کردم!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبذارید برم توبه کنم ، درمان بشم و برگردم به زندگیم برسم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاتفاقاتی که بین من و اون خانم‌ها میفتاد رو تو ذهنم الکی بزرگ می‌کردم و دیگه کنترلم رو از دست میدادم. \u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eخانم‌هایی که کتک میزدم، من رو درک میکردن و هیچ شکایتی ازم نمی‌کردن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاتفاقا مردم خوب کاری کردن که انقدر واکنش نشون دادن؛ باعث شد یک بار واسه همیشه به خودم بیام و خیلی مسائل رو کنار بذارم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eاز تَه قلبم از همه مردم عذرخواهی میکنم.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاظهارات نویدِ زیادخانِ کص‌ بالاخاهیان:\u003cbr/\u003e\u003cbr/\u003eاز همه عذرخواهی میکنم ، گوه خوردم غلط کردم!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبذارید برم توبه کنم ، درمان بشم و برگردم به زندگیم برسم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاتفاقاتی که بین من و اون خانم‌ها میفتاد رو تو ذهنم الکی بزرگ می‌کردم و دیگه کنترلم رو از دست میدادم. \u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eخانم‌هایی که کتک میزدم، من رو درک میکردن و هیچ شکایتی ازم نمی‌کردن.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eاتفاقا مردم خوب کاری کردن که انقدر واکنش نشون دادن؛ باعث شد یک بار واسه همیشه به خودم بیام و خیلی مسائل رو کنار بذارم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eاز تَه قلبم از همه مردم عذرخواهی میکنم.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-07-30T09:11:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7140,
+      "views": 127000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +234,100 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eواسم سوال شد این لات بی‌سر و پای قرومساق چرا انقدر خوب داره حرف میزنه؛\u003cbr/\u003e\u003cbr/\u003eرفتم پیج اینستاگرامش رو دیدم زده مهندسِ فناوری اطلاعات!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-30T09:27:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 118000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WiUDCAsTxbeLSMbgWBArDLynHeDDHXiOj-sIHvmKryT8SwsFE4L9pXgHW4HstQQTd3TanGutdvvMNB1z0yfI3nMkONo8xiZ1KLbwutckADU5vxFiJtKM34HoHMBuMS0B7qso_iRQpROSZZd-bOPvgAJhwrCNFrqEuyz_RDmG4rIcixEKqby-X2O3gmCsmaymIsPIeNQBMuYQgDCRzl6fa4_yrMjdySiefrlsk60lcPS-IDMgWzVM0egr4sPdls5ZjuXsAMmthUNkWc8A_oyOTmLVmn4I9-d72GnVzkb2eBw4rII8GxOZSKWIY8a7veRI04edrT8DL2kDA6Mn8AchuA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eقیافه بدون سانسورش هم ببینید یکم حالتون خوب بشه.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-30T09:37:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 117000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bFLQO482B4ULscT_veoa8gBJE_cU4fXecfojwNVkmWB-PJRfbc0j4LLmX-4s2DpwmiC5munN6N-H0oNfAJ539M_rPv3Y2xIQBxsibfjAMUvga6cSDxzpkExqC5SKp-vHewuSSVlo0ATZXyTiS8nOudHRdaWv8g4JgfUWQ-iFpDUOIjGN_YNiy-7SDHZRTDM0898qBLQ_4Ne7-ZBjSGHsFBaVhHfBk1cWJWsvt_uCffAGOofCo_bXs5h9odZBXNf2SRWWPqpPnMXHMO361_lDOA0sPnh-Df1nGioDwc5d_eG1nVaYjUbLkZsvJiMEUpwf4_kwuDuFOj93__suaHH0iA",
+          "width": 1918
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eپسرها بعد اینکه به سنگین‌ترین شکل ممکن ریدن وسط امتحان نهایی سلامت بهداشت:\u003cbr/\u003e\u003cbr/\u003e(فقط می‌دونستن نوشابه ضرر داره)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-30T10:00:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 101000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oE2DPwQqBNeqvlmQdVlpk07NIogdCHTPtjMnOODaBp0HdTZUEfvCT-U2_Yri5SOFG0-8h3z-PrfvBpEScR-3Za5-qqMv2vf0Mjk-Hk_qKxS-GCFaDY3x5PTZE3VS9O5HgK673yWXgNPH6GpSemCQvkxnhI1ZxCt4CMIQL3IDgu8t1otoA0TIqzZJRVZqNC4W33nQuqL7Yv11t6A6akh0GUws6KC1ATKv-zJqZYponUWm38Ij8j7p00lIhXVM86V9N-0DV7nD26GlruOmI0UghsLeHK-50dRSg_bPR_WRvMFoQK3tLS6CWAYsf4ubc8iOCt_HrUeokXRLlmssNs1i2A",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدویی از لحظه دستگیریِ نوید زیادخان قره‌داغی وسط خیابون؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eحاوی خون و خون‌ریزی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F949E.png\u0026#39;)\"\u003e\u003cb\u003e🔞\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-30T10:41:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/jmjVlSmn0JmtmVHBr6WQtNKb9Du938HZjwETXMDi1nrSS50UHWB5ZKc8MmmtpsvuKTUb95sBHgT3RZV5t2Q5aBDDxAASe2wPKfhjVvsfH3-XxFy6sIAiG2QKzfPd40dalvxd2VMaI7hLAc4mCm1l-tpQKJPkQvEX4UYFyEThCZA_CjzIA-X1v4GmmNpsoEW75j5v8QPQDsMyuZSbqsGBFc3SAKgu8GcY3PG5Se0OPp8yyRpqcdfsLFHmo7CvTi0ak4J8vJvoM49zjG93W7RvEEoLS5aquvtSWjpHBxMIuW7NPwKAIL8rFPlnqI12sVHVoF7S3qeBAfIznF4UJaj-rA",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بیانیه‌ی جدید سپاه : 3 تا F-35 رو نابود کردیم؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر پاسخ به حمله هوایی آمریکا \u003ca href=\"https://t.me/drtel/64011\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبه منازل مسکونی قشم\u003c/a\u003e، با حمله موشکی به پایگاه هوایی الازرق اردن\u003ctg-emoji emoji-id=\"5460834231468959552\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AFF09F87B4.png\u0026#39;)\"\u003e\u003cb\u003e🇯🇴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، 3 فروند جنگنده F-35 رو به‌طور کامل منهدم و به 3 فروند دیگه خسارت سنگین وارد کردیم.\u003cbr/\u003e\u003cbr/\u003e+سپاه همچنین از کشته شدن چند افسر و کادر فنی آمریکایی\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خبر داد.\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-07-30T11:00:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 45900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kRsB-vgtwDJFV3yYLATjYUULcnWeu5TjltmGprs2hbnnlZ8N8gv2iaruLYzRqbaxXZ_hHz-gabjvaF9PYXaWhsefwrDEEATWAY-2O2OAETHPbmHBrEAnV4IiuLsPoE3qwce2HOc60OrlNczgp9IN8bLXyN72dLN0x2-l5jV5Nn5gMLl_uvN8qnNOA6LvhpbN-lftzIlgcKnA2HSEFetvysjnQ-7DryidwEcg5hyj-p3KjGvtQMlVMLiMfhTmbN6rg-EnnWUlkw7QHfaTVvOMhzw8o6YwykDCUKUGPVXiXLFOqwUgPGmWWi9tNaiiPHtpSBDmW1HF5bAU7vItnhHfMQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785402810
+  "last_updated": 1785410906
 }
