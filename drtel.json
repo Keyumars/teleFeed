@@ -8,72 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنیروی هوایی هم از دیروز تا الان مشغول آماده‌سازی خودشه تا در صورت نیاز، بعضی از اهداف تو خاورمیانه رو مورد هدف قرار بده :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-01T14:47:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AWOJp7eqFlphNGz9DlnIxWbSC15_66ebfDH9JIbn4IczpApx8wIBDUvWHxsEYTflFc5BLKe6iGJNFYpFUr-XCOcU74262e4ElqT1ud5faqZa81-lN1U5yRyTzzOM30ZTguv_f-9gJF7AToMsLmCdkOQTo8cvMrNx3GHVR0JMHglPLsA85QeVbux6qGyBjpuF5RRJLAcFnRN1jwGVnIfxoasYwgal5iVH_kJv4fZPGDjlLBrUoXvJ1u9aAe74SEu24J1rE3vKBx7KTS5ZhgUAdVGLkdTj1XGg01NUAK1z88H55YdPpD1qrYjDN_JbUlyHt_b0mkAzU13HO-HdT_veYA",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "این علامت به معنای شیطان پرستی نیست؟",
-      "date": "2026-08-01T14:56:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A_WG6qODN2ujTg7UZkLELoi9MlCnh4bghWFDlr3WczEDSJUzXoiWTg85FHf2-rnwvsM8jCVkqDPan2l_rXgXf3yfqFsoLsMVsrcMo4tx33NwwQTTLzjp-LF1mP8lT6J0OVg2QecPWbLcRi0NPbCL34IB6qN5eo8gZCoWByXW0UstLNAD05ld8_TIHaks_CoArLMeA8FH8xdQ6hiiaitIZVCEoYsm-FZ6V1jBBROf_wa-xdqW3A_NEFudWGMb9fCG6jKmQtvFEHYRYU2rweWq21FRTzXqP_pECrr956hHmZYTRdfuK6-X4c9PWfHLqJ1LLv3TKgw29In7BbcwkERmpQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "خایمالی نکن خودیه",
-      "date": "2026-08-01T15:00:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "داداش خسته نباشید من ساعت  ۴ تا ۶ باشگاه بودم بعدش خسته و کوفته، با بدن عرق‌کرده رفتم حموم داشتم سرمو می‌شستم که یهو اسهال گرفتم با سر کفی پاشدم دویدم دستشویی، درست همون موقع برق رفت! الان موندم با سر کفی و یه کونِ گهی انصافاً این درسته؟\u003cbr/\u003e7 هم باید برم جای کار دارم",
-      "date": "2026-08-01T15:12:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 190000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
       "message": "‌\u003cbr/\u003eمن نمیفهمم چرا ملت فکر میکنن اینجا اداره برقه",
       "date": "2026-08-01T15:15:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 160000,
+      "views": 172000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +24,7 @@
       "date": "2026-08-01T15:33:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161000,
+      "views": 176000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +43,7 @@
       "date": "2026-08-01T15:59:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
+      "views": 165000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +61,7 @@
       "date": "2026-08-01T15:59:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156000,
+      "views": 171000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +80,7 @@
       "date": "2026-08-01T16:35:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
+      "views": 165000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +98,7 @@
       "date": "2026-08-01T17:25:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
+      "views": 166000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +117,7 @@
       "date": "2026-08-01T17:49:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 153000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +135,7 @@
       "date": "2026-08-01T18:16:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115000,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +157,7 @@
       "date": "2026-08-01T18:39:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 102000,
+      "views": 143000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +176,7 @@
       "date": "2026-08-01T19:14:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 71300,
+      "views": 132000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +202,7 @@
       "date": "2026-08-01T19:28:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47900,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +221,7 @@
       "date": "2026-08-01T19:35:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
+      "views": 117000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +236,79 @@
           "url": "https://cdn4.telesco.pe/file/FBl3TlxhuHeBEsoTmv8uQt56ze-vDwr-hLvPnfVdP1LQWQjueAE5StHm4bN1uc0iQigd4ncc-MOIknu3YCwGsIWjlDO49ZPArmJpADh8VZNecYCmVuJs3_dkiiz1Tj0J6hbuH8Z0fDbk3ypkCfwj2tXOxlFu4npfL6vBJGdo-81jSI-2AOdC92Af44Jd1DsGGvigxxkgIOej6pFVMeC-l0eWc34nDwQ7UpY3Ti7nNS8QhmDbXIddm20DuciEzAx-7nBiCVPJOukWZdW9TMZuUB5CFTvON2AF3W6Tp1ajLOLikIIQJKJmN9y-06FPQ1Je9gRXRhS_A1kyEo4LKm3kjw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eحساب رسمی \u0026#34;واکنش سریع وزارت جنگ آمریکا\u0026#34; با انتشار عکسی از سرباز و بالگرد آمریکایی نوشت ؛\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u0026#34;من رو بفرست\u0026#34;\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-01T19:56:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 101000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Wbbpx7Dj-QJEl70nKrDGsBcu_OII3fqQiGQWHDcLahJsyg-0ijgPcP5YtWdHZDvF4jp1KBIZT0BCoYJwB_bjAytasM8I7bolqZ-D-n5aJUSjTRCJejKc-j5OdSucpOdKoOnmwlXXe6wjOW5wRuExjJK_5MAq8NWCSy9zCVSckb1c0QZbhOyanZ_rAQIUHKZ5T3HCVLLhdO15cqvyFZ3KfHsxImR20NwlkR6BNO7wyHDk6sEJM0oubpMSN_Co7ZcCk0myGOZBRU9PrZSFH7RRrnLHEX48jq71G3tQ9vUt7FWbqmhzTAYT0CJZjRdE9K-L3SncelEQJ-XzvcAI8ySD1g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمارک لوین، تحلیلگر مشهور آمریکایی:\u003cbr/\u003e\u003cbr/\u003eبه مردم ایران اسلحه برسونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-01T20:23:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 70300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pyCrgSaUbmHMUm3SsZNgZDSR6iZkC48TTTrYXG7EiwdK-IuMtH39e3jreEBmHQFHQrlCdUeIhlTIyWDG8JuCOijn0uSJvUS2BE7pSAmlmIkxq1mfwlQm6P0NUHGeKrrOP3IyGji1cCE2btcUmm0x4U_1BgJ7ycW3rjwMglRv52mDVNJ3lwvLDX9DnXK7-MfYz_ucTbQ48LDH9UUyT9iDVksI1DYQ9mGhvkuWCDEwxzq2nhuHOp-q3RGA-fc7l_4bTMqHEiYY8f748oOPzIlBWVaqsyRq35pmCJuf2mvLelJx0jqNQhClEInwtB0ucfJBJgeBRLdFVTD1djIOXm0oZg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eدقایقی پیش باخبر شدیم کیسان ابوعمره (کیان ایرانی) یکی از نزدیکانِ مختار و از مقامات بلندپایه حکومت مختار، برای بار چهل و پنجم کشته شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-01T20:33:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 57100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KzMRGSyXNY5pfAXzn1dWXUnAAY3wwWuEh1xfQAYx0dJDVYyOs2HUMXrC3tGIQq6jNQsEUqcA2qiIBkf-m_bQqNIL9OsKT6CTt1lA7J153v5Iy9KbpMmF1c9yfZYDnYaOeRG9nrAb8Vhj3Q3giWpTOxIrZhFFKT4dzxYchkAxrIL5H7uFA9tbh8aXbWIgzf1FLF6kWchckhnaqChf-sfpOQ_HxIxGM3D2P0STODcxfTpW7a47yLOyEBVDJq-uWJI9I7P6qLm_zFwcTKHiL2GfdHmXfKCfaW95dTov55NUKDOeTfgIoG6EHRC8a155jV29M-HhMVhi9ashLgFCPwKAHg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eتوییت جدید اتاق جنگ اسرائیل\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5332299462461107995\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eTick tock \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9B.png\u0026#39;)\"\u003e\u003cb\u003e⌛️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-01T20:38:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 40800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HnV9faNyRpQrRCZ7tP7rmWj10mGoAZR85h47A6zOmiQT8tTzFDxlCTS4h7Bt3x3P48-japbTFlMFHkQZGCAYqEo3ieJWWkALCQgMaf66WE5KN84nmUY6VDf7eagxnnKcyYNZpiaNsOvTIx1sQ4G-17t6IP19QQs6jp3uST3Ky2xUmug_TTnIiTECz2MaUqKCtPNHYquXxa726HwG555Gr1ffpk0k3sV2EJvdEbYIZuMb4V_Hz72CMAm28_ZYqzEcPs1DdX_xVFzyY3hpn2KJ0Paj8Cw62mQwm8VcLylpnEFiZRX-nKdq2HIulexdeNPnDdC2JStSmijxqJ0uV1646w.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785613381
+  "last_updated": 1785617422
 }
