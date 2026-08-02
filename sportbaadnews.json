@@ -8,77 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5283202076392827429\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9094.png\u0026#39;)\"\u003e\u003cb\u003e🐔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رسمی، براهیم دیاز به مرغ اف‌سی هیر وی گو\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-02T17:28:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hHvpE4lNEw3etvz44AnnjAP_WLc1IYV_y2ASJDGwH9-su0KWI1S4Oayq2KgKW2QG4C9CJKEjlZoOsEyk8g-OB3jL5qQH54gYlX1PfoDc9Au0RoRcQHPoKzg9QDODypYQze72JzBwbDnny4yor3AJ5pTgbU1juaI0zzpCXFGdtgXbVqR5JOr6O65zWEoUSROl8cngVC3ILHnZis0yuUnQS13fbfSrjbeMcAHKe_e6rBrQO14qhToWBlJ-1WZOaawjdmZbLVwgKpl3XC-z_-3FWq2H0WLqHJ7UvJGb_tp57YLocZsd1nbp7LKTs_xPCmnFq7tqzeJ5bSOrpIOmE4QdWQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cieIESDv_Ieb-MUA057z9A6-0R2lzIkmyj14rmAhmlcQBZq39ibtXbfAAIRToxpjxM-Vs7QbL55NTG-P7DtLxIiZGpURxtig4gRLL3h2up2Xs7rK9FALaZQqOjKtQSLIrOTFE4YedmChAN2zih_YC0or9emyzbdjA-Fm184TcDFeS1hb6zHOrsLLIO8VPD0SzH64VI2lScNB4SDsejMkMijLsjRq5CfPczM-cts_WKniYEjaJgZqcF5jjO6MVexqKP4zV9LEm9nEBfORBwrMrvr-xIh-zletIABHBi6GhUbygWpJvdhs6bB5f88_fyAWGYacUg4VWHi6Bw596Z9KOQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JL2wI6l8-q4_6T8BCBmqNdqA_0-2NI4dpYFxtNIWevQArzFgaYIz0IV-N26KBiTL8C8L_sXRKPCQ4ziQyGxaDaGBab0g35L3r7Odl7y95CodTM21gBei321mX_crZJcM2WTQM9suYxT7-1vgDbTsqu6VEr1E-6aU-gw7g6JI1S98uohSfw5VZy3vPhrwPjLOQAYaxaLvF7dnjpICXQzp0MB3yVrneNomnHu7NKNHbzjwBzJ0K8kTnv3YYN_fshGhFzDurUj19yNHrAZE20Av0N6qkwmx7JZZSadXPY5LjVYY8rOHfEoPljRIljJmnOr1SnOlvsuIDS2VmV6aKtGy5w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iz894jvWGGtEpeZ9RcuhGFrBbaJrgVdJdu5BP930cekx9c7bLdCAuFzk_7rDn8EpsDuA8Pvz3H9ClDNViGD35Rrb2ZZnwVk2F7I9l7Mx9UtS_HsneAQ3FcxyCppLpp_KJl4pNuzdEOV0UGIR5XN9-WQDxb-RlCP_JvFL2ZPLYujC1X5gKpd8qAM5zojwI8_JQKyVcd_UbADW8yDsHPYp10JYzyLep7Ie_nMCLFb0czFmjWX2YlEOSziSnsVJ_Kbzx0mEGstNqf-AheZULiCDtrcmoF406mXCSdvarH8YsfKDKvqN0qJzw0oIo9CK0jainqtxIxezmWiX6E2ihefxYw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دو خرید جدید یووه با هم رسیدن فرودگاه تورین\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-02T17:34:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/o_n6vOnflk8Q992jnrdCLy6hKsmJSA_UXmDeDjEe9Nv4DUl4zt-jDW2cMIdevkzUuCMMVU9tbGoN9dyihLfCwU0qAhdwMrK6pMs3eDf5-qW6h5N9uOS6hccJaCjlL8V7DWr52DibhcWpHmLpPtTLmeRrLlNF2tHC4OvzYqsfgY0Gm3lphjgoKHJTacAVLPa_tXilBxBhU_DXLBcl-c_S-3-ZknoYpKhjs6KQOvjDGeXsrvyNbCmTknD3qpq6_PzPRd9oBq48AJtcfY4zfizPvdHveghPt895enoDoQkYLfiaSLRmdLvVrX01Y6W2bnBbEPw_BqEILk5RNvmH0-Fqbg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "پشماااااممممم\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eفیلم \u0026#34;اسپایدرمن: شروعی تازه\u0026#34; فقط تو 3 روز اکران به فروش خیره‌کننده 927 میلییییون دلار رسید! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eنکته جالب‌ اینکه ستارهای این فیلم یعنی تام هالند و زندیا در نوجوانی فوتبالیست بودن و تام هالند هنوز هم یکی از فن‌های دوآتیشه تاتنهامه!!!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-02T17:53:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UtB9VBSm72mmjz_6x8M9Z9wVEWbfKrQ0te2gU-o6b1SVtCaVtkRP0wwdrBIEq4PB0wPLR0kI5UCje1HdiriyLaMqO3GSRCLi3s1qNRhrhGqfPdMnh7y8Ek6qvvL6n968CMTAAeph8MaJa56ADLzN9m4oVNFNOX5yLgr9qiAVsWgNf3KgAlJ3K9D3PGD5Ex9FgxgFEcOgG1R-n4dRQA0IOGNa3ogAJuCyrOhSe2PLMyLWN5_0M15tMsD_ztiBi1tantUsnFhjuBf8f2QDk4Wuo2PUIlgAtu8hjI0YuH7bgtnHwlXLm6tC8GefH_37GCVpXT8wV2F9RMZAFbirOKQy2Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eیه ادیت زیبا و بارسایی‌پسند. (قبل از اینکه پستش کنم، خودم 5/6 بار دیدمش.)\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-02T18:05:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55200,
+      "views": 59300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +31,7 @@
       "date": "2026-08-02T18:20:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53200,
+      "views": 59200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +53,7 @@
       "date": "2026-08-02T18:25:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
+      "views": 55200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +65,7 @@
       "date": "2026-08-02T18:27:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +83,7 @@
       "date": "2026-08-02T18:34:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +101,7 @@
       "date": "2026-08-02T18:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50000,
+      "views": 56100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +120,7 @@
       "date": "2026-08-02T18:50:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 57100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +138,7 @@
       "date": "2026-08-02T19:00:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51000,
+      "views": 58100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +156,7 @@
       "date": "2026-08-02T19:07:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51000,
+      "views": 59100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +175,7 @@
       "date": "2026-08-02T19:17:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50000,
+      "views": 58100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +193,7 @@
       "date": "2026-08-02T19:25:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48900,
+      "views": 58100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -277,7 +211,7 @@
       "date": "2026-08-02T19:40:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 56000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +229,7 @@
       "date": "2026-08-02T19:57:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39700,
+      "views": 55000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +247,7 @@
       "date": "2026-08-02T20:12:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 51900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +266,7 @@
       "date": "2026-08-02T20:16:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 48900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +278,7 @@
       "date": "2026-08-02T20:44:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 38700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +289,50 @@
           "url": "https://cdn4.telesco.pe/file/MqCr5fJGAXLf4D6iXFE3tLVK-l8LH8hcYmYJnT-1N8Kv68LR08piOr5z0O-noOGEr-R3D9pRIS2IHXqE5u0ozZYWhZOwDrpxTs38hwHSX1O2r35yLdlSyiSaiYQgDa01a04oTM-RKyGdFGtKe3kSzu3AxF2A1qXWbSk-UAhTXMpl0EcWVk1XQITYvoyKth7krowm3ftsQqNk-WXSYEeH58V6j_7SbJz07sbJb9G5ZIQ7_9hdn6CAh-H_fJ_eXRqrEoUwSd641bk6PyHNtC7pGFhPMZtv9GjeEP3I5kTyf1gQLADKTok-jHbNSaeI7JPPjxhWnSqZi1olereHLB1Mvw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "بهترین تقلید تاریخ هم میرسه به ایشون و این ویدیو که از امباپه تقلید کرده (ببخشید فوتبال نیست نهایت پست فوتبالی همیناس)\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-02T20:55:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 33600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/K6QCzFIKxFiqlXou9OuZhhysAnNFs6ASxggPMJ8qwWcnJ6uBUFqZH9Z2RAUlW_XGpLs0bbOD5oICWV4gwK6UnKAUmeic2XVqelRajSvH1NF6oA1Jj2Vvi46pUEkiKVrk_o1jmATT4Y4NmuGTQZfDAYqsKu0WxTPHizVAy_8RRmqShk6kYM9YiLuZRYAUOfsgclau1Ofsor7TjhookXRr9nE5oRpIq3dgeXGgtiB_mgKUYxyaU0f1vJZkvi6X-AWU7KXTEDZ47fnFgyVbG-zFI9mw6K8VQ5fny4ekicfVOI9UKKek-UfyR4fnqFzQw-v-b_9dqdda5M1mMjUu48zl7g",
+          "width": 576
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تو کانالای تلگرامی ۹۰ درصد دیتاسنترا رو خاموش کردن، وضعیت نت شما چطوریه؟ خوبه یا بد",
+      "date": "2026-08-02T21:10:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آرانچا رودریگز: به احتمال زیاد وینی و رئال به توافق میرسن چون هر دو طرف میخوان با هم ادامه بدن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-02T21:52:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
     }
   ],
-  "last_updated": 1785704088
+  "last_updated": 1785707730
 }
