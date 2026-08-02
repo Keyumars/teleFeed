@@ -3,119 +3,16 @@
     "id": 0,
     "title": "𝐃𝐫 𝐓𝐞𝐥",
     "username": "drtel",
-    "photo_url": "https://cdn4.telesco.pe/file/GHw2r58XT-vV2jPbHVGElzbFSCM23Laxnzuluw_HTjOzSsh0MJpPa7PqPiInsiDgxr6nf1u9-tkyzkRd4Jz_mkNfWzLZ11JWJwQ1MWOSL61UC9Q9yeF5v1MsdCiIdFPIvUXSkM7kNVFmrbbAvvvYrpTg6julYjQnh6eWqqmfjIAsWQbFiOqeEunbG4kuMv4UvhLyyw0dYdfNMvVi6z4t_vPQjyDuLb_Y5DKA8Kh7ifH5eQ3YIjRXd7eh9SOdSzRfMmTOozkFXNYY_MvnZGDOBNG_wJ8fIlyixVeh8w37hFkgieqUjy0Mz3VTCQQPYfDESCNSai9Wpvn4W7FgN4gvCQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/PYMZQNv7DKvzRUpwM-3-_rD6Xczl41Wcgp1g9MBC2_TfstuKeqghHi4SRiA-wHRI2H-hwqoJ8tB7rBT-7I_8D8MOJC2dAcYpsN8ztH3ovnUf5kKBlbbvgC6afWPm1-A_UqtvtfDvPZW0wuFb97Ixn4f43WqcnwG7ePK1GedLF0zUEfsNhFrFcZZGKsmP-HzqqnpRxcoQh5sxyceGjp3hBtt-hMMpKiOXxbjHBRDpTNhboilZhYsdVCyCpPJoQNX4CsUUuLubX7tw1W3YCKKQiohY3ICJ-6Z0YM9SG3jRGHF4oLA5G-TJQ01gSbc0c7rkMHMvuXCHWBI93kt-kZqfxA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "جانفداهای عزیز، بنظر میرسه قضیه داره جدی میشه، آماده باشین",
-      "date": "2026-08-02T00:09:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 174000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "اوه اوه وزارت جنگ آمریکا چه ویدیویی پست کرده، واقعا دیگه خبراییه",
-      "date": "2026-08-02T00:28:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 169000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "حاجی ولی چه فیلمی درست کردن، جانفداها جدی جدی بندارو سفت کنید",
-      "date": "2026-08-02T00:34:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 168000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "کسکش آمار لغو جانفدا رفت بالا",
-      "date": "2026-08-02T00:38:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 169000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5971838282022003483\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e فینال غول‌ها؛ جدال لهستان و آمریکا برای تاج قهرمانی لیگ ملت‌ها!\u003c/b\u003e\u003cbr/\u003e    \u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5971838282022003483\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    فینال لیگ ملت‌های والیبال ۲۰۲۶ بین لهستان و آمریکا، تقابل دو تیمی است که با نمایش‌های کم‌اشتباه و سرویس‌های قدرتمند به دیدار پایانی رسیده‌اند. لهستان با برتری قاطع مقابل آمریکا در مرحله مقدماتی از نظر روحی دست بالا را دارد، اما آمریکا پس از حذف ژاپن نشان داده در بازی‌های بزرگ توانایی تغییر روند مسابقه را دارد. انتظار می‌رود کیفیت دریافت اول و عملکرد مهاجمان در توپ‌های حساس، تعیین‌کننده قهرمان این نبرد جذاب باشد.\u003cbr/\u003e\u003c/blockquote\u003e \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5812018073581918966\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F90.png\u0026#39;)\"\u003e\u003cb\u003e🏐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاوج هیجان همراه با وینکوبت، یکشنبه ساعت ۱۵:۰۰ دوتیم لهستان\u003c/b\u003e \u003ctg-emoji emoji-id=\"5292190970496963836\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B5F09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇵🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e - \u003c/b\u003e\u003ctg-emoji emoji-id=\"5294244076533600593\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e آمریکا به مصاف یکدیگر می‌روند. \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5812382565981495050\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای پیش‌بینی دیدار فینال لیگ‌ملت‌های والیبال با بیشترین آپشن، همین حالا وارد ربات مینی‌اپ وینکوبت بشید:\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e",
-      "date": "2026-08-02T00:41:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/te3JcZ2QL6vz4kbvV21GEtV8Rjd4z2PoJ0cqVyNh1OWZv2fdpsKgUYtNX3hBk0f9WDL7HqNuYtC9z1vFey07_7y4gFRKFSA-XN9QazTqxRi6EpyvaVAexaNcMX7x3hF3NM92D9PH5_rwdtuwRPB864I9YXJkD68qCTAjDgR_F6SxzP5ZTFNRj67Jllo6871ad1eseBsnd-AY8IYkyog3OR7aA92O6Sbgeig7WhIx1uWRVe51tBw7u7sph6mf1drkJZQ10gOB8S6kV4lWEEOA3gAod9jD2hEvk_dNlqorhOlHWLOCl2mDDJuedkr4C9ofhm9bsqAnqo7l0uTbMkgQcA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eشروع یه جنگ بزرگ تو خاورمیانه توسط ایالات متحده؟ \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eویدیو بتلفلیدطوری که صفحه رسمی وزارت جنگ آمریکا به تازگی منتشر کرده :\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5870892901159932239\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eگوشی رو بچرخونید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-02T00:42:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 190000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AozhTNsUCE0pCrsian7_AF4p5_wucWJtHrcSPxAtb9LBMQIPdpzWLIoeuwnc3SB21FVhTBGoFw0rjQ_mvqnDOMUEnb5uMV3FVOBrJUIC0P81U1UUdY2e6Y3retcezmgh5PUCvsq3YGUO3eOe4iTAqCjxWdCZ0fKFFwzcywQDusw9mn1Fj5h3iCw4jtBMP3e8_zH13UIPKNIuubsD6hxhmuuhh-5c0V5DtcE355zuSRDbJoKuC5UD4x8rMsOyo9eX6l8NDc5rli_aUncBLG1TWwxZ3oIu_h0FUPkHafRtcUoc5H70TzjgJV28S-j4enwhthOZGt2Est17CZ7ca7pNAw",
-          "width": 724
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eترامپ : حمله کنسله و مذاکره میکنیم؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eآمریکا مسلح و آماده حمله به جمهوری اسلامی ایرانه، با سطح وحشتناک نظامی، قدرت و زوری که از جنگ جهانی دوم به این طرف ندیدیم.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e با این حال، ایران و چند تا کشور دیگه خاورمیانه ازمون خواستن حمله رو عقب بندازیم چون چارچوب یه توافق رو قبول کردن، \u003cb\u003eاین توافق شامل باز شدن فوری، کامل و تمام‌ و کمال تنگه هرمز میشه و تموم شدن تهدید هسته‌ای ایران.\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبر اساس این درخواست، من موافقت کردم برای نفع آینده کل دنیا و همچنین بقای یه ایران موفق و آباد، حمله رو لغو کنم، به شرطی که بتونیم سریع یه معامله ببندیم. کشور اسرائیل هم تو این تعهد با من همراهه.\u003cbr/\u003e\u003c/blockquote\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-02T02:17:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 199000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QY0sKofSG3g8HfqNSmHtCiOMOF_pFhfPyTx4YBU1EStq3V3okQjA5xQLkYZ7lNcNnQFhpoKBqKUMZo-EDBEGHa81iI_YIW92c1BXVmhnGQg9FOlEmBnbFaRLuu9iWnGEVsQ4LMZo_ov-miHqGCboLKzk7_xDjduY9cPshRhQdsXcMP9ZIm-wHaI8wftq42x_JWxLYgpLn3lnpd0pu2naFh41tOHqK2U3FI7fRQxJfb8aRCma35ddY3QRj-I0VSQciEidTmxd4vzXbhSXIM2cm7ngclX77Gzb8QZTm16xBgbRrj4VeLntJ2_qcxxq0RzAW4wHx1zAS3U8wtukiSmpNw.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e باراک راوید | آکسیوس: \u003cbr/\u003eدیشب بن‌سلمان، ولیعهد عربستان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇦\u003c/b\u003e\u003c/i\u003e زنگ زده به ترامپ و گفته :\u003cbr/\u003e\u003cblockquote\u003eدقیقا برنامت واسه ایران چیه؟ ما نگرانیم، ازت میخوام از انجام حملات جدید صرف نظر کنی.\u003c/blockquote\u003e\u003cbr/\u003e+ دیشب میانجی قطری\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B6F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇶🇦\u003c/b\u003e\u003c/i\u003e هم جداگانه با عباس عراقچی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e، ویتکاف\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e و نماینده عمان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B4F09F87B2.png\u0026#39;)\"\u003e\u003cb\u003e🇴🇲\u003c/b\u003e\u003c/i\u003e حرف زده و یه پیشرفت‌هایی درباره تنگه هرمز به دست اومده.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-02T07:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
+      "views": 160000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +30,7 @@
       "date": "2026-08-02T07:53:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 147000,
+      "views": 163000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +49,7 @@
       "date": "2026-08-02T08:30:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
+      "views": 159000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +67,7 @@
       "date": "2026-08-02T09:25:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 124000,
+      "views": 144000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +85,7 @@
       "date": "2026-08-02T09:39:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +103,7 @@
       "date": "2026-08-02T09:53:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109000,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +121,7 @@
       "date": "2026-08-02T10:03:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103000,
+      "views": 130000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +139,7 @@
       "date": "2026-08-02T10:08:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98800,
+      "views": 127000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +151,7 @@
       "date": "2026-08-02T10:14:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95800,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Q4ijHK6rEbxCCG99XmMxobdFTGMHN_jexzjYneRFa9zVmP1VS9wqwMnZRcYCMT-DsY1DmQ_2oeCArGAghIye2qh7DhwgrLsVT2FfRcwgREOiWP44FcHGDDoAE97VtSoAFiusMLc2oojdtQozkKcd2GnyoYDsCpRcLEySZ0RRDOcwAtLjGO_YnLxVf7ahhfp_ONNHYEqNhmbDymUWkT3zSZmv6ecmeM4Nra9tYXIFuRfkc3tq1RHoSYcibZbt346k4_mTgB03M625ibfHz0Qw9M3QqJsWs1QLlZzn529qqln7APjtr7kyW06H7Ik3SHaa16v4o--Ts3qleYZ6-rklPg.jpg"
+          "url": "https://cdn4.telesco.pe/file/V_5EBA_juWHsvffLb3Qukb17KVxwRM8wEH17qxo2AwXwtJvgeGzUMETauX6q7QI8Yn4PWchR391CD_awkJHRGe8nF8tet3PNyaKFO2IhtDbH9wUJzFNs2sK5BptP9aljfb-PuT_tWtTXp8fst396PijIcTHv-_EPRT7i_kxSR_CJvH2BGKHmsBdkZkXFifhnaVBDsEfXRf7jS7yIuHXWacTF4N4f6Gjja8jstdPMZ1eMYSiCg1iAWU-3cDI0PQPNllyEWZEgMxcvbvtQnnehlBDYQWmRqtZYprWMeDYIKH70nMosi0FOBGGUG6o4eUsX4j3KdHIFB0kPnLKK8xua_A.jpg"
         },
         {
           "type": "photo",
@@ -276,7 +173,7 @@
       "date": "2026-08-02T10:30:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 84600,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +191,7 @@
       "date": "2026-08-02T10:43:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74400,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +209,7 @@
       "date": "2026-08-02T11:20:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39800,
+      "views": 104000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +220,79 @@
           "url": "https://cdn4.telesco.pe/file/rVAqznRhOot5McVqGnf8T_xB7f7S5-CwWIM4dsV-CXW_4R6ptgBUMeHkZvYemO67b5tiSlayueubHuQ1TkSaVWDgoJvsmleSb2W3-2fu-1NvbCjS7mHPWkiX6eJ5Sv_kuM1697-K34Z2oaJJHk1_HOqQzVqejCaz058DsJtR7I5AGWoh1T6_4ZAz1_qaHw_pt_YFp-LuARrouVR-VfS8nQq68NPblWZ-ZOl0SS7UyttThkqlgOG3RscBGuUYAQ2CZcSGPu6avbH9GnLJt0rzcJvG02NsyphEGtWnhvnCdGLVWRBWxjGDNlhK96VFkw-hW5GoG5uMxpDw0D80PqeRIA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "زلنسکی رئیس‌جمهور اوکراین \u003ctg-emoji emoji-id=\"5258274958085205037\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e :\u003cbr/\u003e\u003cbr/\u003eامروز صبح تو روسیه \u003ctg-emoji emoji-id=\"5258393039621100174\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، به یه پالایشگاه نفت، یه پایگاه هوایی نظامی، یه مخزن ذخیره نفت و مکانی که برای ذخیره، آماده‌سازی و پرتاب پهپادهای تهاجمی استفاده میشد، حملات سنگینی رو انجام دادیم.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-02T12:02:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 75500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Oe5NSCtD0V3PCZD9dkpQVGOQISvZkn8Gi5ow7502tJBAALWMEK-Kmj6PDjVLXTIZop0g5nne-vccgcg8lgtVpXzlbbybOZeLLUjQHStI4a_OeYfFpt7k10bpI2Ei4BwOlKkZyp1nMgc0AGlHgbZ5--fvH_HDIhyLnxbr913L8YobkkzBR477lBRJzi-v1cGi1gqlphLBsAgy-dYKVwU5_jpBbzO8mdFtmITAzfn46Mzg58nsfgQH_2TCWt7DqUTi3o2s40cdUJ9lIkvZz6dTVbYKYbBuQDN514uAAzCUFtVQ0r84-gV4RGXgm_pDviVSm_R6Fe7f6q5_uA_7In7r8Q.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lcGdqS6xVJqC6Z1YS8vcBoHkRUXkNs2RDkrZTCEIFlRiHDoygi2yjLtPagiMuTtWQQmsdIeHroAWCL2xvVw7BR2nzq2V-2NxwysVHHeChvK0ob2ddnrGJl3eLr3lSb8Yb2NSxQColcO9Z-Q_4j6o9kBjGqnPNVX4l2f9NZhjmKR1fj4b7pHimQPlvGvi6ubXEAdcIYyLu8IoUyLD68Yt9BQlRDD-8jpsoIyd8XeGylIRoKVSV4b-ZLe-T7RpGVTk7Cke9vAnLiobCg-oA-xj24TuB97fFIwiqXXdJOxmkxTRPbEo1JCaR4IuVEi34Caq6xJgEDq2L6hc76-rDkpuCg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/aKD8kMTRNMxe4TbsW3nQFV4-2WmWowj-I9w-71pNtc5MwXkMDw2zbpQcaxRsvBLx9Shc2DWkhZ0Q_BZ95t_L5Kp-QHux92Bw1Z7Awfn0YFxDqPLTpDCP-3A4ZGnql9h5dVLZJnJvjPIGxbGyWYfEuKNJ1IWQ42uxNEBJRi7l3s9RmuvxVEIF93QrZPMMO8pcSFjNOf4KMOeFWJIBFXe2wuA8GwpHQ4PVO22oDcIJ9rKw5_I9R0fEJzV16TFUPp9asxypZxQ16KLHGk1YAB-Cf8H_k-QTJ4ZwOzmH6bAsXKbXTdzeXAgX8qZHp3APKUwg8IjkCdtuORKi9s9EY9thKw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JFsfgD-Ke5b4KIqZ8TO99t1KpOLArZ8l0Ga9zyUPtiEJBG-faGUG8uajXwYdRW5L3HMV90y9b0Rq1BtlHd9Mf4LuVkvSsTHmMvsZwvMMokZ72m_Na4o50I-hLXIk72PNLBdKG2Ay6f9I51Mrup-Hwh_Pr53TliCsMnPzqn6riAOXLPPgKL1mChRSbE1Ngcx3LK3av313gq_ljrCycGR8qCEI9AI_a1K8czXT1ofqjba4uR5yDt4xQCecTwAxcLZBXXMuGfc04n1oWOvwZM1fu0uhtrBuJBTxWBVBHMe169FgMZJ4KO1_n4tAEjbZdvoeeHtYGb5ve3ZllWyYNuTpqw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/T80zjTLes_0k9UYsSnym6SlDLrD41N8Eoeu4BBb55DvNSdhN-qqetondb-kRxMGUSlbUNbHbZWUJOH4Y9tgh_egH8qyF0LxAm-S7KjaqCY7URfBXom6tkCbc0szMs_EE3rgr8YkeNf49wcfFnQFXGMRcTVe_R2o5ch3SGF3G60qQpvzRXdIXbtO3ixobQ7p_PPYg3yGKuBI0OASOohaXI1xb6gzSttAHbOnrhuQouGDVnTIahSLzM6QdoqZxlYU7ChHXGohlcP505elVClT9OCovVb23J5FN2M6Xfq0ryTjfSj7ezRLf1EPV5oqKBn5yaCPnO8fWoZ5PHXoqqn49kw"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5811926079677408271\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e  تجربه‌ای متفاوت از هنر روپایی و تصمیم‌گیری با Crash Kick؛ جاییکه مهارت با هیجان گره می‌خورد!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5961027918057447128\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    در کراش کیک، هر روپایی موفق ضریب برد را افزایش می‌دهد و هر لحظه وسوسه ادامه دادن بیشتر می‌شود. هنر اصلی بازی، انتخاب بهترین زمان برای برداشت جایزه قبل از پایان روند صعودی است. این بازی با ترکیب هیجان، تصمیم‌گیری لحظه‌ای و مدیریت ریسک، تجربه‌ای متفاوت و نفس‌گیر را برای علاقه‌مندان به بازی‌های سریع و پرهیجان رقم می‌زند.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5814498022058368474\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e جسارت ادامه دادن یا هوشمندی در برداشت؟ تصمیم تو، سرنوشت جایزه را مشخص می‌کند.\u003c/b\u003e \u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5886254242536104136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eهمین حالا وارد ربات وینکوبت شو و هیجان واقعی رو لمس کن:\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e",
+      "date": "2026-08-02T12:45:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 43900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/gcKFp2mG4erHNp9msgK73rlHnZlNkAjjd_ucVrPgW9_6VDM_u6XtEKlWfn5VHhJjhdk4Nt_hSFHivabnjHEqxBvBwyW4o2I1kpydcuOdljW9e6MZYIs7NlPuditvkqkXEsylQAO0Wpfo8AQ2A0naWOVR3IIpGm_ZT4zZDG7Hl8sMNfE_OxJ5jRDCB5eorVMJIY-o2SDGohStQZWXtvmbP-FHt7pNg0429gJOSW5IGqN1gQp0cC3z5tr9U5PyN71AJKnx3ZbmXa8zXqWy08IrEWkqJSw1C2kzfOwpcOZ60N0LnOrVjfGBJEOQ71xt5ZkakMBrsNFz0X7BOKlEws5iUA",
+          "width": 960
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاین روزها اینستاگرام رو باز میکنی، همه نفری یدونه مجلس عروسی واسه رونالدو و جورجینا گرفتن؛\u003cbr/\u003e\u003cbr/\u003eولی این یکی واقعا تمیز و زیبا بود\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-08-02T12:45:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sj-OkilsrwXaaB60YV_63_EgKBcoqww_AN3C7Tc3lDf5rC8gQtRu98irJWf8aH0LISRvDGXVSZw0AQ2A4ISvMbG3UBwKCUFQ1q56Agmg9uRdwjwrIOG1KTCHElZYHF8u3uS2jU4qEB21cs4HKpWSbqtm92tm9TrXH13rzT2tMMiadSeTXY1gMe9micNueLFEAbz5tsQs6MCl5o0feUbfcWPD2zs3-E1QMNFtt6s60-vATZAbtLTkQys4d7o1tNyJZe2Knlyfjy5CYJF1tqhCaDA2aGDI4jwcAbDfdvsaDW90XLFVJGUA2tt-cbA7Z1xnhd9C2yUptrjBStYuGIIoOQ",
+          "width": 480
+        }
+      ]
     }
   ],
-  "last_updated": 1785670919
+  "last_updated": 1785676613
 }
