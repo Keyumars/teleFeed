@@ -3,21 +3,9 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/EddPFgpgbEdz2awqhYjeXhM1hhO-NrrjglIuEJUMPKAuCaJ-SJtHmPW7dxt_j7FpdAtldb7rVh5MjY20X__8gjl00AvYNx9rfchaJmHCX_J-CQqNeDcoiv53T85j1XbiDXhzyxkeI89ieY7ZI371d1yolvBGDPTk764Xi9QWcK2MoDROUF6gg35NKQ08NvgDPxW61fldoXkMNL7HO2g0z_yh9FpTms7QHwpIrd3BZMKgsGKFtnMsTYX7O5bCtLbr-1vLje2_K57Ayw24yu4TOpYvkBmOv24uG8SeKSNiXw5encjN24iOTJMk1KCHB2JhAVKvV68kh02WXThntcx0mw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/eQ5oE5eGqzA-IW49Kb00Ule05NoOym3OFhIKuPTz8uc9xW6i6Dy7l7uhKY6vz9Ap_KbKvKeB7gsIq2BWVxv1yow-_b5XpMBfI3A_OCoqjLXIlm5oOa5JzhWZNo9CmnZoXSDVnhW0W3e4MoLGnCyMJ_T6bFmCGrT62JQBIagJjDZ8bQc1t-uhaHAsFs-GxG_HT4keFgJitciFT8jsYls4Dct9aYhR_2UlokhnJD3zJtETDhFQKmESzBz3NC_FggU1ix2NXfXj8Jj6zNypYrvlzSJnH6oMftoUp1Y6Nv2Ls89lKO35AJQN_Snxl6by1TsgvtnY40lWGu8xwFiNthbRPQ.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5399847211989246390\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-05-17T14:55:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
     {
       "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5927026418616636353\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e AI devs asked for this — and we delivered.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Bots can now talk to other bots on Telegram.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Autonomous agents now have a communication layer humans can follow.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://core.telegram.org/bots/features#bot-to-bot-communication\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eStart building\u003c/a\u003e!",
@@ -32,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JOD4xyxg_w5dKAd-uFEBpyo6Ongg_d2VAmLCqSLYWM62pAzc1sdt_xD5ITrAuhC_mqVdlUlvLBmF8j27tmbhdfS0faqpbyKc047NCw7dBshySQqkZKnbzcaQ6qdCyQeEbSMYWVZ_8gk4QFRLhOQcPkINZ-rqh7fNvTh-q0jZbTu3zm5tFvYOdlSP_DnDllRvxHw4OnztKa3_XVmzdbZQ8m0kJuRtZSxwrJCPt_4-xsY8ly3q0y1dfa6e12Dh6kMoaZsq9uQx2nvhMN1DbjTiPWA9ztZL2CkmFYhz4bOBHHskrKsvKVMxJXPncPZVPdeJg6vVv8FBXV5hqHmyjtFMvw",
+          "url": "https://cdn4.telesco.pe/file/MC3mfbXYK-3ywl9UQU_TUGYXoicx2SZf0jzZHuP6m7zk2QG-EPYapIQOJ9qSW12W1XE9qr_cHM-v68xXj2p2wwZPYyAll5CP9MmG4ttuYPT6PFCOvdzsgXBvDJioNmU_CyJct3QiVdo3GOd1YUUnfQ39bEJFFBQdpRRYNH0BcZoTvCKhCGSw7lb5BUkugjPq2DpDOWN6uZG1fTeWWnCoRwcTmi6gmSHT7FnSRWwemFqvLeRiYeo9i7sURj1o8eGyZf_cFqi84jDBLBPEOpUyAPVGLqEstRLOi12TS8GIrTATp23pcwObAEvYQgW1E83PLMASJv_K7y-NNtKYEdn3_w",
           "width": 1072
         }
       ]
@@ -272,7 +260,7 @@
       "date": "2026-07-30T16:52:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +272,7 @@
       "date": "2026-07-30T16:55:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -295,7 +283,25 @@
           "url": "https://cdn4.telesco.pe/file/g_q5x3cDfkDskQnm06s7kcDZOT4Bbji2EWwc5jdczKKiLhi6dszuXf6RFnhCNbh1oXo60P9OGN7R736bQbrdHUZdtRdkttIPGbmEcGimGsEgA_Em0NhdX6M_urJwguSijSG4xPGdeP-aI-GwEAq2tkiF4nCU6DWyOcs8jPaTcIZ-ZHpr9L8OscVnPSMQhLXS5rw_YgRDuSxDA_HbhJ7whpy4h2HxWXPyF2MLmvwh9X0pI2vmrypiUa2_sWnwxrZSzzeI8P6pfCtMU-1uN4vrL8H1oBbOXp5CGXjI16QeImHfZ5ZLwb3pH-h1vzutoHlAm66ge3eilG2g-_Y6dC9Y5g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5927026418616636353\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The 2026 International Olympiad in \u003cb\u003eArtificial Intelligence\u003c/b\u003e starts today. \u003cbr/\u003e\u003cbr/\u003eAs a token of support for those who will reinvent our civilization, we\u0026#39;ll issue \u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e240\u003c/b\u003e exclusive \u003cb\u003eIntelligence Cups\u003c/b\u003e to the winners.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409048419211682843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We guarantee minimum buyback prices ($\u003cb\u003e1,000\u003c/b\u003e per \u003cb\u003eGold Cup\u003c/b\u003e, etc.), but the cups\u0026#39; limited supply may make them worth much more on the secondary market.\u003cbr/\u003e\u003cbr/\u003eGood luck, AI coders! \u003ctg-emoji emoji-id=\"5406595657878220722\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D80.png\u0026#39;)\"\u003e\u003cb\u003e🍀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-03T07:19:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 587000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OWSJ6RlrMUbQpusLZzga8xGfGlH_xq53G-Yg8xAg_d5Bt2YRKG_0jMS3APiS8WcrqtlRxXNoqUo6YGnTOCkPBysgcLwUMDBewgKzFQZKd9Ir4PdAWBbWpBCLre7t46I_kNcGuoqBqzH-tK9f8XhtRxUuVO6WBu-MGs8Coo9HCa0cJEICFFz-_ucVwXluXCdp8NfRPBVCTDXbdRL937ZbVEIIldAC7L6kB1IBuPDX-OmT9DwQOkjfkaXMe3g0ElaLOIRsVmTC-ezupzZ7ud9n-uGKPeYOD-fiVhVhz8PjgpD8Wewe97PkP4IE-exAi8vQ7pAHkJ1gnfT-6OiCYajDlw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1785739561
+  "last_updated": 1785753805
 }
