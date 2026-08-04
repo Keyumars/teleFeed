@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5927026418616636353\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e AI devs asked for this — and we delivered.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Bots can now talk to other bots on Telegram.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5443038326535759644\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AC.png\u0026#39;)\"\u003e\u003cb\u003e💬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Autonomous agents now have a communication layer humans can follow.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA0.png\u0026#39;)\"\u003e\u003cb\u003e🛠\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://core.telegram.org/bots/features#bot-to-bot-communication\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eStart building\u003c/a\u003e!",
-      "date": "2026-05-18T14:56:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VUA3_-EQpufUh_yto-N8vKxAWZAhy3sxkkAVaXsSqiB-WXrb21TMXCLPOCkrN8qyq7aQOi0mQS4xJvDwFRC_8Bcs1ph5TxbTM4FoV8OOHo3ov3N0RB5N6iYg_WIP-ecKaFATHKRcEIarYMi-BDM4RSJE9fHH2uZxZFRXvKKN-HeF-cS6igGyJH9xw10xBEWrCfJonBxxw-6mfMv4CUdnCErHYhQsWLjl3HAJELkCwkCFRP37Kin7pETR56KgMeG1D_y30vSJixXy_ssL_GpicRK6Yf6OmMLtkb6jIHOdFOU3FkKtCvw7MKPRLYc57nBr0BZd_q2pa6yrgiqK_qQp6Q",
-          "width": 1072
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5296691786985527033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Anyone can now prompt their own text transformation style — for example, \u003cb\u003e“Gym Bro”\u003c/b\u003e — and turn any message into motivational protein poetry.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5283134250269287209\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Then share the style with friends so they can reply like gym bros too.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190415054629002671\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA490.png\u0026#39;)\"\u003e\u003cb\u003e🤐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e All fully confidential. No AI-related privacy leaks.",
       "date": "2026-05-19T18:02:53Z",
       "edited": false,
@@ -39,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/iXMI_MPooVDRSCk6qOJTVWjqirrSUhbGi4sZyr-vO6UqVIchSBrRTFNeaAMHWdewrl7sirpRu-p9_ELOGC9pACN2ouU1mJZjiux9F52Z2QRCZapbYTTXyZTKcqHxyHOUmcjwVVXl-mbIk2Ad7lT2FyfFRrt5iyhW9ANoFHqA4zO9U_oXO3sPvKiTyhBcVJhctyqsLdBgJzCooXVe25aQQ29cyvbZB_71Lf0BGtmb7h6E--HhsGV4KdSmY2rVDyxK2TyNByju1C7t4utBxAQHYpgSIIizLI687c8ieS_S-vovL__h2iS0Jz3k15pTRZaX8Z5aagO1uY2CiVzh6-HyBg",
+          "url": "https://cdn4.telesco.pe/file/Lm6kz4vIcGTaYJZibmKj4ZXOB7r6I2dTwSAUziCbXazf4YrlrxB6iZOerW4t0O6zIb2RM05JY2VDWu4FXEBisqyVgpz2VyRjyPNHVI6E6dwlrECjPVzWLe_UHPkTOqo6K5BepY2np0_zgxEh7Fd7Gnc0nGIc-gzDQnyLnydllw0g-Civ69Wueu4v5o1oWmq8eutIOFkcJku5gsmxcqoWW_jAJtaTkTZ-pLXfjmUARxs7w1CFoJuqM59cT8aWLlb4DHa_PtGsWp7SkUKXDsNPGIKfDp5Xj_-ynNJyGIqmlrb_SSReZSw5XPsZDPCykfw8O_HV7qsGf1hTQH_L0Dg7Og",
           "width": 1072
         }
       ]
@@ -120,7 +101,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Osaqx6CNXsXy7bjnZeUtzw91P3SsnkcHW3zhTqPZ28d-E2NOVnwjSfnkcEmzc0osdzgnCySIWmXOy3J29O-zss8ZosJYa6zDHa6pCprAziOkpuM_coxZ8Ixtfm8br5MpycMHIxq2I1q3uPxaSqQ5b-XXmD-Gbr_ZRTi0H4biImpManCX3tuZnP7jigvRVXwtOirR_z6OJZ91V5E5L1rbj-1RZlPYQyWUZVi4C1N9jXnRRQPX-zwcb9f0HCaSn8fdYzxog4-QksfaVcW50poJZYJWCQlCaP5htzCXXNWo4DSso2eeQBFno1Y6FnO0qoeI40bxwU4gLfgor8lAmEF-5A",
+          "url": "https://cdn4.telesco.pe/file/oKT_rVotAC2sPsESuRdIIIPdlLHZw4meSJjJoeiWVk86XPJUUAqpYKEMj52OdNf-7XhK6lWEmGSaiTOLhBoB1XKa6WiRsjdNTdfLT9nZMvbvK7ow4CTLr5TNTDFKbLRDq3Gg4SMjlW06IVyFzPKGeMlM3wzgrenGDHBOQ9RU_fBFUt4sAjyWVUWhOQoM1rY2WsRDvCezWdzmleGnCMYnbb2p4du04D8lVBXaBF3Fnhvt0OzO-EE_xxjznsb9y-t28mD2qXCtE2yxOxY60FxBDnDcb2MmHN6Qa_z5Emk8ZQU98dlKrjwDHfKs0Hr3zi-i1BnIOJUzNn5OtPeCvqVTLA",
           "width": 1920
         }
       ]
@@ -151,7 +132,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XAP1umjgK5lncEXT7JzipLPthpC1auzVjOp_2owceFtu6NP42bUpgLjtaOUd-zkuifjuB1h8NaMRNxspESAxGCrCHMLplQfkaxVXrn11wmy9YBUMuLk7b1NnpFt2MRFYA6P0BaWKU3Ht7GAN33-zhsHABUWUEEX5rbt2cqfAARbA6VknhK9cH8ED6Q7Exmidi3aIk1zVQeRTWox9E_84IdWv_d5YpNPmpeBX_yOcHEuWgjWClh6rqL2SHq4hGB0FDhWNCDhYY9CD7TBUI2olncljkch4w1aMWzyxeXjPWoA0usqEqLZriAFjv4OltbivMX_AEG03YBh_sirzRTQPmw",
+          "url": "https://cdn4.telesco.pe/file/JcJ-8CqTOdDxr84FoH8fnGrxLvAogJYq2LkKG0XmFnflKcpRLa1ksaOpOOjrarhMeoAItdMIE3nWsxz6-WAzw_xQNiX7XnxhdyHgIeTeYy9K9t_hiAitBI5LprWoJkFt9CK4LQdcqgssVwzJNliIeHgn86_ZoZs9pGwijTlTksLlEuvN-B6sMux7hyHAFA2NinTcO70A4eKX6JTEbHrTZyokQtMnjLSmkp66Dm2m-Jwo43HUwRuQ-o0Q--YzjErf8WF2L8NjT85dB1ZdoXmjjdfanm31zJ9h2KvSjWvK7NGijExclqNlR005UTZ8bVi2cl2ytsPdJrTi3263mxGHdA",
           "width": 1920
         }
       ]
@@ -206,7 +187,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/i_CdIJ5vLOeNhTrOYkqoWRyZoJ7Vy7HePe-4TzCCjrRTwikGr-Gz0W8S6vg3Os5ZyNfDnUrkB_g5hiO6Fri5qOW3SOgVjN8T5w1Cfyw7rCgM27TDbt_IxY-7K7ksmEa45T2n-6Z7oEkTGQ6jCEgq8mMn_jqFtN_8dD5f1AfslbaHXD5NZWwl_bwnMQXFOP3vLhiNpSrXtZdtDt7kYFTCp9dNYr-jA2bci07wWeTmoarPmXNyHjZ2v1miCSeJSj1W-hMLx84wmZxaFh06VsKNwqvzERaaR87XbDSZ0d8Hx5Gj_AIl4pjSWMb7LT109RxsP5UNGOg6I09E0Ljb_ab6Xg",
+          "url": "https://cdn4.telesco.pe/file/ImOkZ1hDf1bnVTmpap7Pjn-yUNlT3j24FFbL4XPWKDJPDXxtl3n9kFFFTMqocF9Rl1Seo9Mr1zbRzImpi2KxK7FyeQBrXPHRk04Ja7dJ_B-JOuhSJ5EE1OBQUUwRqk5ZmuDRnEYDMUpTPiiJRTHQYhbiHEv9OmwBsxLKUWbCemMLnH596lyywLXh7vAaChvJYaEY5ccs4Et8Ws3rU2CU847T94OXUmk29kIOzQIpAImdpDZ-hu_y38oTKFJsYxw3mZXwyNAkbY83kv387X4tEshQ7e0FIm7UQhi4fFsfDsVY_cWXIP2n8PqZD4l8ez5x6fW6Q7p0A2WMH93skk7NYg",
           "width": 1920
         }
       ]
@@ -280,7 +261,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NIq5nfaPydBaSlLpSdRm7JxS29sGHuEvKrhkVbL-2C73pUpjPOOYao-rLunLWl4Xn4v5kVytVT-qQ85C8KDeVeL-1ehfQmbbVH2dWCaIpZAK4iwJyqcquwkZi5OiPx_Ftbhnn8IlTonxF_AdOYsExU-MMNrd0-X3j254lxHb8K3sMT_sdOhwSbEQqK6RsciwAs65U5HGxb0ZUadVh83rgBu8Hnor_qjZygFuQXgrue6NqO7BYhPy7Ddu8S2NI3Nmk1AJOyN2pjak2MCLcCy2cvivbquIh8ke0hqCmZkpqRWYTaInxvJDLz_PVrREL-3cwgxElrRrIN6NeP2p937YEw.jpg"
+          "url": "https://cdn4.telesco.pe/file/J3FMDVYS7vMfmbWF_vKHD1umVEipDGtm_mpjEkufBnoLUk4WtXle7t0rBGAFo1-48ZghvhYbjByTVuRhzEYnyfIW-HDV1GApR-qIBAaiMTiIBjQptBnbeDw_loUFmANnzgmAWyk8feVr0VNfLAgXG1zcyazeTOOVFeiPkJpwJGznLwXWDBK-iGuWmg8g4bAUQq92uziooQ9YHKHn2nR77cWfhNM3V4QT83IvbH24pYUAEUnew2oqEVA0Hkn6unwtxm6NLSnGbrcLouqZqtBq33lWm1ZcvcGym1PtCz9gKEaonNHRFKjdhrPaDZbijftbcSRkIhAOm8ygj1NQBm3J5Q.jpg"
         }
       ]
     },
@@ -301,7 +282,19 @@
           "url": "https://cdn4.telesco.pe/file/HdpAeawV9wtt9eb5TfNC7CvFmQkKTbF8hn1OjQjxow7XLdw6CffvonLke_gQx1GzRbVjz7wA_GbT_XH5ZVZ4inWm9YpJ0HoPMobgEYN_9_UJIqNWP1-i-QiLLpkybZo2fEl6fIdRpHNwXTf953afzT1_y2_0x9UAcZNq0QbdIep-P7HmHaN_r8QYosWkPPX_JGb5-rMPHmty1nDaerp_aIHGBr1kTmuxHkZLiX1oEVErFMUmxL3SvSr3KAtob9qYmnq7E-Eel_GEsujYCYssg1I9S7KsmGYf2xGOLGbNI81q8wO7ffvkHNPe21Th5MFjom0Dy_utc_mC6YpSng2AWA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399841757380757151\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8D8E.png\u0026#39;)\"\u003e\u003cb\u003e🍎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Last night, Apple briefly removed Telegram from the App Store because a single user had planted illegal pornographic content in a public group chat.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5983279327574233274\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7B9.png\u0026#39;)\"\u003e\u003cb\u003e🧹\u003c/b\u003e\u003c/i\u003eBecause Telegram quickly removes illegal content from public groups using user reports, AI filters, content hashes, and other moderation tools, the attacker had to resort to a technical trick. He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5267239130357588007\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  The attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e From a practical standpoint, illegal pornographic content in Telegram’s public groups is not a systemic problem. Our \u003ca href=\"https://telegram.org/safety\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003emoderation is effective\u003c/a\u003e. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e However, there are two important lessons here for app developers and online communities:\u003cbr/\u003e\u003cbr/\u003e— \u003cb\u003eExtortionists have found a way to manipulate Apple into overreacting.\u003c/b\u003e Apple removed Telegram from the App Store before contacting us. This creates a potential systemic risk for every mobile app that hosts user-generated content. If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be.\u003cbr/\u003e\u003cbr/\u003e— \u003cb\u003eThe tactics used by takedown extortionists are evolving, putting communities across social platforms at risk.\u003c/b\u003e Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store). Other platforms may not be equally prepared.\u003cbr/\u003e\u003cbr/\u003eStay vigilant! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2989D.png\u0026#39;)\"\u003e\u003cb\u003e☝️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-04T15:20:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 471000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1785852521
+  "last_updated": 1785860946
 }
