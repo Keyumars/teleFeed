@@ -3,7 +3,7 @@
     "id": 0,
     "title": "آقای تحلیلگر",
     "username": "Aqay_Tahlilgar",
-    "photo_url": "https://cdn4.telesco.pe/file/TW6C8Pa4dn-7r4pzmL1IMPFNQqLJhZkAPH3xlj93uilUqS3cvbLQ7koirev9fjC8PXBgUOkTCwHGX5eUfwGk5ic2vqjiRo2VnJoJzu1sUBWYcYNv24HkkUptd3ED60_g3Y0L9IDI5vMyrNdB1y7xLg2gGqPoFhLy0jOrbMpMxJ18h_0eLpjQ9BjFiy66o7ilR5GKEvSLIS_EalytUJx8wPIEgbi9aYgoh7LkMHOuKO-35FgRBGIwzOSrwNv4Hks_1g2QsP0CQWoL4trgG81FAkBf4moyDfvTuFxNZ3EmzwzwdDhq3sNs5jOTi4z3fC6_fT2ougcevMWccN9mbcMT6Q.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/TZm8uG-6vAKv65_hRdCMBbgHIXl4EClMSrHRT5WgKbqXXB5LF7x1Qr2V-CUEKd2rwbcEQ2AaDhYDReAuCiilKplA1lqQfco8Nvc_9bN9OfceRHujfbiT8qpn5TkW5R0qEJlQA1MZz_OOSLULlXWqsV7Zr4j0KrSfIP7fBCdqteiyFCw7LxcxRbbK8MULt8_o03qICmjpl6gV7kDzHGXBCDQMKDbjocVZI5Ftlct3N2B6dvbvuFUV3BGuMQTMTbUQ11QfpcqOZ8weyZbuXxIrkWebnoC0TAf_qBs1CQ7fKQ-0H3A_hXff4j0qHm5u8fo2DDU8sLNm_SYSq0IaFfPLIA.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-07-20T22:57:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 556000,
+      "views": 557000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +36,7 @@
       "date": "2026-07-21T13:33:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 963000,
+      "views": 964000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-07-28T14:46:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 997000,
+      "views": 999000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "date": "2026-08-01T15:55:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 857000,
+      "views": 862000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-08-01T20:06:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 837000,
+      "views": 845000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +216,7 @@
       "date": "2026-08-02T16:12:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 769000,
+      "views": 780000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +228,7 @@
       "date": "2026-08-04T12:28:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 385000,
+      "views": 404000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,12 +240,12 @@
       "date": "2026-08-04T16:17:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 317000,
+      "views": 336000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "آقای تحلیلگر"
     }
   ],
-  "last_updated": 1785932687
+  "last_updated": 1785941750
 }
