@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "کانفیگ OpenVPN\u003cbr/\u003e\u003cbr/\u003eمتصل روی ایرانسل، رایتل، آسیاتک، مخابرات\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote expandable=\"\"\u003eآموزش استفاده\u003cbr/\u003eآیفون: روی فایل یکی از کانفیگا بزنید بعدش Share کنید توی اپ openvpn و بعد گزینه Add رو بزنید و وصل شید / اندروید: روی کانفیگا بزنید با برنامه اوپن باز کنید، اگه برنامشو نیاورد کانفیگارو سیو کنید و برید توی برنامه از قسمت اپلود فایل به صورت دستی فایل کانفیگی که سیو کرده بودین رو انتخاب کنید و متصل شید\u003cbr/\u003e\u003cbr/\u003eاگه روی اندروید ارور سرتیفیکیت داد روی Continue بزنید. اگه روی ویندوز و مک ارور سرتیفیک داد برید توی قسمت My Profiles و علامت مداد جلوی سرور رو بزنید و تیک Require External Certificate رو خاموش کنید سیو کنید و بعدش وصل شید\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003eOpen VPN Download:\u003cbr/\u003e\u003ca href=\"https://apps.apple.com/us/app/openvpn-connect/id590379981\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eiOS\u003c/a\u003e / \u003ca href=\"https://play.google.com/store/apps/details?id=net.openvpn.openvpn\u0026amp;amp;hl=en\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAndroid\u003c/a\u003e / \u003ca href=\"https://openvpn.net/downloads/openvpn-connect-v3-windows.msi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWindows\u003c/a\u003e / \u003ca href=\"https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMac\u003c/a\u003e",
-      "date": "2026-07-24T15:03:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
-      "message": "انفجار در کنارک",
-      "date": "2026-07-24T21:03:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
       "message": "مک\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eآخرین نسخه TheFeed\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین روزا داریم به جنگ نزدیک تر میشیم و خب میدونیم که جمهوری اسلامی عادت داره نتو قطع کنه و هم مردمو سپر انسانی کنه هم شروع به پروپاگاندا کنه\u003cbr/\u003e\u003cbr/\u003eبا اپ دفید میتونید در زمان قطعی نت، پستای چنلای تلگرامی رو ببینید. به صورت دیفالت چندتا چنل تلگرامی پیش فرض وجود داره توش. اگه گوگل باز باشه روی نتتون (مثل الان یا مثل یک ماه آخر قبل از وصل کردن نت)، میتونید چنلای دیگه ای رو هم به صورت دستی سرچ و اضافه کنید توی بخش میرور\u003cbr/\u003e\u003cbr/\u003eپیشنهاد میکنم داشته باشیدش اگه یه وقت نتو قطع کردن بتونید پستارو دنبال کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیتهاب پروژه\u003c/a\u003e | سازنده: Sarto",
       "date": "2026-07-24T22:31:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51000,
+      "views": 51700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-07-25T18:56:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47800,
+      "views": 49000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-07-25T22:31:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44000,
+      "views": 44800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +48,7 @@
       "date": "2026-07-26T09:28:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50200,
+      "views": 51500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +66,7 @@
       "date": "2026-07-27T10:29:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
+      "views": 39500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +84,7 @@
       "date": "2026-07-27T22:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41700,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sHZHOXEgD2uTqy8uJw-cboankRVx0AVkHEWq6QKMjYLxl-FmpRwG-f2SGfoQ_QwkRzPRLOP1ru00dKX8vErcVAEDs6J82E8WbAJcCfxgGBARFEHFn-9OkiMlvphf31PBZHusXNF1MzmP-gXrsA3obJ9MPYoRqoxoNPytufteiyn9-SXFNGDJPXih_HmMbOlnkzqsXK3ismROvlQeyeqWeKVD39vvH6cjAsTBieDKC5v0cOmcf1o7487zbKhPBygRx5FDhQR84Y5aLVKlobl9B4CG0jr_UsTcUF-JeWGXrxsbh1iW8v6AjVYh2gx7vymoWHYSIWnhxyC-caPgQRJXvQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/MfPaaRfb3efn15Qpg67JP04nj58OhJWFLwSE9c6Q-m_nU9s9EyJgpSAEhkDi53R8J63J91YxCNma8PCi36_3_hEKd9l-Y1iK03B60OvSE5Z9OSuagwPODAIKmyAM1a-IN-PY-0SfmzJfsAWDRLkC2Z6t9BM6qz6mBx6_hT9U7-qLn_ChLoFJtsHibLVbzJ3c-6ROJJdyHvYrbYKtuj5iU_K6ZuRj6WsDHUpczcmvS1A86UrpQTDXVhQDSeyA1FYFGlwD-B_oJlYknqNr-EOyL9B6sUE7sr9fbMPb8rfMl_cbX4jsaxkac9ensedsC7WrRX60QZzXTRfbn7jt6rlvpQ.jpg"
         }
       ]
     },
@@ -126,7 +102,7 @@
       "date": "2026-07-27T22:49:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49700,
+      "views": 50200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +110,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/OXw89xHs0kstx07N5zkBF7Pfm7bdodXn_V3TRK0OKb8DDIRvm6UpdRFQ63FVT-F9sf7pICJC5dAAOKz7jXszrsqMRPPzEAotCRtk4f-MA6YTQz-zOT06_vRBnZBV8QmRdQ14-Lc3nh72E2jFQSyW2BVCvp5Q2-skxt0DnT0u5EI9YFtIv3cUI2IdFkCbsTGpkfT2cE7BVYOPC9Vbj60hgJxJGgut2JNIIjSecL5MD4Rn7X4PTHMDtNEAXOd1XROY4hW00j5Qxx7BjfB_4gfnwv8FKnMd6PlVQGMBFoEiwSgldtnCsAgWTsqchAeId7h1FDkgRVKGwZE3RGcGLb4XmA",
+          "url": "https://cdn1.telesco.pe/file/p2bouSrjv7-XOZzniikVFGFu0Sm2i6b4nV8Z9i1eOw1N20ERTgVCezSkL5FreLoWLKX5cuA7SvhJGhe_MPGaQLdtHOUIUL05i08y6_uwtjz3EOtlr3yTQPvTuBDha0za__zSSUzOz7oEunrrXK1kgab4hpYojo-kgwo4arTlrgP7c5MXZGM8vfWUOIRByYDKFg7XCpmbfCOBu87DGpqMDT_UjRvmNL3DxkV4WtVV9YGzuirwFVEGQKStxx5wxn9ZbaM7iQMkJoQJK5ErB-7REVqgbklaucsyggGD4fvTSEI2P9WLSVjqI3rNfcBGLO6VVMn4z087eQPIkinyPQCJXA",
           "width": 672
         }
       ]
@@ -145,7 +121,7 @@
       "date": "2026-07-27T22:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56600,
+      "views": 57400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,7 +129,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TI3PobbHTojjoUcwmd4EQ1hF_jUVzk0NtW4FQEGWXZefigDcGFYkCr56VZkK5BN4jjnJmCRYmtfeqkRYASk3DdHW3t7bRv8IVpzTVPZMVBJgsjVxWLq1TH2qzHdhaVx30rMoQNFnJX2PjKGrlbO3nNdAlwUd-pbnFbfNLPUPo_X9ZMOFQUf80ilEfFdzZqQd3leJXGJ27WxvFK8xYuC0vBo1QQFVLihP3Lo0xExSy13FuMnRW4I4S7u-uXL7PKeh5KshhwfkTd5jaTkEkaI7OPkRbGATRGh4KMbwSeifuyU56TWb1hFyCDpiwUw4un-DWPe9jb5qkVrHFzD6oAbd4w.jpg"
+          "url": "https://cdn4.telesco.pe/file/FPyS7rC6rzOxAc_54O-WTQ9wbBy5sDjkNkPJ9T-z2qtRLmBaY3P6lWvrutPgn3gU84uqxJcHu7z05QvicYBWiZMXmxc7yg4Rb-tYZTOIBa6-YzND9AUO4o0C1iYxrmLh-OsBXzTISHjwgOi7Jobs1iL1csVAW3DpzIsSyjzir5Fe4sc1-koK6Mplk-QPo5FbksqIlSz2SwVOyFwbN8eLn40TjYmbvt6VZLPvg16GHHQdQJkqYEpKf_w1zTWE4gywdpKeY16AeyqlhF7M4H3zaWJQG3V08n_2yzmjkxDvbwSD8lQRPf5C4mHpSJYAV6TWrPCY9hk-OuMtim7amyf5vA.jpg"
         }
       ]
     },
@@ -163,7 +139,7 @@
       "date": "2026-07-28T02:09:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61400,
+      "views": 63800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +151,7 @@
       "date": "2026-07-28T20:16:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57000,
+      "views": 60600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +159,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kdD240bZHs_ALc--McBSiroSD-OfE_3ttdxJ6vzWMFSDzGSofqn4KXN-oE6xiDhXGkPNoB97oyOdunvy_Nn0sPza5qaLpiYWV9tC2QYe0yIkFhKmoLfXmKn61GAQjfAVKJyTBIncPaueJRSKNsRJ97S2hqRzECKT6MEX7s2xuth60KhWcA0q-7QOtT9fwFenmkZCuSVy6aFzO9xGUpyC0l7OonspG_ugyOrVYEGN-YOpnTw254GBPtBja_SNRtsERSfDISwuH-GokLaqxjNhmXf0NrIB-wA8cnw02RiL9hTDcnoXplqjZ1nvFRJdQdlGiL59tHRMrjW_4KbsaMLErQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/BdN-NkdyP3rIAgIGqYpzg9QktiLEhcrPgtYEhWlmRahIslemKPkk8YaoyCrPkcIjr8hmCc6myOxZH9T1MCfYZKoIJScK-F7TVorh-3sywqkFjPg4w0qEDKbwJUNb4dusZkNWjndD4syg6UFi0TWAT9IrwQfRCt0iakGsGY91HniOtH-DcF12XR3LDlrBDVPzsBY0Qm4wHsOkHKIqHslVCiQetcNTwzNW4zDs--XYU2yxvatjiVwKU99qk0Jjpp_yu9uMp-tmke3AV1lCkW36CM8lDM8a1fNc0tiED2Y-t0dFntOexuFiLk5jw-Y4itYD3qtjeoQXUzPhVM88JcZyRA.jpg"
         }
       ]
     },
@@ -193,7 +169,7 @@
       "date": "2026-08-02T06:04:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 40200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +191,7 @@
       "date": "2026-08-02T06:08:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38000,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +203,7 @@
       "date": "2026-08-03T03:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33300,
+      "views": 36700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +215,7 @@
       "date": "2026-08-04T22:13:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 31100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +223,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fnxOfSfkM2QkDlGJo5bhxRbRnKKOavXAX89Tfysp83XQoyEfkBRPmKfCY7kKIulXbU9sezei9cbRHugsjX-AWLIfqSyoxCV8sNxFcdlYjFNEQFCQs1QVV9A4qsq4MvqDFRlAl-ItJbAzCoxHVGd9mhrSQDldh67CtJzzP3YDs4CycgMt5sPMsP4-yC98L55xXUvF3lINhdHMGRunEUWEvSjj9jIwDTS7JZlvjb6fgpyGSULed61Tn54fArQhHkSnjNy7p-RgtIkbh0Aht8YWZnzICjQUSCrDZuZsTTYEdBVBjUKxap4hbFGIrJZalSHTbRJqxMdeeyFOD9BeoUhmOw.jpg"
+          "url": "https://cdn4.telesco.pe/file/VkdLacDeUGBTchy35CMSITrbec4EHbht05QOtFl4M9qZNTveFg7q1s3kp4oUJkWh0oCfcthajLHN_Gl46RxIq3v35dQDyWdg7QXDCl4MzU71NocPD4KnvbOL2SdqEMZI2EbPkqK8yBJmsev_vQ4kkqOGqN9atyEyx_WSn263PdjR28I0RsYwYs5KwJ43XXdmdVGsQgQk5zYISW0HWbcnZJQ3kVbcXiU8dR6w5xBaEdjswfy8Gto-vSjX-Zz1YOoyzA7w5WMEsrOr-x1-CiZOBOhQsK5tqgAZKB38_RpHY7zq5WCq6MQsdjxyiPK0fHB1O9VQCrkw1WkytVe2kQtE4Q.jpg"
         }
       ]
     },
@@ -257,7 +233,7 @@
       "date": "2026-08-05T12:15:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +244,19 @@
           "url": "https://cdn4.telesco.pe/file/Tf8dKMFNPaGoeodoJLO-ehDGa9ApwngCKdK9JrTuGLEpYGKwPmxlmptMbAGSGHCITS7T9im8cnAVuT0J8NfInNxfV7bnYu1LGg3axzr4gV2U3KDtU4qV1W40JpyfjwFvCchS70u5LjLdjl0ORa6jiDmK6UuEOkTiufTi9ekK3QWASQwIhdGh2gZeBV_UB6aarAiypbIRyYRg-mElMMVqfdVe6qEZ2-Pf8RnGp3yyswEq6m_NwSNOX6aWqhsx14TEgRx9_UvOUQu-p7u4uitqxAcCD68G5XZ6PjImRRhFdoNgPlHVb_vY5yenyqTY3hZpbwyBDYJ7a3igLXj95o4VXw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "جمهوری اسلامی در شرایط ضعف شدید ساختاری و بحران مشروعیت، قصد پیشبرد و اجرای «کنوانسیون رژیم حقوقی دریای کاسپین» (کنوانسیون آکتائو) را دارد. این تلاش رژیم، بدون پشتوانه اراده ملت ایران و بدون تضمین روشن و کامل حقوق تاریخی کشور، اقدامی نگران‌کننده و تهدیدی جدی علیه منافع ملی ایران است.\u003cbr/\u003e\u003cbr/\u003eبر اساس معاهدات ۱۹۲۱ و ۱۹۴۰ میان ایران و اتحاد جماهیر شوروی، رژیم حقوقی دریای کاسپین بر پایه حقوق مشترک طرفین و اصل توافق و منافع مشترک شکل گرفته بود.\u003cbr/\u003e\u003cbr/\u003eپس از فروپاشی اتحاد جماهیر شوروی، کشورهای تازه‌استقلال‌یافته در «اعلامیه آلماتی» (دسامبر ۱۹۹۱) بر پایبندی به معاهدات شوروی سابق و تضمین اجرای تعهدات بین‌المللی ناشی از قراردادها و پیمان‌های آن توسط دولت‌های جانشین تأکید کردند.\u003cbr/\u003e\u003cbr/\u003eبر همین اساس، هرگونه تغییر اساسی در وضعیت حقوقی این پهنه آبی راهبردی باید با توافق مشترک همه کشورهای ساحلی و با رعایت کامل حقوق ایران انجام شود.\u003cbr/\u003e\u003cbr/\u003eبا این حال، کنوانسیون آکتائو امکان انعقاد توافق‌های دوجانبه و چندجانبه میان کشورهای ساحلی درباره بخش‌هایی از بستر و زیربستر دریای کاسپین را پیش‌بینی کرده است؛ بخش‌هایی که قبلاً بخشی از پهنه آبی مشترک ایران و اتحاد جماهیر شوروی محسوب می‌شدند.\u003cbr/\u003e\u003cbr/\u003eاین بدعتی خطرناک است که با دور زدن اصل اجماع همه کشورهای ساحلی، عملاً جایگاه تاریخی ایران را تضعیف می‌کند و نقش کشور را در تعیین سرنوشت دریای کاسپین کاهش می‌دهد.\u003cbr/\u003e\u003cbr/\u003eاز زمان امضای کنوانسیون آکتائو در سال ۲۰۱۸، بارها هشدار داده‌ام که «پاسداری از منافع ملی از موضع ضعف ممکن نیست». همان زمان نیز تأکید کردم که فرقه تبهکار جمهوری اسلامی، منافع ملت ایران و میهن را قربانی بقای خود می‌کند و در سیاست خارجی، از موضع ضعف به باج‌دهی‌های پی‌درپی تن می‌دهد.\u003cbr/\u003e\u003cbr/\u003eموضع من درباره روند کنونی همان است. تلاش جمهوری اسلامی برای تصویب این کنوانسیون را اقدامی مغایر با منافع ملی ایران می‌دانم.\u003cbr/\u003e\u003cbr/\u003eهیچ تصمیمی درباره منابع، مرزها و حقوق ایران در این پهنه آبی، بدون رضایت و مشارکت واقعی ملت ایران، از مشروعیت برخوردار نخواهد بود. حقوق ایران در دریای کاسپین قابل معامله یا چشم‌پوشی نیست. هرگونه اقدام در جهت تضییع این حقوق، در حافظه تاریخی ملت ایران ثبت و تصمیم‌گیرندگان در برابر ملت ایران پاسخگو و بازخواست خواهند شد.\u003cbr/\u003e\u003cbr/\u003eپاینده ایران\u003cbr/\u003e\u003cbr/\u003eرضا پهلوی",
+      "date": "2026-08-06T17:10:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1786025047
+  "last_updated": 1786062229
 }
