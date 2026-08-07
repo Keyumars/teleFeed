@@ -8,69 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "شدیدا توی این وضعیت نت جوابه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AB.png\u0026#39;)\"\u003e\u003cb\u003e🤫\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-29T11:05:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7260,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E8v4ZLSS8b1JD6bAXdJoeDzkOLbJMsprkWPo8ijrPuClzL4Krpf04aWQqvd59nkxOC6mttTaer4wmrtT0fMZoHqXW48hXbbyj_GIOdwrsYqORLnmQPID3bT_J5bvOukv9Q-BBYySzObcRDCLUpEAkWnb_meHUjwuKkql_C4XyHMXQNb3uB-tzui7fb8ddO79TSpCI5FBSthFHwKKbrtpOBjT0l0VFwLUBzmKAC1xuyzDHZjxGyBJrKwKCi2nj6wkPc5ABbs6kzG-51VmL1oX5bYfO00z4E9rHozrYdA_qgrR6SM-NDh0fUkfOpMcI2mmQOczahzTVvOQxQNr7gHqBw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h-_5kmIt-XPgGoaYI_iT4Zrd6NRI_tQ5Sw_4iBn5Y2bi6YYZaV_gFLpu9gUm3k-oWXSE0i_9_Nl38HssRFGCcoiwocag5ZpBT7pLAvKke9JnihFp7MiZo1BpEMSkoqKrTC_AEynVLHkDz1N2s5eqFOqKgHHCcwn8IPVUYVZHjLgzdjA-jUiqEUVGw_A0N8xV_F3f5MVY3B_PCmAExSu7Fbaj0ephXICV9cjQQH-cQuVP57otk25cO4JyaUx_FvtYSYmWoqa6djWPBplvZT0c8K8MFu5i5YYKLVb67bEowl_TDxz0KheZQwDJinxPuI9oSSq2JYMhSv0f-Jeq38l4AA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اگه cdn بزنید دیر تر فیلتر میشه و حدود یکی دو ماه یا بیشتر براتون سرور تانل میشه به داخل کشور.\u003cbr/\u003eاگه فقط از ای پی استفاده کنید حدود ۲هفته طول میکشه تا فیلتر بشه ایپیتون.\u003cbr/\u003eخودم تانل اسمایت رو پیشنهاد میکنم ولی این روش سرعت بیشتری داره \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-29T11:16:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "ابتدا یک سرور در ترکیه تهیه کنید و پنل \u003cb\u003eسنایی (3x-ui)\u003c/b\u003e را روی آن نصب کنید.\u003cbr/\u003e\u003cbr/\u003eبعد از نصب، ابتدا گواهی SSL (Certificate) را دریافت کنید. سپس وارد بخش \u003cb\u003eInbound ها\u003c/b\u003e شوید و یک اینباند جدید با پروتکل \u003cb\u003eHysteria\u003c/b\u003e ایجاد کنید\u003cbr/\u003e\u003cbr/\u003eپیشنهاد: پورت را روی \u003cb\u003e443\u003c/b\u003e قرار دهید. طبق تجربه، این پورت در بسیاری از شرایط پایداری و عملکرد بهتری دارده\u003cbr/\u003e\u003cbr/\u003eبعد از ساخت اینباند:\u003cbr/\u003e\u003cbr/\u003eوارد بخش \u003cb\u003eTLS Settings\u003c/b\u003e شوید.\u003cbr/\u003eمقدار \u003cb\u003eSNI\u003c/b\u003e را روی IP سرور خارجی خود قرار دهید.\u003cbr/\u003eیک \u003cb\u003eClient\u003c/b\u003e جدید بسازید و آن را به اینباند متصل کنید.\u003cbr/\u003e\u003cbr/\u003eو تمام شما الان پرسرعت ترین تانل مستقیم رو ساختید",
-      "date": "2026-07-29T11:20:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "دیدین بدون قطع کردن اینترنت هم میشه جنگید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-07-29T11:22:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "اگه نمیخواین ماهی ۵دلار هزینه بکنید برای سرور پنل zeus روی ورکر کلادفلر رو پیشنهاد میدم شخصا منتها اگه امنیت براتون مهم هست یه سرور بگیرید خطرش کمتره",
       "date": "2026-07-29T11:24:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8760,
+      "views": 8870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -82,7 +24,7 @@
       "date": "2026-07-29T11:25:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8109,
+      "views": 8350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +36,7 @@
       "date": "2026-07-29T11:28:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8109,
+      "views": 8380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +48,7 @@
       "date": "2026-07-29T11:31:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 7660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +60,7 @@
       "date": "2026-07-29T11:39:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8510,
+      "views": 8730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +72,7 @@
       "date": "2026-07-29T12:10:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9580,
+      "views": 9740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +90,7 @@
       "date": "2026-07-29T12:19:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +102,7 @@
       "date": "2026-07-29T14:26:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +114,7 @@
       "date": "2026-07-30T05:25:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +126,7 @@
       "date": "2026-07-30T12:33:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +138,7 @@
       "date": "2026-07-30T12:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +150,7 @@
       "date": "2026-07-30T14:44:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +168,7 @@
       "date": "2026-08-06T03:08:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 5890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +190,7 @@
       "date": "2026-08-06T12:32:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 4980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +201,73 @@
           "url": "https://cdn4.telesco.pe/file/VfCSb_b-YGOYkLDFoQ9yAJzgKA3AbA-mOIh7SqDrGc84P11X9dNs_EM-pV9OMxENZX3m9F1o7u4BzaC763ewwETPCxOFTf0yhIsw1arqZs_8sNkjZ52sy2ZE7ub5-BuEya1i8R1gIvkK3T4JI5kQJImJuTTNy6Y0FgQebet8O4dYek3p8gy27qMZRzVC2q6ulauDS8qOCFX2EiycYAMYnq8y6b4pi9_muxiSLvzBY8ATIpNqH85ZmM2nHB4b_1vizSZ9CQ1vFqiDjWhjGrh-UjAq8c4Bmsk59M7jWYEB5Fp8Y7XrvT4KQecaNcTJkfUkuT8wwnT0HUOC3PNT3H_n-Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نسخه 1.0.7 اپ نهایت تا فردا شب ریلیز میشه تمامی باگ های گزارش شده فیکس شد. سیستم اتو اپدیت اضافه شد به اپ و امنیت تانل ویمس به بالا ترید لول خودش رسید.\u003cbr/\u003e\u003cbr/\u003eاگه خیلی عجله دارید میتونید از ریپازتوری گیت هاب ورژن رو دستی دانلود کنید و ران کنید روی سیستمتون",
+      "date": "2026-08-07T15:41:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "بهترین سیستم اپدیتی که تا الان ساختم با اختلاف",
+      "date": "2026-08-07T15:52:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vA2yu0WArtPTfaBMNmXXmyDt_ktmhErJOKiRoSePXRuMcWYlWinKZo07S0zFwm6xIcFgBl-fzfhkyOO0wLRUcIxGd0Jg4Qh4Gko-aHC3a8JlsO9ph9iogWKtnJo_TQBOS5-0Z5sIj0TWvl8KKantJpnbu-ultLMLz25vxUb7_iyn-za3B8FSDnWZpG7JoxBIdaDvUtAbI5RpTZuxW90EYcrxMBHRp33_Yi1UaarKggM7JbLWSkov3ibeEK-LLD3Qs_bRYLEN-bMBfsscNP4pzoog0Abz3R-YbPYGh0688Stpj2mC8mm4CfMasM-QlBZIMUi_VUflWeTIFeknvuIVPQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "براتون الان ریلیزش میکنم لذت برید \u003cbr/\u003eدیگه باگ های قبلی رو نداره و نیازی نیست هر بار فایل جایگزین کنید برای ا‌پدیت\u003cbr/\u003eهمچنین اپ روی حالت تانل مود دیگه باگ نمیخوره و UI به فاک نمیره",
+      "date": "2026-08-07T15:54:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.0.6/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنما :\u003cbr/\u003eنصبش کنید و لذت ببرید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-08-07T16:02:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 749,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "نهایتا تا فردا شب سرور های سول کانکشن به اپ اضافه میشن و میتونید به صورت کاملا رایگان بدون نیاز به کانفیگ به اینترنت جهانی وصل بشید.",
+      "date": "2026-08-07T16:19:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 342,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1786116423
+  "last_updated": 1786119946
 }
