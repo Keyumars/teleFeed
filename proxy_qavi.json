@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UOBbQzH8i1dw0r3wu7diInSLulu0JRqKbq3E_KIBq5bvdptGrgrZZt3Yht8Q_j7DjT0XEKo4vKZLNWJBBjq5SOmBDfHoQiALKQ0mEAyGUL_qk3bBlll6sct1NfU5k0SgY1G4V-ntXu3fBVcwbt2l7F0EN2F9rq08LpXoLz-G2qptsup9YqPiAmcc2G24kc9VRtanHUkFnq9Yj9L-G_ZgYQjXGAI0Luq0ZZ3V9k91l8fcjM6B-Jb9yEkV0n8v6j5XRAvP8HFOl1mFhg4QnF_3s7mEtvT-eKUQHB_O3jMAK-e3fzHkdfXCqbv1Mu04O7-utz-XcmxFxtw1AbLOwey4yg.jpg"
+          "url": "https://cdn4.telesco.pe/file/vfvDS2HiDqTCNmxVgCncbJjbvBF32Gnvc92SPRCw0pelMDmpWeMMlK2OC8NOhbaz1MYGq8eIlVKb-m49P_l4XF4Xr8YDCF0Z8FDwAxqCDRg9-4fEwJc9j6mLNyxaW9xGv1va9jn_AAzmefPryuvqorJKFots6rr8n_qg6KRre7qaOS_mBKmHJcASirfRXoUPM4w8nUE9SG7LWBzb4yzCaLTiej9WwnQzKMDIWBCLUbYKwk20Ct7oYebqsYjNpxubjPjwxOTdISEF5TkE2D9QS6tla_t0H56X7diYdeUbLUhMzul-JrtIwbfaMhlv-6HXn6SaPvaZNcv5nyTOfAvCvA.jpg"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "date": "2026-08-06T12:19:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 157000,
+      "views": 158000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +160,7 @@
       "date": "2026-08-06T19:13:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 176000,
+      "views": 177000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +179,7 @@
       "date": "2026-08-07T09:28:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 158000,
+      "views": 159000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +197,7 @@
       "date": "2026-08-07T18:06:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
+      "views": 149000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +209,7 @@
       "date": "2026-08-07T19:39:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +221,7 @@
       "date": "2026-08-07T20:48:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 142000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +233,7 @@
       "date": "2026-08-08T09:32:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
+      "views": 115000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +251,7 @@
       "date": "2026-08-08T11:21:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 110000,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +269,7 @@
       "date": "2026-08-08T13:09:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 81300,
+      "views": 85300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,12 +281,12 @@
       "date": "2026-08-08T17:13:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46600,
+      "views": 52100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "پروکسی Proxy"
     }
   ],
-  "last_updated": 1786218936
+  "last_updated": 1786220879
 }
