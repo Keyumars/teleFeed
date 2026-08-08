@@ -12,7 +12,7 @@
       "date": "2026-08-05T08:19:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 184,
+      "views": 186,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-05T14:31:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 237,
+      "views": 245,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -52,7 +52,7 @@
       "date": "2026-08-05T20:46:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171,
+      "views": 173,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +71,7 @@
       "date": "2026-08-06T10:18:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 173,
+      "views": 175,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "date": "2026-08-06T15:03:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 381,
+      "views": 382,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +107,7 @@
       "date": "2026-08-06T20:31:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 423,
+      "views": 425,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +125,7 @@
       "date": "2026-08-07T08:29:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 298,
+      "views": 300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vzI8q5E1aLZxOyku3QjlFttw7eWW5QoZVNIH2t3CpSg3bK4fwIMFs8TdM8pYr2xeKliooa-_xTaLvKW4D7HkopjnMwm8N0nK6s9i-JySpQHA3HHPbPU6bQ64yi9n0mgDg4V0mm9Nvkt3g1kTcfM06b5yVW-KFqkX9bdWzw_n5A3wCTtjxzVLqkzFPb1nZdc-IL_8_qFimqxKZNccoPKhpIWCp8GyXNC8yo8ogpcIgYV8Q8e4ZznFRg1c9SR64yNi2_s108NKMVmeIrBosbpFkj_gv39Gx9YACy9mbHWrPh42XZXkOZVGWTmNnXSy1qLwos_8xBPfw5UQLAbzhjUzhA.jpg"
+          "url": "https://cdn4.telesco.pe/file/VMu5ONeoqEkYWLmaqnyPvYPsmeN0d_jHsX2XDraZfvsneefOrxVpphLAiAyOwmZe5--l9QfImW2YQfjla8V5oIp0NEuen4E3jQhhbHamLFJWZi8MXsyTRszNnWVR_Gcq6BmvRpmRcxr37iyMcVuNcHWk-W0dGCsuBccMjX98fglShN_rFrcVsc0wwx1YPGmIcJJrgCgUw4pmK-__8O7Ul9W-cPMmmLRkWJMDoR7-xHrwKXxs29ECcN1mNRS-pm5u2EjPsMyBv9kovI9UNcsv1O6yXF-D6YSGRvwCf-bOSpRt1IjFljaGNVHonBVcssKCGYw_-bDkkPpA6Noa7IyTmQ.jpg"
         }
       ]
     },
@@ -143,7 +143,7 @@
       "date": "2026-08-07T14:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 389,
+      "views": 397,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-08-07T20:31:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 233,
+      "views": 255,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +172,25 @@
           "url": "https://cdn4.telesco.pe/file/MTIB5GTD2uiKu7IfEpmu9wBHC-rKyyZBSAUyZGB0h33m0fxUcR6yTzktVGhYxcRjcXaE_Fv18U5b0QZYpUV75oNkz6Sdo_up0Av9y_L-imsEbno3nRif4fQzShpBF5KoQq35blBiKjXe4ncqXaCNe1C4oaC2QC3VWiyXhghMd04_3SaagruLmk3rB23cm0QKyLldWe25HOXX4SAnjEqCBzX6Ex6SHIf3HNZIwSkiWYNK3t5oRWElxy9RAcSjOxrM6_bUQQ61aEnSxVS-6ZhydIyV8gbJaWCmS9jXvxOKbCpxIC2t-BQhWy30WeZsWsvU4Unr4we4HGWIU3pxC7KEWQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003e بسیاری از درختان تا ۳ هزار سال قدمت دارند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e در قدیم کُنده های به جامانده توسط بومیان به شکل تونل های طبیعی درآمده اند که رفت و آمد را آسان تر کرده و هم جاذبه توریستی شده اند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-08T08:32:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 50,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/emmMWBgBNwevoAzCfx7hgmMYT1-Jjomcq9zb7iZ-AL5vkkj_QLEevKTZG8T7uhIiv5Zw-H6os2msnSmiVToifAtzpZXU4zHb-OlySO8PbXWHyz10cqMSHaOVDK5jQ4eFAw204bMKCcNQYRiDJltVzjXC5_SVuLZDv82hHlMBprpAZRGQVWv3wCmHU53gbpcm__f8DHgwvFX63yB_cU9ahZb9jWLhxImmjlZvr06a4Nxz-Yu8QgkqWUmczPhtAhW-Ois4BmOdwPpwMRQzwuSJtAdbsCog6hoY5Qrq9i5v6Lgw053nSD-BK-s1_4iL3mlmQsfD9Xgpi4DlhPRYotj5rg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786175240
+  "last_updated": 1786178290
 }
