@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eترامپ خطاب به خبرنگار‌ها:\u003cbr/\u003e\u003cbr/\u003eما یه جنگ بزرگ رو درپیش داریم و بنظرم بهانه‌ی خوبیه واسه اینکه اینجارو زودتر ترک کنم.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-07T20:44:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 215000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/i8IXzCYPDv14KtuEbncAOi_WI_Zufb6QZEQHky7LwF-UFdNx44c63pfiqW74GYr6b-lr4Tf2JlT5anHT2wd_qsH-tbiuwydfPNRLhuajG-DOQErL9LrVaLKsTN7BcExfNoPjgAyHsxp-kIjcYpl5HbqFBHnWKzbQWw0C5yTJh_j-iBjf2HLmaTTi90020pZjOawwWj9KiW5RvKV4ynkbzJG6DhdngOwaIXy5f-wh523OF9_Ua-8W63xT_7T8f28FZK4IYKF6GcbEOaUuu_QoperietiMdxyRB4u_KQHH0Bz9tQohFmWHQ_zhdaPImAAYkNQoQQDGbmz1sz-U_KMdbQ",
-          "width": 640
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‌\u003cbr/\u003eتو خود ویدئو و ترجمه خودت داره میگه ما یه جنگ داریم که باید ادامه بدیم\u003cbr/\u003e\u003cbr/\u003eبعد به شوخی میگه این بهونه خوبیه که اینجارو سریع‌تر ترک کنم\u003cbr/\u003e\u003cbr/\u003e\u0026#34;درپیش داریم\u0026#34; رو از تو کون پدرت درآوردی که الکی جو میدی؟",
-      "date": "2026-08-07T21:03:23Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 211000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیو وایرال شده از رقص و شادی خانم‌ها تو یکی از پارک‌های تهران :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-07T21:18:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 213000,
+      "views": 216000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +31,7 @@
       "date": "2026-08-07T21:57:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 211000,
+      "views": 215000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +49,7 @@
       "date": "2026-08-07T23:44:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 209000,
+      "views": 214000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +75,7 @@
       "date": "2026-08-08T00:32:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 179000,
+      "views": 183000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +94,7 @@
       "date": "2026-08-08T07:00:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156000,
+      "views": 165000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +112,7 @@
       "date": "2026-08-08T08:07:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 156000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +134,7 @@
       "date": "2026-08-08T08:50:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
+      "views": 161000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +152,7 @@
       "date": "2026-08-08T09:33:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 128000,
+      "views": 143000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +171,7 @@
       "date": "2026-08-08T09:42:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 117000,
+      "views": 133000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +183,7 @@
       "date": "2026-08-08T09:58:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112000,
+      "views": 129000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +202,7 @@
       "date": "2026-08-08T10:14:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 102000,
+      "views": 122000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +214,7 @@
       "date": "2026-08-08T10:17:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99900,
+      "views": 121000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +226,7 @@
       "date": "2026-08-08T10:45:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 73600,
+      "views": 98100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +244,7 @@
       "date": "2026-08-08T11:23:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 77600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +255,43 @@
           "url": "https://cdn4.telesco.pe/file/QQ58u2jfsO0O-6YPuUVLUzx-ay5T-7wCouOPiAIWO1dUSA3nYwyTDE1Xw0qHzxPjSR3dtRiydz50SQQIqzKZ8h9NDesexFmRvMwLHDsHpYShJhw1tQbtz_MVfLEUXAt9nooi8DK58a-1lfrrYMhD8jrsK65XbYEXtLrowlpkPwdsFmmtqX6iTYnbJvQfsWEkQZFy4B34CjHQNxFXemEXHYrMDtlyPfuhpwjQXkICbUC0TqnexClNAKsc3MTFbugUn9mi9FX53gR5ZKaKhcb6NQjQru9rU0BN3RSd_deiZ5FKHPOkk_ricsbqF7aGNHffAmAW8Ua-9JsLWn9R54higQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eایران واسه اولین‌بار تو \u003cb\u003eالمپیاد جهانی هوش مصنوعی\u003c/b\u003e، طلا گرفت.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA587.png\u0026#39;)\"\u003e\u003cb\u003e🥇\u003c/b\u003e\u003c/i\u003e شایان رضازاده - طلا\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA588.png\u0026#39;)\"\u003e\u003cb\u003e🥈\u003c/b\u003e\u003c/i\u003eمحمدرضا درویشی - نقره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA588.png\u0026#39;)\"\u003e\u003cb\u003e🥈\u003c/b\u003e\u003c/i\u003e محمدامین نظم‌فر - نقره\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA589.png\u0026#39;)\"\u003e\u003cb\u003e🥉\u003c/b\u003e\u003c/i\u003eمانی منجی‌پور - برنز \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-08T11:59:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 59200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/S2lMGEVZyatuis4uv1W75QIysPLhvf2gOJHl4sViOKxXhCkYAyIHrYXXPGJ5CKSe6IsBnojLtMgft-D3uJ-5H7ih3TlP75e7_HK5ezmLuBcFUCUPPxJu5B5ZVzo513Sam3gO7VCGWm8cQLVcLV3q95LkNpm4-BgqItetKWr0oMfCdH7vQNUUWTj_QBruMF5wcIvlJ3MLUCUSDks1DBlXbgf_Mt-6ycJO8D2gGs4w-OONSQ5Dh3HDUw3HlP9mEPnJhHB-_S9hu58z7Ms-n_PkBkSv_ugf1uO7QF4ejP8yy8fGgd_v0_ynVqM2zjGEt7MXZUUwk0wAW0ej0Tv-slQ22A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5438272944356756393\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پاول دروف هم اعلام کرده که قراره به مدال‌آوران این المپیاد، NFT هایی به ارزش حداقل 1000، 500 و 300 دلار بده.\u003cbr/\u003e\u003cbr/\u003e\u0026#34;\u003cb\u003eبرای حمایت از کسایی که قراره تمدن ما رو از نو بسازن، 240 جام اختصاصی Intelligence Cup به برنده‌ها اهدا می‌کنیم\u003c/b\u003e\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-08T12:13:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 41900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sYb1_hcDUM5GzA4fE9IGT2tw0h0dEWjKVrLzd0ioCI9ETceFcLRtRvFz2knePCZwDwEGn9w_TXJPHa23lbbjbKyfbTKrt4anI3KX1K8KsAbW-l4-8mVENtkT5luaNTv-Pik1ndEG4l1BybnjzhNR0BIUrb2JjAzkbvHJaEzIoTSh_tNYTqDmZYweNpSNzFem_2L82WxRaHGbv0mbzaoi1i8Sp0YXO_RiQBaxpK5kMrBcxLG__MiAeeot_ZSNieom50XoL7ohK0w0jc0TyQo-yqUE1_WvzA4aGbdLlHXwoljEis10xvwI-wXdz3-Izdb4v1XbOpAGEzv8exksrnZruw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786190055
+  "last_updated": 1786192979
 }
