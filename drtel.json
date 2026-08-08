@@ -12,7 +12,7 @@
       "date": "2026-08-08T19:36:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 137000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-08T19:50:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 137000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +56,7 @@
       "date": "2026-08-08T20:11:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 121000,
+      "views": 125000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +74,7 @@
       "date": "2026-08-08T20:18:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 123000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +92,7 @@
       "date": "2026-08-08T20:42:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108000,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +111,7 @@
       "date": "2026-08-08T20:48:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 102000,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-08-08T20:57:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93800,
+      "views": 99900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +135,7 @@
       "date": "2026-08-08T20:59:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92800,
+      "views": 98900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +147,7 @@
       "date": "2026-08-08T21:10:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89700,
+      "views": 96900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,37 +162,11 @@
     },
     {
       "id": 0,
-      "message": "بابک جون عزیزت، این قرعه‌کشیتو هرچی سریع‌تر شروع کن که ایرانی دوباره داره برمی‌گرده به تنظیمات کارخونه...",
-      "date": "2026-08-08T21:20:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 80500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CJ4RY508mLQdM7znphfS6JgI5HOk1zEa6BuBcJjMb1ukukU3NAbu-K9WbrN7AE_y85D6-M4xxb_S3BZcnPyjS_QZ5fueTIyEyB6MYGa3C5E70Yzv3mLQzDxzLs21pBpi9BJKiV-YG9WE5pZiUnma8bgT6nh7Hq3VeX23VJQu4YcMBMh9DnJxCCzWXZIoe_FMOG1zQBm0Q3Yk6ERtiMpKTuqkCoZrBibJlhj1ZFHb4Go1ICemw2UPYBhSxaoNh3WO26l5vdXqmyj5mS0eoVEXqvL8_UvOFrWChWrinW1E_B65K_yIPPfDTqFEpKU4NWWfBp5DQMiXXR7cjBNS2t6H7w"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/eDLiUh_NKzlzZ98qNlr39TEpKNR_joL7K8Dz8XdF03oDxrwUU11yhBDwrBC7LJwjIcN3C7ec3MzZgmIwg1Z6-78lYWPyFiB15dsd3CPZOTrJUJ3lIg_n20EQM30Q__BogPtsGSjPUfdHLNWtqe2HbDRX4kBi_wjtpDqBQqmfYtEIOu09BHtFhit8UiUdPA2lNphTUmXGDTw4q-Un_cf16NbDrb21NBDRZVDvgIreTW7LuQy84X7Fe-S6-ECu-6MjHQUJnhaX2IoPu_reSTAFLpNRsUBdkUJ3l7WpR8Wwga2b8-zwmv419M0cNogBdVtTqwoHwbOQrwkr0ORVVyrpDQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZWOtEFkFhfDtdIbFw0Gar8gP8gy5xJcsHptcyBzSmCw_CxTSIPGJnkHUlCtXbGupRS6VdMntTfo3N4KuemdFdPH1Z3saaBvlj3ZbPrWikgmiu6rqWRhxS8oODvYk7rH94_iwGJ-JPJ8J0XTJdF8eOkcFP2bNJ7Ws3kj8CodIZsmuommxnGc67dATFVY360XLBvkxz7UGWVCTMPk0v8u1gDjDEDfEzrNMNLdH2YHXT-xZfPSGqBWOxaO8rBx8NZlDskmU8937xjJGGuuIhHbyqx-bTSSuXK62fcjWVEwLwZkdh3PWhAw59zQNykprvMJ2ja38N_eNSdZEkMZbBp6fHA"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eمرادویسی، تحلیلگر اینترنشنال :\u003cbr/\u003eمن معتقدم شرایط الانِ خاورمیانه، شبیه شرایطِ قبل از جنگ‌جهانی اول و دومه؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eدرسته که میرن مذاکره میکنن، توافق‌نامه و تفاهم‌نامه امضا میکنن، مثل توافق‌نامه ایران و آمریکا و \u0026#34;\u003ca href=\"https://t.me/drtel/64473?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتفاهم‌نامه مکه\u003c/a\u003e\u0026#34; ، ولی قبل از جنگ‌جهانی اول و دوم هم این اتفاقات افتاده.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eقبل از جنگ‌جهانی اول کلی توافق‌نامه داریم، بین فرانسه و بریتانیا و آلمان و روسیه که مستعمرات رو باهم تقسیم کنن که دعوا نشه که آخرشم شد.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003eجنگ بزرگ\u003c/b\u003e تو خاورمیانه بالاخره اتفاق میفته و هیچ توافقی جلوش رو نمیتونه بگیره چون توازن قوا داره تو خاورمیانه تغییر میکنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eهمه دارن سلاح جمع میکنن و هیچ‌کس هم تحویل نمیده، نه حزب‌الله نه حشدالشعبی، نه جمهوری‌اسلامی موشک‌هاش رو تحویل میده و همه دارن کمربند هارو برای جنگ بزرگ سفت میکنن.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-08T21:43:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67300,
+      "views": 76500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +185,7 @@
       "date": "2026-08-08T22:03:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49000,
+      "views": 62300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +207,7 @@
       "date": "2026-08-08T22:07:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47000,
+      "views": 60300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +219,7 @@
       "date": "2026-08-08T22:09:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 58200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,12 +231,67 @@
       "date": "2026-08-08T22:14:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37800,
+      "views": 54100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدیو وایرال شده از یه پسرِ جوون تو تجمعات شبانه:\u003cbr/\u003e\u003cbr/\u003eبه ابالفضل راضی‌ام جنگ زمینی‌ بشه، یه تنه 500 نفرشون رو حریفم!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eایشالا روزی بشه مکه و فلسطین رو آزاد کنیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eایشالا روزی برسه آمریکا رو نابود کنیم و تو کاخ سفید نماز بخونیم.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنیاز به بسیجی‌ها نیست همین بچه‌لات‌ها اسرائیل رو میگیرین داداش...\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-08T23:00:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HR1y8yca1IKYnklSUe526p15e-Z7_zs_kLLXkJfThZ-FCw3jhTgmpJSyjHkodjMe7uPWifsHeif5nP9K9vCc78W6p_FYjgO_LLsgi7Q6ADnV56OvsfOPataKxcbtziGXTHK7juJ4QWVENno48Qv_3fRTHR7Vsv0a9WE8Zd_HIIf_SvuHNxCr_UTWhAzcci1SGWeiOHmKx6gmLKU2EU9rT79pH2HQrxb1Jz1fzWOMH7l932G26IMVKDqoSMfJYYAjCP0Eb8pgzrREzpvIuYdXGKgfaaxIND_iOKTEFi8ol_eur86hzfHp_ECdT8s8BE0ydQjdMLSCBS6_xLf-TlhB0g",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote\u003e\u003cb\u003eSportnavad\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | اسپورت نود\u003c/b\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5427199711213796310\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918B.png\u0026#39;)\"\u003e\u003cb\u003e👋\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eگل رو پیدا کن و جایزه ببر!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5373153968769735192\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA790.png\u0026#39;)\"\u003e\u003cb\u003e🧐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e وقتش رسیده تا دقت و شانس خودت رو به چالش بکشی! \u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5431449001532594346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e همین حالا وارد سایت شو و حدس بزن گل زیر کدام لیوان هست و شانس خودت را امتحان کن!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5199749070830197566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e   بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5350291836378307462\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
+      "date": "2026-08-08T23:22:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/XwGEMIUTS0-p3bk1MmdfaHkIN-wDFtIPtWZTBgavDH29Wkhrnz4rKas5OIRviSG9detFyBDskpXP-ryp-OW5hhrAfN4McHnxNQ8rDWASXLLRt8O5Z5HjaNJfHs18oei6kovlXHhqKeTDHo7xwcc1mkYSrZbiw5wclmeVg5F7_21xCFmnAT5lM-_Zu1hzy1ldn3CuyzOE0Sheo7FHX2ySPpjWQ6uIP_II0REQiRIpDz2Wa4LAaHojYZ_2sB_7WcEIm0U5C4h2xSCKyIJmMtOKPn2fbuL0N1d4vxHkVobNOvtUypQjUkGG6DCH6Vflb_70sZOebo2v_voyn6vlYNcvOA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eا\u003cb\u003eگه تو دستشویی با گوشی زیاد ورمیری این پست برای توئه؛\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eیه مرد جوون تو چین\u003ctg-emoji emoji-id=\"5431782733376399004\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e طبق عادت همیشگیش، گوشیشو برداشت و رفت دستشویی و اون‌قدر غرق بازی با گوشی شد که نفهمید حدود نیم‌ساعته تو دستشویی نشسته وقتی خواست بلند شه، متوجه شد یه توده بزرگ از مقعدش بیرون زده!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eبعد از اینکه رفت بیمارستان، پزشک‌ها متوجه شدن این توده در واقع رکتوم یا همون قسمت انتهایی روده‌شه که دچار بیرون‌زدگی شدید شده...\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eاین مرد چینی سریع تحت عمل جراحی قرار گرفت و پزشکا هم هشدار دادن که زیاد نشستن توی دستشویی و فشار آوردن می‌تونه خطر بیرون‌زدگی رکتوم رو بیشتر کنه و بهتره مدت زیادی روی توالت نمونید.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e+رکتوم (Rectum) همون راست‌روده‌ست که تو بخش انتهایی روده بزرگ که درست قبل از مقعده قرار داره؛ کارش هم اینه که مدفوع رو قبل از دفع، موقتاً نگه می‌داره.\u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | The Straits Times",
+      "date": "2026-08-08T23:22:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YBINeBakf_qaIq53-1hvLVt3sylZ44xm_V9eql0v7x-UHPMonECbnLKAzIT-aAHLAfCVPVFBBkdcDC9K7t7oY-gvCAlIUEk3KCJ2tlqLUtHNyC1joA9GNJQMV2bEeZrXYrRu8NAG7N8VLeeI2bhHSAOOO4trvDoT3IOfxwG24cNoBHF0zgOcSn2r4hSZn4kQfyrgpg7OMA3dqfgZRwotpwzBgW-alo6knSn2MTyYTGU7QrBh2fI3GMtfz16NQ4916jWrU5kSxDqlm3yQ9p335ermaUT0HUp0hPx4ImwW4NXEM7i0FdLv-8Iu2RaZ-XdVecz29XzNkVSaFfalzMtF5A.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786229881
+  "last_updated": 1786232005
 }
