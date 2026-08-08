@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5296691786985527033\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Anyone can now prompt their own text transformation style — for example, \u003cb\u003e“Gym Bro”\u003c/b\u003e — and turn any message into motivational protein poetry.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5283134250269287209\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Then share the style with friends so they can reply like gym bros too.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5190415054629002671\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA490.png\u0026#39;)\"\u003e\u003cb\u003e🤐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e All fully confidential. No AI-related privacy leaks.",
-      "date": "2026-05-19T18:02:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vx2mSCnuvNmobjgd2bHiUfGofcbTGcGuzf_UzqTNBLlwvb4QgzIzir-jai-XUNm1afCpLnSm_fO9Tq9SSBn88z9f2smsqajQTCplmdLBA8SZc8mG5Rn_g-nYPCSsz2gqckVRH57SOjahSFd5FNtFNU6ZqepJE1FuJOFVb4fOM6IEsEgvoVmnkN5pMATn5ERWEXrOKmJ1tt_7iZVH513Ke52mASdRrix5iJbZt4SEkTOH2zCMwMqDc67rZbfRtGYgAqVE7ZLraH6uYhQQbWAJcV1YIGujGEJBYzPMAChRwbG2t6uB1_nit-Z_6UaEbkjEDxOniW3AR6BYkfC2-nyI4Q",
-          "width": 1072
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5345799227572257356\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Your Telegram inbox can now run itself.\u003cbr/\u003e\u003cbr/\u003eAssign a bot to read and reply for you — with granular control over its rights and chat access. \u003ctg-emoji emoji-id=\"5226639745106330551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5341715473882955310\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://core.telegram.org/bots/features#secretary-bots\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eStart building\u003c/a\u003e!",
       "date": "2026-05-20T15:38:10Z",
       "edited": false,
@@ -229,7 +210,7 @@
       "date": "2026-07-23T15:15:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 5,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +275,19 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5449505439182007199\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The International Olympiad in \u003ca href=\"https://ioai-official.org/republic-of-kazakhstan/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAI\u003c/a\u003e finished yesterday in Astana.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5449408995691341691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The Russian team took first place in the team competition, and Artem Gorokhov from my home city won the individual event. Well done! \u003ctg-emoji emoji-id=\"5388755604976186348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5228718354658769982\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B0F09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇰🇿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e I\u0026#39;m equally happy for the host country, Kazakhstan, whose Dauzhan Beketov took the second-highest individual score.\u003ctg-emoji emoji-id=\"6066868140002772910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918F.png\u0026#39;)\"\u003e\u003cb\u003e👏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5472239203590888751\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A9.png\u0026#39;)\"\u003e\u003cb\u003e📩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eWe\u0026#39;re in touch with the \u003ca href=\"https://Cpfed.kz/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eorganizers\u003c/a\u003e to deliver the winners\u0026#39; \u003ca href=\"https://t.me/durov/537\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eprizes from Telegram\u003c/a\u003e ($106,500+) securely next week.\u003cbr/\u003e\u003cbr/\u003eCongratulations to all the winners! \u003ctg-emoji emoji-id=\"5454082031778572181\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-08T21:11:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 209000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1786222917
+  "last_updated": 1786225233
 }
