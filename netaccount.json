@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "مک\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003eآخرین نسخه TheFeed\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاین روزا داریم به جنگ نزدیک تر میشیم و خب میدونیم که جمهوری اسلامی عادت داره نتو قطع کنه و هم مردمو سپر انسانی کنه هم شروع به پروپاگاندا کنه\u003cbr/\u003e\u003cbr/\u003eبا اپ دفید میتونید در زمان قطعی نت، پستای چنلای تلگرامی رو ببینید. به صورت دیفالت چندتا چنل تلگرامی پیش فرض وجود داره توش. اگه گوگل باز باشه روی نتتون (مثل الان یا مثل یک ماه آخر قبل از وصل کردن نت)، میتونید چنلای دیگه ای رو هم به صورت دستی سرچ و اضافه کنید توی بخش میرور\u003cbr/\u003e\u003cbr/\u003eپیشنهاد میکنم داشته باشیدش اگه یه وقت نتو قطع کردن بتونید پستارو دنبال کنید\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/sartoopjj/thefeed/releases\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیتهاب پروژه\u003c/a\u003e | سازنده: Sarto",
-      "date": "2026-07-24T22:31:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت"
-    },
-    {
-      "id": 0,
       "message": "کانفیگ V2ray\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://f05645e7-b789-48b9-a98f-434fa8035d5c@31.57.46.165:2053?alpn=h2,http/1.1\u0026amp;encryption=none\u0026amp;fp=chrome\u0026amp;host=\u0026amp;path=/ws\u0026amp;security=tls\u0026amp;sni=\u0026amp;type=ws#%40NetAccount-US\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?path=/?ed=2560\u0026amp;security=tls\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;host=t1s1.rittbo.kdns.fr\u0026amp;fp=chrome\u0026amp;type=ws\u0026amp;allowInsecure=0\u0026amp;sni=t1s1.rittbo.kdns.fr#%40NetAccount-US\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?encryption=none\u0026amp;flow=xtls-rprx-vision\u0026amp;fp=chrome\u0026amp;headerType=none\u0026amp;pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ\u0026amp;security=reality\u0026amp;sni=www.icloud.com\u0026amp;type=tcp#%40NetAccount-SE\u003c/code\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ccode\u003evless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none\u0026amp;encryption=none\u0026amp;headerType=none\u0026amp;type=tcp#%40NetAccount-NL\u003c/code\u003e",
       "date": "2026-07-25T18:56:29Z",
       "edited": false,
@@ -102,7 +90,7 @@
       "date": "2026-07-27T22:49:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55200,
+      "views": 55300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +109,7 @@
       "date": "2026-07-27T22:56:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60200,
+      "views": 60300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +127,7 @@
       "date": "2026-07-28T02:09:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66900,
+      "views": 67000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +157,7 @@
       "date": "2026-08-02T06:04:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46200,
+      "views": 46300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,11 +165,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PGntMO1ZiJ7vNKba2dRZO1R7Blepq27yIaB-XIbx8InQQQgnl1LH9ahR9zBMH_o50xxhy1aBpjlxsaQ0ZgCqZDIiHtqgspPlFv_kY38RxCfZgd-5rWDczCOSyHUJG9StGzeRElGmiW8basVDYkbZPDjuQ1bN8EkRGiggxByIiLoq2k7TzfHOI0EIJCsMcKQNGUAhlWNCWcM7bXe9dHp3NNxYvUSR3imFLQTmX3GA8q-PVS3aMx7vs67mKNVJgFu98wDIqWg2zCf1dD2267Ik2mHUXgkfgSDdPAnzxy8pvc0Q2DlkFLBuyM1EuzmW0KSTLjjM5THt-cvLLwArpxdyLA.jpg"
+          "url": "https://cdn4.telesco.pe/file/pKAOnSKANQCwaM9J_FduXdLKHwRCL74yxO4BswSm8nvS7SeIEEWcze0ZV9woPEZHGqK-et1kxucABylNlqUX5vHjZwAWbODQpYmSYh2ozEBZk4W9DFRcdf-omk-Q_F6Rv5Cz-fjlIOruF4qC8yz1L2-ikrqdEnxERLTR46NdfRTywJKPeZnApCetwT8qHB3bOdYUtJdgza49Xuexm-oqPxcJHUUMDrhX62q-tKbHy3NUIi5ls4-MgvLe9qR7J5ETcDNDIueU8qCOK4I4Mj_YVRBkTCI0vzXfikqck_DPXoav4Hhpd1-0tC6FjJeN5d4EDDe4gNbb05FSgrsNhjDAHw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/q40upsQF8RB340FQXn0_8dDzS5qYGHFJtPxIGvu-LYzlQn4TmWmzTkT4YL1zIEyXv8TuYuGpFMpQ56qK8sECfhpVl36elwWKWN7tPFMmVP5JAVMjTG1jGqY7ww35Vzeu74n1cz19NXhuzxdi5vFP0jvSAKbdoFMhisSQbB_DP6Zg9qd78hZv0FdmRyVl7rAIgli7L40tjd_bObcXm-hlbkaeb5VdcSotaFgQk1p4UHQm9EwtJWq-Hn2SqNhRXkaGb6do65fz6NB_X0uh1lXN83idLKg6K3OVxubWmxB4cE1svUAFq-rMY5FjN82ZwQOMYeWVJXBk7p8C_WAsrdJThw.jpg"
+          "url": "https://cdn4.telesco.pe/file/DX4Avq0ieh8YlVn0Hr1TXiM5ZvQYF6MHPDHmxJ5WbNh3ONdClqo3fZNnDBLQZKfFdui8_o4wBHG1e7XuMeghnKuy_8pcol3tpwpYpiG3y8zLQIuVx0cGA37bQoou9_j4nKe3JmMk9RhaZp_PUt5EFRhjGyXzdxvdZjSZvvz8O1kVL-rbFaLJ83PIbFTTvbQlS-ktlH_nplq0qiuNEojSAX_LI5CeN_4fnDXhhCRCmrALSYOWj8P_FGQIDSayQFU3DVe_jM143_XaZoT26mrlDUSMphGfYKpjWle1aBwuygNSvA0KogY1Bf2pm5pKdfLEdM8HSiicX2QzRLD_KkyE4w.jpg"
         }
       ]
     },
@@ -191,7 +179,7 @@
       "date": "2026-08-02T06:08:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45100,
+      "views": 45200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +191,7 @@
       "date": "2026-08-03T03:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
+      "views": 41300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +203,7 @@
       "date": "2026-08-04T22:13:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35900,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +221,7 @@
       "date": "2026-08-05T12:15:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31300,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -251,7 +239,7 @@
       "date": "2026-08-06T17:10:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +251,7 @@
       "date": "2026-08-08T09:31:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,12 +263,24 @@
       "date": "2026-08-08T10:23:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 17200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "7 ماه از دی ماه خونین گذشت\u003cbr/\u003eنام و یاد شما جاویدنامان میهن تا ابد در قلب ما زنده اس\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48D.png\u0026#39;)\"\u003e\u003cb\u003e🤍\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-10T04:09:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 481,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1786328836
+  "last_updated": 1786335220
 }
