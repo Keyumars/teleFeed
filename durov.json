@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5345799227572257356\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Your Telegram inbox can now run itself.\u003cbr/\u003e\u003cbr/\u003eAssign a bot to read and reply for you — with granular control over its rights and chat access. \u003ctg-emoji emoji-id=\"5226639745106330551\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5341715473882955310\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29A99.png\u0026#39;)\"\u003e\u003cb\u003e⚙️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://core.telegram.org/bots/features#secretary-bots\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eStart building\u003c/a\u003e!",
-      "date": "2026-05-20T15:38:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HtQsYDIEhZn9UnvBlY7HGQeXxFUFf74jr5aWRG0db_PkEq5uNogU8qaEZ0OVmJSMU-Xw6YztwTwGJlS5Ep1hm8L2qLkknaWhqwadNCkJDGSB5OlnvGwLsmBw2zWusoSuEV7Lv0lJHLeL22NmKDrqtlAtVAf8CZnY3atwiCRiLBYF40MY2TCMh_9jORYsOUcsxFv_2AoNoCXS2m2OkJVNsUK7qEhFZWhfa5pi5j2Jwi8HMO1itgYgpd6wmWAgRHpwbIMmNVaf2oiDRTBdmyWECW1w9dneQSlQRWs8g7Ttoy6kx0iOZcOn5BhaCZU1meiHFvs4XiUmZ8W92YJG7QYGuA",
-          "width": 1616
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5359441070201513074\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e WhatsApp encryption is a giant fraud.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The state of Texas \u003ca href=\"https://www.reuters.com/legal/government/texas-sues-meta-whatsapp-over-encryption-privacy-claims-2026-05-21/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ejust sued\u003c/a\u003e WhatsApp for lying to users about privacy — because WhatsApp employees have access to “virtually all” private messages.\u003cbr/\u003e\u003cbr/\u003eNow we know what WhatsApp’s founder meant when he said he “sold his users’ privacy.”\u003cbr/\u003e\u003cbr/\u003eStay safe — stay Telegram! \u003ctg-emoji emoji-id=\"5830262682338465584\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-05-23T13:26:07Z",
       "edited": false,
@@ -287,7 +268,25 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5449829434334912605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87BF.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The 2026 International Olympiad in Informatics starts today in Tashkent.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5316979941181496594\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The \u003cb\u003eIOI\u003c/b\u003e is the ultimate coding competition for high-school students. Years ago, many members of the Telegram team won medals there. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5388584514953949249\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA49D.png\u0026#39;)\"\u003e\u003cb\u003e🤝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e To support the best young programmers in the world, Telegram will award the \u003cb\u003e235\u003c/b\u003e winners exclusive digital collectibles — \u003cb\u003eAlgorithm Cups \u003c/b\u003e— worth at least \u003cb\u003e$117,000\u003c/b\u003e in total.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F958C.png\u0026#39;)\"\u003e\u003cb\u003e🕌\u003c/b\u003e\u003c/i\u003e It’s fitting that IOI is hosted in Uzbekistan — the homeland of Al-Khwarizmi, the father of algebra whose name became the word “algorithm.\u0026#34;\u003cbr/\u003e\u003cbr/\u003eLet the best algorithm win! \u003ctg-emoji emoji-id=\"5388755604976186348\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92AA.png\u0026#39;)\"\u003e\u003cb\u003e💪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-10T09:29:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 326000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lrbdcaHhnMOTIyCezjTSwWiH6Tq6p1Cpr6wczz0HS030uuj5_B5bYqBTuWZmOjscfH48JbvAJS_4j0Owk9Jf7DqnFK7ppLHwvhTAVkevKtS49Nm7kUZHWclvnVnjnHMklINJaFr2gV5c5IMQESsnj8-3NKSQGUjvfg4H62EHHvRLA2_KP0Ro_dOEHmRNlgbbmTwfRSFiqLPC-srf12YS8W-1coIgUU_J5SY66l-mPDcmYwFIBTHkTjeqGxhyuiWf3ZFT2JXO3B8ENhS3yRShKx-84mEU-y6J9Zpl_LJwa8vJ0dxmPMw7Z28i4Q0JsxfO4DjvF_z7AxgmeiIZ2sUG3Q.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786352449
+  "last_updated": 1786357538
 }
