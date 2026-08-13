@@ -8,35 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دلیل اینهمه ری‌اکشن خنده رو نمیفهمم واقعا خوب خوند",
-      "date": "2026-08-12T23:07:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
-      "message": "‌\u003cbr/\u003eآرش جان ویدیو‌ها رو باصدا ببین لطفاً",
-      "date": "2026-08-12T23:08:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
       "message": "واقعا خیلی قشنگ خوند از چیش اشکال میگیرید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-12T23:10:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139000,
+      "views": 143000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-08-12T23:18:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 146000,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-08-12T23:20:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +48,7 @@
       "date": "2026-08-12T23:26:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150000,
+      "views": 156000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +74,7 @@
       "date": "2026-08-12T23:29:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +86,7 @@
       "date": "2026-08-12T23:51:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
+      "views": 154000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +108,7 @@
       "date": "2026-08-12T23:57:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +120,7 @@
       "date": "2026-08-13T01:21:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 152000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +138,7 @@
       "date": "2026-08-13T01:21:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 158000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +157,7 @@
       "date": "2026-08-13T05:39:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 142000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +176,7 @@
       "date": "2026-08-13T06:51:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 138000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +194,7 @@
       "date": "2026-08-13T10:30:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69200,
+      "views": 95800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +212,7 @@
       "date": "2026-08-13T10:53:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 80100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +230,7 @@
       "date": "2026-08-13T11:07:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 70000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +241,44 @@
           "url": "https://cdn4.telesco.pe/file/UvI3a6LGZP_PVdutNyzQw-VgV3WFCWS1KfFIWkVLDqO6XZV1obcMHkWALV-R6wRXS1MZOCASezP7VmqgNeAEbjfTn05MMyG2krt0QKvneMeWlouU60pYvrBRk9iYjC_r6MAnEvUs0-Usl3eWyoUa9RMsnqyf0bJRo8z1K1xicWp0w2HlE5hj5sly5AFXo0mjyQtB-rQeiqgtIpwCn__P8hIHUkDOm1fTsyvXmvSbJ5gYdNE1hmv7607_tYMbksU1kusKN44z0PH-1uUzmjCOnazJIIznm62DUtJBlubdrd-ndSljFXA4L6ha7wDsmixOADM-7BFlaw5I4rRaNjW9Hw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cblockquote\u003e\u003cb\u003eSportnavad\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e | اسپورت نود\u003c/b\u003e\u003ctg-emoji emoji-id=\"5393194986252542669\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E95.png\u0026#39;)\"\u003e\u003cb\u003e➕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5260547274957672345\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB2.png\u0026#39;)\"\u003e\u003cb\u003e🎲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهیجان واقعی همراه با کازینو\u003c/b\u003e \u003ca href=\"https://sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاسپورت نود\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431449001532594346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکازینو آنلاین \u003cb\u003eاسپورت‌نود\u003c/b\u003e، هیجان واقعی با بردهای بزرگ همراه با انواع \u003cb\u003eبازی‌های کازینویی،\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5467583879948803288\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAE.png\u0026#39;)\"\u003e\u003cb\u003e🎮\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e انفجار،\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5469654973308476699\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e رولت، بلک‌جک،\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5926815668866388236\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F838F.png\u0026#39;)\"\u003e\u003cb\u003e🃏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اسلات و بازی‌های زنده\u003c/b\u003e همراه با پشتیبانی ۲۴ ساعته همین حالا شانس خودت رو امتحان کن!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5199749070830197566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e   بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5372981976804366741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5350291836378307462\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
+      "date": "2026-08-13T11:40:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 38700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/anzIkOzpvhs817OAG73uJze7rzzuN6-H_CJmr7G-Db2UlKU8xaeXavHuOLQw1NAnWF1yzKCZ-2iY-loUg59TpsyFH44m5PZ8ZQSu31gdp8G151NDh9gKC2YUlM9pUkeFYKfD4fPNsrpZAVhF7kJeP6rhmnyNIqjyIVK2Y_2nseIZj0aaeANi94RMuSe60dVROw6w7LrE1pXgGPYnIEdt2J3xbijWEnnah5Xiq9Q6-ON5lGCuBL9f-kraBUePUPWlAz-gibGkpPCK2vFmUBhAUUZ6ypn7ggX5u6yj5p-mQgZfdEIXfOBSDIJIxJIWUjvmhqR_ArLKOKA92yT2y8AlAg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاگه بابت سینگلیت شاکی هستی؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eاین ویدئو رو تا آخر ببین و بعدش خدات رو شکر کن...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-13T11:40:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 39700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lLGPlbM9SrnqIqtpvGWorF-VYSUBC0K-8JkIfya379ye3aRlyPZZNzBs8lZrJTjYmX8r8YZUlMvsrJaeHDyI7UxkxXoLUr9emYZlDClqfEtIb7zYqdvaYvQE4lipM6SSRSxtl_unoujhiMKNttPYXAg_x2i2RGHlDp2mkKlbpn-1WuaWZ5BCCU7AyqIylGiHcRWyF5OqPqKbN9EAA53jflGqDyec-xZkZORskMe2iBRjRpwqaz8al_2JzVTplHQBQ7ZM2TH6VZGpCBdpL-RZcMCRjYhtxiKAIu5sGH0JYOh4CnxNSZ0qQhub8GQUYhhVo-qsMQJc_-jb70pVqqsHdA",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1786620061
+  "last_updated": 1786622940
 }
