@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "ما این موضوع رو به تماشاگرها می‌سپاریم تا درباره‌ش بحث کنن و خودشون به نتیجه برسن.",
-      "date": "2026-08-14T09:22:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hCH4tUipeXXXkuumS0XhrQKwYZ0-ObC0ZIUe7xwA8TZmpKOgIr7Rlb_uXmRwP4S9uKXCquNFKZTcQQt7X9gccK1qA8CBjPldmLAXw5iWmyq9Z1xZHt2VNKHCeIeZg2OnyGOAC1gUOfKjkbmcy0g7pkScDwu6D7BvpBcEYnIMFlUCs7EyWcZbdxVhYFGeXR2VtZzLvGsh-Y3X45Y6VW_8TJfnl1lBbzx9kUHF4luGoApnss3H1ozFhkCk-Pw2_71n3xPsPCQJ98ebxE6HrzKZv9VNz_U9A_AcmWmqGQqghohjce-R_AuLA5HXIu2wAIfe23-p0CwnPReiDwA5L0q1UQ",
-          "width": 850
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "Live stream scheduled for \u003ctime datetime=\"2026-08-14T16:30:03+00:00\" class=\"datetime\"\u003eAug 14 at 16:30\u003c/time\u003e",
       "date": "2026-08-14T13:00:20Z",
       "edited": false,
@@ -43,7 +24,7 @@
       "date": "2026-08-14T14:29:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2690,
+      "views": 2810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +43,7 @@
       "date": "2026-08-14T15:07:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2430,
+      "views": 2520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +55,7 @@
       "date": "2026-08-14T15:19:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2490,
+      "views": 2590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +85,7 @@
       "date": "2026-08-14T15:32:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2360,
+      "views": 2510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +115,7 @@
       "date": "2026-08-14T15:57:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 2360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +127,7 @@
       "date": "2026-08-14T16:01:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
+      "views": 2420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +145,7 @@
       "date": "2026-08-14T16:39:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 2050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +163,7 @@
       "date": "2026-08-14T17:24:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1730,
+      "views": 1930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +182,7 @@
       "date": "2026-08-14T17:27:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1730,
+      "views": 1930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +200,7 @@
       "date": "2026-08-14T17:30:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1690,
+      "views": 1910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +218,7 @@
       "date": "2026-08-14T17:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1850,
+      "views": 2090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +236,7 @@
       "date": "2026-08-14T17:32:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1820,
+      "views": 2100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,7 +254,7 @@
       "date": "2026-08-14T17:35:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1910,
+      "views": 2200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,11 +269,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بنا به گزارش نشریه \u003cb\u003eCollider\u003c/b\u003e، در حال حاضر پس از سریال \u003cb\u003eVisionQuest\u003c/b\u003e هیچ سریال جدید دیگری در دست ساخت نیست و به نظر میرسد تمرکز \u003cb\u003eMCU\u003c/b\u003e به سمت جهانی رفته که تقریبا تماما متشکل از فیلم‌ها خواهد بود\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اما تنها استثناها، فصل‌های جدید سریال‌های فعلی هستند؛ مثل فصل سوم \u003cb\u003eDaredevil: Born Again\u003c/b\u003e که قرار است در مارس 2027 منتشر شود. همچنین سریال‌های انیمیشنی غیرکنون مثل \u003cb\u003eX-Men \u0026#39;97\u003c/b\u003e و ویژه برنامه ها یا سریال‌های محدود و غیرقابل‌تمدید تحت عنوان \u003cb\u003eMarvel Spotlight\u003c/b\u003e، همچنان میتوانند ساخته شوند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23MCU\"\u003e#MCU\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بنا به گزارش نشریه \u003cb\u003eCollider\u003c/b\u003e، در حال حاضر پس از سریال \u003cb\u003eVisionQuest\u003c/b\u003e هیچ سریال لایو اکشن جدید دیگری در دست ساخت نیست و به نظر میرسد تمرکز \u003cb\u003eMCU\u003c/b\u003e به سمت جهانی رفته که تقریبا تماما متشکل از فیلم‌ها خواهد بود\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتنها استثنا، فصل‌های جدید سریال \u003cb\u003eDaredevil: Born Again\u003c/b\u003e که قرار است فصل سوم آن در مارس 2027 منتشر شود. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e همچنین سریال‌های انیمیشنی مثل \u003cb\u003eX-Men \u0026#39;97\u003c/b\u003e و ویژه برنامه ها یا سریال‌های محدود و غیرقابل‌تمدید تحت عنوان \u003cb\u003eMarvel Spotlight\u003c/b\u003e، همچنان میتوانند ساخته شوند.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23MCU\"\u003e#MCU\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
       "date": "2026-08-14T18:02:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1630,
+      "views": 2020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -322,7 +303,7 @@
       "date": "2026-08-14T19:20:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 760,
+      "views": 1420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +314,25 @@
           "url": "https://cdn4.telesco.pe/file/t7Ar2E1J3BSsGlbHF1tcu8mOKXNFHF8J61Ojlk1RusIdtFnhNy0oR5WHNJyiftXikuX2BlWZ8oZfk0wgoB0imqh7L5Xl5TAcVdXvvNMPZA5nvlONVsOiNOliDgnqc1nUStoZ8d2-Fg8Y8ZXq5RgXu-ewqeEdzkJZTmNYfJl0sWNzvN9aLs2P5z3_VZjqXX-6ICqiv_O8UjW5bWZVXrO-oV1OiWSMVVGXwLgWAeRzcozF1yOuwJV_DjT7mZomFQoQDTEoS3nd5mXnpHczzKpybKC1q8QkD0J4BgVFk9ngZYcSkAuG5ayo5VpFmk1nuKKfhqZljAvrWXMSEJ32Xd2QdQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5370745797786738962\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AF.png\u0026#39;)\"\u003e\u003cb\u003e🤯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eتونی استارک همیشه دکتر دووم بود؟!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eفکر می‌کنی راز بازگشت رابرت داونی جونیور رو فهمیدی؟ \u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5375464961822695044\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370724846936267183\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA494.png\u0026#39;)\"\u003e\u003cb\u003e🤔\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدیو سراغ \u003cb\u003eتئوری هویت دکتر دووم\u003c/b\u003e و ارتباطش با تونی استارک رفتیم؛ شاید همه‌چیز پیچیده‌تر از چیزی باشه که فکر می‌کنیم!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبررسی نکات و تئوری‌های \u003cb\u003eAvengers: Doomsday\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6019089631016915133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لینک ویدیو: \u003ca href=\"http://youtube.com/watch?v=NZcpHriNszI\" target=\"_blank\" rel=\"noopener\"\u003eyoutube.com/watch?v=NZcpHriNszI\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5109651063665853610\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107378635124245748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107181663629083853\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107339271748977730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | \u003ca href=\"?q=%23%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C\"\u003e#ویدیو_اختصاصی\u003c/a\u003e",
+      "date": "2026-08-14T20:09:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 728,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/gMLocRijUW381kR86BhDJovmrTm0nTfCvJH1_rXOhzL-OzQ9oaL3vZkmFtf_pe-gLEl2ksp-Pg8kAFO4pJEl6nraDUwdmofje-wLXEsohMIyWVce4HlZ7atTkk31UyO42rzZqeQvQJe5VEFQY-qZfXlLgixcYBwvyuJb-Qo0xySRFAd6DY5DJAkJTrHIVNYsjqSUbiDdP7c6dtV37rIGuRTjvp8Mb_dZG9JU3yJ3_vFmTnwl5F3mgPqY3uvie7qa9Mba4Z9iGXiFy1JnGjYnPPLNMYlyIenxHqG7d1N4lgOxT6xO5gqF-T9OvFORznKJpwAS-Axt2LqZXoBvw2rGOg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786736893
+  "last_updated": 1786739429
 }
