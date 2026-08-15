@@ -8,60 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "دهنتو گاییدم چطوری اینا به ذهنت میرسه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-15T10:44:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "خطر حمله قلبی واسه بارساییا\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-15T10:51:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/d6MbfsjW14ybOFhJHBYGRLD6k_eWD4sdcs8HYMAAMgVP_fJH9EQd7M5DyktUFvPtyDUmLSsEyoz5_eafZvQpCl9bnZ59Vuy2zg4wmmys-J4fPfsd8iNpP4k6sMqg0nDi25d0tUc4XcmngYpP2qud-42mlECgkSYtxDkAkqLPpkLF6GGm7j3VhJtBGHQtUpDdFmWpeD7d5Edhqqz8CiuF-nPqgXfVcHxiNyx2xV4nH47PkAIMbMZWfgy1OteMHUEVdeuYcxnMfzGpRrMwFXLwufcWiTsqWEUy1UizanJMGIBXDokt6MiAAjXSr_ZE1Pi6eX6vRG10-pOzpgv_AGsLwQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رفیقی دارید که همچین پاس گلی بهتون بده؟\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-15T11:04:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RXaNf-0UQ-ns038gp_YJHphc9rOMAfBhvrNVL0gLg6qrT7auAhlch_jLmu66PtH-qKGQgHFh8sLhCDjC3xCZMMUT3DuiUmqJn-37k2IaQVZZMPjyViaIFtN74pgUWhrztMSBwCh4_Api2P6zzTz9L3qlDHQHUcdinVrKxNqCYs_0XzVCdAu1QZ1TBQ0PjgzKY_ffUT3cQ3j95k5tFgxmq4g4VxIg-_tt8YnNSB9qZbheaYiAtkbzieBJoWUjlR7noiE20MUGQrx9vgNkNKQfbq1UpUmRVxm0iUAuwdGQDeRyOncZjt_EavrUr5djxuY67lYmt4DIjbsffdT7ccS2Lw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "جالبه بدونید رونالدو هنوز عکسای اکسشو از اینستاش پاک نکرده\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-15T11:23:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
+      "views": 55200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +34,7 @@
       "date": "2026-08-15T11:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49100,
+      "views": 56200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +53,7 @@
       "date": "2026-08-15T11:45:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48100,
+      "views": 55200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +71,7 @@
       "date": "2026-08-15T12:14:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44000,
+      "views": 52200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +93,7 @@
       "date": "2026-08-15T12:36:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 48100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +111,7 @@
       "date": "2026-08-15T12:39:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
+      "views": 46000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +133,7 @@
       "date": "2026-08-15T12:51:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30700,
+      "views": 43000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +152,7 @@
       "date": "2026-08-15T13:07:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +182,7 @@
       "date": "2026-08-15T13:25:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +201,7 @@
       "date": "2026-08-15T13:52:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15,
+      "views": 8150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,7 +220,7 @@
       "date": "2026-08-15T13:53:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +231,41 @@
           "url": "https://cdn4.telesco.pe/file/cQzcxnGzjWwGsnyXIOe0zvxfAIikIBjRNMNiXEq39td5caNDG-GkJRl9w8Hdal9K2IySfg1z_ZcDTuhpB3_L97TZ83wqpMtQdgLU6VCbI0aU5fNjENan3Yx-rrzw6w-Exy5JWY0zOEAEHfLYTgO06GyQcUIwrJiMJKbBHLDyWVs1ZbM4XGuqM9DQMUx6XFHAf67pbrQvN1GcdNejLbKCROrDgcv0XksF7NMeF4SM9lK7RqXx-duxYz76Nmjk7t-HAXdmTiQm-6OuO3rNrm6huFt8NRgFiHYCRDvJOIFhPEl3ZWP2zQB_Nxu7fq7VxPMBDXu1vAowPdZPGuk4eFW1Kg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "جول فرشاد: \u003cb\u003eبعد بازی که رامین مظلوم نمایی و گریه میکرد، میگفت مردم ایران ناراحتند ولی همزمان ازم درخواست نود می‌کرد!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-15T14:02:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/AZhuALpwOHn59RSwojdh3yYaI31-8NB9WXqqFbN5vsozd1pSRMeK69t0f1Of0QHw-4zAqz9e8RN4i7ZzW47hdhUjosqMdiw3v_Hqy_vW9rP4s33tB8jqun1iuNNypXEVtX7oc0G9SgYbDNeRkNgczyy5nyyIP7oqqFPnik_T0FxFohBh6E0UupWWBmiDt1tTXHSGftTFD2uSVCT1GjfLjBgvIeHZ_Qsdu2K8kELUo33X1deTZV_kbrMS8X7A_nooVG56g0S4CmTaoxyO_VwL8_oz4VoTzwNvw72DqebgGFZFbjPUwOY6O0lXz_QGVETE2NTSLclnKc4ggE4RoWfXlA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Oov1uXEz525IaF1WNeLeAGhwfl1ZnZgkO2e4NqdKnUVcj-8Eyeo_rxfkEquOcl6wiBGhxsLmJvvlpa_q0CMh1SSSe9yxGKaEOs6ENvGnhCbfqUn-iLQ-GNkngKIwFlooHjOX8SrFMl_Hc7CJg3EzhYogLFNndQOuQF0RiSoh_9QCPEgd0NqQJBfrhLRfvztJnZTY6Qv1kwfRXjUnA1-OkXs769HMBUJtXwqmTek4x1W8z7uahi0FjQC7SsdFAn8s73ajw7zGwKpjbWi4MACvs1bVgf0bSzverIFohpAh_OnHCouEIL5be61nJWZ_g04oasxqO2hmCKbERuXm3hf1lA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گلای بازیای دوستانه امروز : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
+      "date": "2026-08-15T14:16:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
     }
   ],
-  "last_updated": 1786802085
+  "last_updated": 1786803654
 }
