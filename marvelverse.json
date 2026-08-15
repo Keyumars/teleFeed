@@ -8,48 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4974332750296253668\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ویدئویی از لحظه معرفی بازیگران فیلم ریبوت \u003cb\u003eX-Men\u003c/b\u003e در مراسم \u003cb\u003eD23\u003c/b\u003e منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23XMen\"\u003e#XMen\u003c/a\u003e \u003ca href=\"?q=%23D23\"\u003e#D23\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
-      "date": "2026-08-15T04:52:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/PidBbtoio4LOdp171ja5w6UVDayz-f6XesKxvVXF49gq55tuZXnR8iv29CMzpmv5qfnUbNM2IizE0YgZURyS2icIKiZJ_95fH8h9-o1bRb_w9u5GvwTTBEpbStNCk99cyTArjxACFLbopKZpo41VsyfJ38oyOwSq1GTmJQW35FMr4pRPOOXrrFCqbrf-M_AG93yr93Cnd8riv4Fn6waJgCB673_JfFwm8osQv072oOaVR1o7L-har54iDc8NXft7P8qI0QgVVdtmB9pxTtmELm-AIAu7SHVlUIcKTaLWUJlTaZ0HeVTXOqIQ9wLhvxhBkk7KXmWEQeMPAisBA2RAjw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cblockquote\u003e\u003ca href=\"?q=%23XMen\"\u003e#XMen\u003c/a\u003e \u003ca href=\"?q=%23D23\"\u003e#D23\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
-      "date": "2026-08-15T05:02:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TlikhTki_au8BoSnP3rH4dGgFyWy2i4eV2hmeR4XKqj42RRQfp7WDTQ0IQ1Q-4WkTPcxqZVllvHVQADOV-WiSXTPrx0qXNlbEVaGvkhT3RSsc5ibbn5RkpavmUcw53wqMqLBkbEyDrGwEH1sk6zTIzTKuSGhw5FadkeIJkVdUlYq4Ym2IGu_xiLv32l1cjwx276nPbIsmQ2J93-SaH6X8FQzm5Yp2OkXkILzzSpNBTkwwOxRbIsPgCIiSDWyzi9aPgb6RyjOe-MD7Rgp40I8vZ5yqw3sqPwvGQnExDWX9Uhjip5FTxjVN4tQViSlkC9TzmpIjmhM3M44uhbYVCq7_w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5136777767869744480\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکوین فایگی\u003c/b\u003e، اعلام کرد که در آینده بازیگران بیشتری از فیلم ریبوت \u003cb\u003eX-Men\u003c/b\u003e معرفی خواهند شد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23XMen\"\u003e#XMen\u003c/a\u003e \u003ca href=\"?q=%23D23\"\u003e#D23\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
       "date": "2026-08-15T05:46:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4070,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +30,7 @@
       "date": "2026-08-15T06:18:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4120,
+      "views": 4170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +48,7 @@
       "date": "2026-08-15T06:30:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4100,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +60,7 @@
       "date": "2026-08-15T07:15:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4080,
+      "views": 4090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +78,7 @@
       "date": "2026-08-15T08:03:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4000,
+      "views": 4019,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +96,7 @@
       "date": "2026-08-15T08:43:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
+      "views": 3970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +114,7 @@
       "date": "2026-08-15T09:03:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3850,
+      "views": 3900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +132,7 @@
       "date": "2026-08-15T09:27:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3810,
+      "views": 3860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +150,7 @@
       "date": "2026-08-15T11:14:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3530,
+      "views": 3590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +169,7 @@
       "date": "2026-08-15T11:36:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3370,
+      "views": 3460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +181,7 @@
       "date": "2026-08-15T13:47:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2780,
+      "views": 2890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +199,7 @@
       "date": "2026-08-15T13:51:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2730,
+      "views": 2840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -254,7 +217,7 @@
       "date": "2026-08-15T13:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2570,
+      "views": 2670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +235,7 @@
       "date": "2026-08-15T14:09:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2780,
+      "views": 2880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +253,7 @@
       "date": "2026-08-15T14:51:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2250,
+      "views": 2400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +272,7 @@
       "date": "2026-08-15T15:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 2390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -327,7 +290,7 @@
       "date": "2026-08-15T15:32:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2140,
+      "views": 2360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -345,7 +308,7 @@
       "date": "2026-08-15T18:22:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1050,
+      "views": 1410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -357,7 +320,43 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5096297881493570565\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F95B7.png\u0026#39;)\"\u003e\u003cb\u003e🕷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تم تلگرام از \u003cb\u003eSpider-Man\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5271604874419647061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/addtheme/SLMoGDA0KhkimjuT\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e𝐀𝐏𝐏𝐋𝐘 𝐓𝐇𝐄𝐌𝐄\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23Theme\"\u003e#Theme\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
+      "date": "2026-08-15T19:34:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 456,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/P13Ydsmj2m2M_1Q1M08rXR6XbAhDw6PkEYaQilqM7nTKAHny8vBPEHtmaGRHJOSPskyzUn3YlhFWhJOB7plApp98Q0169_9t0WkrySV1aWkSvK7XnK6osCuO4uVWjeRYauftSfCzo-g2C1P-ZAIR--4oPhXROY1vYjzu3zGGQWMowosgCizeRZfupzltj39kttBJgGLadJqyIHbGb_b_3XA33ELCe8CiCzRhMFLQ41wr_1W780JtymEjCMeLDv_DNySPwmFPJ62_68qmk-VwaY0HEgKLGa3bAkdAL14_mAXp_Duh3a0x0pmKSQZXGhZNQ72Bj8cWjTFviSl_WlmscQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5359441070201513074\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAD.png\u0026#39;)\"\u003e\u003cb\u003e🎭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاتحاد مرگبار دکتر استرنج و دکتر دووم!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5424972470023104089\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eدو تا از قدرتمندترین جادوگران مارول، در یکی از عجیب‌ترین داستان‌های کمیک! \u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370745797786738962\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4AF.png\u0026#39;)\"\u003e\u003cb\u003e🤯\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توی این ویدیو سراغ \u003cb\u003eTriumph and Torment\u003c/b\u003e رفتیم؛ داستانی از اتحاد استرنج و دووم که شاید کلید فهم رابطه این دو در MCU باشه!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6019089631016915133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لینک ویدیو: \u003ca href=\"http://youtube.com/watch?v=vE68wLKpFd8\" target=\"_blank\" rel=\"noopener\"\u003eyoutube.com/watch?v=vE68wLKpFd8\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5109651063665853610\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107378635124245748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107181663629083853\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5107339271748977730\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | \u003ca href=\"?q=%23%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C\"\u003e#ویدیو_اختصاصی\u003c/a\u003e",
+      "date": "2026-08-15T19:45:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Mhj6uGvJFpFuIi4jsCTfu6gzfo42Oq9uASGKaXkhQ19JL_iaE_G8jvL904WnXDWau4pqErinDxyX7yRgWdSLibifBFDZxV29R6PJee3-XUq0D-GT_Q7FSPxayZlSHh12yEOF-LzULjbK_mrlQ3jE9hzMK9diRDSXlANIioo9c4xHrN0BY817mZr8hZwciASpGkFOKksZA-lTTmnhwmhZFjvCYMlfV8rFHpj0b_cAbjZ6h5O9_mflvFPrKnPauYkzIXh_kvlK9scJnxYDX7Fw3uiM4OTlXNaJwFrZ2ME4DlVXSnOTZQGCPvN8KwKIjwg5UuTQ3cdUVk8FydIootWQXA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786821777
+  "last_updated": 1786823200
 }
