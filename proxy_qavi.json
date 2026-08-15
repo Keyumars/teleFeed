@@ -73,7 +73,7 @@
       "date": "2026-08-13T09:45:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
+      "views": 139000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +183,7 @@
       "date": "2026-08-14T09:50:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +195,7 @@
       "date": "2026-08-14T11:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 119000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +203,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/V8YZCj1RrcgHsr7ZLJeN--GgjQlSis-F_5G9S43vOBxBFBtPHjg0wVBoZ7BYpfY9kppFNol6Upe1gGzr-yCSrJ3hkd7m8WKUTQkhm--XVggolh-g7LWFalfv0ZplxWA4bKCY02AxxYEnUTy9IdFktVgepx7oi8FhsPzmH1WUoH0j24lkUP0yORIlxvyDIjGB8dopEuoqnE3GnCMpmUkkzOvDkEwHIFrgDMuk8JhOP-wUZLq0N0HPYZwxbz8yuVtgnssstyvmQU1TnSEO9V6mvkWbYofXx7PPpwGRNweDMLLREV2dU1UmTVXW-znXtAAeRYCzAXQ2Quq1cS7lmS7sKA.jpg"
+          "url": "https://cdn4.telesco.pe/file/cGBUG_7QhBfGNAIZgJXiR9AysvSxP4XiqwPK34AMJpwTd6dAmJrqqEYrFMg7H_Bggb6hQPW6AOWRFOCPhNmtq500XDPZhJK7gRNZDOXLEaLJJX8DkrmdMdg3UOkLwL-olWoLZG9__HM-g0AdyUS-jCtAqWAjAivD8pSrbx83r7nagTtWqKEyzfuXowUuCQdJs5KgIVOMIYvAF3qDHYo4UNkux5x4pdeJWlQU_nwA-wWL94DR93e9HBSqL6Erw_VdFDbjkXoh6aRzf8dbs9uqjjFjMUsa-BxOq5PIkgCGqN-jONtnyOQJ5NHPQqBJrq7CxiLgfQeWhkKY7bWMzMtn1Q.jpg"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "date": "2026-08-14T14:25:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -231,7 +231,7 @@
       "date": "2026-08-14T16:30:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,12 +250,12 @@
       "date": "2026-08-14T19:34:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 83500,
+      "views": 85700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "پروکسی Proxy"
     }
   ],
-  "last_updated": 1786790907
+  "last_updated": 1786792742
 }
