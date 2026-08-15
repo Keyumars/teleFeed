@@ -8,45 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاین داداشمون یه ویدیو از خودش درحال انجام حرکت \u0026#34;جلو بازو دمبل\u0026#34; منتشر کرده و بالاش نوشته \u0026#34;هر کدوم از پسرها اسم این حرکت رو درست گفت، میذارم دوست‌دخترم رفیقِ معمولیِ پسر داشته باشه؛\u003cbr/\u003e\u003cbr/\u003eهمکاریِ پسرا تو کامنتا بینظیره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-14T16:14:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 179000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hY7mBej2Nrd2RlN9qN6T22lmRRa9UPnjuizhBScg8u3xDA7jfQtSfbTOisjJ3QRMmyK5PpXopEbn5mJOMPXgVQE5vW7Z84MI-DepCextztayjvDImOd9L8wtPUOCN-33bGcPZ6C98fPr1SQ-fzQSoYDfJfX1rkoYTIRipFI2uGrCpON3RjHRTlK64mm32HH6amdsO98WTvyty46hWtlqgaGnVgzF1Emn8Kz5UnwHnlEQPrTnlbRpfSDSP3vbxH4ekAbiGIn59o9uPD_j9JzPaLHbz2nwfII9BaEoM7WVUaPiWHpw1yE3nSOCDv-QAAlqxw1ePOMhbsV0k96GRcA9ew.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Xgd8Nyd67RzGOEP_9xeiQhdrh7z1k5BSVle6y0e1e-7kxq4vEv4w9T6Z5onQszpbAmPVNS9oA6vW_aIpz4XVVQZxmIetSGL77p5v8GKxCsfQuWjcGjTunp8adOopUY3s4AxIj33_h3xnZzHUHuK5tMJBFdhT6Ir2NVtU3SU3T9Q7zI64MfuXrfjuDg30b_0uCKDl6HxMo-LR8Zz_-OhkCILM5NaoFEkHoRdubAtCd4uotImJMPN5bhAoQZxOzMUpZ_zf4_N0Ofxzfr6waqh9wQuszYEKg9fc-i1OUa3zXbEUCCgboULclsLpDzbrtkIgb8Nla9yQ9E7kNbEwdFuNEQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Hu3Qezqv_iGeYrxSFOtVFs_Ad3bEqYki1OA9J-zsMVwK-n0l7ZiWYomnQp5C2-oWy8zRc-OCH5QbrMrWTcUKNKTUN6k5jLC1wBUBewkgrD1CHAH6zCkKTLVSuwpHUtSNMjl9Ac2qbNf-G2pQGfwX8sZJNuQ3xnz9YIiaJgbh7dSCNvdB-N1orUC-PMLgxVyYAnqYNJrycfAzQJNNGYlngBubo1A5vU47SmtPKUkISlku6ah9HjGdQIpqIsEuV3-X6GYvdG_7xunJAatk08NTA484k4ivrwOyxnI00RTodOAhJQeX8AvCRlGbrSEG9-l7rNkYjx3r-CsLMT0y4QQ_cw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dGplVa1VElcBGAZo9MLsI3rLwvjWFn-2dV8HhRHT7jfk0jIeQs9fKeWVGEpPTD0N49xEPXtJILkbAtMFZrw7g6sRciM9l9Jq3mcrYGAUu2ZLff78_plRvqD72rqg2v7VK9ZbLcxhOV3pkzAy_fFzTo1B1AFsq4SqBGvgEXQZRnGUUKgw096DzV6UQxDrmu-CGH8SNBdmKaMteps3B1n18-xhmJb-bVn_r5ATYHohbQwZEZS31sTnpO-u54I7XNSe7qPbqcxEUfsjJC99RiERMeyxnlq4J87FodwmWuKX7JLSXbpVTcPzc_e7qZer0xfbjSX_o52MaP8A77E6Jm2tNw.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/k4QLwNoKi9ycyVb6UR_6GBU246Z6VYXxbLnx_cNeASihzMoxFJWOQtFYnNE9stmXlRf1y4F4HfTZylp_AjVxVjhiXfIFsmAsMcloCFEQiCF109au18IcrfzEoYYXaSkv-spwmpqT7sHb_YRMYa7_w8B4ij_QyBCIOl2ngW4P9hKd-MpfDyUyU1Wyc3K49dwO74uAyrFVgdVAtNTofoRHDTCaTFllMcdieRc55nP-d39A8PqEYCWJMQ8c70QAWyS2CYffLHdIWqOPnEzkPoqm82EGtS0SvuWPPL-up7RZ_WiV4rJ8iftFnwuuY863oRWZbpnmfF41ZJ5oRICLvaqt_A"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "‌‌\u003cbr/\u003eببخشیدا ولی با این سطح پست‌ها چطور‌ روتون میشه از ما ادمین‌‌های دختر ایراد بگیرید ؟ مور مور شدم از شدت کرینج بودن پستت",
       "date": "2026-08-14T16:27:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171000,
+      "views": 172000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +24,7 @@
       "date": "2026-08-14T17:33:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 173000,
+      "views": 174000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +43,7 @@
       "date": "2026-08-14T18:18:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170000,
+      "views": 172000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +61,7 @@
       "date": "2026-08-14T18:22:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 181000,
+      "views": 182000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +80,7 @@
       "date": "2026-08-14T18:53:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 178000,
+      "views": 180000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +98,7 @@
       "date": "2026-08-14T20:04:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171000,
+      "views": 173000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +117,7 @@
       "date": "2026-08-14T20:56:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 167000,
+      "views": 169000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +136,7 @@
       "date": "2026-08-14T21:12:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166000,
+      "views": 169000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +155,7 @@
       "date": "2026-08-14T21:50:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 162000,
+      "views": 166000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +174,7 @@
       "date": "2026-08-14T22:25:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +204,7 @@
       "date": "2026-08-14T23:47:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
+      "views": 153000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +222,7 @@
       "date": "2026-08-14T23:47:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 152000,
+      "views": 159000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +241,7 @@
       "date": "2026-08-15T08:16:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 96900,
+      "views": 113000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +260,7 @@
       "date": "2026-08-15T09:57:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39700,
+      "views": 65099,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +279,26 @@
           "url": "https://cdn4.telesco.pe/file/SoXscwOj8CYP1gb6rLowPwMcz1Kz7QJpDKyMAkUo-QQgjMrQQWVCkHZEUAKyAeAQHFB1BYwUSaztgE97Yxd63QUH82ruX0B3oZ2t6FCL7We759_G0TD_oA34dsayhd3_SJ3mhpNvKwEI119tAPBnppcokq6QK-nRUydWLpiAdSSfTC6h9oDO0x1gY5WbU2mvM3lbU_6GJdDaVlPJjsvaXsr-zMU8pEviYlUNqgWVsgkAnQrCIWYi02ofY0TMD53lscYKwY1lXW0ILFWak3v0bNC4I-mXXyLSEj4ipllnWUie5Hos8T4BbCOoQz2YeVHwaT3VFvQE03yNlLWz5FbNag.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e قالیباف: \u003cbr/\u003e\u003cbr/\u003eاین مذاکره‌ای که من می‌کنم، یعنی مبارزه!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبعد آخرین حمله اسرائیل\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e به ضاحیه لبنان\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B1F09F87A7.png\u0026#39;)\"\u003e\u003cb\u003e🇱🇧\u003c/b\u003e\u003c/i\u003e، همون‌جا زدم زیر میز مذاکره و گفتم امشب اسرائیل رو قراره بزنیم و اگه پاسخ بده، کل منطقه رو می‌زنیم...\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبعد ترامپ خایه کرد و همون شب محاصره رو برداشت و توییت زد که ایرانی‌ها هم قراره تنگه رو باز کنن.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eبه میانجی‌ها گفتم برید به ترامپ بگید توییتش رو برداره وگرنه می‌زنیم ، تنگه فعلا باز نمیشه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eترامپ دوباره ترسید و 58 دقیقه بعد، توییتش رو اصلاح کرد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-15T10:24:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 36200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hC6-65PdbqG24F2PQvegYSCnBA3Iwu11DTDbx0uIKGiVNhlUMZ4GeYpmP_l07vuZqP83XPz1hCU0p5rp50GpkpVfOwcXnk5fJPFEIWjt3X1gj-3pwuDQC0QyZP7dz7DqlM42ALRZNQfgKgV1PYJj3hru_gmTGRslAIDrrwRkFKYTr0AjvoMmChiuChgz2J92U1azfdpEu4guVky2AfOOSmbJUDPTbfpUW-_5Wq5C1xtbLdESC1yHeTPgVVmyoeCxJuqaJjgvjx7ICA_t8aHSCAjOaco7Tmp9zSopzaveZwotMeat33ti0PM6I1sz1S5alZ-GmWfBOeBMLZvqMcX-Mw",
+          "width": 718
+        }
+      ]
     }
   ],
-  "last_updated": 1786789230
+  "last_updated": 1786790873
 }

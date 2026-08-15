@@ -8,66 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5971864416897998246\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفووری از ساشا تاولیری : الهلال با پدرو نتو به توافقات شخصی رسید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990449417505997741\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e چلسی برای فروش اون 60 میلیون یورو میخواد و الهلال فکر میکنه بتونه این معامله رو سریع تکمیل کنه\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-15T06:33:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TzY4HjIz5AQonvFM6UuEWX44nbHJWUTIlqCRtkHCK-_yHyhGvbNxLJ-ueTp8_VFVB3oznkf-21K1BZhVESQyLdbXQiNpacdHpIdFwx3SkvF_Z4EtdpX2a0LIkY0ca9RvOq83YNsEBLPGI1KLQhnIM7Ls_cIsCrIVjJrO-7rnkMV52PDgnauLammuH78raFekEI74irrTFQ7_oMNO2Pf_D_GAcf2S0-xvub-iDokTwOEhRuuuPh8JHssfz9IVerEqNVHJDnF7vEcUZmRmxWqM9L1z_voGP_YHuq6T4YFsfs6cA2O_8ObiDFrSKZPitW5rXtOJK7zJ58eLvDc5399QiQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بارسلونا قراره یه مهاجم نوک بخره که اسمش لوییز سوارزه.\u003cbr/\u003e\u003cbr/\u003e2014                                                 2026\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-15T06:50:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/G0KOY70WIC0pFYrs0_nPgKVUnsRZmiclk9fDxwVQBr5niGULi9IlXxG40N0S7GdtVeeD5qBrZRTsUmrGK_uMX-T2iZIzpsDxjztrhFSAztAL88WmUDqz0SoPhjkwcmcf6DGU42-Ng6thGnructBlbwFwRm1cXhxpp15ohzbmzo69BpwwPssyVeEWHFAaNHoqk0Zd0p6OcKJOvFtus5PZQ5xCwfpiLYegI6ZWpaIQLv-EOo9JJJAV0QwH91D6i1_x2Lbo68uCqXvvySEMXT41SkLA9wBymuP7KTv7dz7JbqvSjvjseOJZelwDFdVkRjoqPvZ-OjgWVyPTtTFeobiItw",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5859682040084962802\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eرسمی: \u003cb\u003eکوتی رومرو به اتلتیکو مادرید پیوست.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-15T06:52:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/OwWtU7NH5uVcZ2gBd1-T11WmYNgU1LUtpoYBx6dW9wPFq4dw61-na8fzWTlvpDPP9miunYq1EjbYG3152GO-iPrFDuHA-Bb4CEc6DKXfnOJAFvACiBRU1IPZ528rgOrvCJlcmR1e7KnNtSj2V_hfbOdQ8x4LSrk8I3pL_A28nGSWO5HcjBSrIbLcwaJNGhHuXLAQODXbVbv-eKbJjn0sKSvThJq8zGJLv3JHPP5NtKpZkC1B3Q9EK1GA9a_v2Yhp1ReEN5z96-ss0WbbPVDBVNHG1wfHbB-C3NSUslXbiM5mGoHIuwmXMSlYrqWyrzs2RxbUi_puxiZuTzss0Erghw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "*کوتی رومرو وقتی وارد رختکن اتلتیکو میشه و میبینه یه صدای عجیب غریبی میاد*\u003cbr/\u003e\u003cbr/\u003eهمون لحظه آلوارز تو اتاق پشتی رختکن:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-15T07:10:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52000,
+      "views": 56100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +31,7 @@
       "date": "2026-08-15T07:33:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 54200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +49,7 @@
       "date": "2026-08-15T08:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46300,
+      "views": 50300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +67,7 @@
       "date": "2026-08-15T08:08:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46100,
+      "views": 51200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +85,7 @@
       "date": "2026-08-15T08:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44000,
+      "views": 50100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -159,7 +104,7 @@
       "date": "2026-08-15T08:28:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36900,
+      "views": 41000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -171,7 +116,7 @@
       "date": "2026-08-15T08:48:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
+      "views": 48000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +135,7 @@
       "date": "2026-08-15T09:10:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
+      "views": 47000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +154,7 @@
       "date": "2026-08-15T09:10:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41900,
+      "views": 50100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +173,7 @@
       "date": "2026-08-15T09:15:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
+      "views": 46000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +191,7 @@
       "date": "2026-08-15T09:18:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35800,
+      "views": 44000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +209,7 @@
       "date": "2026-08-15T09:27:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +227,7 @@
       "date": "2026-08-15T09:32:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +245,7 @@
       "date": "2026-08-15T09:41:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +263,7 @@
       "date": "2026-08-15T09:47:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 39800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +281,7 @@
       "date": "2026-08-15T10:04:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -355,7 +300,7 @@
       "date": "2026-08-15T10:12:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9240,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -366,7 +311,50 @@
           "url": "https://cdn4.telesco.pe/file/rAS7DOTjvBsUpMWnJVkSoGetq44JY5mH7xF1QBWN3rG6yJB330s5eJdKdIQ0xp2-VpuOcCwF9iWjAtsRkPOAMjwSHrhsvq2xQZ9yCebcBMxlyh_RbbGSvcR01MBW2Tsd2ImAaJ4XnHoXS9V9CKPM6xL7NrNJ0yMOXfHYKF-zEMs4nZQaVTrbOMojs0od-BFaowZ00NIIriEq18oaC4DKZUZMuRTubNpMo5QaBHGHfI11y6GZUhUkhvvEloAFjKCM1-tYU_pN9vD2eIWQUcxPcVpV6yZ4WNqwphCH165YTojZqhvh5Q7xSHl3eCp7WnrwNACjTT1Y__-8npCQalpNlg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "چی میشه یه معجزه رخ بده دوباره اونقدر خفن شی برگردی سطح 1 اروپا؟",
+      "date": "2026-08-15T10:35:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "خولیان آلوارز وقتی کریستین رومرو تو رختکن اتلتیکو لباسشو درمیاره و میبینه نقشه‌ی کمپ تمرینی اتلتیکو رو روی بدنش تتو کرده :\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-15T10:37:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/g0sPdV6bwiZF67KKZiMpFSV9jRbkIXqfoxgUZ_B3TF1ZnuMFVxLpTPVCAkv8LvsNnGjAc4fskgA8LVyFsfPT71GDuDyuwtJUS0RS8apzZHk2t9AMCDygpuiH-YB3ImF3v1XAtWpjfy4Mlzr5XqyyHsqq8mbxXWi1tM20rkNLba-RW2BQ20xmIjlhRoPr9Ejo7fit42i8dCZE6v_mrwno740u5Okfife1axgKs_gA1_gOS0Wd48bpMXRj6Vp0Da_P8Rmk9BOzTNX7gCCGJXnaIMC5sNuQRSkSgMxLW7zlb5-FNpkChyjTUUfKiAc3RM8WYH5BwxwVTmhZT5XmhZC07A",
+          "width": 608
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دهنتو گاییدم چطوری اینا به ذهنت میرسه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-15T10:44:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
     }
   ],
-  "last_updated": 1786789297
+  "last_updated": 1786790941
 }
