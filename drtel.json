@@ -12,7 +12,7 @@
       "date": "2026-08-16T07:17:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
+      "views": 156000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -31,7 +31,7 @@
       "date": "2026-08-16T09:15:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132000,
+      "views": 143000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +50,7 @@
       "date": "2026-08-16T09:52:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115000,
+      "views": 128000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +72,7 @@
       "date": "2026-08-16T10:23:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103000,
+      "views": 118000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-08-16T10:30:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95800,
+      "views": 111000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-08-16T10:34:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92700,
+      "views": 109000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-08-16T10:40:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89600,
+      "views": 107000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-08-16T11:14:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 74300,
+      "views": 96800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-08-16T11:15:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82000,
+      "views": 106000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +188,7 @@
       "date": "2026-08-16T11:27:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 73100,
+      "views": 101000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,33 +202,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهیرا، توله سگِ شایع زده کل پروژه جدید باباش رو پاک کرده؛\u003cbr/\u003e\u003cbr/\u003eبعدشم اومده وسط دارن قان قان میکنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-16T11:52:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/uxOiVhcCs9xSYn4FJZDNAhOQkT1BtCep_hmazuDgq-afnwatNhZFZf2MlpSwR_axWCMqaLogISVxUUryNgePpDJG0NdR0J8XnzG7-YjNoUV-6UicWP4LQ6uQTqJO2mo1NiNdXwZFmyc0NoOObv5laa1yBMqmwfYQ_UmdsnA2UDArJ3pU8t80eK_glo9ccmQVUeLv_GcZVwigCA8tHSr3p7uPIZy9vSwBbCP-I9BJWIq1GGXqdZybe2YdABeirLAn5COOZJrYic7-sXxn0oNhqmtdr6teH4biJL-CVYTCp4ebqFXT98OCfzmgoNkKR6qm6Cys-Y26CbQssXV3z3cD3g"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/hRl8iKnbGiYmjkT6E8WSVF3K5P0x6v3M8yTOs5-_yMr4oFIoiMhImusH9DiJcF8U1kkKqgyokPEivh0K-uHFWehNDTiDRHKX_4vGA0B_MnpF06Qq-rYaKVNhVJayLLudOXadiT0tqq9BfS1rr4ZJ_TJ358CkqmqeTNA5ZT9aQwQaPKjizPTwl562zSzwZ8AR3wl5wJ-J6lRE1Vp092RpalGwtOD8_xgetc-YlK8WyLHz2jSJpI-8JPQf0BoSHuwGBhPlj9ya8FbuyedklR74IWxt_TXyuwTeHiwJm2o47kCva8pugu2NrI6NQlFoEw4KQ2L2RKd8GBa2FJGdB49mgw"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مصوبه‌های جدید مجلس:\u003cbr/\u003e\u003cblockquote\u003e6 ماه 2 سال زندان برای هرگونه همکاری علمی با دانشگاه ها، موسسات و سازمانهای خارجی که وزارت اطلاعات تاییدشون نکنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e6 ماه تا 2 سال زندان برای مصاحبه، شرکت تو گفت‌و‌گو یا هر گونه ارتباط با رسانه‌های آمریکایی یا رسانه‌هایی که آمریکا اونا رو تأمین مالی می‌کنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e5 تا 10 سال زندان برای برگزارکنندگان دوره‌ها، کلاس‌ها یا کارگاه‌های آموزشی حضوری یا مجازی که با فرهنگ ایرانی ناسازگارن؛ 6 ماه تا 2 سال زندان هم برای شرکت کننده‌ها تو این دوره‌ها.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eمحرومیت مادام‌ العمر برای تولید یا کارگردانی فیلم، مستند، تئاتر، موسیقی و کتابی که مروج فرهنگ ضد اسلامی باشه یا چهره سیاه از کشور نشون بده‌.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e6 ماه تا 2 سال زندان در صورت دریافت کمک مالی یا قرارداد سازمان‌ها، انجمن‌ها، تشکل‌ها و احزاب با سفارتخونه‌ها و نهادهای دولتی و غیردولتی خارجی.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cb\u003e30 سال زندان برای پیشنهاد سیاسی، قانونی یا اجرایی به نهادای دولتی و حکومتی که برخلاف منافع اصلی نظام باشه، یا اینکه رای مردمو به نفع یه گروه یا جریان خاص هل بده.\u003c/b\u003e\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-16T12:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 63900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +217,45 @@
           "url": "https://cdn4.telesco.pe/file/mWtktIkDt7N7NxodGX9dcYe6b9ml4x80Y7_xDhMpF62McFcDj-besN-PxgsLTrbrNj3esDiNGpLi8KdE1QLtkHm9y2gJJR2Px_Srqev-FTrOMDsGfgXytekVc1KB5iFtShEr3FtRfuWMsCdZKG-hTTmQztYjZ6RMdir4a9D1GqOG6XGeFUbETimPy9KcquGnIE08XYLMyVdUx2DC_ef23UXEpDxqB6vs0zvyH0O_inw-7Qf_IXzrBKvWdkMOyKgK8NYKU_12kI4hwTdo_26KdStnT_ZqohIuyAWTvIp5uWonoeiY3PSTkYsrOb1aADKP0KScGPZqPGGSi8PDoCgXaA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5399997355455961843\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eحاتمی، فرمانده کل ارتش:\u003cbr/\u003e\u003cbr/\u003eنیروهای خانم اگه بتونن یه نظامی آمریکایی رو اسیر کنن یا بکشن، 60 هزار دلار (معادل 11 میلیارد تومن) پاداش دریافت می‌کنن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-16T12:58:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 38300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DhVyhux6Y8-zWYMN4YPPLiytv5ElxR5DY_Np199SVVMpV_N08DjRfL_rs4rVivUs32gpqYxHh7afyGnz7xpnsJYJPLu6_idgrlG-oh0vUvuUzyTO0LPBUDA4ePtbFwwMIvFrM-1L-mRTMqJl3IAcFEP_ldFpoAE4djKA9bxb8fgUYRc2QAm8Mv3UZsqZ1isGKETa0mrT4kjwEjVPL5sp3tUkZk8SJ3uqKr4u2Af-yOignVDDa5PuxlXou7Zn5Fvt8H2XWjhq1k0RWZ_vGzeL-fbAmnPwUo-mtK7bt_bgsnOYB2w8VTcMXKBATOIvT085p2ws_PSMR8P3UfIpHefHNQ",
+          "width": 576
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eاین معلم اهل ترکیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e به دانش‌آموز خجالتیش میگه از بین این دوتا کاغذ که دستمه یکیو انتخاب کن، اگه کاغذ خالی رو انتخاب کردی به کل کلاس نمره کامل میدم؛\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e+درحالی که هر دو کاغذ خالیه ولی کسی نمیدونه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003eوقتی همه میبینن کاغذی که انتخاب کرده خالیه تشویقش میکنن، این کار باعث میشه بقیه دانش‌آموزا ارتباط بیشتری با این پسر بگیرن و خودشم خجالتش از بین بره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-08-16T13:28:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2060,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/BmBqqoUD76AM7OszdReAiOo91q3hrjSKJHtsaVHmOGNYNl_6KYdW2IFfshNzE9Mcpp4k1oxpBcdmmklZhVfJaMWUBXtnu3W0sq1PAPCA76lPwabkHvvoLc23l2ODfVOpEYZnBeCeJ7p44Dky3tpT-QQ06n_iCB1z4HIH75Uj1XmyYWiCeaHwFDm0WSVpKLOpEE82hWW4W4lZeuVTr23CuYGCwj3jJTOOkF0a1Qsbcy8sqxCy82niJNYWddjrG77haqZpPqalC2n1AgoKtBg7bcZBhzpov3ErX7P10EPfhXT8-Dalk9uuCIg8QUBcXiMWM7WH5ALhHvB4DCy9OFpGzQ",
+          "width": 480
+        }
+      ]
     }
   ],
-  "last_updated": 1786883686
+  "last_updated": 1786886972
 }
