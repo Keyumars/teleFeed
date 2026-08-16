@@ -50,11 +50,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/f0fJ6CaRWgkATgkLZktTr6fxzqDsafRFWnoXyDQE88cFOmk7QxCayw01zVLMLgImNnQCSZ_B9_MT1Fl5x6RwB77lxcCPuCzfEtDBxcpyFbpOKlLQFD7B2i_Qx-wmtpeKpKctmQAZpEW_pBRwiZkFNqS4ViME2QP_-VSFyN6_O9md8BnhHzsKUyKOpwcoYkyQCwSRBeKIWG1thF91V2e1gtS2GDKL3SWnkacbnvU7zLEfyGBCXiyVFLkkf6Do0EcFdHVK49ZMeUpE7PSTFKCaVJyjoccrvMEF5USI0oFTMNM7bTOer9vjL9LiPrUAnlaqPLwBCXAFJs4tK18rtxAQqg.jpg"
+          "url": "https://cdn4.telesco.pe/file/BZj5DBHWipbtzmHKNKTZDKJzF7aW2WFGfq2bs7bTuOjnTFHxMx--cugOSpIQdHAY2S6cf_d9tnL67uWdvV_cvUWumVBW_VS8bRlzk1r8dWg3kE_flzxRyaNEcP0uY9ENr-NAgroK9RQEgLsje60pnR4f8dHo9wkCnQWE8RPLGzcELMLct9vTQ0sj3wODT96_nDcTcgTWMYW9U4gAXhT_pq1aPejk4lisiuPlc6T8FIvel8HWE9W94gvflZp5PvqKzxCoP8yZn-a02S3V5UDF3xGrSEi43wwV5uvpCjLVow1VygtPCD77KGiwULVEJQ0QAsAGFHGzge6MypJ6pQO7dA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NV15N2yKkm2GnU6rx1-dPUo7wOL7NNumHNuW8Uzhne2mlBhnO2SApu4rTIbwgC-pVe0daG4jyzYK1Bqs1FAK6SC9IW5Qqe8yHwSFGQHv9nRj2HMKh011ifCUey34rS4GX9GGxg3umKvNgT3R0uQfuMtiCiJYB2tEv1epXYiiRiRs7oR0EjjBwv3Dczt4n41I0pgL9lcLK3D427rZZ59Imx0Lp_iLbZ5IUxcLK5eJ7XVpOivlC5Y1miWKGzzdfc9hj8CG1C_J6BxlmVO2foIWV2L_73O7QfjkLnkNzixQXm5gc5RI0yOvQPP5Sb_LPSP664s7hVOm-n4Rms8_UwW13g.jpg"
+          "url": "https://cdn4.telesco.pe/file/oEfrbU_0SoeZi__C9GfmgRHO1Et5qrQjrrW9ihueCZb0qstDYU0bobpN3I2XNBT3dLZ0oim0JZgCSqXePuQJnafNZf4aB3wgKOsDm9M-6GjaHLS9H-gCpsqws9qDk3rFnF1cTtYAyZ5Tx9YRuhPbl-NUGnkQImzCCZ6qTAOAKLjjyaDlny5X8VQRwBWlzYTWjHCacKcWHNZSyNespm6R31PGf2gviVa0o9-dD0ZdD4soWBbhgCBKUhOTPbB0a7B_lVyL9v8L1ULfPVZ-XXGSOki3K1b7hoso0Gox4dpdGBi8LgghYr7_0-e10UxIVbEnEdWn9NhGyC7afKi4eVmgaw.jpg"
         }
       ]
     },
@@ -233,7 +233,7 @@
       "date": "2026-08-12T20:12:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,5 +269,5 @@
       ]
     }
   ],
-  "last_updated": 1786842685
+  "last_updated": 1786848071
 }
