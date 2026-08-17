@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5936110669584669087\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رودری: مشتاقم با هم‌تیمی‌هام دیدار کنم و بهترینمو ارائه بدم\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-17T18:28:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 66600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969627799793704327\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آرسنال رسماً بهترین تیم لیگ برتر طی 3 فصل اخیر بوده و همچنان هم نشونه‌ای از افتش دیده نمیشه؛ استون ویلا، نیوکاسل و برایتون هم بین تیم‌های بزرگ عملکرد درخشانی داشتن.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-17T19:02:34Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QqcupyM25IY6SFr6wX-vDlZeCAtB0kMq_2ZJ9ybGcfrbU8gjdTDz21bnzmSLUT7VCO8xy1bPT0-egVgsXoThHkoDiFjdWI3aB0XNzJPyTCDcBhAe7dHerkE2KZhFDyLzbsTsOeUIGSw2md5ajYkG0LDDv8Ke9Z5uRTIhQqjFoRO3F_hmB0LF30vZ3-vYbJoLvoevKYYp9D6ahZK8DMuiaM88NKukNWCBZ0REIZk-cJR2dajerc2ztOsvHMs6UYzW8Zi7dFCuK-IAQYUYkRTSK4Oo_0sqlpJOARJm7kqP1eOTrtwDICAvZPYwy2eRDZbR1D2IuMiIYjBuJnL3Bq4PIQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "ای بابا این رودری هم نه پیج توییتر داره نه اینستا حالا چطوری بریم خایمالیشو کنیم\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-17T19:11:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61600,
+      "views": 63600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +31,7 @@
       "date": "2026-08-17T19:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 56500,
+      "views": 58300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +49,7 @@
       "date": "2026-08-17T19:52:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52500,
+      "views": 54700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +71,7 @@
       "date": "2026-08-17T19:56:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51400,
+      "views": 53500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +89,7 @@
       "date": "2026-08-17T19:56:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53500,
+      "views": 56000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +107,7 @@
       "date": "2026-08-17T19:58:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54500,
+      "views": 56600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,7 +125,7 @@
       "date": "2026-08-17T20:10:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52600,
+      "views": 55400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +144,7 @@
       "date": "2026-08-17T20:18:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53600,
+      "views": 55900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +162,7 @@
       "date": "2026-08-17T20:27:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50700,
+      "views": 53400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +184,7 @@
       "date": "2026-08-17T20:38:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
+      "views": 49600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +203,7 @@
       "date": "2026-08-17T20:51:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43000,
+      "views": 46600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +222,7 @@
       "date": "2026-08-17T20:59:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39200,
+      "views": 43700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -271,7 +241,7 @@
       "date": "2026-08-17T21:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 33500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +253,7 @@
       "date": "2026-08-17T21:34:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27300,
+      "views": 33700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +271,7 @@
       "date": "2026-08-17T21:40:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 30900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +289,7 @@
       "date": "2026-08-17T22:11:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8500,
+      "views": 19000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +300,44 @@
           "url": "https://cdn4.telesco.pe/file/TyT7AbLjlB6osxTtNUgoxH16nwRyqZJJaXkb6OKsGvCp3K7CHkSpINz312gMWo7WHlX0XBzNg9Q0oH2kop997lI7R2SkXzHZV-KyJPfu2k-nDXP8Yb6k3emxW2cXgxODJbHCGcc1xKEAJ0ysisDuHqpLu986_sbpCItun29jcI4KEcX61wBT_Nc6607LH8c_ckwp8fJgDCS8aAmm890LiUZX1vgqXXh7aNm2DNKmiNhg_26i3vwIxxkb8Tvh_vYUJWeTnOBOj4zfy76LK92zJ9rxN694BkFsdQVUC1R1r4aZllv2CcA5cdgow9zDQjk1S5NISxYXKPsGzQwD8KGk-Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "نیمار تو کلاس رقص باله، به همراه دخترش داره میرقصه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA0.png\u0026#39;)\"\u003e\u003cb\u003e🫠\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T22:42:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fhNUVvaTejp0wUS5UiJfqZwlAme-hOF8usth9O9otHWb-zU96QcbViTgeR3JrtwNJBsim-uHERbW__tPlcKtclPoCdeU9glyv_4EKonRdeUSpTm_drcFqQL6RTZxQLKLA6Fp_8soP4v6qDk3SGTg4g8jbXDm84HMHJuCGYxCpOo86IQkt_JKh0cRzI7ZCEXA5cUGtB4ODJ500jH0xtzTqpbOlqGYeoxT2-fFFzwb70K-zqWSxjfgB2_jO6aTiBYFejAdck_MVu99icG0t4czjxBdMZBlMAbJQ1lTIXynK72BVeBo857Cq7TBih2D7wE0-LF_HI3wPXiprw3wIc1IaA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5265146072535152285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5462881650968895018\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فکت؛ \u003cb\u003eایکر کاسیاس تو مراحل حذفی یورو 2008، جام جهانی 2010 و یورو 2012 هیچی گلی نخورددددد؛ 10 بازی، 10 کلین شیت!!\u003c/b\u003e \u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T22:48:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/sPYHH7hJHbcKazoXjo1rrA-lrVXJ1qDpThdjZHgkky1caOP6_itGhow9s4UrDGAv6wp5eJKfnX75jiwrWndjXVRqC0c3WYcDGJvDd3wy_Xk1k4pBj4tZImCc25fxuWDZlpr3MSpVpUIJcdwT7gls_kVwvRTBxHlYFZwvu48_haBT-MZQen6sXemz-lBhrXtwKCPh4djLRaATexPpJeBm8kVnY0lMzcote_MOrgH0mJzSJXnzhdDTYlsiB7fKqM2FjjvVIzQjhTQRWHMYl0V9Rl7jCoZ15UblVIQUGWm7dxoZX1IQFRyZiyYOx0xn1ngUKkHKTb0d34hg7uHvqIOXtw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787005352
+  "last_updated": 1787007084
 }
