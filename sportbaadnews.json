@@ -8,96 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5857158386021309388\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووری خوزه آلوارز:\u003cbr/\u003eبارسلونا میخواد برای جایگزینی فران، گیوکرش رو جذب کنه.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-16T23:03:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5859682040084962802\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووووری از کووووپه: اطرافیان آلوارز به باشگاه بارسلونا اطلاع دادن، دیداری میان خیل مارین و خولیان برگزار خواهد شددددد (احتمالا در جهت تسهیل انتقال آلوارز به بارسلونا)\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-16T23:06:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 76600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/dahxe_RykgqWUdVNc9Vq49bcLPeiq7psjkvi5X_wT3-sUuyIODZ7q4mYlCqlSBJLw9Qhv_CjeuJ2kP8RcQSrw1MS9gyPr0nXzKWRBBNhFnI4EhvF-puguYyq9AW67HZTKztc3z92y-fLqG5NB-6RCRdGcuTj_NFnQK6LWmlCVlRpAReGWzR1TR8E7yeQBaCLnTpLHp21a-aJ91rPaB-TTDFCuurqfsRJQ1GB-vrnZdmyBWfq-Dbyvh0qAxUuF5TvhjgyjGmIrFPFawWkTDUduKr4Uduyye2b5Y9qZpRgvnllJjTpxRSGzdYrFOlimerMasLolZuilfXpRn8SwFbLcA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5391120392494536654\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5859682040084962802\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووری خوزه آلوارز: اگر این هفته هیچ پیشرفتی حاصل نشه و جلسه خیل مارین با خولیان آلوارز هم نتیجه‌ای نداشته باشه، بارسا پرونده جذب آلوارز رو کنار میذاره!\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-16T23:10:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 77300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BvPfK2jtNhrgiBcjC5icV4ojFWeD-ND0vL6jysX__RwgkjbZsNkLCHV0mH5KA_wchiK6fBvZynKn7fBCEQL1DxkceruBXZpbJRr8izEAtxeno9FBajJWkrW_rrEAYpojc0V7yiPW290z7jbiTofT_9m907UOTfxlvd_jFohB6CPOLLCO0mOr12wE6eRjb_j-pkhev1vqIf_ann1JDllVkaKPMtpYtaSo_8H9ZqbV0mGb5izPu049zj98r3a2RetM8UY5QKiJp_3mxNdFLqua9wvla_02GSOfsFHQG7owYGdGVMfxGo9yhuJ4ZPgTCo1m8WSD84pdzNpHLMT-_Yujvw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "وقتی رئالی هستی و رو گوشیت نوتیف میاد و فکر میکنی هیر وی گوی رودری به رئاله\u003cbr/\u003e\u003cbr/\u003e\u003ctg-spoiler\u003e\u003cb\u003eاما اون رفیق بیکارته که یه ویدیو از دوتا مرد درحال بوسیدن پیدا کرده و زیرش نوشته \u0026#34;این ماییم\u0026#34;\u003c/b\u003e\u003c/tg-spoiler\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-17T05:03:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 54200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/E-SKLLod1MnsTf7uU6PkjzF81SgF7uFX5IoNTRGZOKJOUK1Guv8Dh0e5sds4u3Vqqvk3v4QnM-3201hhFtsIqWeH9APox_z3ktLwXpKFBk8qt-5LyOWmrJJxR9N1eVChoMmMeqffM3kqAgCUHfm2_ICZ4Ej_QpH4EZ_c3kwo5MuM5gXmsuSfFEAXlEl1clN7mHwRwMe2etTIwaitvc1llo77-DQ1-XnSHbNT69ax6lj2hlePjUZzm1nzW6QmuF4fCSDjpcpSmjH4wXIFcEVQ-1FbLRewPRy0NlFrXeFjVo05j7Vut0RmtauzQ0OSNYAyDL6D7RpIMZsPEEr_53yRDw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"4981088085312799398\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5971864416897998246\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969663795914611864\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رومانو : \u003cb\u003eالهلال این هفته مذاکره باشگاه به باشگاه رو برای پدرو نتو اغاز میکنه. اونا پیشنهاد حقوق مد نظرشونو برای خود پدرو نتو ارسال کردن\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-17T05:11:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vehBoROQdvenXVUAlDKPmSTEFjlIlIsTtvDHPbDRJTbkW_Y30Cf4NqZFvkqg_BswoCjwW6zXZLgUemen0eNGYvQcggT0G5u_YmvPsYE7fh7nrtrKDnSSYysMTGpq-gqnPqkBHSc9SpchWFR218mBEARlu2YHRWvlYxgmZVeX49PaEPQ7eppLAIvgoe3_no2713zAVeq6rCP-h81mEckqchlRTf8c_XLfGJXzWDAOJMYVv1pd8xKGpUX236kPrPg0CSYS_5DxxuaUrDSIwWph03RYYIHt84AHk6DL96pdEjRLePQOyKNhvHBbge8hWUP2Ii5msFsfCaHVdPbRN8BuTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"6046301839429734790\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6046403088988771427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفرناندو تورس \u003cb\u003e: وقتی بچه بودم کلاسمون 24 نفر بود و 23 تاشون رئالی بودن، من تنها طرفدار اتلتیکو بودم، این انگیزه من بود برای حرفه ای تر شدن تو فوتبال.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-17T05:21:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52600,
+      "views": 57800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +30,7 @@
       "date": "2026-08-17T06:01:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49100,
+      "views": 56200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +48,7 @@
       "date": "2026-08-17T06:28:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48200,
+      "views": 55400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +66,7 @@
       "date": "2026-08-17T06:33:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46700,
+      "views": 54900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +84,7 @@
       "date": "2026-08-17T06:36:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47200,
+      "views": 54300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,7 +102,7 @@
       "date": "2026-08-17T06:45:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
+      "views": 55000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +121,7 @@
       "date": "2026-08-17T06:56:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46500,
+      "views": 54700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +139,7 @@
       "date": "2026-08-17T07:31:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
+      "views": 52100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +157,7 @@
       "date": "2026-08-17T07:49:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39800,
+      "views": 51100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +175,7 @@
       "date": "2026-08-17T08:24:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
+      "views": 48800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +194,7 @@
       "date": "2026-08-17T08:32:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
+      "views": 47100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +206,7 @@
       "date": "2026-08-17T08:44:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 46100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -313,7 +228,7 @@
       "date": "2026-08-17T09:12:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
+      "views": 40000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +247,7 @@
       "date": "2026-08-17T09:35:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -343,7 +258,99 @@
           "url": "https://cdn1.telesco.pe/file/Sx0-dG1xiLERLevcNpyqdj4YK8g3S6KUazOIicgwkacdeGDCqEd-ZUbeEWD28AUSMxP13FI3e1l4dtxZram_NlCMZ6FGsOSyygyIxkrDMiwIXlknKsa6bi7Q9sTaY5mzWGNTGoDsMVJ4lGGLVwqaNJAndHxcfRyhlB9-40VgX7Ylo73aWnA7RtDIAGEBdHGDEpfu4Kfoh4DshPVvjN2heF8tJZ34-31fh5NhlXKTNkPk3GdQXIl-9Npi0EPE9UJFYL8HF908xqkenznLDqLvew2p1IeCAgmuS9r1oSGYLi6SUPAZvUliTanawnhZJUtYa14UYGq-nuAN7zTez6bd7g.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "-بابا چرا اسم خواهرم رز هستش؟\u003cbr/\u003e+چون مادرت عاشق گل رز بود پسرم\u003cbr/\u003e-ممنون پدر\u003cbr/\u003e+خواهش میکنم دکو پنجره نقل و انتقالاتی 2026\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T09:50:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 27600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/M5iqoupFYU7ZI6TuZxc5qw4kNXWz1n4Ki1oHTa14FxS0adlIg10UkAIg67nH_r46kq754mtntuJWfxKTjtZaOORiN98ztLQliV8ykjkiDdKGePr5UZMll9Xg-xQJMc48V6y3ARtVEvuzCa4GpVwk74pz2AhwCnkSgV2JhNLVFBJRecuuMnz5h-SPNNsO6TSwBm4v9FKsprtx9zlyg0omznsHTaQ4IGUicXB-MWCbl0eJ6nh0LKC7hsepRMvx6ujOH-Fa6MsfNDQLvriM0jgnNlxSSbDVgUHnqUPf4kLa8InVgd1DhpgbW-EUtAzGv7sXU6DrUz9VWE7vetu0ky2jgQ",
+          "width": 864
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یامال هم کم کم داره به قولش عمل میکنه و ریش و سیبیل میزاره\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T09:56:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/SYfjV_5K1kNvdtKkE2y4kKtmaiqn2gckiPY85_p0NyLKi9ugChyIFaA9g9Nxyz9xxPStRT2h2saStordp4ogBa4SbVT-SOCSM34C8frya8zrsTn5Mpmrcul-Eji5DjQZC-MgZpB4lECm70ZL38e4R8PwCha_foOqF8ChI4cS1tVn5BdB8VqIq0Zh7MneMKKDKls3-TulGEuOVvcrlw0emH5aeab475lzxyzTOZKY_UQPaSCUzskzC8aFEaVNqN678xgIfWpKsEjBbDG4YHLX0JDe2qah5Qdgi5M1Xo5Hufl1lTek2-WmQgU1hbowlY8axc1PCOiAmp2Jfzg1ScpakQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5064709487953183440\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C9F.png\u0026#39;)\"\u003e\u003cb\u003e🌟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eویدئوبازی محبوب Chicky choice\u003c/b\u003e\u003ctg-emoji emoji-id=\"5064709487953183440\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C9F.png\u0026#39;)\"\u003e\u003cb\u003e🌟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eفقط کافیه مرغ از خیابون رد کنی و پولت افزایش بدی\u003ctg-emoji emoji-id=\"5278234122081285421\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5197434882321567830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B5.png\u0026#39;)\"\u003e\u003cb\u003e💵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5339156940389887325\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9296.png\u0026#39;)\"\u003e\u003cb\u003e💖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوی سایت بت اینجا بازی کن و پیش بینی کن و پول در بیار\u003ctg-emoji emoji-id=\"5334987944484686335\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eامکان شارژ با کارت بانکی راحت و امن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5818733886309406917\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC85.png\u0026#39;)\"\u003e\u003cb\u003e⬅️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتسویه حساب سریع بدون احراز\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6217489739675604129\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eهربار شارژ کنی 12% بیشتر شارژ میشی\u003ctg-emoji emoji-id=\"6217739736837000786\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6217489739675604129\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگ باختی هم 10% باختت سایت بهت برگشت میده\u003ctg-emoji emoji-id=\"6217739736837000786\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eادرس ورود به سایت:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972185809300753162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A0.png\u0026#39;)\"\u003e\u003cb\u003e💠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"http://betinja.bet/affiliates/?btag=2760677\" target=\"_blank\" rel=\"noopener\"\u003ehttp://betinja.bet/affiliates/?btag=2760677\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5447644880824181073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفیلترشکن خود را روشن کنید و روی کشور مناسب قرار دهید مانند المان،کانادا،امریکا،ترکیه،سنگاپور،فنلاند و...\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5852684155380304970\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD90.png\u0026#39;)\"\u003e\u003cb\u003e⭐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانال اطلاع رسانی سایت:\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e sr26\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5972185809300753162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A0.png\u0026#39;)\"\u003e\u003cb\u003e💠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+K0fAOE9hCUo3OGE8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+K0fAOE9hCUo3OGE8\u003c/a\u003e",
+      "date": "2026-08-17T10:16:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/a1MaMW7WQpZNJEnGEyos4ThsLXu0hWpAvLzmYk7pQnWXbYWymYUiwqAQRe8m_P5jQ028lMtOJidJaCIfol4XJtUMsZJXXuZUBBai7W5YrIkyN-M7w7TyVMgBPTVB_HtOzlKWtTisNKDs4a2p7LSSSsnWAB0NPIG6LxFMOeXAVXaus8tPSwR3FKTUlV_XVwN4Aiso76Quz0QvHTavAFm_ENjkXZBFrqXTX5ifFtkk_eOvMV7tfVbtwR9VbPN5NCpwm3dDqKx40s6KYRXIWq5uw-llGK554kXJzbpFBy2hkcseiVmumhFJiTWJ-h79Q4gQL1CUQdw-f3oZl43H1DZfGw",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "10 کیت برتر این فصل لیگ جزیره با رای مخاطبین این لیگ\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T10:16:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fy8nGTSot97Xfpz77ZIvDMUV_VjXF1GVkF_bqOPgU4mEClGAQ8BxH_x16nIf7jcwAeoow_FU0Vqd7_qa3NYYTdkjW1VOAER2kDiLcKEF8sgS6RsF-0VUawRT_KxmsVEUB7Of0HrL5Ytr_qJQyJqnG9DZ8WsrsOOk1_b7VjdQ7sI28TgAVGZeS0G_eRpTqKq8xs_FMERZFHrfIh4Td0-xhTmcRYIz7EmqhqLFGn0EQirYWoqf1Lcvxoe2feHXDsN9x8nvUTjOZnDuvJ2ixHkmwJDAFv6e805LzXAcLLfvFuIZQGCVhJoMs4YmrC5H0W3E3-puMZHGjdan7wapZdoADg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "کریس رونالدو: \u003cb\u003eدر این 25 سالی که فوتبال بازی میکنم ازخودگذشتگی های زیادی انجام دادم بنابراین برای دوران بازنشستگیم فکرای زیادی تو سرمه دوسدارم سفرهای زیادی برم و‌ کارهای مختلفی انجام بدم، ورزش پدل رو خیلی دوست دارم، از بازی کردنش لذت میبرم. احساس میکنم در این چندسال به خودم کم لطفی کردم و باید جبران کنم.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-17T10:25:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/t91axFE5ACgFhYf9VPHxDCL96qFQHgMODoPuhteyCRYGNU0Qrs8j1K1HUO9wlCmREBZopeacTmZCTb7IrjfpY1A_V5tN74aGEzZ-xkAGht3chNtkdkBI43PJphyqdWL7iUNWN31YfivpoPF1Xl8rAQVQ4sLIydTjGtpzYQezXQkBGl-9Q3QphGBwcsEaMYBcBPWdBKn8Wds_HHqn7LqXPTloxieg0eaNsR1B90J7gqYFHazP-RiCgPslOWcR8f3n4iBRewXVgWLkR30sk5SDyrg58mai9IuA1MOuNjQBv4NYKK0KRaHxT3U_Sekvp2M3vGzWLrKBMkRjhAxEAUCyvQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1786959617
+  "last_updated": 1786962666
 }
