@@ -286,7 +286,19 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5296419911260742000\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram has applied for the \u003cb\u003e.gram\u003c/b\u003e domain zone.\u003cbr/\u003e\u003cbr/\u003eIf the application is approved by ICANN, a billion Telegram users could get their own second-level domains.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e For example, \u003ca href=\"https://t.me/durov\" target=\"_blank\"\u003e@durov\u003c/a\u003e would get \u003cb\u003edurov.gram\u003c/b\u003e, and \u003ca href=\"https://t.me/monk\" target=\"_blank\"\u003e@monk\u003c/a\u003e would get  \u003cb\u003emonk.gram\u003c/b\u003e. \u003cbr/\u003e\u003cbr/\u003eUsers would be able to set up their interactive websites hosted by Telegram — just by typing one prompt \u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-18T17:37:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 239000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1787073973
+  "last_updated": 1787075769
 }
