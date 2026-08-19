@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eامروز 28 مرداد، تولد \u0026#34;مهرداد مشتاقی\u0026#34; جوونیه که به شدت طرفدار رئال‌مادرید و استقلال بود؛\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eمهرداد جمعه 19 دی تو اعتراضات اراک با گلوله جنگی از ناحیه سر مجروح و به بیمارستان منتقل میشه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eتو بیمارستان عمل میشه ولی به‌ دلیل مرگ مغزی، جونش رو از دست میده.\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5438622962716542322\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرادرش نوشت:\u003cbr/\u003e\u003cb\u003eآرزوش این بود یه بار بازی رئال رو از نزدیک ببینه ... ولی آرزوش موند روی سنگ قبرش...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
-      "date": "2026-08-19T09:48:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 136000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/puh_00jJaFur6FWMkdNxw40l6gN_Fb4vdl1g_LsxOF4VZwi5zmLjkjYiQ3d10Evd7nJVb3Xhfdk_6RC2WzNn9Fo9bO1xlmRbLnbriv0wj5Ax-_vhG9kwu4DkXZolecLwifwtUJGChs43QIUsIPHFSYLrg-S6F7dk8W4yGLss24cxrWGOCnRRJ6abvx6p9yhqyxv4mcTwy3RS-sJ7LKmfVHdMG3aevI7dsiIrkjtUy1x0f4BdfAE9XLiW5Iz6ZUcsWxhZWqpykvXJZskxPFTrRiEKyXfSvWHInOc9z-go1rVHidQM0MFdx1v3jIytXfvl5BlKovgFekWeOYCUkKAJ3A.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/siwbnSX7ulYgMss4JqXRNsTlletSIjwNo2XQiS4i1kgGed3kEE0hJyxYB2ey8PcTeS9S2Q9C0EsDBchkFApqS2uqVDjau-2yzLtU36HaVwD4FqLB53euFER9fxKgiP0BeSJwGW2X_v_6Oq5rwcacDToPrGsO6MArqC8slv_oBW5VrNH51T-SO0nAPkOinliwLkfFeC2unSgxQmO8wuMiZP4CVHXOY6YTKeCDSgz9u8ja0t9Yg9SgMmiPHB9LlyTnbRIAa9acHcdz-fHeXGPCwvr15oWL9JQXnAkJTrRaxqRMjxKviV4ZOe4BCklcSlIpkKi_cFa84ghkpzRUUuHocg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZoQq_WPE_XapVJNilTdV4vK_hJwlUbS0TluChtwpRE0Emz-JEQhyC2wVSJBFXSJ28te6QN-Qw7it4hIdGCPbWkCqAkRVEi6yKOYTBB1sF1syYWRJYfQIWU9SMi8J_YTOX3R9lyc1ZvjovWUFGqWF8an6JPsI8gyM5gnS6qO2EkS_4mljbMLw68InjNjtKtKfG8YmkiDlXbJwHI6IW7pBN6cMImogeT2oZbMVLF40zJXetOT3c_MyaqBRJV-Rho5Lbxr_JQP-v_j7ptzO248pyd25Izu7vunXCMvCmFD0Nqk7R8WOxGzfuZ7GE9eR4AsSe5uzI7nXGPLyX3HfrfmMJg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/r3AJ3dkVXdxCh5ONZTdkPQea7O6ah3WXRWIc9p3L1oeqBbnB_JPzzfe4QnVLKWT-rtHX33IfGQ8s4MLjNwGo7fdlnKAWUJakMpdc6Nab8lziTr_c7r4o4nlXVZgZ6MHXZpnakhCU3D_SBtBKVwR5jv8CvRk9aDu1X7DxjumXbpZuHc1Fkw5oTiZkQ7ie0aUHw2lrYaaGFHHv1taJeQ5i9LnTzXXF3ijU82tRueJJLSn_cm6HHNyizGTakebjw2lzh_mspnBWj_JwJCOb2XPzyT2kb275IOfybZ4qtrGNm_R79BGbZuaYfEsQ3AjRUEPvdJ1miKwhK-_3CeMWfOFJ0Q"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eگویا دیشب تو تبریز، یه پسره داشته مزاحم یه دختره می‌شده؛\u003cbr/\u003e\u003cbr/\u003eکاسب‌های اونجا بهش تذکر میدن که نکن ولی پسره میگه به شما ربطی نداره!\u003cbr/\u003e\u003cbr/\u003eاونا هم چند نفری می‌ریزن سرش و پسره رو میندازن تو سطل آشغال...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-19T10:08:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 165000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rH-Sh4Xlu4dkuWdpxcYnDtuG6nuNZivXNBW7AhwnNRf3mTIW0P7OHDDIoL5JRH6DjK4-8w4HmX5f79I0B0gwD_SxNNjHX1QDdGBT1gU0-3oQ-oZiyJkR6joNKQkx5NrPsGIMm7OExyt4kSGEYh96jgHqdv-RI-3PTY4iCiZw-MO-Wg3kB1elypicv4A_vz3zp2tSHe8gy2_aBKAryz1o3M4S7c664jUnVFq_Y4vo67FCsfUTxctPQS2BhaQt6KibFbY7PVGJ7iPu9tLW91BfyYDzqsexrgDqYexuQMaNCTOo8K781UOSD5Zbba4sKBv2wbBndg2BuHhm8uaFSrMcIw",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "‌‌‌‌شانس من فردای روزی که تصمیم می‌گیرم دیگه خجالت رو بذارم کنار و به دختری که تو نگاه اول عاشقش شدم، پیشنهاد بدم :",
-      "date": "2026-08-19T10:13:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 155000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DqJs2aleYWiYN0w9zcRNpxYJPGmKRndwbDw9FaVwpad_le8Oxor4DuaobhhzhE6rbdYgDyTxqRz0eZwWbLUhVYeJ3--Tea0ZRll5-DVmlTE_owNlHqmItlTOsUSctVScPeA0gucUZuKGcVfyRrXyIx8AWrSqhFLkUmZEcRqG3mJqg4PEgbTNGnKbVurxtHOjRZS41kDhR88_fUdIYKohPE-ggQ3jb4LD-7oY9BOct7pzv38RlHs4b8uW-7n8JFUOnk3j-JE4mgC55o1yOhFHRLhzIOvAl6DI8t-tZlEMzOlmQu7vBoIzIQ1jC4LKo6JtzhllMZEVKWrDJePiQWcN1g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eهمش که نباید کسشعر و مسخره‌بازی باشه؛\u003cbr/\u003e\u003cbr/\u003eصحبتای به شدت حق این داداشمون رو تا ته گوش کنید که بنظرم ده بار ارزشش رو داره.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-19T10:57:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151000,
+      "views": 153000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +31,7 @@
       "date": "2026-08-19T11:56:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 148000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +49,7 @@
       "date": "2026-08-19T11:56:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 149000,
+      "views": 152000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +61,7 @@
       "date": "2026-08-19T12:13:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 147000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +73,7 @@
       "date": "2026-08-19T12:18:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 145000,
+      "views": 150000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +91,7 @@
       "date": "2026-08-19T13:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 141000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +110,7 @@
       "date": "2026-08-19T14:06:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 141000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -195,7 +128,7 @@
       "date": "2026-08-19T15:17:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 118000,
+      "views": 124000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +140,7 @@
       "date": "2026-08-19T15:21:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119000,
+      "views": 126000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +158,7 @@
       "date": "2026-08-19T15:58:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 113000,
+      "views": 121000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +180,7 @@
       "date": "2026-08-19T16:43:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 101000,
+      "views": 112000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +199,7 @@
       "date": "2026-08-19T18:09:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 75500,
+      "views": 90800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +217,7 @@
       "date": "2026-08-19T18:09:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 78300,
+      "views": 95600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +236,7 @@
       "date": "2026-08-19T18:33:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 62100,
+      "views": 83500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +254,7 @@
       "date": "2026-08-19T19:08:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 63200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -333,7 +266,43 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "سلام من پسرم ولی میشه ی سوال ازتون بپرسم و چون فردا کنکور دارم ممنون میشم اگه جواب بدید چون از چند نفر پرسیدم و جواب درستی نگرفتم سوالم اینه که اگه داخل پاسخ برگ کنکور سوالی رو با خودکار جواب بدیم ایا برگه مون رو تصحیح میکنن یا نه یا فقط اون سوالو برامون تصحیح نمیکنن؟",
+      "date": "2026-08-19T19:23:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 46900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "دمت گرم این پیام رو گذاشتی خیلی استرس داشتم الان بهتر شدم فهمیدم رقبام کیا هستن",
+      "date": "2026-08-19T19:31:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 34700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "یه آرزوی موفقیت برای ما کنکوریا بکن حمال",
+      "date": "2026-08-19T19:42:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
     }
   ],
-  "last_updated": 1787167379
+  "last_updated": 1787168961
 }
