@@ -8,96 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969970473759419038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآلوارز توی لیست اتلتیکو برای بازی برابر مالاگا حضور نداره\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T11:04:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/GlzCZ8xOe_zYdhgJp7J70pNYMapILcaF6JlTXEioLcbjneVZsE0HG3olBegucubvIu400S4-3ETrkjmV1X5mTpmPssiILB4-Z1ElksTFmZoQwhvejMLJkOUkHQGEKE4LuY6K2fiNeKPZ3DRgV0Leg-NGX3jISo6XzemfN7BVU0_2us3omny3uRicD45s6WDfbex9wAlLVyq9PZcezS77-5v7m4B2LzyqPNMzRVq2D6-YWsRjCCq_G2EokgUz6i2mBf93dNufhNDIqgGgYKHFD07oK1v2Of-jqmwwwCJqPuBEJ7uGcPfczjecPW7GqMCMJx9EVdLp5UqBy1ew0ROwAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "من در حال فسخ قراردادم با دوس دخترم چون فوتبالای اروپا داره شروع میشه :\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T11:23:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/U2Q9Zkh_COqpdQsfuIWzxi2B1kHmp_cGz2cB_ejZxsYPx348A53GXebQz4lcSMLNfxGeCBlBDpJdZ31QtpAj2TJ0PWxM9X9GZd9khl4lBrBJSH6hnFFRskvyqYxNoulRSaCCmx5i4vr6WtIYoyki9c9oo5QeIJhe1pIHql_iq9m6Oi4CBIl9uJ-hR0HBMkPuYLiPcPunFjumuFC06WzRv3li-_5j2vCkERMN3Zx4UmYPnQ7mYNgMvhAl-nmFJrUaCHZgJTfSuOEnpGN24KYnXSOI0Lc6-pZ5etqM9rA_K0viNaSbRjZNigzGNg2lbQSizbJME-WhSsLwBpBQ_5-boQ",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فابریزیو رومانو:\u003cbr/\u003eداروین نونیز‌ با قرارداد قرضی به الدیریه عربستان\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eHere We Goooooooooooo!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T11:29:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mhcgVhAd1LySu0G_8tK3ZcB9mkLWXUw2w2WwnqXk42llbyHf9702gO2YHw_kwUuD71MgPXT90uZ0fbRGTyEsBHrGA0QSm4A_-_TlB3iJSgQf3njByDVBDUvl6JKVfZvRWwvwrbkseeBgGYPykFx1wQ17lqSacJeHStVds9nr7KjM1ShUMNRAYvBK7a5bPIrqHbeeX_D5dw90LpO-FWl3FiPTmNcdjjbjFDToao8gErvqObk1SjtqXykh5UrhGPCGq-jRb2RP3Fl9E1CxMhE8_tuyJHiF1bLzkR-2oMR6w_kvYb6vEshvgW6v2P4GMC6dUAQlEpK2vggvXbnUpsuk1A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "تاریخ دربی مششششخص شد",
-      "date": "2026-08-19T11:29:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "استوری یامال \u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T11:39:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/sQ3CjZiaGh1SlwlWi-QeRf1gVjGBIodVPvoN0huDrmzU4jec3pUyG5zJckCuZByCtN_dVz6lhDMMRpLsnmnzlaBSgo0MOvQdt3aRIUf9Mc13e7VESmzaLVSDkkc1T_gAHeYij-FYtywsIUlReWEpTYfXYhDvwL3-AyPRbPGFwTahrKhSYTZ5YHkCLqZ2siyt9M_AK9jPnvqBFcSGltkJMCmRT5VjN5elB6oOcdD8jhYTMxpJMZcQJajDRnw_SrFnyz4CyqSytivw30lxlhTx02-XhsI3QMI0GHFqMMBta8Z6DPwbU8fLLzGASvApIoi-ALqHP_09cSbhYetvfL1SOw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e معارفه برناردو سیلوا هم مثل ژوزه مورینیو پشت درب های بسته و بدون حضور خبرنگاران انجام شد \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-19T12:00:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41000,
+      "views": 47100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +30,7 @@
       "date": "2026-08-19T12:04:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41000,
+      "views": 48200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +48,7 @@
       "date": "2026-08-19T12:14:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
+      "views": 45100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +67,7 @@
       "date": "2026-08-19T12:32:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
+      "views": 43000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +85,7 @@
       "date": "2026-08-19T12:41:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30700,
+      "views": 40000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +103,7 @@
       "date": "2026-08-19T12:52:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +121,7 @@
       "date": "2026-08-19T12:52:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +139,7 @@
       "date": "2026-08-19T12:53:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 37900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +157,7 @@
       "date": "2026-08-19T12:54:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +175,7 @@
       "date": "2026-08-19T12:59:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +193,7 @@
       "date": "2026-08-19T13:21:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 32800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +211,7 @@
       "date": "2026-08-19T13:38:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6180,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -311,23 +226,65 @@
     },
     {
       "id": 0,
-      "message": "هندآف آرسنال: انتقال کونسا به آرسنال با 50 میلیون یورو نهایی شد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هندآف آرسنال: \u003cb\u003eانتقال کونسا به آرسنال با 50 میلیون یورو نهایی شد\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-19T13:42:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/E2Ii5LwbgYTU27iGMX0mRmcguYuFJopbeiycCGBK_hgCqUijWV4FI6QgaODz4JExz2GrGCLHWxBcQMnMxtDK9nCEwI1oU3IbnZf8EYF8RsHVwW6vbODUmeRPPbcr4MCIJI2TgS2vTjjFcg_S9_aMcFi89QnhJMfDy3PPu0Leo8mHhRKNnpqaYXk2g5ubND_bB_Md_3x6xlRqujXZvZtIajxj2oAyOQ-AiO87OGlMeDEwG0BCFM4woqADPGPB4ukMUIlJDRGBBQGXMjJmx3XO5EhCL4jz7CNEdnrsU0fIf4LujsH1x-WDNOKhxfDJu27Ges6yL_YOKhg7NBKoDPHDyQ.jpg"
+        }
+      ]
     },
     {
       "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969932931450286349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فووری از اورنشتاین : ارسنال با استون ویلا سر انتقال کونسا به توافق رسید\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969932931450286349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فووری از اورنشتاین : ارسنال با استون ویلا سر انتقال کونسا به توافق رسید\u003c/b\u003e. \u003cb\u003e51 میلیون پوند + متغییرات\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-19T13:42:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 25600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rSL6KOggoae6PpyDDOf3LV8YaM31gpndS6fQNpqv9F2ndRhZp5Y8z5z3j3C-wGML2vHkLW3BlTkXClnT44KA0fUc0CiqgsxWE_yslqAeRgQtxsv8_Hv4lME6I_mW8wIxvEVj0CUqBPXrJJwgDzwucsnpP4SfbIBcVWbsX4HhkLxNtpPOko9EvquUWBMdaEOtHPO1u8-wA8usDu5xuE0FrZEHcPtK0rnSMgMVuaXWJUjIqz7laT7eqvyZaUPxw9G5cwDkgAtn32p5P_CTkvuplAQvM1T08x19Rm9yZnQj0AOpcpE0LwTH3VDTG6hibfJ1xbBILQQXtP_HfLgQUBzKOg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5469654973308476699\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e فوووووووووری از فابریزیو رومانو:\u003cbr/\u003eازری کونسا از استون ویلا با 58 میلیون یورو به آرسنال...\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eHere We Goooooooooooo!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T13:44:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/i85DhWZ92_XxY2Ho0zwBylex9Pn-nKM1CTadaufHKBsd7ePdcBJSicbNvNgMIGeYG27RU8FMhLu7-Rhj-7hSFtduR3zW53FzCeJc1dP2nm4EN22FdrbmtbsPwZ9zFwaei0bmJox3cSkTkUKHOV-l2P-nFMnAugNJpwkgbj1EY4VziRZxVFYCSD24DRhnh-tXclRTnq_gTSIdoyVrUAFPB-lmu62Skweis_tS5I1HOAPp9JkpOciXWZJLSdXNJbkzFPcA8dGB3xLn2aXUrd56HX8Nn5fIpKfOCnjRolGlv82ieozngZtcV5LtBxfK_hGElkWZUpNlAVDmeuA_HZcxvw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جرارد رومرو: \u003cb\u003eبارسا دنبال تروسلدی بازیکن کلوب بروژ!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T13:47:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,16 +292,63 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5976390874341319242\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A3.png\u0026#39;)\"\u003e\u003cb\u003e💣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدیوید اورنشتاین: آرسنال با استون ویلا برای جذب ازری کونسا به توافق رسید؛ مدافع 28 ساله با مبلغ 51 میلیون پوند به‌علاوه بندهای اضافی راهی آرسنال میشه و پنجشنبه تست پزشکی میده. \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T13:42:55Z",
+      "message": "\u003ctg-emoji emoji-id=\"5856971593598637901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبه دنیای پیش‌بینی فوتبال و کازینو با LINEBET خوش آمدید\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5816770729772848966\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سایت بین‌المللی و معتبر LINEBET\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5856971593598637901\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e پیش‌بینی فوتبال\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859255781760700999\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB0.png\u0026#39;)\"\u003e\u003cb\u003e🎰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کازینو آنلاین\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5445353829304387411\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e واریز و برداشت ریالی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5193085063998224234\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بونوس 100٪ اولین واریز\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859744248391275144\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بونوس 100٪ هر دوشنبه\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5891003883659988528\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939E.png\u0026#39;)\"\u003e\u003cb\u003e📞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eپشتیبانی فارسی فعال\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5929540726831455687\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eکد هدیه ثبت‌نام: L5670\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5859645137725953745\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003ca href=\"https://t.me/linebet_tel/341\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدانلود اپلیکیشن اندروید\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5940331256637034364\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://linebet4434j14x03.com/fa/registration?tag=d_4695095m_22611c_site\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک سایت \u003c/a\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5260741665177480634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/+dukgrB6-zGsyNGM8\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+dukgrB6-zGsyNGM8\u003c/a\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5929009143024193319\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برای ورود به سایت از IP کشورهای آسیایی یا کانادا استفاده کنید.\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5805395289846063163\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5382084502858249131\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇨🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5447419223242449630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B3.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5373098009640836781\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939A.png\u0026#39;)\"\u003e\u003cb\u003e📚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/global_line10/151\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآموزش کامل سایت\u003c/a\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5415758949129404605\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e",
+      "date": "2026-08-19T13:58:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 3100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fqh2siB9dw7z-GH-sO030VHdDSAecktUAdFqQtc4Tsdx5JgrFuwhCsuDHvxOhkGh1Y7nSpGWg95nQQlEDrYLkzVwgyV34PblISpaWEHoST0XLcnrYhI4DPb207GSCGAaMWog-ISkdBfKoq65qP96ckEWhUq4CzU7zKJ1CO5ABlPHNdw7H1r_CJ4B1lM_ifQb5Q0uxKVm1C3mc_lxqMqDtcNFoiNHQrP4gBBckcwWad5Ozl_9AlnV-VftQYWWQpw8Px5WRVvsr6GVwB44Bnd9q59no6FR6_Oexbnva6L4oOoEmsTjRhLZe9V3Wb1ZI0yeVzoeRkxSzwgCkGY3wS66Qw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اصکی ژنرال فرلاند مندی از \u003ca href=\"https://t.me/SportBadir/6564\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشجاع خلیل زاده\u003c/a\u003e، بعد میگن کی لیگ ایران دنبال میکنه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T13:58:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FYMuQcQLDtnN22ar5y7OzJPbNIni7lU1Tshp-eP7IeNqFH-COFDSCRaSzZQVkhr_IzjM9-gyLtvaIBof_IdsBvs2KLTx8558EoMZZDqo4qzjrg5obhYhEGbo-vgvrd-rz0v2dv7mqQWGdtFNocE_6Ew1PGElVl0AP3NvfAbH5rH1EgrtZi_v7D3wzAxkoMc-IQlMaDs1NGdjeBQ9BEnBPwTcYiF240HaFDSNQYDJKYe2x0vVoMdALwv7cf-UhEck92NeEXV-JDeKF8jPVSCk5sSTN-pBCo_riBZbQDqFUeyHss_nbGBmJ2UXBVn3cmmJPDiHX7HEuoE1m-vmJQieaA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oh7NHov03gnPtwzgk9ZOT1owPrLwzboPhzhmCBNuh8LEDRLegGbsYtsbXwFPwdozq2itOFhYiSAcRDXg09RLLF-6-cTYDUdnbZlHh1AJTmODIgEcBbI8AuzoZsOvKjF6YRNmVVdoL8a0nLAlKcb4nRCjzBWLuvfSX5jSIHURTQUzsCps82LBhT0qHjwPqfyawnXN4n3-VA2sVlmdu_J3pN8is_SLEUmVSYWD5nytJJIBPSJA6J6AREPXboWu4eCsm5OgmLPjyoQAnjH7I_u71fRHou1Rsb7fnoepV-Vqfb3MGIjgYdBwjIlLTIcRU3JIZLSyI22Jg33kIPjvpQz9PQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5983519669649154100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AC87.png\u0026#39;)\"\u003e\u003cb\u003e⬇️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e عمق خط دفاعی آرسنال تو این فصل:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بن وایت\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یورین تیمبر\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5989967811424820848\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ازری کونسا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ویلیام سالیبا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کریستیان موسکورا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گابریل ماگالاش\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیرو هینکاپیه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ریکاردو کالافیوری\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e لوئیز اسکلی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T14:02:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/r6dqT89G3R3tz36WZXnqOZMCLtg9B5I-CVwn67dVmNc1s8i2peGEDeow2b_hADp1dO0uMi5RImcQJTrbSqdKbvZvAh3-CvTWFmsDOe0qaYAbXI7vGiP5xjni4HKwRikehnHM82kI225hlyFyxvshJeGvEfzVPBlIe1HWPu5kUqZBVd_x0IajkpWDFLDz9Z7MWS98-AxCeJBLsp2O1OlZ8BudMI6y478Un9jiqbyRC1TYNwMsb_3wnLDadECjGOX3e_O7GIe9KwQtasxyky_EeJWyHKRrE581aQRVOEp5YeglBMyHuRgVAWWJI7yvM3hHGoOJnwpHAsPWmGkFtxpkig",
+          "width": 852
+        }
+      ]
     }
   ],
-  "last_updated": 1787147004
+  "last_updated": 1787149946
 }
