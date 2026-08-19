@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5911386402582436271\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T07:13:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kqbs_3CmB81NUhKEyMfw73AIUkySjC0HU7k0YNCUDstfzZR2z-ykxyI92XBh8MDqiUUM1pepMm9DAVtSwP0ewUd-aHzClrZnmlTc11vX6oRSe6jOqdKQFi69nrXiaa31mVZkZCpaEDyTOd617HdlqUZ7veXTT2vx1oKbCYz-93O1sOhwAZhEQWWlMuuqNCYZfwridRebDvJVod8KZOfRfGkTzJeyjm8Q0lbKR0jzBF8xyMh8IyWbNwwqHjd0ytuCBf_ru9tTegBv1iAUY-kD3FjFPf2O8-UWCr5a_8JJlUbNlwcoMltiQf95eFVY3uncEe_1xwCxBv2zD_4RZsXh0A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969932931450286349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رسسسسمی، سوزوکی به استون ویلا پیوست\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T08:04:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ewhykq8xE8W_2B4S7C5quOI8Q0zbiZ7F_TW-Q2PqNU_zdwhy4HoM85qmqsqyYbyn5AVt2ZfnrGcceXB4t5EpQPfJMqP0X2Oj-t4-_bPwBh6UtDrbp7gw0K7EDKY2fm7iootpeo-OBgGCi2p9F9Rv9hNC__AoiCa-cs9_QlPZWq_QyPsL3lplm7J3Blb8Bfhu_UDwTjYhrifNVzsdiGfWRe8_za6EhD5k0ZjqSUcwyIVq7JikOG84vScRDUWVNAHwWSW96ClH_CyYdepOM7Fhp8HZ0pxSbCcL7gUwIG-n-jVIx6QJYfB10_kvxvIjpVo5hYfQVJAKS7CN_cPc6kZhxA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969932931450286349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e استون ویلا همزمان از سوزوکی و متئو روجری رونمایی کرد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T08:26:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/o9rVE2v5hr8bdEa76sSadqvcp1CJcdr0GhzeWip9sUemqvFtjD-3j5SRk-IS3v4kOu-neH4NJyvxfvFi8gk3CKAPpI8JtRlfM7-7vH2uizxqrUtxwPEUHsiuqZ9m807RAV8pd-m_DcGDYFRKefWrxjvlR_LVxa4XJnOGlIqazwAhumlqn6MEoI0oWGzuWNPcp7245qOYNcAplXjJZxWxd9VIfF_4XZKvGG6OvlE8_2NuXXtgV2zaHDU3iITqb0FRmV9cq_W3uL61rImovH1FGv2dexQ_zLYXdXR5dborH9um-G-J10EyoswMnJ1kCn0ufVkCcNq-MqZoKjX-xPNwNQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5972230451190832792\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eباشگاه موناکو هم اعلام کرد که قراردادش رو با پوگبا به صورت توافقی فسخ کرده و این بازیکن از موناکو جدا شده.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-19T08:27:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45600,
+      "views": 49700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +30,7 @@
       "date": "2026-08-19T08:40:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 47900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +48,7 @@
       "date": "2026-08-19T08:50:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 48000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +66,7 @@
       "date": "2026-08-19T08:51:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43100,
+      "views": 47200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +84,7 @@
       "date": "2026-08-19T09:24:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39000,
+      "views": 44100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +102,7 @@
       "date": "2026-08-19T09:27:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39400,
+      "views": 44600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +120,7 @@
       "date": "2026-08-19T09:32:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40000,
+      "views": 45100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +132,7 @@
       "date": "2026-08-19T09:36:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38800,
+      "views": 45000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +150,7 @@
       "date": "2026-08-19T09:59:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +168,7 @@
       "date": "2026-08-19T10:19:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23500,
+      "views": 32700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +190,7 @@
       "date": "2026-08-19T10:31:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +208,7 @@
       "date": "2026-08-19T10:31:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,7 +226,7 @@
       "date": "2026-08-19T10:34:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 28700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -298,7 +244,7 @@
       "date": "2026-08-19T10:49:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6150,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,11 +258,30 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972252484373060914\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5971897926232842105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیوید اورنشتاین: \u003cb\u003eمنچستر یونایتد به احتمال زیاد کارلوس بالبا رو جذب می‌کنه؛ پیشنهاد 65 میلیون پوندی داده شده، اما این مبلغ کمتر از ارزش تعیین شده توسط برایتونه و مذاکرات برای توافق ادامه داره\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-19T10:51:55Z",
+      "message": "این ترند داره به جاهای عجیبی میره \u003ctg-emoji emoji-id=\"6030768012166963593\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6030768012166963593\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T10:58:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
+      "views": 18400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HHmzXM-NNLRkw5ER6hTnT4sPd0Fo8Oe5JU5XEm6swJll7l-nVU8KQB3ZY6MDQtPxSBcGqzm0CTP6FdF6ArAqwkqrES8Zs9LQMtz--E4SEGpzdeED758pl7bqACMSAmztInByzyp2zYVYfsXKdozx7Q-P-yd5wTWqgWJ7Luhvc_7vXO16I2jNbnekGxbPCJHk3SdPZ38-CYNFsRSHd7S4F_xEur2eSOt9rSTLM2CYvEJhDAc2EPk1MQFjrsgBjF0aLs-v_Mj-GNwn6znDSZGvK5dRdP96Rd7c_gCweOWREUVZs1EHn6ZexEsVi5nfZ0lCHIuMhHKkZyu5PJvxdYmV3A",
+          "width": 576
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فوووووووری رومانو: \u003cb\u003eآرسنال به توافق کامل با کونسا رسیده، این انتقال در مراحل نهایی خودش قرار داره\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T10:59:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,10 +289,47 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/ppHwr7MelGvG-Gy-_rIQ1bPZggjOlCTAvI8KsFAK0RnfnsaSh64NFwXusipcVjYO6tbUcuTUWaNdbzqPh6q7mySVTGLbzX0oa6xgY01ZkMcik88kp015ZCW58gK9ROi_0vg4p3_OfWIv6TFWCHw7YxgtWP2rgeOEYuZJaUByOlQfdJtkxLqnTGK2xXGeJpLS0qc2KtopehrBSwKV8qHUMroCJxcoVBywP1D9mxU6Fe-7V3YihiL3O1TxFlRmJbqldVM2L0sicUQDg_wedFq6Yz0KLo8AMAt5KmGZeiCk55tdlMCj8FEG-goJYFEPNWK2T9NEiZTfR28TZ7OT21v-Dg.jpg"
+          "url": "https://cdn5.telesco.pe/file/mfWz3SPnnlR-RShJo11pEPOS_IL68zWbNQsZSya1Yqew7F6-IhO7smMSwbsy6OabJeKQXPVP_Y2x_rNKeBDZrpjbwsTtgBj-z1s3xDuV7Ny31XdnmDv9e06FNCh1SouZOluNZefhabsIPQX_ZWYyCQyPrOdyfs0a_QgXI_FtDemt5XXO3248TvV8-BYBTiqXl-F25AIg8ROR4EpoydvlpLQtoyL7_7mZDXayrMJAXNal9hrT_3kHppis_zOcjUbR3Z8616GuEil8GKar13IUgQyK0ZRzfAn-qrY7BBTFsK_6XNAqN3pUd1hIvXaLQ8LKodfVL6hRecvhb-tZfxghrQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5969970473759419038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eآلوارز توی لیست اتلتیکو برای بازی برابر مالاگا حضور نداره\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T11:04:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/GlzCZ8xOe_zYdhgJp7J70pNYMapILcaF6JlTXEioLcbjneVZsE0HG3olBegucubvIu400S4-3ETrkjmV1X5mTpmPssiILB4-Z1ElksTFmZoQwhvejMLJkOUkHQGEKE4LuY6K2fiNeKPZ3DRgV0Leg-NGX3jISo6XzemfN7BVU0_2us3omny3uRicD45s6WDfbex9wAlLVyq9PZcezS77-5v7m4B2LzyqPNMzRVq2D6-YWsRjCCq_G2EokgUz6i2mBf93dNufhNDIqgGgYKHFD07oK1v2Of-jqmwwwCJqPuBEJ7uGcPfczjecPW7GqMCMJx9EVdLp5UqBy1ew0ROwAA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "من در حال فسخ قراردادم با دوس دخترم چون فوتبالای اروپا داره شروع میشه :\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-19T11:23:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/U2Q9Zkh_COqpdQsfuIWzxi2B1kHmp_cGz2cB_ejZxsYPx348A53GXebQz4lcSMLNfxGeCBlBDpJdZ31QtpAj2TJ0PWxM9X9GZd9khl4lBrBJSH6hnFFRskvyqYxNoulRSaCCmx5i4vr6WtIYoyki9c9oo5QeIJhe1pIHql_iq9m6Oi4CBIl9uJ-hR0HBMkPuYLiPcPunFjumuFC06WzRv3li-_5j2vCkERMN3Zx4UmYPnQ7mYNgMvhAl-nmFJrUaCHZgJTfSuOEnpGN24KYnXSOI0Lc6-pZ5etqM9rA_K0viNaSbRjZNigzGNg2lbQSizbJME-WhSsLwBpBQ_5-boQ",
+          "width": 480
         }
       ]
     }
   ],
-  "last_updated": 1787136978
+  "last_updated": 1787138656
 }
