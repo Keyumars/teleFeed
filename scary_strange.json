@@ -12,7 +12,7 @@
       "date": "2026-08-16T10:05:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7880,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-16T16:23:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 7900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-08-16T22:27:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-17T11:28:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6570,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-08-17T16:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6380,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-08-17T22:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5500,
+      "views": 5550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-08-18T10:40:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4930,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-08-18T15:11:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 5390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,11 +146,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A36p7jSpuDA0Qc_iQJcQybeoWq_YsMS8FH-nndD-AeMPfe6YqQPJ30WOFbAnBuny21GrwEpn19jlDUUvXtwPfMEvaVq2igA6DIlp9NPjowujltJpN_fcbcfwqZ9vHy4744qUIu6XjhfdEh15WLNgBYIe-_2wmTZG15u-4eiztwp3DrSm0Oo9JT5vvEWGcAfZYwtdnBI2h5HgAK3Ze80zg5K8FcYI4lkYAn7drWrzFoISK3sqk8Wqyn2P5hbUsrId4Euj7hMKu2zPBA07MfxrTdQ1k-9aVva7LKwgWWqs8Z5PqF9YThC6bK4S_A6rPshhVDwoerDfEGPPNTvjLX7J-w.jpg"
+          "url": "https://cdn4.telesco.pe/file/e51vq-Xhya_aE2NIIy8cdH-2ZNS3d_Go1uodEG7b3qn56q7uGYbgkm4wPVJcEHmN6Fumz_pTsekJpnyKuU6O8hSpLfixNkq6_A8GJLcLo0KkF-t56FC9UNqEh4KFzQw5_nhn9AaZ_2NYSTKzFt3NGveui4bsNKqEZ51ZBvCDDQ4pZvVxpuEolQN7A04SiU3MGQcbl2aLhkq4N-9jdPKOj4b1xUmlJyn1I0qH72WmiD7zKQZPpDmgjp6tmR8MXxpTHaXFpNdNo7WpoZNIFUCCGrotsFoivlnw40Ni98-RRyRoQnR0RbfMuLPuVd-5lk0jirSW0fJR2ES6LMtJ_KzEUA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AgTtegXs4kmG24zowo5ZUEwRyAq9wonXvU9svDhgNOSXOC7E6PHqvJb-GvHI-ApYxpWKWQfC_faoS0127luVEbsqgcu4RKb-rkVFmrO-4BjoU4nzaaG5EQIO7B9WxrtObXiQP20GcX2HEisW6baPbuCZTyIi6SxgzMGqfpG4DWymQ53K0UmpMKZWzauIcb8MgovDTBiUkKZRZmJV56HsO96h2UybL8THnyy5VNkrZqWpJ8Io1CGCNWInfu2owubBngpcNO9e9PHJrrvcDtsnzPy6qSPJHtDiYPmVUyB9Okp0cxmWkQ9xUGOmiagOmpJkrlFbYmIrR6I-VUr4iUxfkw.jpg"
+          "url": "https://cdn4.telesco.pe/file/t1WKkPaaIDTyqwp3z4hyNoI1ztc1G8fe3D2I0jysr3uP5V06POYulbsxeSc8Pll9DBeK1ixEg_OQOQg0ewzD4aROcOYvT1q--ZfBcJpHo7wNnNqaHaYOzxDPWITA56VGjQsGtQRz2iHMmTpiVVpKSUjqEZtglyaCSxTFpBq9o7llGd8zlLDWOPR28VSmDqTOTJG0pw4gH0QfH5Zx4w6DdfFcab4JYn5CzAJ9bLAriuA0Y4-s-JNUGFfZo2XffV0f9gYWZ6aT30zmNWUwoV6OHtUxqQPR5p9TJwvgpgHAilOxcoYsua5p-nB-CQD9gdwhcqI1J7dhP4ttofdvpGMG-Q.jpg"
         }
       ]
     },
@@ -160,7 +160,7 @@
       "date": "2026-08-18T19:47:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4540,
+      "views": 4600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +178,7 @@
       "date": "2026-08-18T19:50:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4790,
+      "views": 4850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +196,7 @@
       "date": "2026-08-18T22:24:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4620,
+      "views": 4690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +214,7 @@
       "date": "2026-08-19T10:45:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 4210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +226,7 @@
       "date": "2026-08-19T16:19:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
+      "views": 3720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +244,7 @@
       "date": "2026-08-19T22:34:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
+      "views": 2500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +256,7 @@
       "date": "2026-08-20T11:07:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 960,
+      "views": 1190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +274,7 @@
       "date": "2026-08-20T11:07:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 969,
+      "views": 1200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +286,7 @@
       "date": "2026-08-20T11:07:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1290,
+      "views": 1630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,28 +300,40 @@
     },
     {
       "id": 0,
-      "message": "\u003cb\u003eارتعاش اسم خیلی مبحث مهمیه\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eهرکدوم از حروف الفبا داری ارتعاش و فرکانس هست \u003cbr/\u003e\u003cbr/\u003eاسم ماهم مجموعی از حروف هستش که ارتعاش خاص خودش رو داره\u003cbr/\u003e\u003cbr/\u003eکه این ارتعاش هارو به جهان هستی میفرستیم\u003ctg-emoji emoji-id=\"5780471598922337683\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C8D.png\u0026#39;)\"\u003e\u003cb\u003e🌍\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334991182890021739\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA7A0.png\u0026#39;)\"\u003e\u003cb\u003e🧠\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eبیا اینجا ارتعاش اسمت رو محاسبه کن:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+5kdc1G1x8lU3ZGNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@esm\u003c/a\u003e",
-      "date": "2026-08-20T14:18:45Z",
+      "message": "من سالها گواهینامه گرفته بودم ولی بازم میترسیدم ماشین بردارم و همیشه با اسنپ رفت و امد میکردم تا اینکه  با اموزش رانندگی  این کانال  اشنا شدم و دیدم چقدر راحت میشه بدون اینکه حضوری کلاس رفت و فقط با دیدن ویدیو های آموزشی‌، رانندگی رو یاد گرفت و الان دیگه راحت پشت فرمون میشینم\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+-I4Mv1VTDB9mMDVk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@rannadegi\u003c/a\u003e",
+      "date": "2026-08-20T14:42:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 153,
+      "views": 452,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
+      "sender_name": "حقایق عجیب و ترسناک",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ApKQxUc-cvJFqvQzhYuV7zGVU_gULytkCwD5RHA5Pr6tfns3Q7FDGt1EsX_P1xJVBn1fkbVPJh54q4klri3ypPA5dUNq0qW9h4fn1sYYlnSSsAjpKlpx3lNsxftRFn5oAT_H8iIbGlEBzVJOb6U0kgpCGOofe2R1AWQGr5KS7iBj5q383Mw_Xb9uTPkHZywPVhUbfGrTHK9CaQT4ugUK2EIo96ra6XXrm9tSmvYESfdYYXuaY-ir7-1YG7cZksdabZrbtcvPWJRR9BviGtlPPJYlYAbjOjafXjD6OYsA19BGSIJzi5tBO0hTrRstVx21Cz9IR2w9FisUNvvxRt2cGA.jpg"
+        }
+      ]
     },
     {
       "id": 0,
-      "message": "قرار نیس همیشه کائنات همینجوری بهت خوبی کنه ، درسته هرچی بکاری درو میکنی ، اما یه سری اعداد هستند که مسیرت برای رسیدن به اهدافتو هموار تر میکنن و انرژی مستقیم به کائنات میفرستن:\u003cbr/\u003e\u003ca href=\"https://t.me/+5kdc1G1x8lU3ZGNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@enerzhi\u003c/a\u003e",
-      "date": "2026-08-20T14:34:59Z",
+      "message": "این عکس‌های فوق‌العاده دقیق، چهره ترسناک مورچه‌ها را نشان می‌دهند\u003cbr/\u003e\u003cbr/\u003eیک عکاس با استفاده از لنز اولترا ماکرو ۲۵ میلی‌متری Laowa عکس‌های بسیار نزدیکی از مورچه ها گرفته که این حشرات ریز را با دقت و جزئیات بسیار زیادی نشان میدھد ۔\u003cbr/\u003e\u003cbr/\u003e-\u003ca href=\"https://t.me/proxy?server=77.232.43.253\u0026amp;amp;port=23\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروڪسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e★\u003ca href=\"https://t.me/+hA56yS7uKNRhNzQ0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e𝐒𝐜𝐚𝐫𝐲_𝐬𝐭𝐫𝐚𝐧𝐠𝐞\u003c/a\u003e",
+      "date": "2026-08-20T15:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 294,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "حقایق عجیب و ترسناک"
+      "sender_name": "حقایق عجیب و ترسناک",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mkfRE9zpEQ5SAfZNSoJir-L8tN_Zi-yYGrb7t7fouProF3s6tHVFYuTw3oB98u91QLF_b0j8DxM2fD4fcXFIhSf4TKyGjOaLb9rCWtxEXRtWg0FW1MBecW4s9FPUcSiU_XL6p0corRVKq7rDQlPGLz0yXPqrpKLmBtJ-Ca5q16xo3vaer4fBI8i65CCJ7i9WnTKHyBSHH4iOqFD02Psh-IzhjEfO-da2vLELDYIjFUqM2jyKwzLXThy2E5yU6eOS_tCS1RDVXZ0a-dsvbZInaVVeJI8UKR4JXH5gxDbrNV4fCRjOKQSJEjz2NFDjjaRI5_A_WPqGscTsP1ffkvkfyg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787236514
+  "last_updated": 1787239960
 }
