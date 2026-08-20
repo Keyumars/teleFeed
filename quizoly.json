@@ -88,7 +88,7 @@
       "date": "2026-08-19T16:34:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 532,
+      "views": 533,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +154,7 @@
       "date": "2026-08-20T06:38:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 486,
+      "views": 487,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +190,7 @@
       "date": "2026-08-20T12:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 717,
+      "views": 718,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +208,7 @@
       "date": "2026-08-20T14:59:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 433,
+      "views": 435,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,12 +226,30 @@
       "date": "2026-08-20T14:59:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 438,
+      "views": 441,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Quizoly"
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003eاز حاتم پرسیدند: بخشنده‌تر از خود دیده‌ای؟\u003cbr/\u003eگفت:آری! مردی که دارایی‌اش تنها دو گوسفند بود. یکی را شب برایم ذبح کرد. از طعم جگرش تعریف کردم. صبح فردا جگر گوسفند دوم را نیز برایم کباب کرد.\u003cbr/\u003eگفتند: تو چه کردی؟\u003cbr/\u003eگفت: پانصد گوسفند به او هدیه دادم.\u003cbr/\u003eگفتند: پس تو بخشنده‌تری.\u003cbr/\u003eگفت: نه! چون او هرچه داشت به من داد، اما من اندکی از آنچه داشتم به او دادم.\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-20T17:49:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 67,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eUSt9n4iDZLfci_yP6HV6bqrM0RKGEo-Vw6cR9yCNVkRTVYwdjm_VdLr1z6gzlQ4P7PB_MwBQxxS7z5rcfhN8E8HrfYGFc9pq0XMR0LhD0BfshF8nmhOfw-HLFuKbkvpRyde6uQq3eq5Z-nJSjTySz1ggYEG8aEQRTtp6iOUEouc_c_Oj7-8rK1JMdwyMN6_c3HflZbx_vDaSVDfr2s4ahLDIccujmaJgY2-dWdIPNl01oufTbzNzbjKHfGMYaTahRzXzH0W2Qx9T8CF8eyKYv93_6U9IA2oj8zm2PgA7SPrx1-ISczh6GebvHxh4d4ZMy-Xzy0yl1aOihdIhnITpw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787246791
+  "last_updated": 1787248584
 }
