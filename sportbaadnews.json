@@ -8,282 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "چ استعداد هایی ک بخاطر نداشتن پارتی حروم شدن",
-      "date": "2026-08-22T17:39:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "تاتنهام بعد از خرج نیم میلیارد یورویی:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:06:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/IhC1mEo7bw2opB5fvhUr-Hlix6tLQWaQJjIOr9bRkACLAOYeJvlWdI8mwjgVV9wE3EVUcTJ1x0TboQKTJeeUZu1nu8V4EE-VoTwAa5PgpxKQNQES7DEQU1gTu1JjXH1e2YQvrAiLS5K5OsXqBHcNzewLdJ-ikYmq3tx4B2B9AM703Flh-DvdYQPgouvmXbIjsPftKJ8dNztX6acnq-A4SDGLtsvvM9Hx4eZYctYQfEAQ_MCqZ8-kvFsVXPTRUMytN3tX2-0FQ6SDWzEdJb2G_eb34hDPyg2AoEv6bpqeKfI2PQhPW0ULcN_uIMpvb9yxdDnFTDBev9tkDBSJMwEkiQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ترکیبب رئال\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:12:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tjYyipNFbM00mXB4EHAbbO4uSj0DcLOSHPEuEqkFSuHFzp3mWzgQJ4xiaF1AZBI5_wsO9wJNX3wMLKVk5zS7UDmtwcmKQ-0nVuUYDJ1f482xFAUj_Kk5ELI5OUyvf6C6Yb8THNNWCO-BgQ07Tzl_zZV5qK_kS7p43Tks9xw8HMT6f_Nrp6aw3xx6XFe2hI1qKzQ0vJ454okQMW9PoViG8PdKNXC1RUs-MavMDEMtZPIaKep4bcm4JbDIXUNrxRUNHBGLEf6U5RrouCBWJahcOVyGxhTWNlVZNaAqBYTyPljOlRW5ggL5fT-kRktRZyH8DavAsfNeVmcOwxMd6HP_GQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اولیسه کو \u003ctg-emoji emoji-id=\"6111558112236276947\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F989E.png\u0026#39;)\"\u003e\u003cb\u003e😞\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6161243191564569536\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98AD.png\u0026#39;)\"\u003e\u003cb\u003e😭\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-22T18:13:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "شماتیک ترکیب رئال\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:15:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b_PaTnw_CTu8LY0njBBwKokHMnILlJOpNfZ6PdPmJGJBfpfYyq_WHN12lp-Du0UC1aMd5kT8So_LKZWnl_utgb8lnesRceUz2kc_DkqvMD8IfkltOW26O_NZ-D17i0MIWyLOHxhxSUQa5IjM91lkSSLs7USfVkTQLBdM9AHdzqX8o7wlck6D3VirUjXuRv8UaYVAOUZZjpTPZKpz5gNX9mVNZY0zlYMD55C7lRc3enU96XMuCDoz9JGT2Y6tTogig3AwgMYagidg-9lqhS7ziPog8yaFcWxAv2Z2PThvoLAncXydwLyDsAd4-oVgzGMyEKRHrdwsyGLPYUoXin_46w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "داره گرم میکنه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:17:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/RK1c4UCU0dsPDk2slylUUgEJS-EEEBuoUwnhs7R6yHP9-PUvvCz4Xyo38TFQ0iElGPnzF96Ov7mFYdeYxv7FfklMPWAYzHSc0700eqC2I2-X-tP5zhG1HQBAHkmPrAgmlUu80a4UFkezX3ewjeaprBCEm_It6tGohd20dcyEUzDzUfaiWuXj2HXWm69m8gdIYaVBqDoQb2bvqCI2s1XAqKNXGeHJSugf-kvSNuMQwugX-FHyotZmMoIwcyy8x8ZnO3F-qp9WQnVB5jNshuCHBSFC3YDv-q6zSzUdT8aYlzy-8yB3JFBVyMyo_2nnifzzz09_fC9uTGWmvOq4N5E-_A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969627799793704327\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eپایان بازی [ هفته اول لیگ جزیره ]\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969919041526046520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تاتنهام \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233578844593594393\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/30E283A3.png\u0026#39;)\"\u003e\u003cb\u003e0️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e×\u003c/b\u003e\u003ctg-emoji emoji-id=\"5235824798956791363\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e برنتفورد \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969776216683585228\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6015109059621952952\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مشاهده گل ها :\u003c/b\u003e\u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:23:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GJAnGX5PZQDYleBTC1RGXNOnvWEndR8l_pJ2rJ4vvBHUVjfqVaEPEDiiGi_m2sMJ7kYbbOeZUDlLvsyiahTUN9k2fza1mx-LtK_p-3j4ihksccphi8xB3uGCgyeSDUATjRahC_VmZmYMLh-7IyHdZUi1o5t1k1-t7-4yP_1Ow7j8CMRa1gKet722D09ADGJGK4cknBCA8dbLaE1JSWns4sW7VS5a0Esd-qSSro6r67FmfqWKNgPzbjAVQEomCmLc_UOOsHPwL1hLanFDcqpEWMNiD66PBMm70T_lknhmgyZrsXbRBSFrcZg1E6eI-g--Fg7_raZv5bXhrRCiE-GUug.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5969528899581779968\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B9.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e پایان بازی [ هفته اول لیگ سری آ ]\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5969703378333211812\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eاینتر \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233740739090848096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/34E283A3.png\u0026#39;)\"\u003e\u003cb\u003e4️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e×\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5233693563170069641\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/31E283A3.png\u0026#39;)\"\u003e\u003cb\u003e1️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مونزا\u003c/b\u003e \u003ctg-emoji emoji-id=\"5969702682548509748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"6015109059621952952\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مشاهده گل ها \u003c/b\u003e\u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e:\u003c/b\u003e\u003c/a\u003e\u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:25:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/Iv66uJEhG585tpH5EV_fRJ4jwJSIn31kK7O9nWcEsV8vebOudFzUcDLH8y4xxbG2wes4T_JfiTcmMLUzZzGOijleJzaFYdxprv6RFtWJXRQi0VLXkLT_gGSTH8_dTCoG-yaQ5QRnycwNqZLgfk216IcmPKvbtbDIjn14e7vkVDqRWawBj4h59CqpoS7ylR28qIGdd94UI8qNxNh9oVXUe3NxQ2xIimVUpw_S906TPx4_cIgOm_QB9ARd6OIvnlnYAfKFIfmA0ry6AITl1IcyjzldXe3vH6O2E8AqLIOOfRqkvfwfNxuP7PkD_Z3jk0ROYTC3B5wutWoMe5AY4HiOnA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5969919041526046520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4987767712940819293\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تاتنهام زیر نظر دی زربی:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شکست برابر برنتفورد\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیروزی برابر اورتون\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شکست برابر چلسی\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990169054925816727\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مساوی برابر لیدزیونایتد\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیروزی برابر استون ویلا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیروزی برابر ولورهمپتون\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990169054925816727\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مساوی برابر برایتون\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شکست برابر ساندرلند\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:29:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/XrnVYlTEbTq7RK5h05tx5iiVLnNaoAJRnSxs8sD35e7cJJ4yr4wIiBAUfnUxHxy3wcE1m3S0WTnpFMXBAXF9g4fLbqDIlgo0i2X_Vku6N0F2AqLDxsDDXO6LqvLGJ3iwfihHkutyA23G1w-Z3_XHPa1SUUq7scdXYEGc0yXveVBDijvNW79s6Wa5FBZmy4nERu9Y2YIOMu1PWph3ZsNDpgoW0Kv2LEnh1maHLH7GYHLiRdwvtXMcj99N_eXhmtXL6VKstXmA1RiESuiv3tMMFzSkvOsx2vy7fL3S8HibuDeO5sFbaUzuq-wNJUebM3KtxaNxth1fBVlY-s5rHTDL3Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یورگن کلوپ دوست داشتنی تو بازی بایرن، دورتموند حضور داره\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:30:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn5.telesco.pe/file/pZiTPYyZxZRAw89Ce_M8cuZxdO4NVrzsLNBXSrLsj-iFvBF3kD8PvPI6wQi5fATKT575mASZ4SPLsg5ijQJ_QRqBpjdKojAibq4vtsB5kGs8H4Si0T1tZ9RUWkVGQfZwDn5oNsVrtdXFoPmi5PXcvdJ9VRNq3mrLpEl9SOECT4xeQbm8rRSnZgTI0RYS_ZsiFr1Md7TrAvF8ZEPLr7zi5oYh_kusFiZIC8vBTctZpfWBShkRj814aB1gO-ffNP6dOsVvf96GsNs9lTWpBTrG_7OPy0d2qyrDi3fVmNrIZZE-5Qt81omL63wsS-DvILrVrPd50Pdx6VRuEPDZEJOzUg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5237802377993539388\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eشرووووع بازی | \u003c/b\u003e\u003ctg-emoji emoji-id=\"5972108899321388887\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e×\u003c/b\u003e\u003ctg-emoji emoji-id=\"5969994671605162052\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990036426335716307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003ca href=\"https://t.me/BadLiveBot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپخش زنده، بدلایو\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990036426335716307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:32:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "لیگ جزیره برگشتهههههههه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:34:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TOYfqatwbt_t60V9cFLXU8MhHvIuznkMyTV810uRBP4VW9VrxHDZTNjGn7Gfmd8o84e0XywIrSFBCJQlZBLCnOCKQsT4iRsg0vUrAKF0Rgni9YYSuK5ppoZd9FjikQpo5GOcKxDc-pSQQc_Q83nW0OSN4mbIZ-lg_EohFcXWphbRjSN8k7nFBFnveRi3HE0It3ju4vpREVZ7q-zvD-TPU3QyMhxJGT1yGjcFDUX6js6eZd-TfyDEVEdAaKstfwv09G3n5BY4mcgiGT_MpdCmLuSfYt5-MAamEYF4f5Kiz88punZEpvJLE1TPYPwfVw6iqqCEHBrNevEVpkcDyipRqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رشفورد وقتی بعد از یه فصل بازی تو بارسلونا دوباره برگشت منچستر:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:36:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/t9yeN63Yo0pPG7xOwamuFG8jiGzzw7k2I99m58ad40DrBU9YbNRGUk_xAnv60R2KupH0pWTov6juSG9Hm8hedYT2LYiODyUTdk4NII0Np6CANxSwfF-rgxrmSQOOq_3j3Xv2LO-VajAq8vhj04u5SHA8npgrEN2xNhO7oH9ip76UCv88UBQltL0yNWZMXgT1P-eGQEeQUWv4I8QY2hz_ijoKDSqP7IOAfAlN_e0d3jGmjDGgptioTGbdkkYQ3ASe3CRx_fuJngxKY7XH3SfoG2uXviGQ5ZrzjdwRKhuMGOYlu7DLEKN6sVfP-8VuqXVqgAJk8jDx_p2CdNswNmjaYg",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"4981038280872035186\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5251538220277047773\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e فابریزیو رومانو:\u003cbr/\u003eفابینیو به ترابزون اسپور ترکیه\u003cbr/\u003eHere We Goooooooooooo!\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:40:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z-ZvjpcdRlrd11rUecGb7mRdc_LdC59ckIv9l5t36R5a7QMJYZSvRr1NfuEgawjyOu4d6NGpT4jpRwDUxnN3Taa5lkIfGASxyE8vNQme0qiwPNYb010dg1nOuxax03sbPcSmw6HghxGvNcCG4sNa0mjg7s7Tz3ZAlTqg82ago52Hfvt1HAMOFKjX4-LSd5xb1DjLkDKNyVudiRUrZrL_4XeQvA2v6wauECXgIHpeXYX2mqZoCwoSLx_vHlqyj0OfOMdJ1ZOKcaz2Ce9zwXLerkMfjJZNgVdj1cGtF5R8gVw1-y2SJlfp_2ShuTXeN-nN126TY1qvYMGGNrrQRHuYdg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5334608247900896199\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سایت جهانی WePari \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5334608247900896199\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e                        \u003cbr/\u003e         \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307979025463941731\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307530686712816454\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307709851273566053\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307877415127651077\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e         \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307979025463941731\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307530686712816454\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307709851273566053\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5307877415127651077\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9883.png\u0026#39;)\"\u003e\u003cb\u003e😃\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5334608247900896199\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبازگشت باخت به صورت هفتگی\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5334608247900896199\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eپرداخت جوایز سریع و امن\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5819078132233149587\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EB0.png\u0026#39;)\"\u003e\u003cb\u003e🎰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eشارژ حساب از طریق ارز دیجیتال و انواع ووچر \u003cbr/\u003e┅━━━━━━━━━━━\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5802910664150226061\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کد هدیه ثبت نام: Wepari2 \u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5902266357356957306\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91BD.png\u0026#39;)\"\u003e\u003cb\u003e👽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eثبت نام کنید.   \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/wepari2/11\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eنصب اپلیکیشن اندروید کلیک کنید\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e \u003c/b\u003e\u003ca href=\"https://t.me/wepari2/12\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eآموزش شارژ با کارت بانکی\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://t.me/wepari2/13\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eآموزش شارژ با یو ووچر\u003c/b\u003e\u003c/a\u003e\u003ca href=\"https://t.me/wepari2/17?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003c/a\u003e\u003ca href=\"https://t.me/wepari2/17?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eآموزش شارژ با ارز دیجیتال\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5343789187172670307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eآدرس سایت\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"http://til.ac/0L4vyJf\" target=\"_blank\" rel=\"noopener\"\u003etil.ac/0L4vyJf\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://til.ac/0L4vyJf\" target=\"_blank\" rel=\"noopener\"\u003etil.ac/0L4vyJf\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"http://til.ac/0L4vyJf\" target=\"_blank\" rel=\"noopener\"\u003etil.ac/0L4vyJf\u003c/a\u003e\u003cbr/\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5406809207947142040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e کانال تلگرامی \u003c/b\u003e\u003ca href=\"?q=%23%D9%88%DB%8C_%D9%BE%D8%A7%D8%B1%DB%8C\"\u003e#وی_پاری\u003c/a\u003e\u003cb\u003e :\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5334857420428573419\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wepari2\" target=\"_blank\"\u003e@Wepari2\u003c/a\u003e",
-      "date": "2026-08-22T18:47:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/SDLTbYGvNa8OrzZvEuz3s-GYLinfmeUN4bN9bRHL4Nj2DO-1buMyOfXKkixVzpDKUtpI56-Embl7aK2l8GaljcJ9ChJecaNoeQ6o0PnBGqGmYgekMJZxumAi0SvrHHYZH2FUlI5DStkWf8dc-PJh139FeGYpVXJ-fv9NVqTaAqFrNXPuaBBIdJ1MJyVbmW2J1kcVd9mmTqd4h5khnOXCsq9pEPL3EteaSsQrhL_zNH36XuiL1BLA8L_19N2b7g-Oz8eJ6ZUc2t3gWijSdcDg1qEJeT5HuceJaSuujpVI8G5Yeuntd9deo7DU4GLdejVchjwymbKl-oB9jU9bbJUdiQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969647784276533459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5251538220277047773\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eممد و فابینیو دوباره همتیمی شدن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T18:47:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BjCCldvmlgC_LL39QlUhw8camp0cNGrNBt65h9KxJ63zOoXdM8EGSt2IRPsb3i_4ulkpJkacg2KXxb8L68m9AEpGkK3_oOOyR1Fv8kL9jPhyH9z-N2_Pl7BGc2abY9Hlc_ZRooVqINhEOXIUBWpIQFdhn364aR6bVkXIJVPGzrY9rwZCLw6vFmlSTl3LLWlsvf81fb8IjsHlJI5xISYPA9rxCSupRRe9yiIkVtRdFlHBKywHWkuCBkUjwFZZu6ubX2X4nX4fExXUB02jY2hDuTD-xJeL14vGaUZptbGIOEehFhMUTJCe_DBx_fEvrptOg7Hl85R9bv9yQFWjyYp8tw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "بالده قراره بارسا رو‌ ترک‌ کنه:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-22T18:50:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 27700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +31,7 @@
       "date": "2026-08-22T18:55:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6170,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +49,7 @@
       "date": "2026-08-22T18:58:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,12 +61,233 @@
       "date": "2026-08-22T18:58:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4,
+      "views": 24600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "پاس گل از همون همیشگی اولیسه \u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5913278975626450113\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-22T18:59:46Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 23600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "گلل اول بایرنننن : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
+      "date": "2026-08-22T19:01:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5969931204873428854\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e سامی مقبل: \u003cb\u003eفلیپ ماتتا از کریستال پالاس شکایت کرده؛ ماتتا ادعا کرده قراردادش با کریستال پالاس تموم شده و الان باید بازیکن آزاد میشده اما کریستال پالاس اجازه خروج رو بهش نمیده، کریستال پالاس هم گردن نمیگیره این موضوع رو برای همین درگیری و تنش بین باشگاه و بازیکن بالا گرفته!! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:04:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/M7FkVft4eOYazzkcfMbLOueIUlF4T-OVDMPjcIbL8SCr7E4TdYcHMRSk2rAs2oj9P5z2VXP38ITbJ3YuLxlSuUJmi8OiuPOUgWYnlmzQba2v4KI-kaY4pzblgV-X5BbS9-z5nbRPnarDXX9mwp0sTIyp2F6Ug7UzKqh7SSL7Ok0Ol1hj_xsJcKuaR5QJigGk-2p6w2E4pbU-OpWOfECR8s8RmA7U9kMaryQ0hzbej4Lw4wR135eslt7XmY30GE7DWjFNTh_WN8vuo_IZF9fAFbz2pUnbVSMADCga0zzb76f-Y953OfPvEfL0amLh7ia580DABUNaqGHvFLbSGXAvhQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5334665890656954850\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:06:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/tODBkxYRaOf3Ey70tgGrb3FLe8gTGQkKWdt2j0liXgkwPuWqrdUy-WDgeGVXRDx4_I0LvtIe7GcRNjPaTQEuvFtEmkSZbGt48oV7OQJBCt4hVdJoDO6Ykqg78R5g9Xpc2XWz70-B6U3Uq9E_hrxbY_OcCT-a0_JAokkjBN_uMXM4MkMgo7xGrS-ijK0SVfxW9oX2WJQE4wQl8iG0JHwPr7S_lCinSIjh16rgAabWIRaRCVP8iY0jQ1EplT3j1fvQqNwJhSPJ1CflhtoRJuALHiGCIcBSmEU1kl7M5qit1N3N0tz3aFzN69ksw8S1ee_ZpVRdniM43FHqzcdlKiHeWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "واقعا این حجم از بی احترامی رو قبول ندارم مگه وینی چشههههه؟؟؟\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:09:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/WHvzpMKdJ2uJ1ny-PRup5vTWiTGNHYQfmXVnifP3SkGXNWp0Ja-eQqbDSsaKPGhne6kspxGiXyRozVBdJTLgTzbmbKr9XqxjmArHRpdSkrmSYMfQsYGqtYyYrSLS6SknhdsYYOc1YURikzt_382_-oLnthDi6kw3mUxpL2pDOWKWPaNJMBe6big7Ah5HRsfZoC2qL9Pl7whgrnRzFzGqgrnFAXvPHcttCHaeDg4c8lZ3j303KstElfDX3mh3GtmlaPxoh6BvAvhaBAM-4NLR5H2lE9ZpM-EJ3Fg0xsds3wcIZhsHRyxaZGOKme1RqYAJa5r0o4N0ukoUGZP-HCbNUA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گگگگگگگگگگگگل دورتموند زددددددددد",
+      "date": "2026-08-22T19:12:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "رد شددد\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-22T19:12:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5856934545210744830\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eجرارد رومرو: \u003cb\u003eبارسلونا در به در دنبال دفاع وسط میگرده و امروز ظهر با چند ایجنت تماس گرفته\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:13:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5969994671605162052\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990519099055408115\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e صحنه آفساید:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:15:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ee6F_s4l6qzJStKFtZEM8uqswKXhEjNOLfyANcEdu7zamIVGXGBm1GzTopaTv8tnL9uLG-VUPsh0bpiR4woQszR_1HJ5LDbKR11VGjMQ68yTTP2dht0yod9tedLWKbRxdhnTeW49Fwo5fHbqmpU7oSEQvEr1kkGebAQKktiBvJlMQZuKfJLM60LHK15NhBPta2WzZt6_Ra6ZlCeKzNDzRHdudASX8bKTaKnLhsWGdWFzJZX5Ev9kyn2JhtSIGaklvT6wKiY-7cKT6TPZiuxd1IODYK-qGkq9yGW_ixlPJdCEQ8sJF5ddneZh8iENe84q6HJBcyAb82u3nf2Hz5_D3w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "گگگگگگگگگل دوووووووم بایررررررن موووووونیخ",
+      "date": "2026-08-22T19:17:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "اولیسههههههههه",
+      "date": "2026-08-22T19:17:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "از ا‌ون گل خوشگلاش زد",
+      "date": "2026-08-22T19:18:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "گلل دوممم بایرنننن اولیسههه : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
+      "date": "2026-08-22T19:18:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "رئالیا درحال تماشای بازی اولیسه:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:19:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SvPniMoNP7P3HNAn_yTjRp6A3lGy2tm-C8JlEii2W019v1P9emtTyLfHiUC6dPYbn0-kzKI8QP_Ep2y0yKFVmXoHlpjIqRdI14Q0ZnEBmF_y-bgVilWqtrhxdGbtg8FKdjfFuHRhrWHNwnXyKe0CMsyEGWGUamySiVu__WOpbUVqAAFT5DD8PZy_HaEzjrysjuxNHAaIzJBK7PgmqHheoeJgiOIHUfmsZe0-1gqK5tGci2fSeOFe0Tb-t3DJnqTEnj5L9TCFBOL4tf3EyRZPD0QLK90Da6RZwVqv4QywcJcHHHL4Yv34g9t-Qx5YH64Of7K5oGU0XqmdL5pe8yOe-w",
+          "width": 592
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5969970473759419038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاتلتیکو در 31 سال گذشته فقط 2 بار قهرمان لیگ شده؛ هر 2 قهرمانی هم به لطف بازیکنایی بوده که از بارسا رفتن اتلتیکو\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T19:23:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7150,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Rnfo7CdcXpEJjL_Km2mV2oeitTKgpWxcVNpCYotx3m-x8gjYC_JFIiJR67neDJwDkmp8IsB7Q2nvzqQpuFeqcp0h-p8es-6RWXZkJYfYOdbGgxZWwyzNQCkg4xbcWSQrBAxXtjs0YnxU1SIG3LkUeanJGR9zHaJ_-l8Sne3mVDhudSWoRklSOFFKLcN7lOX3_69bSBKvxQa2ob5sEMh-nmnwF2kAJNRpdW4dyo8AbZkJFxknk5Zn4hsBKMlfdIIcOgsQrYtHt1enTej_3xjrM2etavM3uysvXj9iuyEujr-AwbMCUnmjmw7MlwVRwkBNVHAckF7yVbg39Ky_CwNxHA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/C2oMgjgvpluVUufSXFpEMMDDhRuhqI4j3Y0tQ36zXDIA8M_MAh1beWArE-Xiszl5zeRtQYKBjUFPD9K5KDrBUhUi4KYvfr19CR0iGxSoIv5tRZ4-E8dI9cVDycrpbtS3TebzKkyFVYtop9jdzi_2MtycROc53FqEjzPW348ogfC0t4oN-iq_lASixaoHeT16bQWJNPVnI1THq62DU9QnU9WUsajZQGPgRFSY5AINNMTNfpC1C0hiVhyc8ImvJkKILfhb0KM0GLqDVqWV58iqFQCaHP7g6mV-QeVx5Nvgr_WDPgaLxRyS99xB9A8mgokI25ugjE6JMxNQeGirl0Mhgw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787425186
+  "last_updated": 1787426901
 }
