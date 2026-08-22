@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4990182601252668309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خانم لائورا سانچر هستن از مربی های لاماسیا (آکادمی بارسلونا) \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T09:24:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RFGOSxkxd-E86evvsR6GHLgsDWfe3R3f9lR0plGJof33eaGt5LnhYFYAXg0vlu7_WOkrq4QNFkNZOe_ui_iiUXRN7KlxDKhmAlLfjjSNg2r5Rjb2UfP7Rz3xlbkn7kTx6HwrBayCBOqn_BbqItqqYw3huQetYILTwgAmT2QGLI-l997yJIm8juCkhR6XQTdIK3q5f0kxLJXJtQ1SqvLuR8B9ZIKM0G0OFsDXMReUi3Rw6c7aH9aQiF36KPlR8mihNru2Z0IV9fpqe_FpVEjPKSNr2WML5fr8TJ0qvI4FUluI3GTGMUZtIKjOnoy2rkYpVNUbDns2ATvj7KXfyFT-pg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TXwrijuuutRYzTVgjd0dH8VOQqW9HMrYxpknFQGzX8Pv6z44pGdhEv-zuXxA2jkAYyUPMfBaC8IOPlxeAf5SkP7DLgCTdD7cSyOXAEEmNaQQhNEwlctc6EluE93Oz8bQubZp4ueMgTz891lPDP2CMQGBPzjua2epCrRX0_H8gittgHEAlc1UeyBpJMxdgrIv74rKlJzlzwEktIceVrrBPW9AsFLKYOfvr9OUie1ye5RfzdwLKeVMjcZWrA5eDbeEPHA-Cj3mQOG0d81NpX9wiDVsqKtbPZjH1Meums3jyXdqW6Y22qBpl0JgIdkprW5RQxe6C-efEtvh28T6IeQMvw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Vml_WSchUUdJQw3BTT9PEL5vbnLkAlZvFe0_4BkFS7tIlhvp37TujJ12252bN-gRKRaCMkNA1duRH9SGrqu9RoE38DIK4dphGT5SrrFMkomhtg02R4iVXRLUSsdRNc0ys3NaXD1D8GuL0cpO0zuDmN9G4i2G8pG60iOHwhFqV8QP_yARlzREmZhBMvouVkltfyR_InXam1L0uFujAmWWUPXUr6gfQveZ7vJA_fHfoex6GEM_y9J-nODLdczpo4BVwpNZ1RReYBzq7KaxiXgnzW3JO0B0o7hL4u-eTeIequKBS8-xImoe2wDtmxqij57oSIdkYVmlDGl5YKAslcYejg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WBQeH4M3qzcGUj3vuk5gRobs1rEvDR1l9H2NSDELd1mkBEnXChlZFooilp1bXD9S8QoKRiusdl5hiO4QPLu5vY6caOo3HL8OOQgD_8LDZNp5FhNN9oeQuFu9b2uY0BuEt63ZQPYd1BGXq54F-aPPOcI6BHa94BfUzCNMEV0CMNyW-MHyJ5JiKVuaKrwW9BOkDMsoS6i1NIW2Eq235GWYYVIxOddfKaH37c70-txBPuB_pjbb5LEKICp2NrE4EckuKH0seG3zuNPhgHa7zeUizGC5qU6tobI4Vn-X2Gfgt_uPe_DqJK60vFFRoVuoe8tVOvatT9xK0ipMoELjCcTfeQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5969799521176134758\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e زلاتان ابراهیموویچ درباره لوکا مودریچ: لوکا یک استاد به تمام معناست. برای من، اون فقط فوتبال بازی نمیکنه؛ اون خودش معنای فوتباله و ما از تماشای بازی کردنش لذت میبریم \u003ctg-emoji emoji-id=\"5330280024673101519\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8DB7.png\u0026#39;)\"\u003e\u003cb\u003e🍷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-22T09:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39900,
+      "views": 43000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-08-22T09:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38900,
+      "views": 41900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +49,7 @@
       "date": "2026-08-22T09:48:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 40900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +68,7 @@
       "date": "2026-08-22T09:58:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34800,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +86,7 @@
       "date": "2026-08-22T10:08:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33700,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +105,7 @@
       "date": "2026-08-22T10:11:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
+      "views": 35800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +117,7 @@
       "date": "2026-08-22T10:12:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +135,7 @@
       "date": "2026-08-22T10:22:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +153,7 @@
       "date": "2026-08-22T10:26:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 33700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +171,7 @@
       "date": "2026-08-22T10:27:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -219,7 +189,7 @@
       "date": "2026-08-22T10:37:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 31700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +211,7 @@
       "date": "2026-08-22T10:47:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22500,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +233,7 @@
       "date": "2026-08-22T10:54:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 27600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +251,7 @@
       "date": "2026-08-22T11:05:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11300,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +269,7 @@
       "date": "2026-08-22T11:14:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5110,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +284,38 @@
           "url": "https://cdn4.telesco.pe/file/BgViAt8-GRYxoyJ4tlzCt40ECpRIzBDWy971bo8mpfTCjINzQQG3rk5BHY6oSNgQCtcvS1mX87pGJHRog9Gkw6OnCIVCzx7L6UFDfsaY2ODtSMRn5bx0n4YuxUH36TwhQiKPZ8LXxrwmIR38euyyH9AE2b5gntErYCQDrBttuFf3qk0bs5K347AriPFkL9Hp7DtvsrwRiza6poprRraVG2AIEkXTmVFHtDX6xDRI0PsjpKexgd4XcIlN_V_5WcNPSBa2opdSHAjAsy17CZLX6GJw0b9hh09WSK5c57oDhR0qQUZadUOmJCk_VKkr5NQnINc6nb3Nf_mBEAskjVqHPw"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5972252484373060914\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eبرگردیم به اون موقعی که کریستیانو رونالدو بعد از قهرمانی یونایتد در لیگ برتر فصل 2008/09، از اندرسون مصاحبه گرفت: \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T11:23:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/eFaMSaKwRblZhcZagh4o2OmtobNt00aplBgcGcXqIKu7oLzF5_rKi69-sK1NvsXl91Yz54Ye8ihZSiW9MsYjxoevea7NPNemy5lZ0kU0rSdGQ1ODLzmtAmXNEdIYN_yCeXR7eT90-Zfccb1NLxwl-yRsUHxY7PhqHJLc9SmrQKcyiDkAG0iL-DN1MKbkZEXqKXdDsy5HHGqLOmNbLXhPrfOa_jGgginKmgAztwp-vv4fwqJ-Pw9MpYkj7j5l1R25hPvPm2bhyM5xCu3bj8EbgilZuYRChrcPv1ZEqJA8NLMcGipcvkYhKJqJEY8FuycMYPJCRfOpf-BiCcmF8V1sng",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5969627799793704327\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eشرووووع بازی | \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5972252484373060914\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e×\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969975382907035268\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990036426335716307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e \u003ca href=\"https://t.me/BadLiveBot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eپخش زنده، بدلایو\u003c/b\u003e\u003c/a\u003e\u003cb\u003e \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4990036426335716307\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T11:30:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
     }
   ],
-  "last_updated": 1787397607
+  "last_updated": 1787399190
 }
