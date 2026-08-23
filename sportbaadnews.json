@@ -8,59 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017110993931601133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمارسکا: \u003cb\u003eداریم تلاش میکنیم یک رودری جدید پیدا و جذب کنیم.\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T21:56:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nvPXio8b4kTZ8R4vaowSt-WLXjeJRx2IXVf-6yaFmWve1hpuSe_wVSMLWSG0g5B4Dz3vwKGgupi7Ifm6fERaaOYt6m8fjOluTNQskxwPAgdFuXajEg70NssXIt8J9EKKhSVzbhpE__-oGg4jR4ZCH9TKLJM9PyrmD1RtvAAJs9cxpSeV2XoWiY4Ab3nL_XdrIpiplcI4htAdcgK61WF_TJ2txclVkYr9pG4dBlicnjeslV2DHeXb0-WkBzhV-W3N9Sp8ylhNrAzb_lepfaEmEBnCb8eA6K67FduxJdgm1jDo2hYFfDRT8wLLTCGv_9sGg9UxvI1nup6HRpDe6-8hJg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"4987767712940819293\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e مورینیو: وینیسیوس؟ رفتاری که با اون میشه خیلی آزار دهنده‌ست، ولی اون خیلی خوب بلده خودش رو از زیر فشار خارج کنه\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T22:01:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969661339193321027\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017204997880809185\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eمورینیو: \u003cb\u003eما همین امروز صبح نشستیم با کوکوریا و اسپی صبحونه خوردیم اون خیلی پسر باحالیه خخخ\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T22:05:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dyYYzoZY5VJNAeNNtEnbCWKCwziEJ5msQe0W3g9DvuHVGC9O7jKdR2wpI3rS-GJRmMyYXkTBK_CSmH49BYmkCWF3ul95G14xhesw7Ki94aqZwFunUmzNutHX9f2BsUo1LMVK4Xl2P0Hbo-iGuriTtqkc91a_NgEglXxCuNTSoZNDDMKoeOfVsHtc3Yr7L4sXgXqOGDyBSQCMqjw_Mqiu5wyGNBf_FRv3kHUeKxW-DUPpXpbNvT6vG0gPiEck2XDuHy_3_eGCPFED3E0NCVq8S96V7yJaQ_d2rZ6Tcl3aGC4TqgB_0iwz343IfxrAU5AjNLsegSMy46-5wT8pDTU6lg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5017212337979917955\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017347599384971088\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکریستیانو رونالدو یان دیومانده رو در اینستاگرام فالو‌ کرد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-22T22:09:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 47300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +30,7 @@
       "date": "2026-08-22T22:10:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45200,
+      "views": 47300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +48,7 @@
       "date": "2026-08-22T22:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43800,
+      "views": 45900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +66,7 @@
       "date": "2026-08-22T22:21:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45500,
+      "views": 47500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +84,7 @@
       "date": "2026-08-22T22:21:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47100,
+      "views": 49200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +102,7 @@
       "date": "2026-08-22T22:25:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47200,
+      "views": 50300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +120,7 @@
       "date": "2026-08-22T22:43:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42500,
+      "views": 46600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +138,7 @@
       "date": "2026-08-22T23:57:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 37600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +156,7 @@
       "date": "2026-08-23T00:16:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 35100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +174,7 @@
       "date": "2026-08-23T00:17:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 35300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +192,7 @@
       "date": "2026-08-23T00:20:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 36200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -258,7 +210,7 @@
       "date": "2026-08-23T01:34:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 28600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +222,7 @@
       "date": "2026-08-23T01:44:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 28900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -289,7 +241,7 @@
       "date": "2026-08-23T04:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -307,7 +259,7 @@
       "date": "2026-08-23T05:01:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8270,
+      "views": 15400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -319,7 +271,7 @@
       "date": "2026-08-23T05:03:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7250,
+      "views": 14400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -338,7 +290,7 @@
       "date": "2026-08-23T05:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 13400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +301,63 @@
           "url": "https://cdn1.telesco.pe/file/qRHHu7BG5wHB2-_1mRjH09ZPI6g5E4otect1mvKkZZdCcY4aJ1laEbLeBBQ_c1JIZyeTl7aoV2arPnitp3gph_3r_BOnUrXoDVIg1fMR2pVW5BJEY7ZUT4fmlFlBgt65mJRl1BOOpOxN5N8phBSqM0pHdUW5gISnSkPtg9h_U7NGcS3PmKSEjeal3tAPwo0EsF3pM6em4n6Oj2JyMRk4f-jEE-d5GhKyIF_8w-l0_evc1469WZDE2uFDXAuegESifYKAzHXfnrzSjIN9sNAl7cpvf7ixpwhhX93bCkoTALLTQnJHeu0QRPK-eKoIrTQPxRPFw4WOiKY6jpP_mtYzMg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "گنگ مثل نیمار\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T05:31:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/CHo8DhQtdqtxXf0uifaEgB33J6duZaoyp8BVXB9g1gtjCRM_yMzu_1B843-ckkqbhu6AkH1p0cX5uPqn9Jhvi5_Cbd4zX0IAiJittfkVsWU7SSrvZAaMbQaufWbVO4VKoVI7GIpQbJo-WIAqMDCBj6p4qYz_Gk82GemZnOqfDqCuasJp9BtvHZJt6bU0xaPNCeVgv66XsxIxVe24ZKi-EDquL1SOTpGJPDiML72xPm1UCi70fXDzog3FlHlzQpnha-vad91x4_eUqkBvyw_rSdjPGnitPZaOqewca156HHG6tZtqensd3AZVN6TwOJKSUXrr6FXBLmZFNu2MBfcXqA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مورینیو در اولین بازی برگشتش به لالیگا میم شد:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T05:45:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/SEK5bDntlywwZMlJ_5oTY_l2gmBBdNaBHr3eSyGqVj1IdNYbhSoq3MfEC-F7mwOpFCY5K_sJSolGVrDnNTVblO0rjDflmFF6vDPWbXa-o6kIqY4N1Pg0EkhBrKELVow18ntIzEr9vWGUpxZObwENM8yMNKi7AMRC0qRlDL1HEhAmJtcVzs1JwtDyNl9XcbcgP6QWp4tb90CELaAdziRO3Hymxp_YVrJh2Lam6guve7XnV-uj-thufkDhXOqF194xNAi5oqjPg0b4zXKUIAUeqSFU1Xve-WONKyFOEMWfg1Mh6e6iZwnqb2olVpnGrdNfg3FGNQ92jL8O00FxHT6Y4w",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5976474656268361273\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972108899321388887\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e 6 سال پیش در چنین روزی، بایرن با برد 1-0 مقابل پاریسن ژرمن قهرمان چمپیونزلیگ 2019/20 شد\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T05:48:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4130,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eulvc42seaHtNlwHbqm4LAK1jdSdNvRStxZISdS65Ed_mf4BRcJFjiAoOhaSaBC_fnUhyhWtO--62-EZ4RM-4YycTHj9026rggeviA17BFuk2s-9xOY2eBVPB-DVgU6nQ2FIsd0PlinLfDGzGipZ5ic_pvzo5KdMTPyHm8anynkgnb7S-Kw_z-g2s0Qje4Y_PAXmoMkXVBbYJJzUQIveL37nkPvvErkq44zoyT3V_5QKUJwbdoe7bGMihVOkpz6qRgG97Mp0DF40jU-1zke6Nqh4vu931ZDnM8OyJoHqEBTsHgsaen3YIzPmhxo5x7prmypnY80KPcr-sXi208aBGg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787462909
+  "last_updated": 1787464589
 }
