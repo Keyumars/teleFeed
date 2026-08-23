@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969627516325863460\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e گل اسطوره مسی برای اینترمیامی : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
-      "date": "2026-08-23T01:34:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "- حتما به اندازه کافی تلاش نکردی برای همین بهش نرسیدی\u003cbr/\u003e\u003cbr/\u003e+ جوری که من براش تلاش کردم:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-23T01:44:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn5.telesco.pe/file/kzqIYH2AA0elvKee-EiKJA_AnfYkTian1IJxH13tHjV6a66DjHjFF5YsRamLXavJEQCGOpDNISpjT2Xhmuj3aMVs6p59xu8BibnedQ6cgJS2pQG4goxz85UFHSNxab9sdmZ4XuNWFmXG3NDNYZPwmgqKPwCIuqMXDImkqbg-ble3TBgHATe3pzhuzuUXx67FwrzrUDSEW4JFWX0cIZLFtPUSUc3QF-C3zEvP61B_c_JE5z4MMEF513Wqvnli75qsAkdH138C0Hwirvgi6TRR5nCXKLSurFTopsk-L1p5RoJUkoONl5ckcZ8PQsbi0nIJynHbt9z0nGyCU9zeQIe44A",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "اینترمیامی بازم باخته بازیشو\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-23T04:46:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31200,
+      "views": 36400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +30,7 @@
       "date": "2026-08-23T05:01:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
+      "views": 37000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +42,7 @@
       "date": "2026-08-23T05:03:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +61,7 @@
       "date": "2026-08-23T05:10:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 35900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +79,7 @@
       "date": "2026-08-23T05:31:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +98,7 @@
       "date": "2026-08-23T05:45:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26700,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +117,7 @@
       "date": "2026-08-23T05:48:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 33900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +135,7 @@
       "date": "2026-08-23T06:02:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 31900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +161,7 @@
       "date": "2026-08-23T06:14:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 30800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +180,7 @@
       "date": "2026-08-23T06:23:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +198,7 @@
       "date": "2026-08-23T06:41:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +217,7 @@
       "date": "2026-08-23T06:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +236,7 @@
       "date": "2026-08-23T07:06:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +255,7 @@
       "date": "2026-08-23T07:12:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -304,7 +273,7 @@
       "date": "2026-08-23T07:22:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -323,7 +292,7 @@
       "date": "2026-08-23T07:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -334,7 +303,44 @@
           "url": "https://cdn4.telesco.pe/file/fWQYxX7jXefOJT6pCLLgIDfMPLGQXySpmOO7rvmE1U_fzmQR-1qbC-PG57bXe5VYihgo3y6--j3wojsam2ljjqv75P11A91LXL9IWpN_O_0lmcEO0t4LtPQ2Nr6BBKjvDhcGOPYWbSnzQ5r5fdEokXz1S5QFLNmp8ykJEOxJ5ZsrZf7hrsiVzOGmCvPRQTEPxWj2UlB0EttTgUvtSjgLQW4Q1akD1JavF48Hc5kPcQwcNJjumSNmcZezgYHkZpBWwbsMEd4Dnh-4dotWF_26bNGwwL7c3enib4bX_S97sRfZ1V9MsrPzI_idBydhS5OLkohCLSrYI-pRl_dav6cU-Q.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5017110993931601133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتیم‌هایی که بیشترین حقوق رو در فصل جدید پرداخت میکنن:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T07:49:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 16400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Xcrr1gIluntCOsBxQ2-uRcJ-tT7fQZumF6IfMZN_WSDszoippfCOoN4sZO_DfVgF__ELHezGFG1W0o7y8H0cPQY2jzVS7YBWF2vrHLA1P5tphJiDC3250srPE_ugCtYyB-LyRJigEWbAkZMX0VX8vk3fyXxH-M9eSAQLh9fTyH3xlLMGLT8IWjjgtvVsi8GZDDA-o1zASAE9fu9RfNQyLBfZ3-aEySKugTiCvrQiAdPRElUKrO8tR4urHsTwhbhC45gH-SM_9FfmISy5S9CoQMLu5hMMMayVHCXCpaA-wlNEL-5OHbHFMffhdskPWveEivyYcVdu-vjs_BoFG9r4AQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دلار 78 که هیچ، دلمون برای دلار 143 هزارتومنی هم تنگ شد... این ویدیو برای 6 ماهه پیشه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-08-23T07:59:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/p5tZ6F-EfTdI4OxWMIMcaf2589Fd7iXkx9xrd_t_TczNs1F6ca9T487XGo32lLPNzSkAspOF6JC4j88gvaP_lqSwZ98KbVQKd3nwYsDrzNWTaEIKHuYHlGJCD0iNBpxgXrwne2y4eE7RYxw6XSJiUXHqzwiphnTkiNvlmjsINY3-eUNn-P5ufby0OVY-YzoDrCHkPm6CnZACmiv8ackQc0giXHl6P2w23L6xX1iFD9sIgkHdxCraKJEvwPLYXuGG8NKWIMA6-ncctJiORCs8ZHT3G4JY0-j1ikfmGFjRPGuz9bKZpntYJS2NoixUteXlBgP0Fek2F0kVbEN5HFjLcw",
+          "width": 480
+        }
+      ]
     }
   ],
-  "last_updated": 1787470383
+  "last_updated": 1787473704
 }
