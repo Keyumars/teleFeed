@@ -8,83 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969703378333211812\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5017483698308646118\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفابریزیو رومانو: \u003cb\u003eبارسلونا با ایجنت‌های لائوتارو صحبت کرده، اما هنوز با اینتر تماسی نداشته؛ اینتر هم لائوتارو رو غیرقابل‌فروش می‌دونه\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T21:29:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eybNGUSvmg6KXQO_wjZHbqqNTYEIsjmJz9_jRiWBuXqNUV493g3XeOCj3g4jY_Cg6hKFyHHJhhcziR8HQFy5p4Muc89lRLWQTXLBWUOlddSIVtYB0iJrAUk-ap6NYMdIAFGGKwfPymGRSQ0XScccyhzWNd89ie7CbV1-8mxXQRgu6DAhY0JwucWbqC_TOVpB_3_mQVw8PmxHxRAj0l7UEMkRKec0rI1TXvdkMG3eAnmCQMSECAnwiqkt-D9-1cns-reCbUkxqTMV7yJe87o0A0LwSzQEvrEv9BD_2gpCCzF8UPGVWEIOE5Ll5ruV8s8sW3UHu-UPGYywiR5QJdxbpw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بلینگهام چرا انقد سیاه شده\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T21:34:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MRTDCP2oJSpbVNEbUwusierZ4LGtiLOlGfWck0N59JprkZB992bwBIWPtxNtmZFLvjF4oKyYykkV3ZQ3qGGzPxxydjSycMFWK37-cnwb-UQQ2M8o_oONdvLSzedZt4Arxg-K-SHYcCZL_aUvmuvhtWGrg5TU0Hiac00f0GPRiGZR3TCkVqKMt7zudA4zRwr-98ZndhUlbVihv0g9dL513_wy3CZyZOjmPlPN94Y18vF9fO4EmO1iSOly8FCp-l0bkQAwG5sj9IEMyvZF42cmbLneRhEn109FMN9g6hDYD_gXSm_CDq94osZnIc4Wmxph1KM_lMxY0Enmc2lTKb_EPw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5969994671605162052\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972108899321388887\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | ‏تو بازی امشب بایرن - دورتمند، این موقعیت رو مکسیمیلیان بیِر دقیقه 93 زد بیرون.\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T21:35:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NzClttZ9eEVgvYUy9NFHVpPdrsp4mWJ4LQkzvxeztomYfET8_B2O5IFDwwxgL51pYoPT40NXOxv2a6o9xBSARrduqVXiILsjQffddROZr4SioMsz5jeafJJlSMZc1rugE3Tz4u5NJ9Ne6SKKejvNWinsKXMIKS6wiehLmGkk09EGLUF8_cyU_0Uzth4axWrllypo8DUNBxb9f9TZqg7-N-X2cTIiYFIZMXVKZbGo-Xx-SdSxsgGTKkMAf9gDBvhnoEsFt698UHSZUulNrwiX5j-tSSwJV47jdS0BNYEGwxMhbkoYW3_uUk0Yr80UTfik6iw1ZOLgXiK5_o4Qn7urTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "0 گل، 0 پاس گل، 0 پاس کلیدی، 0 شوت در چارچوب، 14 بار از دست دادن توپ و 1 کارت زرد؛ تو چرا نمیمیری؟\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-22T21:36:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZEv_Ecmzoh8lDmru1sSfTW7Wrdw-I3H2pyNjQXmXqsM1Sxq_vh3PE6R7YNpEXfjscv1qWsDfUFadUoINq-6sW9wmSAcPvYwR-PB_XIZoPRJ0eJVMNLh0mFokBehGhpfykTRRNc4h8mMTlZdSHVdTfH2wMgIGSDcAMabqKFaIk8WiIVqA885CkPZxxQPzKGfcK0skI353YYpUGAmK_JfpXNu3kU6mSbFo7_Q01gneD803ulOuJVaWy5SRbQcN85HgM899TlQZtSPH_jaqq6GiJuHtFtZ0wO9FR3nh7nxw8Wkaq8z6vmRqVLV45K2JqAqB_HXP2X_eLrGpk8X6B7I_tw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "این عکس رو بفرس واسه رفیق رئالیت تا فحشای جدید یادبگیری\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-22T21:38:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39900,
+      "views": 43000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +30,7 @@
       "date": "2026-08-22T21:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36100,
+      "views": 39200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +48,7 @@
       "date": "2026-08-22T21:47:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 39900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +66,7 @@
       "date": "2026-08-22T21:48:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36600,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +84,7 @@
       "date": "2026-08-22T21:52:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 39000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +102,7 @@
       "date": "2026-08-22T21:53:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +114,7 @@
       "date": "2026-08-22T21:56:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32700,
+      "views": 36800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +132,7 @@
       "date": "2026-08-22T22:01:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31000,
+      "views": 35300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +144,7 @@
       "date": "2026-08-22T22:05:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 33400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +162,7 @@
       "date": "2026-08-22T22:09:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +180,7 @@
       "date": "2026-08-22T22:10:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +198,7 @@
       "date": "2026-08-22T22:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 30600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +216,7 @@
       "date": "2026-08-22T22:21:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +234,7 @@
       "date": "2026-08-22T22:21:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 32900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -324,7 +252,7 @@
       "date": "2026-08-22T22:25:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 32400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -342,7 +270,7 @@
       "date": "2026-08-22T22:43:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 26300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -353,7 +281,79 @@
           "url": "https://cdn5.telesco.pe/file/g_9imUKHVXTsLyZygzG0Da4zOqC2CR6O46ZEQT3QDoe5YXoK60Z4zbh5Knh5uNhp_kPNmcMGfe_C3K9nN7EyOY6Bm_hM5GedWm1Ft8UeHqYEAlCAHyvVO4LnnigVDepX5_Eu4jtQJnqWtv8eY8FUqlwIrLGHo_y7suJEPvcotx5wGV3dodAsQ4U-iLv9QpyCkHH5lHqXqS-C0aljfTc7miM-gY1TPWihO9nCNxXhGBr0a87Uj2jSlZNHemEdiiWTU6xPrjI-fnduT3_VqrahJialDx5LLoO5femZ3_iPB6SAU2iutQiJW6y9AFNCuHXpgkU0ByWtWCtmYaMb6vCp8w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "این پستو بفرست برای رفیق بارساییت تا ذوق کنه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-22T23:57:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/Kn4SSSFv6tpL6kyS2BNhDR8Tej0ShdlfaxEopqTTH1oBQtN9hvpX66cFnBQ_cFy5HoFrc8HjCHJOyVinNLSwZtiRD61Ml69D-PKsVmm0rCaVgsql1Z3Cu6wKhez1YZ8_c2H_CeGp8dq4dpiVHJ6G_ftRJYYo4x74Bqj4EXMwq9gKyH_NMjDyepPxWFQ3EuqhQjfiPwZ6rf9FS_jjmCuhazDRSIDbfdvVeY79CD4cpYoHg9hlqGtdh19pfoFSzn4RxCeHRxreSMU7uypOV06BW1JJWq6lV94-DKPmgpiiM26BEMp_H-6B_CJjHGYYA8PVVOaXnQJcLhtvOYyEFNiA_w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969970473759419038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eفابریزیو رومانو: آلوارز همچنان فقط بارسلونا رو می‌خواد، نه آرسنال و نه اتلتیکو!!\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T00:16:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/pnpeg2YQCRB044iXTyDWBuMJRiwMH8QbVBdEny4zxg_mKZmzCSelVxti9SK0xVSdOT7INtdMpabmN1fvqPDJl7WQJ4wdduE9mFlHUm-oqwGFYeq-NYHfWKoK0kcRPCOO0MSEKwphvIPcrVoQ_MZADOd189J17TN2kXQgsMJ1p8x4K0h0ooBSTuvQyh--lBJYt6evaVS-8D7CdcHU6jiFkv9Wbbw6ClQs138lQoDRXe2wikCasyXUMpZ7BTCL8nRoI6OVA1bEr2cLQCUw8mktMWe0z9A7Hvluu_rKuzuu3N05SLhQ57MqmxoENhL7_58VptisDA7uCBTKTVpalCRrhg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فابریزیو رومانو: بارسلونا در حال مذاکره برای تمدید قرارداد حمزه عبدالکریم است\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T00:17:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/fjsVNrgh0LiSD4CYMXTF417tkJykqHVfxhG1iFcf_KbP6zRnBb6WaQzpEB9brs1zZRZwwIDqnY2ms5shOu9Eu9-ep9NzctvxgQxBDogOdrI0uZ79sQC7UwcNkQHVDxxMlKAJkYMW7Mwmo0l6tt4ePgn8_qRD56gISFsbym4VIFT2w_hJNV_qE9nv9dKcY7y75pQtv9tFteVq4hGV7OLUFcV6WT3Bxw034ew-bLguh91gy7-EUzbu3uIOXSdw6-ZRqUXUBqoOxASh_pbcJaoDTNHIYiRt4FRdXyM4EZv_VClyLlItD2KTLJSf18pTjHgREKjmQKhPsv-i_GFvrTbZfA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5913402747993986309\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969970473759419038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e فابریزیو رومانو: آرسنال منتظره ببینه خولیان آلوارز نظرش رو عوض می‌کنه یا نه؛ در صورت تغییر نظر، دوباره وارد مذاکره می‌شن\u003cbr/\u003e\u003c/b\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-23T00:20:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn5.telesco.pe/file/L4BcqNhLpp5yaJ9eZugAybVwyyyTtV2eWuKVyDeSxv4Vev-4TOqK9dy5R2SBD2dWmCJiSBWEwnkAxUD_pk4mFRl_9g_-rnt7ZfirV1khT9VneHsIxA2JB9TdzKHrLNcUtSPGKYOa3KtDaiIgVy68qajlYjpNCj63tXoNMvONGHSLkT45KB2fLmTPQaI5K0k73PtMgAMEwbdtu7KD2Ano3fRm_8eF4tBOp2oy8JmzGsTMEH7bPKdFz7ZxgxjRUYpJKmGQdYQu52GDV3mskOTOA8HCunpCTT-mfZ-GCEiMwLiBA2oAuuzcV0ziRsTUwSjzCRyFRxGfbBQjl3otOD4RRw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1787442375
+  "last_updated": 1787447596
 }
