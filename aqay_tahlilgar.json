@@ -3,7 +3,7 @@
     "id": 0,
     "title": "آقای تحلیلگر",
     "username": "Aqay_Tahlilgar",
-    "photo_url": "https://cdn4.telesco.pe/file/JBdPDULcXvbpp6M6qHCqeZE80EKnjydKR-Q-8MVxmPLdrYQquuDUeP2TQnpQLSnrg7Dy4bCs3IyFDnKUb0L7J2c4HD0w09j0402kCZFLIjMhykwsmAOVaj7MBB7HeJZiayQaC3pIE81i0Beso8PanSFDRFZYvD5zSV1J-Jdjr1UGdUYQoHwBa2EbCj3bJQ6BRwas6lpZ0fo432HwOrLTniPUtLWTwvxrdNUII3DoE7xwQ8ycv_km9RLoX9KSW3fzYOzxVycV9bIoeTlDf-JksQUZyv3TTiXhIOmQrtwOyD0HKiT9zJDO6Zx9EtGZpSxFixgSfC2ycE9iCCuPb3zfMw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/NchRT9EZu2XIhu75gVpLQ9sbJJehwg_K9ETxasVygXqaIdjFebY29ILPAEKer5OTlDGLmAhbhevwHPnkNECvVXuDvT2z8H6Eomi0YQYJg_m6_U9Z_zdl9Mo7l34yMWnzLeUcf3Si0wfHpOh8WjTWROMPZwGlKBlUvTusx_9TnEH5H0XGy36b4RRQ4BXlWbE8nMTo5HaO3EOJ2PeVHPXy7k26i8F7d9xOwBlOjUGIRR4hNJxrj3uZxH35vhKJKEYIUWw9LATZAGKHeOE3GUcVy3DNSK11GisvSTM-3k31oXaJKN7nxYBmfGLEvdvFjOL4fOOmG8QUXzMnwqdjLYnO5g.jpg"
   },
   "posts": [
     {
@@ -192,7 +192,7 @@
       "date": "2026-08-20T19:07:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 819000,
+      "views": 824000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +204,7 @@
       "date": "2026-08-22T11:51:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 515000,
+      "views": 524000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +216,7 @@
       "date": "2026-08-23T09:09:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 367000,
+      "views": 377000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +228,7 @@
       "date": "2026-08-23T11:32:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 299000,
+      "views": 311000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,12 +240,12 @@
       "date": "2026-08-23T23:33:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 144000,
+      "views": 163000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "آقای تحلیلگر"
     }
   ],
-  "last_updated": 1787554551
+  "last_updated": 1787558303
 }
