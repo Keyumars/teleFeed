@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"6046327965715797618\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969627799793704327\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB4F3A081A7F3A081A2F3A081A5F3A081AEF3A081A7F3A081BF.png\u0026#39;)\"\u003e\u003cb\u003e🏴󠁧󠁢󠁥󠁮󠁧󠁿\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4987991119959688124\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e تیم فصل بهترین های لیگ جزیره اعلام شد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e داوید رایا\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e گابریل\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سالیبا\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e تیمبر\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969630913644995422\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e رایس\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e اورایلی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e چرکی\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سمنیو\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5971991333181595714\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e هالند\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5969776216683585228\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e ایگور تیاگو\u003cbr/\u003e\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5972252484373060914\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e برونو فرناندز\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-25T18:55:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TnuyRiUpDn7bioi-7ihQIdecTbZ1UwEhLQI7HS_ggfanDHjGzfs_ncwy-UKKld961eKqLwfAWn8NHLEOSdL-eo8WxBXkBTz0ry3zz6ti6ee9PQv7YGBek0U2tcxMZBMCwPqGm0cYSdgUSwaOF11KDEhaSxgAe510npUwxP44X5HWLoHEvuFU_jdAntGQ6jMMAcjMgh_bqN4epy-5GKFdtTvfZpZQBsFl0x_Dxkp4O21ZzdGknZnLSRCAS_P3aCRKNIQbVuUeIPYZ9dDhSR_SDSF62sR7Y9V0dhf8RZnJdBAMGLUdNDCdrAWYRxTTXU-_X6lO1Ys_PNp_taxoomwC4Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5319160079465857105\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B1.png\u0026#39;)\"\u003e\u003cb\u003e📱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969720012741549739\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5969983762388230080\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پیج بوندسلیگا اومده یه ویدیو از شوتزنی لوکاس وازکز پست کرده که توش وازکز 4 تا از 5 تا شوتشو گل کرده؛ بعد کروس اومده زیرش کامنت گذاشته هوش مصنوعیه باور نکنید \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-25T19:06:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lqypmz_J0fOuwhvCe603RRs5cPViy_YQ_D4S407Ej5RrqyP5bASMszj9vMZT81cQgWB-Cfijo0Z-hIP4LNqH8FfPrMtjVgHhgY1sVsbYwe-DHis14kUi7VX31Pr-C4S_QTOv9ARpkZS1y2QMsYv-tL0CNNXxhwWgiAgsRlBEB8D4T8LfQD5FlSAb_KxzwpsVVN2z-659XRTXO__exFK7xGRCXnEydQlemz75WpiCWTX32j41Wndl8X3FSSkS-iK8KDej9viVA2c7DvkytFj-txw5XJsQvBqxx9BShVbw__51RvUXZZh8y2a2toR8LTLqpXrgvXG9nf_Jm_KxpyCHwA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رونالدو کلش کیری شد رفت بیرون\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-08-25T19:13:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/d8JTG-QA-Mv-5Wjj65t1X_ZbPN-RQSIhomuN7QA6qrslNEeYPjrk5F-2rW-Hv98-Ogh-i7vicrT70VXcKHKC6OLNSbmqDyHgwRkR-wC9IRv4a62pi0Tf_EKtOPXFeV7Noxu_PK3go49dVYy6hG99vYqfg6LG4qouvu8SawhpZC0i1Gn3D717rjDbVN09ABwuAPfcAoIpkwJPzAQKoD3bjM4uyfvTlZxVNSmqwrl-zuu2HFTcMsVrM0X-457q8zeZECQdNO6HdtN_RrBtFCA5XtZfYkgMParqgzVhg7pwGZkKbQfsbcZSsXZPkZYGkadI3wJJzJXwF11QfjNBVZQZBg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "بازیکنای النصر دیدن 2-0 عقب افتادن رو آوردن به رشته های دیگه\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-08-25T19:20:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43900,
+      "views": 47000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +34,7 @@
       "date": "2026-08-25T19:22:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44900,
+      "views": 48000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +52,7 @@
       "date": "2026-08-25T19:22:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48000,
+      "views": 50000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +70,7 @@
       "date": "2026-08-25T19:32:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51100,
+      "views": 54100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +88,7 @@
       "date": "2026-08-25T19:46:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45900,
+      "views": 50000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +106,7 @@
       "date": "2026-08-25T19:54:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42900,
+      "views": 48000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +118,7 @@
       "date": "2026-08-25T19:59:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42800,
+      "views": 46900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +136,7 @@
       "date": "2026-08-25T20:11:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
+      "views": 41800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +148,7 @@
       "date": "2026-08-25T20:16:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34700,
+      "views": 40800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +166,7 @@
       "date": "2026-08-25T20:36:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +188,7 @@
       "date": "2026-08-25T20:41:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -260,7 +206,7 @@
       "date": "2026-08-25T21:10:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14200,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +224,7 @@
       "date": "2026-08-25T21:20:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3010,
+      "views": 9130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +242,7 @@
       "date": "2026-08-25T21:20:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
+      "views": 9160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -308,7 +254,7 @@
       "date": "2026-08-25T21:20:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7120,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +266,63 @@
           "width": 824
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یه جور ناراحته یکی ندونه فکر میکنه دلارشون شده 205 تومن\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-25T21:27:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lRmr1sMeeE8d6B52b8U-uAC4_UJQlwh7jZSFOAsK8aHTgCKzVN1aiQO9Hw4KymHRgZHs5BqiJE6m7BLPKrILZQIPWT6xu6lpKSqD-g7ebIVDrU60gI4KfwyeBUHs8wdyGY4CMmcIYDMRXQERDnLYB5OcaAgr8mCqFD0rHpnVmKtEX9iV_0QmaskdmtnKxsASwv-NgrmW3DpVBbj83vc0Gbss006Oa8xfNKzj2u5OKGoYZWXqNnIg8r19UqjmpM2iHRNC7KybkToeEdlTHakJTDSljKrCu5hvibi3BueXIqzB02cvkEe7aS_zHGkdtnkZ-cj-m24YK2TkEe4ffnLQiQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اسپویل از فرداشب برنابئو هواداران رئال مادرید خطاب به وینیسیوس :\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-25T21:36:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/D4zPH9NGfLB_Sbtp3lNd96CbKqORuTcV242czu8QWqfeLbPFBFWJKAePGGbL4RDJKHfaRT1nMLS5Eq_1KtE-ZdcsVSxcYOI5IP2ecVTQpJzL3mKkYcYj3yAMZ1PaB9ertGlb-PAFFRUd-rm4zlavwZH2K-5y98mBDi0ryIv-HRux2WbInbnWdxTaYw1-vhepvj8ikpflmA4iLQejJ8jlrQRpGk3TATo1QOIuMTDbctJVrSQelqj4vC8hAekqOlnc4M_k9qVWuBaR4mw8UG1Y_Rn8dd5jywg5z-Tay2HmZOfbZXmQPq62_sj_-pqtjKYn2Gef94h1OEosU46zbAZSyg",
+          "width": 800
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "*باید باهاش تموم کنی، بدون اون حالت بهتره*\u003cbr/\u003e\u003cbr/\u003eمن از وقتی باهاش تموم کردم:\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-08-25T21:46:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vuYLBRPEAK2iA1iuSPKak1v1UH83gRAREO0IqstJOgwwZXE4O3Rm5Gbsbkph9xqZ248sbXhJ1Ic797g9HwOEysJAH8MnVFxhKea8623wR5RpUpKDONMdrVyhNoydFCrR8VN1lilJFq6tXw0f_NIJT1yzdzVN1kWByUdNbX2mMP4JjF3xMJJalg0n0K7y9qVMGAvXzaTTZVMacD-yfRhka6bT4C5KnSMGo7gCZUEw0tHb026l9iVRaWdH1uD94osqMJcBXlOZ8Ypk47hsvV8PggJ2m80kr2zgeTgY75bHZrKejjyccr1klKT4EqH-AGfDFu_curNi0hky6-YEtxHBnA",
+          "width": 540
+        }
+      ]
     }
   ],
-  "last_updated": 1787693204
+  "last_updated": 1787694856
 }
