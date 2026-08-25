@@ -8,11 +8,54 @@
   "posts": [
     {
       "id": 0,
+      "message": "داداش خلاصه میکنی ؟",
+      "date": "2026-08-24T17:53:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 172000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "فکر کنم از این به بعد دیگه قراره شما رو بکنن نه من",
+      "date": "2026-08-24T17:58:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 203000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآمریکا بعد از 47 سال، سوریه\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5308002793812955097\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87BE.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇾\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e رو رسماً از فهرست کشورهای حامی تروریسم خارج کرد\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eتحریم‌های گسترده علیه دولت سوریه هم برداشته شده؛ البته تحریم بشار اسد، اطرافیانش و برخی افراد و گروه‌های خاص همچنان پابرجاست.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | OFAC",
+      "date": "2026-08-24T18:44:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 205000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SNvLBt8bIE0jUYX8Rz62TW4InNqzOEkUco0j0n0ks0hR3pfw7th_bJd6_X15Psll3_vV8O26RzT2bHFsiPMQFzvXVetlCqmOFTbHZBVwnHXnzlruBxJ2QLg9Tbu_1w9mra00Ut5jq1MX28e4Bw5BZAK7BsvQiAty9Jc296cuVvA3Mxg62LMBaANmK2lFLLotct-WXErEJMfHBq4UO46YVF6Kr2iYT5u2ZQ6cZ2M8mc_gAlKsIcpXBR3Xk1rnbj_BN0qyiLkGh-rU0kh24wp7cfNFaIkOCtMWtiLeBvLQgQJ5Qgi39HOtke-pj70OqGpqSaIknWGr2jEfGLF1WiVhPA",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e بسنت، وزیر خزانه‌داری آمریکا:\u003cbr/\u003e\u003cblockquote\u003eارز ایران همچنان داره سقوط آزاد می‌کنه: امروز قیمت هر دلار از 2 میلیون ریال گذشت.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eآخر هفته عبدالناصر همتی رئیس بانک مرکزی، گفت که افت همزمان درآمدهای نفتی، مالیات‌ها و حق بیمه‌های تأمین اجتماعی، به همه بخش‌های اقتصاد ایران ضربه زده.\u003cbr/\u003e\u003c/blockquote\u003eدلارِ 3 میلیون ریالی، ما داریم میایم!\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-08-24T19:07:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 209000,
+      "views": 212000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +73,7 @@
       "date": "2026-08-24T19:21:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60600,
+      "views": 61600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +85,7 @@
       "date": "2026-08-24T19:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 205000,
+      "views": 208000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +103,7 @@
       "date": "2026-08-24T20:39:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 203000,
+      "views": 206000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +122,7 @@
       "date": "2026-08-24T20:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 142000,
+      "views": 145000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +141,7 @@
       "date": "2026-08-24T21:09:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170000,
+      "views": 173000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +159,7 @@
       "date": "2026-08-24T22:15:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 166000,
+      "views": 171000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +178,7 @@
       "date": "2026-08-24T22:47:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 159000,
+      "views": 164000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +197,7 @@
       "date": "2026-08-24T23:42:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 155000,
+      "views": 161000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +209,7 @@
       "date": "2026-08-24T23:42:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 164000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +235,7 @@
       "date": "2026-08-25T08:08:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9460,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -204,7 +247,7 @@
       "date": "2026-08-25T08:25:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 88800,
+      "views": 108000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +259,7 @@
       "date": "2026-08-25T09:04:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 70500,
+      "views": 94900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +277,7 @@
       "date": "2026-08-25T09:35:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43400,
+      "views": 77000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,48 +291,16 @@
     },
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاسکات بسنت، وزیر خزانه داری آمریکا: \u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eدیوار برلین وقتی فرو ریخت که سربازان عادی به مردم خود شلیک نکردن\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-25T09:48:47Z",
+      "message": "داداش تورو خدا صدای ما مردم باشید\u003cbr/\u003eمن ۱۰ ساله نزول خورم ولی خداسرشاهده تواین مملکت دیگه حتی نزول هم نمیصرفه، آخرسال از تورم عقب میمونی",
+      "date": "2026-08-25T10:31:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24600,
+      "views": 23500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/KCCgRVp1IbMBFZCvkYnLnNyKWPAZrs_apolILMI7Z86NOpNX6Uob4K66pLVf9KDBy31hV2k0Zk7SCBfjnGrIbIZrPPtbZL5kP4VZ1gXZpO2U3QkkB5RGwznFic5-bjCq45_YQE19Kz7Uwjsmp_RyhAAYr4wR7HpVqwKYcVhUfrt2RXBOfZhYyiXYbWWneibC7VabMKmsKzF4QJnh3-7g_5dv_fT5SmjgeT0Ueg50x8d8y7IfXBI_KyWJH0ktOTYbWbnwhSIdMtwwZC77K3oCcweAbrUkYcEUH1flK6qgZWN8IrQNmbDCIllADmjF_1cktw-6GP7GQLpGXwPQ_kJGvw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eمنظور ازاین حرف اسکات بسنت چی بود؟\u003cbr/\u003e\u003cbr/\u003eاسکات به رویداد تاریخی سقوط دیوار برلین| Fall of the Berlin Wall اشاره داشت؛ \u003cbr/\u003e\u003cblockquote\u003eبعد از شکست نازی‌ها تو جنگ جهانی دوم، آلمان به دو تیکه شرقی و غربی تقسیم شد؛ غرب آلمان تحت نفوذ آمریکا و غرب بود و شرق آلمان هم تحت کنترل شوروی.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eمرزشون هم یه دیوار بزرگ به اسم «دیوار برلین» بود، وضعیت آلمان غربی خوب بود، ولی وضعیت آلمان شرقی که تحت کنترل شوروی و کمونیست‌ها بود فاجعه بود.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eمردم اعتراض می‌کردن و شدیداً سرکوب می‌شدن تا اینکه آخرش سربازا دیگه به مردم خودشون شلیک نکردن، دیوار برلین فرو ریخت و آلمان دوباره یکپارچه شد.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-08-25T09:56:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/d483GG3dn8jXHF30icGOzALy0V9irKZix_J2vl5rN_zul87C-Y4iMOPqVwf5ts0HXiQUrOyyCoZ6hOSoolS-38SqHQA5Sb-dCFS_lMzfXdYQ3Y0RcUd0IMgR9aingLv7EgCbPLxoml0tFTlNezbKoK-9EKuZ63ImISL13zYuUjk13iOUGh2kBnQjCUjDB-bwC5clPor7xwFAaamVZ3hYj25AR2l6Fji2q4WH_LKXNWLgqx_7opb6_xxMR6cJj7vsrjKEPYn6MxtBgHCmfd1pBmeXvenprbmw9u2k4vtXc-ALKAOgMCkk4kD0cfkSeAlFy94N_OEZp0V2O5e88Q8fvw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/C0T0Fl7YcitlDYNi7_BayVQN629OWVLrky5Jp24HEoRfLlWaEm0TBXSmjVH2DtC3kQmiPRmVMpQ3alqiKBAxGsT2_W2TYaf4cZiYo8b3Jd99vt35HbjAcaIKwC9r0s6-5Xju3TL1R-yw6LPDPzezH4fHG5ycPm3g86W6kYT66Y7DQRRJxPcHySVnAqVQu60KbzQLh6zrB9wsH4qNUvNQ4vzEYDQ7Puq6S73FZ84PfIflIix9fSfmJb3-6IQjdX9AuI21YVTu0wm1gxbB-2lAaneHc5dBNYIMkEReq6vWf6C72Y0lJZnFtFgn0vMfr_0Zbn5dgc8k-b9xfDAelf37XQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/B_-I8EdPjR2C4T65xMQy9kLONcI6AXhp7N_bDiAeVymMN465bLqNZhB8xQ8QnV3AK5J6ZP88a-RMGDpJJan8f7VlqkmzU-OX4b5alEmT0Qp0o60UeGWnV7PVqmSxC5wyy5NUUDf_g0IHuu2xifoCiMnLDdD2KisZrvWDigvRm16A_iKrHz-udQW9rgX5h-O4TrN4ceDXB0bGQAimZKZrqg_HYpXFsWJ-ksaFD75nHdNYhxEkjRTKwJ4eiRRfde8YAS_UGBn8x4c_2Aw_z4YOhnWxlq0_bVxJJXoFYdx9tTgxo7NjJb4izBGSpvyaXerVn7r_jnxQvLw3fVsMLLhmwg"
-        }
-      ]
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
     }
   ],
-  "last_updated": 1787652017
+  "last_updated": 1787654480
 }
