@@ -54,7 +54,7 @@
       "date": "2026-08-23T08:54:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 133000,
+      "views": 134000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +221,7 @@
       "date": "2026-08-25T11:32:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 91100,
+      "views": 91800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +233,7 @@
       "date": "2026-08-25T15:18:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67300,
+      "views": 68100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,12 +245,12 @@
       "date": "2026-08-25T19:14:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40800,
+      "views": 41800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "پروکسی Proxy"
     }
   ],
-  "last_updated": 1787698531
+  "last_updated": 1787700229
 }
