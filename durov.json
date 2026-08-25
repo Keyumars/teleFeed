@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/GgRvy2SnDvRZFjmLjPx1IDXNRUNJ4PMXWzsRm6oXpIXB4umqd6Eg-oKiFjY4QHXPBV7M1p73DC6XynJLajyYXbVb_401pScyWwQCR31ZmDIUvUS5yEIPFnsIYW65k5B8Umd8uYWyiWsvdo1bDp4psKZe0tJrRY-yr7Zj2fGiNIGgviElPi3XRmQfIF3CLcQhDFrnBGrLeYM7a2UDarnHJKPOz5w-am2Txmzc_en-j3fxMbkKhjd8DoJhGJcxgHov7NHx65chCfvgquAKG14u1dzFKIR_itwOpR105XCHXyXpWG02mqmvLm_Koe4Z-MWXKB3LU5-vd_z0AzNFs7bAkg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/paiGBDocAc26UOFz-KCNvZXBrmTbxAigV9xD1uDiQi8dZ6IInAOELKC5zTD4cKl3jeOszSyXGop7O6T79TTUxXeMqDkJCahC2KE61hEgiGWrg4rrLD0dEhFfk2A7jLl7_dvoa9D3eiSA570j0ktYXug0SXsoTJeQfxiiM9f7-ehHb7YMcltQ4kwWpG2AX024K2kDsGqTudHxR98A94buzofg6AxlBXMiCrfKJWG_A2G-rNb_kFyIBsEGEw6d28xL08crSljsWUhRTCYhrTaIFO4qbDUKGzExpTq673jO20a_sDz_pwJOzh6wjUtBJkt9wFoQt5Jfe0WPfjJk8nPATg.jpg"
   },
   "posts": [
     {
@@ -106,7 +106,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CfquxdtNexVALFexksdMZuXQqq48rV9AvItBDLIDME0NNYGjvAUUY-pQjl16fZJgn-RPs8pXF3yud3QTv-BLKlFhd3fipGzUD5G-ja5MXBDuI1-sQegIVgsj8lKEYNmpPDIkIqXSbQ8UOhnQO21UKmE4WA6H43uQbnVcMo7ouni9Gr1b5fI2iQvVlvbAdBpW8lbUyqYz2wr97FEmXPuKmsvcoFMmu7oCAfZl5Yi3sYFZ8-aipsNtO3nX49JShM_pPZ45u7rS-RatHkc-5O8HDpYh5g9o6q_J6fNC03hQOBAFF4i4raTmuzqCammQaQXfJuTfEVW6l4DIvXy3AHJLhQ",
+          "url": "https://cdn4.telesco.pe/file/eiH7eT-Cwp3bJcmdlmzR-Cb58TkcWim-6Hzv7hnhIqRJAYC88PFp-G7F0hUR5hF5H2jfyIi6hkYhLVN9V2sFJWpX_qcFDlXkaoE5n2RJjNcMJUkUcr304eDEm4t2u1Phh-gb_73gt2mSS-XTffvhy6SWWsWVlKrC0-GimY4szxL1YiuXTsDRq_oMiCfNGQFtLKxxQCSKuklAbpa3OMMArNRtjIbigDQA5_CI69NWD8wlkAUp9ZXmjjlYFArY_B3k3xmeWlE4htNdZi2w0LGCq8k96WKp073VwA9lRAKVrsb_zS7lkU5ddSV-mzvKvMPtStNjooegijs4Nun-z19VqA",
           "width": 1920
         }
       ]
@@ -286,12 +286,12 @@
       "date": "2026-08-24T21:21:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 776000,
+      "views": 799000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1787648976
+  "last_updated": 1787652137
 }
