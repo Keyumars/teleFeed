@@ -8,30 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "به اندازه آدم ها دست نزنید",
-      "date": "2026-08-20T19:20:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Net Account | نت اكانت",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Z-Bvqfb8yHlf5UxHt8GnIKYjGhlpu3reQEn3U9RSNsGTinkRiGK57xCFYDPz9L1XRz5BvkOBadjuL-dnw9NJPvsSJ-CnALwmIzYLbc_xAMs7ANu4lW8VtlEOykizhyxz94GIWkQySlbj0jaWwXIAlFMQ8SpknMQz_VmTJgARTWWXNybpxB6OcuEzZUZ3a6qmSTe8BsRlWYaQtIyYsw6RlWSYpzQyAUQliPVh8Kq4kTF3NoqPr81H4MVw87cLm9TYAB9wOlwsLdfNAFpgHVSI3S3e9XQJkYx4mDoDczW6NRvQjfgRqSuIHSHgFHT2vkGmcLuE65ztlzOmsl0XFsijNQ",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003eوی پی ان MSN Guard برای اندروید\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدارای پروتوکل های:\u003cbr/\u003eMASQUE روی HTTP/3\u003cbr/\u003eWireGuard\u003cbr/\u003eWARP-on-WARP\u003cbr/\u003ePsiphon\u003cbr/\u003e\u003cbr/\u003eتوسعه دهنده یکی از اعضای چنل هست\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mbm110/MSN-GUARD/releases/latest\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eگیتهاب پروژه\u003c/a\u003e",
       "date": "2026-08-20T20:05:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -53,7 +34,7 @@
       "date": "2026-08-20T20:05:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +46,7 @@
       "date": "2026-08-20T21:36:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +58,7 @@
       "date": "2026-08-21T16:03:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27000,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +77,7 @@
       "date": "2026-08-21T16:32:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 27200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +89,7 @@
       "date": "2026-08-21T17:59:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 26000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +108,7 @@
       "date": "2026-08-22T02:17:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23400,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +120,7 @@
       "date": "2026-08-22T03:38:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +138,7 @@
       "date": "2026-08-22T21:01:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
+      "views": 25800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +150,7 @@
       "date": "2026-08-23T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 21200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +188,7 @@
       "date": "2026-08-24T20:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18800,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,12 +207,43 @@
       "date": "2026-08-25T12:13:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
+      "views": 10900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت"
+    },
+    {
+      "id": 0,
+      "message": "مجری: شما کمونیستا چرا وقتی انقلاب شد نرفتید کوبا، نرفتید شوروی؟ رفتید آمریکا؟\u003cbr/\u003eکمونیست: من جایی میرم که بتونم زندگی کنم!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eتمام چپ ها همینن. دیکتاتور تر از چپ ها وجود نداره\u003cbr/\u003eتا جوابی هم ندارن بدن کولی بازی در میارن و پرخاشگری میکنن و بقیه رو متهم میکنن که وای حق آزادی وای حق زندگی. خب پفیوز جواب بده اگه دولت کمونیستی و سوسیالیستی خوبه چرا رفتی توی یه کشور سرمایه داری که مخالفشی؟ کره شمالی هست، کوبا هست، روسیه هست، چین هست، خود جمهوری اسلامی هست، چرا هیچکدوم نمیرید توی این کشورا زندگی کنید؟ همشونم کمونیستن\u003cbr/\u003e\u003cbr/\u003eدلیلشو من بهتون میگم. چون چپ ها در هیچ جای تاریخ نتونستن ایده های گوگولی مگولی و خیالیشونو پیاده کنن و چیزایی که توی مغز پوکشون هست، هیچوقت به واقعیت نمیپیونده مثل آب و برق رایگان که خمینی وعدشو داده بود. شما به یه چپ بگو اگه تونست توی تاریخ یه دونه حکومت چپ گرا مثال بزنه که توش مردمش رفاه داشتن. هیچ جوابی جز اینکه بگه ایده ها خوب پیاده نشدن نداره. دقیقا مثل مسلمونا که به هرکدوم میگی چرا مسلمون اینطوریه میگن نه ببین اسلام چیز خوبیه فقط بدجور دارن اجراش میکنن\u003c/blockquote\u003e",
+      "date": "2026-08-25T13:58:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5480,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Net Account | نت اكانت",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/s4AmbkoORlP1HTPKJJ9DTBM3pTtbClvryTiLxqIV9ZmXyMZ1T83Gdnwa0zUxvgV-ujrY8uO9KRkq3mBatk9qi_TRzD-vWPRX-txrqmZlSnY9At9Fb-7iC1MdPrCF1wQMEKk1ajOkdc_dU8cmIbuGSHwyU5yf8msyqD7XEWuui4i6VsWhURbzwTycVU1_T3wB6RGOh0fq8n5vBsgLct9YXbhCPMpITWSu6txGhgx8iMI_M_dXbY8pr0jsgvszVp3IX8UuvmZCb8JaLIX5BRaiZWsD0nsD0E1Xalf2r5L44J9dO05FLHYgFus_Um_gFy6Nb7jTiG2LxaEfLb-SVx0xPg",
+          "width": 480
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "شباهت بزرگ چپ و مسلمون: هردو میرن جاهایی که آباد هست رو نابود میکنن و به دنبال گسترش خرابی هستن اسمشم میذارن دموکراسی و احترام به عقاید (دو موردی که جفتشون باهاش بیگانه ان و فقط از اسمش برای پیشبرد اهدافشون استفاده میکنن)\u003cbr/\u003e\u003cbr/\u003eتوی این دوتا پست تعدادی دیگه از شباهتای مسلمونا و چپ هارو گذاشتم:\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/18140\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/NetAccount/18140\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/NetAccount/18150\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/NetAccount/18150\u003c/a\u003e",
+      "date": "2026-08-25T14:09:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1787665720
+  "last_updated": 1787668956
 }
