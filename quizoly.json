@@ -12,7 +12,7 @@
       "date": "2026-08-26T15:36:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 337,
+      "views": 339,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-26T20:51:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 273,
+      "views": 274,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-08-27T09:03:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 292,
+      "views": 294,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-27T15:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 303,
+      "views": 306,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-08-27T20:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134,
+      "views": 138,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-08-28T08:50:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 298,
+      "views": 302,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-08-28T15:32:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 290,
+      "views": 294,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-08-28T20:43:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 254,
+      "views": 260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,7 +140,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/L4wT7Z_lu6hlz1rwmy2iNQ6OyWNNNEisaTxsGAPvUfmhIeHn1kP84bmzxsnDAIHDKhzMw-xFczmVyVH0OBxcrXjf1y0lYD7AQnXHjgV7VYVQ7x166pWJUJ4LhZ5qxycvLc_dk9kaUGkYxpLpe4Tgelz7Pd90B2JSW40WspBQY8pcbnZUf1ROcNcsxT99njM2VIfax8cU6Ig89bscTmT6JrOYdYKU6RkrGYm6-BPddXaK3Fh77SLPOLjDL5Ozgc-gH90PPu0zQ7NTmpG0WI569xbpCY1anA63Cupt2044nXOnz5tHMKAXo8MxTc7uEsJ5YNDZDcfBgFH-6qko598GHA.jpg"
+          "url": "https://cdn4.telesco.pe/file/VbfHOx6DgpTb1miH1TFFCGJKiDwJAGyW_K4KQ0s71wwNluV3MTkRBtkclefc3NFFfu0CIjfZs3LY26eb9H5voMqTxH9Q_azYTzSqeQttlt9jtaX9SkYgIb8bm7PhPDB2m90D2kS8GIMlQmUGmdis4yNZqWqGv4oQOUPekMY19imlMiEc9Z90R3K8CU3hE0Ka8wydPbC-cC7uHPhgFTgJDHmtB_6EMSamyRQM-3QJ8ABSzZ_3JA7orWpyGn4IRQ10V_iVbUrT9oTtj5xjuFiyp7TW-ETg47Z-dMe5U8xkMNksxwQ-ok6CM2q5zIxPHjkO5gsUDL2WdPNmsMLrKA6c7g.jpg"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "date": "2026-08-29T10:21:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 261,
+      "views": 272,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,25 @@
           "url": "https://cdn4.telesco.pe/file/AeuP4vZmYpQ_d0KrH1MjJC4yu_O0kaS_WwSrosvoaEvWD_BOaKDxRmACCl0iEFaIIR4hy1cW3Z9WLVPF4XK7EaB32DxAOuT5w1s_VO_ZyFEplvgRvzpBCd-t_Yg1RNcDqgrpVGuyJGWQfz3tVMLWqIzBIUcpILRRN6sMSBd08AAy5v3BX2gvecfbbQHay8J-dlUAtBD9nRFJfl0o0nBpj_2_rwptFQNnF7Pa6F0QJpx-7yC4cpBg01ytHt2-R3b_BJwUfvzJSvCCr3Qz-i2tADzzaM8q0JJIA7hadx0dIsK5M_HZVHwaykEw5r0F_itBu7Ku272UpmpGaVSxJaDdFQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003e ابررایانه World One پیش‌بینی کرده است که بشریت تا سال ۲۰۵۰ نابود خواهد شد\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eدلایل آن آلودگی محیط زیست و تغییرات اقلیمی اعلام شده است\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-29T20:37:00Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 188,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WXMzUFOMrL8laKQtQ0hO5Y0pd_LToUnpuZMnPQ-bV0NuQIje50YC4PiX_EuMQYV3Dc9K6gaedjxXjokmuoPmsv3UkfSIoSwP_S4YQVUpxLnpokuruJgQT3P61copFWOT58sSE8x3UWOly6tKUkclI_YjSx6yOn4uwQiaoDOyVwFis6dtEF0iMmK0vXnfRFv4P_MUMR_SdrR2hnMJHf-hnXDMEWd2-WDFgKGUpkzpYMDpyBykwwO9JL1sSHAedJQDdAuFmxE6lIQasX-c3q_w_GVBEH2CusMhG8imYYtb-p_0uoTlqUpermPgEXTYoWnCix1TWxwh-P4wo7IvpIGjyg.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788035133
+  "last_updated": 1788043428
 }
