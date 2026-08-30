@@ -8,201 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "نسخه 1.0.7 اپ نهایت تا فردا شب ریلیز میشه تمامی باگ های گزارش شده فیکس شد. سیستم اتو اپدیت اضافه شد به اپ و امنیت تانل ویمس به بالا ترید لول خودش رسید.\u003cbr/\u003e\u003cbr/\u003eاگه خیلی عجله دارید میتونید از ریپازتوری گیت هاب ورژن رو دستی دانلود کنید و ران کنید روی سیستمتون",
-      "date": "2026-08-07T15:41:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8109,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "بهترین سیستم اپدیتی که تا الان ساختم با اختلاف",
-      "date": "2026-08-07T15:52:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9730,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tyTLzzPd-sv-o6CcWwU9R6Z2Wm7AH_yXWb8p3-HYinCoH-bPY0coJ-pM72RUID8d4w0esGMeqLTroNjXWO-rHr6WhyWjSfgDT9KDyJYEBmajxzSz5f8q8H3YC7AdojTCfDEv6zmD7Hfrs5Irq7HDimdrlz_ItaCPwgip5qEho7oQlzhyqX0qUiO-geYyb9F4fRVDdAbJ4Y7GpAD5D_jj_aL5TJ2fTGmj7qG5xCnmvR89KxhvPB_rrravcXPXxxoa_XPEuAOIAJXa8y7qJIyn2kyamfBtrrtowRrK8HnHFDYZTrjrWc0W1ILbGdACi63MCHDPB9_MSYMCesKgOmsG_w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "براتون الان ریلیزش میکنم لذت برید \u003cbr/\u003eدیگه باگ های قبلی رو نداره و نیازی نیست هر بار فایل جایگزین کنید برای ا‌پدیت\u003cbr/\u003eهمچنین اپ روی حالت تانل مود دیگه باگ نمیخوره و UI به فاک نمیره",
-      "date": "2026-08-07T15:54:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.0.6/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنما :\u003cbr/\u003eنصبش کنید و لذت ببرید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-07T16:02:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "نهایتا تا فردا شب سرور های سول کانکشن به اپ اضافه میشن و میتونید به صورت کاملا رایگان بدون نیاز به کانفیگ به اینترنت جهانی وصل بشید.",
-      "date": "2026-08-07T16:19:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.0.9/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003eسرور های سول کانکشن به اپلیکیشن اضافه شد.\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب: \u003cbr/\u003eبالای بخش افزودن کانفیگ باید براتون دکمه دانلود ورژن جدید اومده باشه\u003cbr/\u003eبزنیدش بقیه کار ها به صورت اتوماتیک انجام میشه\u003ctg-emoji emoji-id=\"6026266362454745328\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BD.png\u0026#39;)\"\u003e\u003cb\u003e😽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-08T10:26:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YlgeLXBUfqArXUpICdNEA9BtF3iB64wOp-SUi-ygLNPgqq0QOLY2vHAqX3xJx_fbkEsBlRZn3WPb3Kbc7Sg_qY41N28CO8KRvpAnEb7mKCKeSF_EmYqgnvLljavr-GobPtyLMfnJhNmivUajxDhg2WlXgr-qKdBbywvydXt51jARM1QioySz_MEzig65oSliQ_LSCa7xtMwKXFikAh871fkVkYAuR0GEpEvKTPjkbJQnFMzMHiazdr9HEP0dAvVUZIp_f6dNEJZqDqn5VYjd51PiNiVubFKULCoSzXYexrTCH2cZ0DTRSCeW5I9aZPJCoaxaPUc2IHNywMF3fZJ53w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به به",
-      "date": "2026-08-08T10:32:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7890,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UO5NF4kBgsqzUb8hTROW-t4zHRSkr1peChCJmZd6skcMYH6jfaQy7YxUF7dACIqmtlmCfT22k4Lfwe2ltI5lDyOiAD5ZIN_4YoM6c7p6lLgiHs8zyIwVCds4scVZNwDy7VCjc3T_L4ejNkRoK--M4BEO-tr2ncoJa9M1d_V1fdR21nSCabWk5UgueX8YRklf0xnqcPTra_fToDpbXtS0fDOWH-KU_wceFfALNn6ZpaD3UmX2AB89s3JJdUavOHoIN9Yeg_s1W0PAdygVe4uguDz3F9fbyfA6EbMiwYZyTrtoOCY9re-0LhAHzDg8LvxVbdNCTOBmSlzEkAYkOsO2Eg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "می‌خوام قابلیت Routing Rule رو اد کنم، منتها این Routing قراره ۱۸۰ درجه با Routing تمام اپ‌های امروزی فرق داشته باشه.\u003cbr/\u003e\u003cbr/\u003eدیگه لازم نیست برای Routing کردن یه اپ، خودتون بشین کلی سرویس و تنظیمات انجام بدین. همه‌چی به‌صورت اتومات انجام میشه و شما فقط با یه UI حرفه‌ای و ساده مشخص می‌کنین که هر اپ از چه روتی استفاده کنه، بقیه کارها رو خود اپ سول کانکشن انجام میده.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-08T11:07:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/as84HG90iBYK48I1W-qIjTlqQ5mmkTitweOQZQsupc56zKF6A75rcLerBoEuO9eZgq9TYaofC1iRESQuTZNwkLiBlUvQzjiIeWTeSRQcCfZR2cTi7eC5DUzZvykhWjMXpNrL54sRgS23OQ5iv5YRThrBD3zjjH6NNlCrfWuo1EzWCjRnEQXof4r4lOkT6zK600l8UdAb3wQxs0GUS3ASAm4kNx2YWRw1hYmFPRcUmWYwjblnrtUP673kj3tl27UKffHkpAmeIdWgw3CNkqC2TGTM1yrEEzaJswQpIEE4hlxD1S_YG-sk_1Z2gM8BMO9kzkq8qZyoHmsDeq9rmjyeaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ریلیز ۱.۱.۰ اپ نهایت تا شب پابلیک میشه و میتونید از روتینگ رول استفاده کنید \u003ctg-emoji emoji-id=\"6023606867165452817\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BD.png\u0026#39;)\"\u003e\u003cb\u003e😽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-08-08T11:21:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8320,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "اپلیکیشن روی ویندوز ۱۰ ۳۲ بیت فیکس شد و بدون باگ core ها عمل میکنن و بدون مشکل تانل میشه.",
-      "date": "2026-08-08T11:59:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/a2urdAufflvQ73GHy6N3jLqcIaseSM_C2pCnyd_CXbNDcuPon-tjqtc6cVBqWYQKsTan8GCgz4KXeYI--G6IVukjkc9RitUjQXV576OEgBShpuw9kL1UuThpwfHwzMeXMtXseS4QUxWY_CovOHGN_XVmsBZrxsVvHSn1fQNv3A6o3oGDimALaORIn01ogA1a4HdxX3FSmAjUx2tQJ4k0L38vCPJ0rW0vpFXZPbKRkd5M1tope30dO4RnHc7T9zs5UAbi90xAv2iPUeHXHTf7fLZDMigIJTHKdUoWj8y1lIV97402MRNaJw6fUnuSWwCMuQlbdmHyB_qcbWQFyPU9Fg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.1.0/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003eبه ورژن جدید یه باکس اضافه شد که میتونید ببینید به چه کشوری تانل شدین و کیفیت اتصالتون چطوریه\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب: \u003cbr/\u003eبالای بخش افزودن کانفیگ باید براتون دکمه دانلود ورژن جدید اومده باشه\u003cbr/\u003eبزنیدش بقیه کار ها به صورت اتوماتیک انجام میشه\u003ctg-emoji emoji-id=\"6026266362454745328\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BD.png\u0026#39;)\"\u003e\u003cb\u003e😽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-08T17:28:22Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YdeqQyBu5OVSm2KVJxoQdEMmFi4XkRpM6cp9K-i_o0Yd_sBTHjtnIdjaPlY98wWDXvuswH_Gv3Yhkd_-ewXF6A2x2Bh21JRiBNBCA6LxkvIpsWT0kEoc8Njx6fdiWypEIWdAowYHHSYsQX7KQOB2XXUK3ZBqXLIEePAFVt1_oM4mSNqrhA5pu-Wy9ywLwPvXwnE6x-FYYyKAoAhuIrLlVaJaV9gfF74p8QkJ9efRZYzs7nGvqCiyZjJYO9lca5ImIDYaKMAd0OIQLzp9WiQ8EklMvugHF74Oo_ABrjcUqbYOo3SC6URL_o6i9JHGXorq3ytOnxY0G-ZBq3lQ8h5yBg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mvlmQ4UdN6wv2A944QmXjgSP7ry9fjl-J-t5TzpoSYf0Bi3sP5v09YxnsPLvtRgMde47uYjSPDyr4rFcWlyeF94O2l4kviLV7YaYeUneOr76nmf3UK4xEOBknfSSdyU6GXzEyqQP6SGSAP7CdaGcqKe9Hk8cpScIASHIUz8LxmhHU_3HnRidIX2CLeAY-7x2BacUq5ZqxROUUSvAAHLfxa4n8CU9SzKK_w0i17NLikvNh1-F73QVTK6k8FrFNZhAyT7j66JjWSEhkyQX_6S0469MYnrTe36BZbIt-q2whJRRq8TxtzpnxPHSYVrbMw86DACAl3jnAD80t7TFqx9GWA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/Fullstack-Soul-Connection\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.1.2/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003eپرتوکل تانل بازنویسی شد و الان تمام ترافیک سیستم بدون قید و شرط از کانفیگ شما عبور میکنه \u003cbr/\u003e\u003cbr/\u003eپ.ن: بالاترین کیفیت و پر امنیت ترین پرتوکل تانل \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003eلذت بیرید\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب: \u003cbr/\u003eبالای بخش افزودن کانفیگ باید براتون دکمه دانلود ورژن جدید اومده باشه\u003cbr/\u003eبزنیدش بقیه کار ها به صورت اتوماتیک انجام میشه\u003ctg-emoji emoji-id=\"6026266362454745328\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F98BD.png\u0026#39;)\"\u003e\u003cb\u003e😽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-09T09:57:30Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NY4fn9qgB6rEWt6oGj8NAMvyUQLEkhRPY9vU2zhDkNL7sNdKTwHE_qkTsdPukf-imlq5ouESaxNTwoYmsKA8fcIgofEXljWZU2q1I55ZvKAmAVzcXS3SANRVJcPIeSK6LEIFOFe6ZQKaHgxeBGXO-2ckWrL1LRndpMr4yepPl3acvN6OTy_IdcYaw1Imdn6yzbYeo459rbAie3vz77pP93XeGZfI3eNnJOa0V5YzCM13jCYaHmj6Nm59e_DhMzimE-SQryO9c3H0uoye9JbSHJLbOsveWayW1vFIMhKid9s64UsokqzmgpXxpKAXEat5GIM1gytWa3UF_a7LS5eLaA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "حبیبی امریکا که میره ، ما میمونیمو شما",
       "date": "2026-08-10T03:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 14600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +30,7 @@
       "date": "2026-08-14T12:40:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 12100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +48,7 @@
       "date": "2026-08-14T13:08:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -250,7 +60,7 @@
       "date": "2026-08-16T10:37:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +72,7 @@
       "date": "2026-08-26T15:50:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -274,7 +84,7 @@
       "date": "2026-08-27T09:18:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 6150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -286,7 +96,7 @@
       "date": "2026-08-28T12:22:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2970,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +107,165 @@
           "url": "https://cdn4.telesco.pe/file/kqv4IvJKXLaNiGM3bmiuZDd_3VNTvhxc-lTXG62hK5zNagnpnZFQ5lRAeBM_c_zRkO4byGtwHxs5coqLowQW7pm1G8mldnM9ViZ-2QcQhnCpKThih9sQ4yr_2RMICYSVvWITZUcBuSAIqZ73YLdVXLpHOUeS8w9_GECguFj4lPVIMpkJ-x1EjfBXNS0FavyH467H6KUKGHeTa2AdzVByWjeKYVFGsTg-p7fuZ0vjs_GCLBi_BRyob_buOmrmGJsMYxaTY7v_fZaP0NMd_um-mg0BOH-1Fa0zKWjmt9ywML1PuIMaQOIBpm8Bc-xfFXu81MsURzyhc2nLQ5JKWdtGEA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "یا حیدر",
+      "date": "2026-08-30T21:45:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oMWN-_WZPsR5v50y-pWNzEvg9P0M0__IQMwXoHEc3HDUr72saO7emcIQYRodV8Ls8FZEtP8v9-WUOqdxSjFfubSVgsFKBBwpeKPa38DQGTePTcU-TtnE1Izrpc-gfIyMWemv2HF1QRrvCYsMtwyqut2uEbeCZ8THgV7Mqj4vLc8pg34AhUzI9IV_PgZdIi3PJR4IuHTGP7YurJkjmoxGVK1qA2TLQDXUEIzM6ffu0Bbqx88v-yB-IQAFh7ZsCW6viW5ui8cGufHqZSH_Ms597Am_R4waNPcPC3-xVZN9PTpU8y0M8NFwZBg3WV15IFzEAEayiLXchBA_4iAXN5SqQg",
+          "width": 384
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "تنگه هرمز به صورت کامل بسته شد.",
+      "date": "2026-08-30T21:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "ده تا بالستیک همین الان لانچ شد",
+      "date": "2026-08-30T21:56:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "اردن",
+      "date": "2026-08-30T21:58:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hv8CskaXWu_qPM5LixgkTm3k0GT7ze2nuczsFr26M0qp8D2txCvUfbFLE0h7-Ld4qDO7bca6QgpMgLWt3o7wlRX0N4IC-SK-I66top7irea2c073abuMV73dsa1vPQaV3XWcUAbpNsKG8aQZ_Xhncs6LUgYr101Y9gsLSeCv3KovJwTURICLfx9s2dNTVOxry-joqEOJfbCTBuBZhtcExsDUYSLQLpyVge5QMtybzf3SmaniBK4xlv4X33CMmD4RN5o210rHsnQNaEkmpR1LuJwmvPuoy_6_qOh40LA9-95QQDjkCHRVWbnAs9Zi9j0uycVyfxAEY61nD8h07HS3mg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "دوستان",
+      "date": "2026-08-30T22:01:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "تو هرمز کشتی زدیم",
+      "date": "2026-08-30T22:01:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6044112265102235520\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e منابع عراقی: گزارش‌های اولیه از برخورد مستقیم موشک ایرانی به یک کشتی آمریکایی حکایت دارد\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/sarbazane_g\" target=\"_blank\"\u003e@sarbazane_g\u003c/a\u003e",
+      "date": "2026-08-30T22:05:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2160,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "موشک هایی که تو موج اول رفت برای خالی کردن پدافند بود\u003cbr/\u003e\u003cbr/\u003eموج بعدی تا دقایق اینده لانچ میشه",
+      "date": "2026-08-30T22:11:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "به به",
+      "date": "2026-08-30T22:21:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PULaJrlZZg28ahfGmFEqnwCyXC1cNZhjT888RwBthQQBPAykSuIFdLpH4To7XUwk-gm2b643Rl-pvJKbv7YcMBVF6PHChhcGKDCHrOW9nUk546OHVk-qd7o16JfmZuTO6B_2OWxwWZgoQA0A7DppIvljkELvAJs9ki5fkG48IbRPw7xRx3qXYXgAiMFW3CmLoY8bX_8ciRW_TjiKzWlzINCDe0NY7E2lVPtD5KXe3358xHChrFYU30uXrzffFA0zV-g19nlVY8Cbz2M37L6TuO-zefEeRMXEIrQO-fisHEfqX0Id6ZO9YjYaKyA5AUj3KnCWAl47UAjREKbGHyJo2Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "موشک هایی که تو موج اول رفت برای خالی کردن پدافند بود  موج بعدی تا دقایق اینده لانچ میشه",
+      "date": "2026-08-30T22:27:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/JFz__Y6SzmefHXrXm5pqAm6PfhIsaNfyHuPa_w23hm_NPPrzde6fnA_AgYfI8gDyPmZ0OzWilR93g8MCxP2O463jDOHXXDmwv1Zp41suCLR_JMKvO9hxcsmLaxsjU_M-gEIECLCM-Vk0PCoKo3LlzjqqhZYgPFCnCKzwGak6HpNBcq2bcL0d8w7BdclXUSitqQxq-G-J5UIXRktZkfcLWoE3lrqDiwKG0FVlcvGcm-WYesWerhtR7A0nH7GviJbGMj7wnd3LXtZswoSkdrtRE1fvs87oUlL8DMmWgsbRvBFPlf_KPc8k9Nn_53ZX-jbPpEKVXndNAT-QYCtZpNYGaQ",
+          "width": 384
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "العدید رفت رو هوا با تشکر از بچه های هوا فضا",
+      "date": "2026-08-30T22:27:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1788122233
+  "last_updated": 1788131585
 }

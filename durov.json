@@ -221,7 +221,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EW833Oe63dUvFqd5WgWgh-04pplTVVTSofRpl0aRAuQYcJCAPkRQaRWMcG-e1LXXbnasP7no4IQZJqJgjWHv0fgc6i631ECNOK8Q5D7B_2Q4XxVIV9jjMsFOM2WjByj_3Kkhrt32I3UFEJAgdRGO_FWLk-JJAEtLyoWmimaCyU6oHismvuNVAZVnm_DbYYNCQcK5PNBJ0cYWw0NEp4POeLXDSLalCRahY7MDoEO1yniBDsUJSKZJkbmUcmN0S9tkKAbff1JADjoRTIzSOaKG0ttxJF_lN_UlGfu__LNIx6d0n_4cRoe7_GemZkC7NxShsQbyh_kbn6e97KhVkDYbIw.jpg"
+          "url": "https://cdn4.telesco.pe/file/icFbptx6vrNK7uGqKx3D1GlfKxCOFXiW9TLx-yuhMpEord1aXWFbv3M-j4Y3mzV3L_oOdPXFVukptXm2zwFzLjUlYvbvPa-yZe15Q2Nh5QFhQ36wONSqosFTjPv7eW2IG0l0k-ITm8PeccPc1o6STj5dDf8au8xW3275HIpeebdmd_KCAmSkZBtgAHSqpukTxNjAW69nwif4Dzqn4EBvM5WIs6PGN_bEDg9-Rbfwqxfj4VLunsza63XfBV51Zp_ibm_24l8XibpGM0KdmQmRvklsIhaE3hYItr1J8HtnBTxjkZLhCAhNMo42YIgGmJrMnYtikfWHTnhxnlFXmTaNjA.jpg"
         }
       ]
     },
@@ -279,12 +279,12 @@
       "date": "2026-08-30T09:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 704000,
+      "views": 727000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1788122217
+  "last_updated": 1788131567
 }

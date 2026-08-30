@@ -12,7 +12,7 @@
       "date": "2026-08-27T15:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 322,
+      "views": 326,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-08-27T20:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150,
+      "views": 155,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +42,7 @@
       "date": "2026-08-28T08:50:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 316,
+      "views": 319,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +60,7 @@
       "date": "2026-08-28T15:32:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 306,
+      "views": 310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +78,7 @@
       "date": "2026-08-28T20:43:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 275,
+      "views": 278,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +86,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/VbfHOx6DgpTb1miH1TFFCGJKiDwJAGyW_K4KQ0s71wwNluV3MTkRBtkclefc3NFFfu0CIjfZs3LY26eb9H5voMqTxH9Q_azYTzSqeQttlt9jtaX9SkYgIb8bm7PhPDB2m90D2kS8GIMlQmUGmdis4yNZqWqGv4oQOUPekMY19imlMiEc9Z90R3K8CU3hE0Ka8wydPbC-cC7uHPhgFTgJDHmtB_6EMSamyRQM-3QJ8ABSzZ_3JA7orWpyGn4IRQ10V_iVbUrT9oTtj5xjuFiyp7TW-ETg47Z-dMe5U8xkMNksxwQ-ok6CM2q5zIxPHjkO5gsUDL2WdPNmsMLrKA6c7g.jpg"
+          "url": "https://cdn4.telesco.pe/file/XUQ3lz38sBy57hL_Pu0eRevP7zcGK21ABak_KTWV3IA3gPZ7u3Hby_SXCgisoPmn2Mpbl6dtqmYX1tn90lJKbZZTnueRxQ4MJVhG7uLauE5Qa9z9u0Ng7v-YQtnoF0jtuScT5crSy3_p28ZpceeQGvhoqaAeOLlaL66Oz-I4aUIWs3WnsJgHSh7mfaT4jgv9Tn_aRaowZIG_kaa-GXvfLdH06fMwwPxbg_MIiLuunCNVfLjz25XISbQ2tYjt8GAOlweRoW7K-aoCPJiEz78thMWkHVIrKvnO4xj0fPFpwOMfLwRTWzzGf3NnvOC7hFVQ9Wcp1U86pDtT9V1eUSGulg.jpg"
         }
       ]
     },
@@ -96,7 +96,7 @@
       "date": "2026-08-29T10:21:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 301,
+      "views": 309,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +114,7 @@
       "date": "2026-08-29T20:37:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 253,
+      "views": 265,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-08-30T08:40:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 250,
+      "views": 269,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-08-30T14:55:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 235,
+      "views": 258,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,25 @@
           "url": "https://cdn4.telesco.pe/file/bFg46B3QEo2jgNd2F3uRTqB3hbfsifSjgS7-T7C60aguATqQlIC34J-H3aG0a9igQHnCIUMiRoess3H-O7Y5qYq1UQXOsH6QpXCzRPT2ppQiHrgR_fw4PJorFbeefd_hNDJ-Kk5wsSrXw7fz_LjdLgMlkJfYq-pPKLSlzmwkgQv_uqGsELpQ9SEnQyb2XhMf6utS0lTrUMMQgw20Anf_2Jtm8KgccMIHZMndiU0q5GWSvHnqCBxKEtnUi_ACIggGQi1-RaDwqGv2pdpHSrs8G0FFjmXX36f66ld3BjYBohKXwlQ47tUleUUD_mpzYEPYWnApPFj2nda_ST9qsTLdBA.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003eطولانی ترین باران روی زمین 247 روز در یکی از جزایر هاوایی در جزیره کائوآی به طول انجامید. از 27 آگوست 1993 آغاز و در 30 آوریل 1994 به پایان رسید\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-30T20:53:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 199,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/GshJbMB49cdsO1_JN4daFyOgBNiERefVu8s88l8d6mqg7Hp_xu9XHz2QikuIC_XI95_Fu7Se9wAZLjxYcLbqoImNtEj3jsPbGZuqmyHLL0Ol7sWkEstBC8RYHofFRtavPZxqcbCWlLygbqgZnQ1kl7PNHNiJmZXGW2aWvuB3AVIPL5R6goeIDF7v6qQPPYTLN9gPevQxjU70jQNiEDg2bH5AjwuaffFj-WJXhwmh-f_9bOFSU1Rdli5gkVXiNA9MUnHot_7YvZmBOV-H7yt7StmfHSaJj5oFtkqhsQCxmxxzWMRwtps-ap6omyE_hX24JzUKrFbBp0v9SW29t5C0nQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788122089
+  "last_updated": 1788131437
 }
