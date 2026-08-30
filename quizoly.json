@@ -8,24 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cb\u003eاین پست رو سیو کنید و برای دوستاتون بفرستید تا متوجه بشن که بهترین زمان بیدار شدن بعد از هر زمان خواب چه ساعتیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-08-26T15:36:40Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 342,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bbuLzwJrbqn0qLgAgy7i08nFaDigSq4NM5Z1o4OpmjUPjTYz7BeZVyCFESBfCDz_4dSAtJgw2o9QUYqudOsUtIjyWNwJnRWJSR8U4V9eV0fgtWMTk6NywvtsEFKGorHNKnHglt0RaLw8UiUPHfhfWivgIcINz0HdlZ7thEyTvuA0RG-dTKQhjRuNB_wImcOkzuC7EOMOfeB7XRHqpjEuZahkb9iyMcyLAwdcnMlcRHtqDm__N_vY0rn-l_wfbYz3A3TvgqmzuL7aZHGntQOxK2bLBfr5jA0ptFz_jLIEckUBYqd5y2SrrGYracS2fyZxKuzjzo-Nm-MvPbFKTnt3lA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003e یک ساعت استفاده از هدفون باعث می‌شود باکتری‌ها در گوش شما ۷۰۰ برابر افزایش پیدا کنند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-08-26T20:51:06Z",
       "edited": false,
@@ -84,7 +66,7 @@
       "date": "2026-08-27T20:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139,
+      "views": 140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +132,7 @@
       "date": "2026-08-29T10:21:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 274,
+      "views": 280,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,7 +150,7 @@
       "date": "2026-08-29T20:37:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 194,
+      "views": 210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,5 +163,5 @@
       ]
     }
   ],
-  "last_updated": 1788051799
+  "last_updated": 1788073486
 }
