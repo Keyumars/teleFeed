@@ -3,28 +3,9 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/CW4iAtnvUktQFvX8hqm2s8HJAyonaS6BiY7ypSbT-IPSgSgDowaYvkpduFJ3KYiEPM2HmwUlSAfYuP4dVdUKQP_T7GI7xzYB6kF1O18_YyfrqBwqeAWtC2zSwbBBNYkTm3IydGeYoViE40mPJY6CPZ0bkSWemGjdFikOTprsk66nyjR_ErlXnFgcllumIEHgyIfUWSNzviZNnjcTqzQSVz6JQjGNxQt8GtMd6FmeGa9h_ha30DQiwBZXPYdeumVBgo4AsHIvZAj-tE3NSuptKXxXtYZfkfVoEmXdoEswOKAdHjdgtqzBx9-njZx4B2tpNMCTQZ8tP3Bq-IGr0veONA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/X8gVHc4cJI7rjBat7Ky9Fpjd1DbeaGdGm4xuq4GfV_2ZbxcgtEHM8E1cqA97b5jxhIer-hOS09vJ-8Gl-if7o5CwhF_Bp-Zj6A9MnKLWqGdbYJeb8OxR_57ysKEZ7pAQ6EKH13akSYqu43v1RYMQ587J7tzHaj7BMxpDq1HKfusTB_aq6zfxkLeUJnl8KcYzpTpNgOr4GDuJ3fNDzBRILDbJ7vWGgTqTSqdzpiTKie7dtr-at4wGZIJCKOwzXlfd0ASZr0mAQ506-jSGQprRp-VXJDPal8pAeWEY43CLGeKLMs78_lofWHuvu3MYVMM2NyTGk3lki_6-GUeNtEKIJw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5224615466890193456\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28C9A.png\u0026#39;)\"\u003e\u003cb\u003e⌚️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram is now on \u003cb\u003eWear OS\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eOwners of Galaxy Watch, Pixel Watch, Xiaomi Watch and other smartwatches — enjoy! \u003ctg-emoji emoji-id=\"6132093145447404748\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29895.png\u0026#39;)\"\u003e\u003cb\u003e☕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
-      "date": "2026-06-11T17:54:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/c6UwroIVWyJKomfGwO5EhzmiukePusZO-WVmgBPy3ar_PXdKc2flv-6YumepX0gGt2e1NIf960Rbesp5D9noBaILDjkYob4ZCskXXGL-5F4kbcBJvHaXVfYOnbX5GutmbtJ4n5uz3lbwHiCjuM7yVunAgXq7b5GJt9u8dD_puW0D8h7BhI0KtBqg8L147_mCzrZPX7kBQx49T3Yl3S9oDpG8s5ZbbztHgeoV70yX6PJu4kLjQ6PsvDXBi0UXgLeDf9QH0z_7Y8uXbFEndDBSLl7mAo6f5SyBEdcGh25N5qowpZnjWbglNosywzLSZ9odL05fxK0jWA-xoBC25mmUIA",
-          "width": 1920
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5375338737028841420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram’s \u003ca href=\"https://telegram.org/blog/watch-apps-and-more\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003enew update\u003c/a\u003e is out. Lots of great new features.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325774161597967162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e But most importantly: the announcement is actually fun to read.",
@@ -106,7 +87,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/g_o35daAfvn3GdiPMd4V3Mt4pyvUyDAz8BJi9TvC05Lj8nb2eqwnMsIJxdPdInaecWbTHE49JXhy53wCxzm8c0YB9m3xTdjjD0rusirIRM67eLzycWhJR6rjhFlgmG2cfvE4n6HdBRDKaPsJ5OHoW_jTox3anKfJRRygHMcm1OJa_kw4k-V6uNwDa68uxft6iR8qfQFleLp_CqIlGI9MpBNqGZ8iCQ_PAW_a85Dfa1ISR__IMYpf-tl-hgWE8zHEOqdMJjRG-HiD-lY0glSBpJaLqVK1VYX0zHjrWSnHebl123EwFeASObcucWEdCqbxIeHlF2vfR73Nc1_6b-NQ4A",
+          "url": "https://cdn4.telesco.pe/file/KR4nah3nIVnb1LFO6nnOqkZsHZIYwFePAynavdddhpemkfvbjmUrWAaYK8uL2CE1twMYcLXMduoFuzGRa79KcjUfVN5Spok4Q2c6pwCmpRvdCwUBRkfCn8x0rNpwzWeVLbgcRcG6b3chv7eZm25hjTVW5TeJKbhzzbdHnccHO4oZhIMrjRYRIC4QPvlDz4EoLmNRbju4cCZOXTd9mQtQq1ynSHJ8KwfyVwt_kxW1kmzTxvf7juYcnl3auhArHENC_QFsfNSGTb1fLwYeEAHHh__74PSdmSAjPX7QBQsu-zjbJpQ5GlSe1omo9vZC0Odoq91FDJ5qgYcHHm2nOKx7ng",
           "width": 1920
         }
       ]
@@ -180,7 +161,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/F_kwuCg99E8muTKJkvuAWnEn33v05HcRBiiNNDzCsIGIwdIjAfSjE2pjccxNIVzpOiaW8i-Hrb4B2_W8NZoy7bRmMN3NI_meN2-YtKqU2RGk8QsNEvZjNGwm7feipDlbKJV7UTShOyMO-AivqVyXE4OXiPIam4j_fn33d7WbxH49k3unQLdl0egpXBQ1ZnuFcpiCC7biv33ON9wZwagWcG4Z7AWJNfS754mZuxUsosplR-6DWCJOQ6ubGxC_37fY_tyY7qUif6_3TcMwBip_82egUux_gs2cNgxzuPttrp9bhwZHsroFwhdQ3iKZ1crZ8bUkex2_pksg5GIU0T93bw.jpg"
+          "url": "https://cdn4.telesco.pe/file/p4u2awrZFpW5ErPh06SO-FdxMS0EueeBjFGPtnhwuW5xuLXm1EKueOJLHqEht7z1ssU5Q1PqriYxc6sgajUNrfwiNBDeafEhxE2-z2hAVwA3ofys6lGAwS--G2uD-Xr37jWqdxhBkFfLEiAPSLf3RG2NwUKTaIdAXKX2d5A4fs4g0DrYIVvyAmCnjD1rGQgrGBE4-L1en_HdKgV9tUVLDoruNgGVJwBG4B5SPbSQpv7CqqsTwrR8TfT9VbEn92pj1727i4Z9Uvomvhlyt0M65VkJXA2msmk5TRwRsa32ShNUEKmOaTH21x-bHORRv91bYvb5yCCMG7kTpZIsEDXFMw.jpg"
         }
       ]
     },
@@ -262,7 +243,7 @@
       "date": "2026-08-15T13:29:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +272,19 @@
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "A high-school student just made \u003cb\u003e$20,000\u003c/b\u003e from a \u003cb\u003eTelegram Gift\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://stats.ioinformatics.org/people/9089\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eJonathan He\u003c/a\u003e, an IOI gold medalist ranked \u003cb\u003e#7\u003c/b\u003e in the world, sold his \u003ca href=\"https://t.me/nft/algorithmcup-7\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAlgorithm Cup\u003c/a\u003e — an NFT \u003ca href=\"https://t.me/durov/540\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ewe gave to the top young coders\u003c/a\u003e this month — for \u003ctg-emoji emoji-id=\"5296624922934678537\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e15,000 Grams\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eHappy for him. It\u0026#39;s a meaningful sum for someone still in school, and I suspect a small fraction of what he\u0026#39;ll go on to build.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e20\u003c/b\u003e years ago,\u003cb\u003e $20K\u003c/b\u003e was enough for me to launch my first company. Within months, it had reached\u003cb\u003e 1M\u003c/b\u003e users and raised \u003cb\u003e$12M\u003c/b\u003e at a \u003cb\u003e$60M\u003c/b\u003e valuation. \u003ctg-emoji emoji-id=\"5447458260200214425\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eI hope some of this year\u0026#39;s winners put their Grams to similar use! \u003ctg-emoji emoji-id=\"5028746137645876535\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-30T09:10:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 525000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1788073614
+  "last_updated": 1788095365
 }

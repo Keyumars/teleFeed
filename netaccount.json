@@ -12,7 +12,7 @@
       "date": "2026-08-23T18:58:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26300,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -50,7 +50,7 @@
       "date": "2026-08-24T20:19:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28200,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -69,7 +69,7 @@
       "date": "2026-08-25T12:13:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +81,7 @@
       "date": "2026-08-25T13:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27800,
+      "views": 28100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/awRtRGMwZfoFqCgbcda7U7qcw5SntXoEMIbXLcBQC43PHp908P_7MEYPiIesAAQERNPLB-FwZV-y88x3Rikh3JFkUEaBQc7J42hOdQXypBiWRaCrrh7Qe_QCWni80dY9vEjm1RZuCYr7_a5PDIZVE2uSY0T3HPzRd61T-IHkC8qEwJ5cZdAkaeGSrW95C0pcG3oGQFDWst2-HasClpcVvEkqIs0_uRutApBY2kYddzRVYsu0vJ4LtgFtrnIzAMoKrBMrzVf7ERNrkZIOwJQJcj6Uc_fMcwn8U7uY43hj-IP-mugcofFWNxmYBuV5ssr1xHYNb0PbpW0UewDsxPLFMg",
+          "url": "https://cdn4.telesco.pe/file/SLF8vw_uLaddlfqmlmtALnuTUypJUBNjHqtUa285pjWi2fkRghlhCojQIT-aINEtTXDvB38Afq_-7Xu1T36FQFqtSeUqbo4261SEXbVJdkg6PQ8GyqFwrJuyWxrFjGOzBqZRL2M_762zm_nLY5SztXitL8G3DoODaIf_sdCQ12a6vfdPSgc2HxWbyeSy_ARmxGy-xAG43nLISfCYGF3bJaKIiOqy_Hu4WRxogNlFA5MtDp97pojpBp7MxWiTDOymymQNCl2jD6Svy3EnojQw8IizXmdxwRpTfGwi3FaPOvTvrA8Pct2WFS3IaYYJaILgvcO8KSSyt7ErUXxgT1gxgQ",
           "width": 480
         }
       ]
@@ -100,7 +100,7 @@
       "date": "2026-08-25T14:09:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +112,7 @@
       "date": "2026-08-25T18:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +124,7 @@
       "date": "2026-08-26T04:46:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27600,
+      "views": 28000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -136,7 +136,7 @@
       "date": "2026-08-26T18:02:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 20900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +190,7 @@
       "date": "2026-08-26T18:04:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,12 +202,12 @@
       "date": "2026-08-26T21:15:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1788073511
+  "last_updated": 1788095266
 }
