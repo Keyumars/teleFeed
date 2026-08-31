@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5375338737028841420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9484.png\u0026#39;)\"\u003e\u003cb\u003e🔄\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram’s \u003ca href=\"https://telegram.org/blog/watch-apps-and-more\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003enew update\u003c/a\u003e is out. Lots of great new features.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5325774161597967162\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e But most importantly: the announcement is actually fun to read.",
-      "date": "2026-06-12T19:15:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Don\u0026#39;t be surprised if you see tables, nested lists, inline media, formulas, headers and more in Telegram messages.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312047639393480586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We now support rich formatting for all chatbots.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456312597273923475\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A8.png\u0026#39;)\"\u003e\u003cb\u003e🔨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Start building! \u003ca href=\"https://core.telegram.org/bots/api#rich-message-formatting-options\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDocs for chatbot devs →\u003c/a\u003e",
       "date": "2026-06-13T20:15:20Z",
       "edited": false,
@@ -129,7 +117,7 @@
       "date": "2026-07-23T15:15:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 6,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +189,7 @@
       "date": "2026-08-08T21:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +243,7 @@
       "date": "2026-08-18T17:37:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,12 +267,31 @@
       "date": "2026-08-30T09:10:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 852000,
+      "views": 980000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Pavel Durov"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5296258338886035861\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB3.png\u0026#39;)\"\u003e\u003cb\u003e🏳️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Gram Wallet in Telegram is ready and is now accessible to a select group of users.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5316927710084226227\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A9.png\u0026#39;)\"\u003e\u003cb\u003e🤩\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We\u0026#39;ll be gradually rolling it out to our billion+ users over the next couple of weeks.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431449001532594346\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Thanks to the validators who approved the smart contract that powers it, future upgrades of the wallet won\u0026#39;t require painful migrations.\u003cbr/\u003e\u003cbr/\u003eThis is just one of the innovations we\u0026#39;ve built to make non-custodial wallets usable \u003ctg-emoji emoji-id=\"5472164874886846699\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-08-31T16:30:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 518000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qN10SrqU1KInxcMqwhbklUtq7w0hwG9GG2Vr-GT4aoI_hj7HN05I9ufM8NOQh_h2yfz-d2YK1SvBbJmn1mWxAOzV0chYa_qMkAqudNVLSprttZohYogSQnrID_h2o-liG2xk8kZ17Jhww2JBov7KidwtrykjqQ1iyKyfgGWomjPoPIroL_diFiX-hasojJ8A3ZIpdDihQhYyIeZxX4mnJIlZHPGbc0onyP_898O1yhBk08N3bpizWm1jtrYjxoB3ogmZ2J1b5cDdPVWjFiYcjFuQtUlSRe752SU0QIMlx0FXIFNIHYo7c4iD8f6KxMMi0N_QzOX9Rvy3sR3dEy41fw",
+          "width": 1920
+        }
+      ]
     }
   ],
-  "last_updated": 1788189547
+  "last_updated": 1788210014
 }
