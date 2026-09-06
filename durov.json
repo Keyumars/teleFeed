@@ -8,25 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Don\u0026#39;t be surprised if you see tables, nested lists, inline media, formulas, headers and more in Telegram messages.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312047639393480586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9396.png\u0026#39;)\"\u003e\u003cb\u003e📖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We now support rich formatting for all chatbots.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456312597273923475\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A8.png\u0026#39;)\"\u003e\u003cb\u003e🔨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Start building! \u003ca href=\"https://core.telegram.org/bots/api#rich-message-formatting-options\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDocs for chatbot devs →\u003c/a\u003e",
-      "date": "2026-06-13T20:15:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Ha6_jmRzXCyUJV9bZkjVwC-bC3Gs9J7fSXNyb0ILgA_7SzCsBSlpbHHXuwu4GjgeU3010YhQPq8XZ7zMQ_e-BK2cMaLM9rMZwhQayHKpylz-bbEgZjbKZR04Q1xxkfI8J7D34e1uACOuy4NAPo4PcNkV-o7gqLHRAQIq8Pyi7kk5HI-ycSRgVirLq7PYnV_f0pSaavbyAbQ6xGOJ4eFQfETAZL3ev8UAMNztu1iJeYCcKgyg-TBfL_w13BLQh3UlIfdkFJlGNqJyyvl69tixfD10TdDloVszyzGQbdQrSiJC6bYyviQkjqaLuiy2v_AFjmyiCyDk_SVgwL8XMKnGqA",
-          "width": 1920
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5409008750893734809\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eTelegram\u003c/b\u003e is launching a \u003cb\u003e$200,000 contest\u003c/b\u003e for content creators.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375464961822695044\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Create a video about \u003cb\u003edigital freedom\u003c/b\u003e using ideas and footage from \u003ca href=\"https://www.youtube.com/watch?v=1Yq_5aDdJ24\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003ethis speech\u003c/a\u003e — plus any content or ideas of your own.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5244837092042750681\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9388.png\u0026#39;)\"\u003e\u003cb\u003e📈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Pass \u003cb\u003e10,000+\u003c/b\u003e organic views for a chance to win a share of the prize fund.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5469903029144657419\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A3.png\u0026#39;)\"\u003e\u003cb\u003e📣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/contest/456\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eFull details\u003c/a\u003e in the \u003ca href=\"https://t.me/contest\" target=\"_blank\"\u003e@contest\u003c/a\u003e channel.",
       "date": "2026-06-15T15:53:15Z",
       "edited": false,
@@ -291,7 +272,19 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5447458260200214425\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B8.png\u0026#39;)\"\u003e\u003cb\u003e💸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e In just one month, Telegram has awarded over \u003cb\u003e$2,222,000\u003c/b\u003e to some of the brightest minds on our planet.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431456208487716895\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA8.png\u0026#39;)\"\u003e\u003cb\u003e🎨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e This week alone we distributed \u003cb\u003e$222,000 \u003c/b\u003eamong the winners of our two latest competitions — the \u003ca href=\"https://t.me/contest/460\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDesign Contest\u003c/a\u003e and the \u003ca href=\"https://t.me/contest/462\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eDigital Freedom Contest\u003c/a\u003e.\u003cbr/\u003e\u003cbr/\u003eOn top of that, over the past month we awarded prizes \u003ca href=\"https://t.me/transferintelligencecups/688\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eworth more\u003c/a\u003e than \u003cb\u003e$2 million\u003c/b\u003e to the winners of the 2026 International Olympiads in \u003ca href=\"https://t.me/durov/542\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eInformatics\u003c/a\u003e and \u003ca href=\"https://t.me/durov/537\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAI\u003c/a\u003e.\u003cbr/\u003e\u003cbr/\u003eWe\u0026#39;re proud to support the best! \u003ctg-emoji emoji-id=\"5467403804855016559\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-06T17:40:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1788707715
+  "last_updated": 1788716445
 }
