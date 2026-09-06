@@ -3,34 +3,16 @@
     "id": 0,
     "title": "Mr Soul",
     "username": "mrsoul_community",
-    "photo_url": "https://cdn4.telesco.pe/file/DmiAfdMDYQY7vz8kZzuuqF_tnt2sz3Fq0uDhX7KNOpsA3Cthr3DRssi9ImPjHgg47c-SYYG8loFvkAVlqD9p447KCZnDagRYMq4i7YGgdJVkJgpsdeWqFlFV3C8He9UXLReuKurxX_tbLJY_1S6ZcV4H1e7MGXzqHXIgnziyv6xEsNQLYJVibTMg4PCD8EcTN92xXO0mhGj0sEoQ7wahcijAPSfBifLRNxrkGb2QS1HBF78QgSwZhpj3-tQK54vbaygd3dqkg005iyDAwnTMGrWSe4cn8YCGBx-APfEvLf-HAaAnZJKOm51839DnPwyRMolT-NuQSOsGJK-IbXSfWg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/IX1fd4pdCl4QT3PLSJHBKp7QFP3LJEzjNUJ3CGwzI7_H399e9e97YoMkOVQmpxAHlQSDMkyl9RVFgQdfV3mBEg8e4wGqXZ3rzGMQ03trZ_G_3-mqbP55_eVEtQ8POL79XBnBVyeJMsddL5vmUfsOa098xZyn5nbA1rnMi5ins6aEW279OWxdZl103uDpzVaMN71qoYasPxySIfOOtTxz1qtoQYXIVTJJVzZx_vVK4z_Vt-N9ZBqiPa_Fd2wnPRbxykj33BAqNAFxBZ-2l119Bro4BDkOVTwemxYAfSbtcZ-yLWyP15yB1ddAct60LkSI7tQIfmVXpscAkEvhNPSbKw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulRemote\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulConnection/releases/download/v1.2.0/setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم \u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب و استفاده از سول ریموت: \u003cbr/\u003eنسخه 1.2.1رو دانلود و نصب کنید \u003cbr/\u003eسپس توی ستینگ توکن بات تلگرام و API کلادفلر رو وارد کنید و استارت رو بزنید .\u003cbr/\u003eاگه توکن درست باشه یک ورکر براتون میسازه و یک کامند بهتون میده وارد بات تلگرامتون میشید و کامند رو میزنید تا بات با پیسیتون سینک بشه.\u003cbr/\u003e\u003cbr/\u003eیک سوالی که الان پرسیدید این بود که ورکر برای چیه؟\u003cbr/\u003eورکر به عنوان پرکسی و کانکشن شما با API تلگرام هست که دیگه نیار به VPN نباشه برای ران کردن بات روی پیسی.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-08-28T12:22:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7220,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fpkGNdsVLwgycUxVhI1Z8nkRB4hg8ZQUi4tOrb3cToTlU3HvYh0wseVrf0eJH-HBIhUtrDwzOLvgeBmkWIffjM9oQKwxAWaV4H2Ifq8RhjV_xQFaEHBrVRxAZ7RZsj1ubyhdHRV607AZxS3dM6XKf1IgQQm6vi9qq50KmzhwJeNO9u-UBPmNvuRsciAq4BxoguFsBvVYEgdJ8oXC1ahM9TMG5TU5ZADSv7J6rmZ6mSVl7ViBsEbosYl9_k_13n5Bqi4Wz7kQakAy0156us54KDHVAvB-_Ugfaj63smfN0NkE-WHiGadwwI1okZYDTDAGDBGcMT3Ml6yjnGATRwCOnA.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "یا حیدر",
       "date": "2026-08-30T21:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6350,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -49,7 +31,7 @@
       "date": "2026-08-30T21:48:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6470,
+      "views": 6520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +43,7 @@
       "date": "2026-08-30T21:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6300,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +55,7 @@
       "date": "2026-08-30T21:58:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7620,
+      "views": 7820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +73,7 @@
       "date": "2026-08-30T22:01:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 7680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -103,7 +85,7 @@
       "date": "2026-08-30T22:01:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7450,
+      "views": 7740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +97,7 @@
       "date": "2026-08-30T22:05:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6110,
+      "views": 6940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -127,7 +109,7 @@
       "date": "2026-08-30T22:11:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6360,
+      "views": 6420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +121,7 @@
       "date": "2026-08-30T22:21:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 6790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +139,7 @@
       "date": "2026-08-30T22:27:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
+      "views": 7950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +158,7 @@
       "date": "2026-08-30T22:27:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 8090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +170,7 @@
       "date": "2026-08-31T10:25:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8670,
+      "views": 8950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +178,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vkeS-KWlQao1ijRMy0jem_NE0DJTBPmxvcvBuJumvoKVybEj7tSoMty_YfWcLNgmfEmR33OcmKTiMyuBnFH2_CKQX0ssde-KF17-DiSx0gM2v1jKuKWDZN2s6BTv5WExoWiH0m3L5hsPT8FwZZVNC3YG_gfCY2EywbFLAIu0_NP89892iI76ztKb6Qdq-ZUqVy1jArgGr-ZWiYL1-yzlukQKcMRwSN5536gjcub7ypEaoAjSa541ojx3FPXzRf192vrRohKIWnbkT8gmYVQVFCn6inFC8tm74RwsS6ROTs-V9v4f8cYfyNIweZ7rcjrTJIbV7yqsTrE_5m2XBxzOyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/sehOOeZiV9njLQ6Qod7DmBKBu-HHHMel60dbwsgSKWZgH1gSe2REUhDYTo3nLLdla2T6t2aknHE2v8ReIrUjZb4uoZ0SyS9YqxqL-g9SQnmDmp3fXk8lvibXcHuNdyPbJV5_7gc_wSExYY9ksGPzPBtW_6791LGZeG1MKWOi-GGlGrYXP3z-BSA4S2Q9LyhTZEB48ccpUTd7yNGRXSqtQZF24xgF4OVHTyMhJUgtqIear0NScolZsao-qcPpMXGEdbd0r6TaSrkq24aWJXKGNCVO6L8aGMGvMtyDWc9W3403UKGvRSZilKUxU1vyIyfaSO80mlUNCkw-ojFzQmuTWg.jpg"
         }
       ]
     },
@@ -206,7 +188,7 @@
       "date": "2026-08-31T22:25:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 9690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +206,7 @@
       "date": "2026-09-01T18:51:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6760,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +218,7 @@
       "date": "2026-09-01T18:53:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6730,
+      "views": 8029,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,12 +230,30 @@
       "date": "2026-09-04T15:46:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "‏سپاه پاسداران ایران مدعی شد با شلیک موشک‌های بالستیک یک ناو هواپیمابر و یک ناوشکن آمریکایی را در تنگه هرمز هدف قرار داده است.‏\u003cbr/\u003e\u003cbr/\u003e‏به ادعای این نهاد، این اقدام واکنشی به حملات پیشین نیروهای آمریکایی به نفتکش‌های ایرانی بود و سپاه از هدف قرار دادن ۳ نفتکش دیگر و ۳ ناو وابسته به آمریکا نیز خبر داد. ارتش آمریکا اعلام کرد در واکنش، ۳ نفتکش ایرانی را از کار انداخته یا نابود کرده است؛ این ادعاها تاکنون به‌طور مستقل تأیید نشده‌اند.‏\u003cbr/\u003e\u003cbr/\u003e‏منبع: ‎\u003ca href=\"https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eAl Jazeera\u003c/a\u003e‌‏\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-09-06T09:20:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lPALdxlSOYx4qye_Xn2LEsfCxW2Oih-Uh5gw0pQpCnQaU-UTdYDOJ0lPj3fy3-PDobOYuM9QLL4GI5nwDbYwUGV6qXGKVfN8UHv1I0-jsZOHFX3r8BecWEElAleEP2hsY2CD4fcHZDOaPGduIRMVaIveWLmN5bedopdx-2fweoeluDr1jXmxfzFobDI1-Xy2ga5yedaSxbKfTLMhH-EtL9QtExqQCAcgF8NOuPdm6B1QDD0df3x3LjU99_I9D6hlE5p6SLkqwYWGyG-E0p5wO44OZ2WWSKUE1__xnzM3hV_iSACWks1q0cAyk7lYcf6HL3QJ8ZNXqTGkEE38Yj5zjA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788681136
+  "last_updated": 1788696011
 }
