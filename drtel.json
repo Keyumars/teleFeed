@@ -8,117 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e \u003cb\u003eدیشب خدا وسط تابستون به شمالی‌ها شبیخون زد؛\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003eبارندگی‌های شدید دیشب باعث شد تو خیلی از مناطق شمال کشور سیل و آب‌گرفتگی راه بیفته،طوری که امروز بعضی مناطق به‌خاطر آب‌گرفتگی معابر و ساختمان‌ها تعطیل شدن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-09-08T09:39:59Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 158000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DczdzMu6y-l8MlsEMvBMk-AlMrM1RTvAa0gzicgw3Cd4h2g3-5IDY_bAsd8ugcLyVD62b3x6LtFtNX6qmS9VCM9XSCN1OWtRgN7JABzKJ63PsFVheU5o6rbGQqS3dkyJvMl4lI5bR9knLhAD4sT54rVRS6mN3KgV-lGZQLFBgUZcWKN4JNBTQwpNBOHbuhlTGb1wkXbpYT9WRzQrL6fc6KgzLMPvkBpqubI4qRSPadOUA25uC_zYH2GmXoup4HhCySAmEy38BM6Pm2YFNHoL40BPkkRz0V6G7TMMYQONdoC9rxIAN9PuZolv9urlZIUYXnzm5ANU8Yh0DK3y-E2GvA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/JLkdF2OTuQsT0l5zOHyQ4QF0sJPwGvtsOf7TIcHQS_X3iu-zz0dtp7r70-Md6EvmILhd41_SPo5QEkWImV1zlLj6NLoj84uRWMHT5HckOjwZ0HKcAPZBezAvF1uzQ_ge16mZDGv61ys8AXYdhxtFogKwiv-dqZPisSFEqvwYaUt6AwGDraUZ9GZ9zcNCVhFQHaWsIx2F2aJ7rNyqfRDLUrL_y1TU7TBZADJYGKx6kwXFkQtfQj2OHGO2wfyGpkOrHJzTuxHEGIOZmMCXHrf6nhEV2MT2YwStNgOENcjywhD07zCk_1MEc9TTqMHlYOU9r-NBjWX7KxYObOFcMfoyUQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AlzKhZBZ6iaqlxboN06oAk9kTlU85EZ_z7TXweKbGTObagxgE-whVkNotUy-bv893WoEOyyCxP7Qzv_ntWZ3VL4ORQ1rs72t4MFTZNXDvE4vHBEbnRQFytRDB_jRW5Y1sDGc5_2RVFRhyIgUUEwxfAtRQkTCWwbMtpu43WgRlirfSKyIXotYj52Ifm5nG3S5hdW_2Sjt4oIMY11GmprwclujcMl4Vok0RXY5RulTFIJ6GtbN8ISa-K7Vzo-UzsyeCfYX2v6E3XAedTr88bK3K29dNHhPwcS1YTRjz5UtEKdxO1PO2jFM1Y8rPHAqU-cZzwpQidZjGREYMPmHjlShFQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fpZy2PU6AEQ6XNfuM66K-tjz_OuNm8Fj0jpVUk4dk7F6vPUl50rF3Bx1JKEMblYLkTi6_7JIevx2pc5gE1uUdiOiXVEy0JVCJIzndwHla5wvTd48mSjFWVVlKZN_zA_L4liT_7wn13psYzEzXoNZt0QQh503eQ5rzD4R5X5doFJQwdQ2P5sjXH9KcJlfd-lFlAB5C2OmSlGkVnxJNjZSu3WZh5j7SJpJoRV7O19L_TW30Syr0A6UG5dMDkbrRpdS3E_WVXuNCWQHiXj-EhJw7ZgA-puxFbMJwoYpz_t71x8bvQvWSAxRPxf49V1cRBLcxEqeGArPxlFpxe3jjNb32A.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/sQVNqYBKMkbRkXkNaTbnnjaLDx9Za5yt_TeJsry72WuumpVxTScG3xWPZhZwtPUMulBZu7lVnRvnocKoG53Knhy05irv6vFGvv-k2qY0R8miYGq8PIYDtJSqKwfbmJBItUEdsPLiCgnUOYbIwumfzN_TxWgmtVdJ_AAseIEZGPvnfODWa5YUAdPN81e6mO-CBMzaUkScA0o3C-nP4annBEOHryT-ceNjyXR2jfjV8a31O5gxNmj0DZffJBTIfVXRwLQ2elKMg-LOe2hv196QUgmcxf8x5VpV8cAuxG5inj6KMQebqwdyJH1ZJcgchQDS60mAQr7NsE5SyNI3-3NMBg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MU-h3sSH1Xf0ZT-McVfBSMNWRTGbSJWeyggH_Gf2svspVomepcMHfKRbtHkXivbEnF2Kb32vFs2duaJ0o9xTr6TQ-xdAvtSODcqTtF6UbPJtDrv3jt3CpqOGoH6CiX9GCFCQz1_l1y9MM5uF3k2r7x5NblDuDsz8SaifG4n54fBelm_AJAyrIddxeX_mJR2ABSHzxKi91m2Fcs2NdHH9lhSdDgtZcYBiLIsXNS-TVFrPc2RFgDjjOtHy3menwBIMdSgQAQLZeFJnKp03cSDCSkhu4HyJahPIZBmMpCCmxzCwU7FGnvA9bz5ZklarAEhY922kqPxSbsrIpol--KBQYg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/b2Q244pjWb30GNjabAivwZHZBW5uVQb72cbSFt9ZIAdDRWRx_SKBMTvDcbffDaaYZSmhvJqCjBjFAMpySHBQ5Auporb58_OvsaMnsgzR8__MUKQ_L8VhvLefLCQ89URXQmj02nMXWH19LYA7vTEnOBiO3Kd06FlKTXkdlx8PAEbLPSpSWyc6JNZJOEkx-dQBM78I43FSwb47TgboLUafvYZ4TB-5-PdkLAwJ8gUnybUq2sfzxiopOHu832yqcsmF2h5Q-q5Fbdt7G5_74PbBzhxWC72JvT81pP5neBeLbq4tPjCtRF-M0_ibPjUW7iND-KaNpRCAqIC7HIKD9DoeEg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cA5p2F2nnck-i3p1NojBpRWtaY0PdcRMXnOaOC44vT9pb2H3mP3LGabGc6OW8GSekGx0V-dFzaW13Ka7i7Bb20BnSBZHRjSxA1OjV9ZeaXdgzGddlz6hX-1xcldgi-JbR7xnfWyL_V9gUh2F6urUuov_oTQwTkp8jrFqxAyayis2mo9ulEcjUWtXH_YAKoZu4l-xQmfR6KkoYL3p8FC5EyL3DUatZlvTLjKzeMhctBIjlZepr7pb5ZELKC8H3jRoVTQchTSMq1QlEmbTZdor4B0Mbi2ArSHFEHMEyjDwDnyONnVkR6PsAf6ZX7qTKndmezKYkQajFyWc-bPPSnB76w"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/HmvHz0laHzg8lxx_tmER2jL-Xr2KqCLAAeHgwuqk66irA8-yXwQKzANfuPTsyfLTCpXJgHEurfr4w_KpmJvDHuc8pjmT6EaIwxUJ8IrTEZJ2bMVu2jVQkogRaDrlHD0yHMWwx5vqB5ehvomXQN-k9wNl3IpivWFyVwauopDDVR3QlGDOMKVwM0nIEQiwglLtHaacwJGJBPtEzzP6bsTXXkoDf16kKfsZfkrR09m5gM-Eu1o_0J5hlKf5Af9PPM17am5P5KftI3r3v2P5JvFmQrz7Tbu-iGI2WiFPFCc6XAbCFQ4czkXzqWw4zuxRYBiIyqIGnQ9GvCY5t0qk_wQ2qQ"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eدیشب آسمون شمال به‌طور عجیبی آخرالزمانی بود :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-09-08T09:43:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 148000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/baliW5atLV5xh6oe5i7IxoB6F2vk9_4oXvsvwPUoJPsh6odH9UXnTc41zoDJz2VNYXdUrAIr8q2N2e_h2ChGEXy-Q4TOlG6l7uYdncwFX58_A62F9NX6I6hVpSs6rrLoHy7cNpunC4KL1fOarhHmfY7qeThR2IpHJiw1VD8RbEmZYrnSwhX1FtTAYhAtzdNkr9pzJdtTY4mxQlv60sXWHc7xrnHVGNVL53muLRyVWTFNA42Dwl_EURX-YkXwvblFQiNs4Bwpz9Bg3JV8Z6qcuzl289nQ5DRFbs8KyDmq-Jhj0vreP3ksORmqJBLMWD4L6hMXgLRXcm6L5XJIedMPoA",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5784947667809345478\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e رئال و اینتر؛ دو غول، برای یک شب بزرگ\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5783010452875256906\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e رئال با تجربه و کیفیت فردی بالاتر، اما اینتر با دفاع منسجم و ضدحملات خطرناک؛ دوئلی که می‌تواند تا آخرین دقیقه نزدیک بماند.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e[\u003c/b\u003e \u003ca href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eرئال‌مادرید\u003c/b\u003e\u003c/a\u003e \u003ctg-emoji emoji-id=\"5798490992478789154\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"6012498599974276427\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F869A.png\u0026#39;)\"\u003e\u003cb\u003e🆚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5807849301015010581\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eاینترمیلان\u003c/b\u003e\u003c/a\u003e\u003cb\u003e ]\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5787541587537960743\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5787272602326147993\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای پیش‌بینی این دیدار همین حالا وارد ربات رسمی اسپورت‌نود شو و پیش‌بینی خودتو ثبت کن: \u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5785389950656586295\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5785389950656586295\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad_bot\" target=\"_blank\"\u003e@Sportnavad_bot\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5787272602326147993\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5785385999286673311\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
-      "date": "2026-09-08T11:04:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 128000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n_TKTInEvA0YfV6gnw_pUlNFNjVviVKVdOPSZvpz4E0gzC2t4L5MV6SiRHLYfXNbYZ7OXrPhj7zGtFyfABGlRu3-Jf4VYHIBUMzkiAChrwB1EUmbBo1G8ykEdMrQmZWLnxRJ5JjyJ_hKb9sRrucIOHD38h-_xB0K_rTNVp8P1d13slbiBChLft0fGePqC-MVXj_60QdhelzyCSZiY7eR8Waemq32aAZmnm09JMVKRT9YO0Mt1kWxz-LFOWLiinRTHXcZGt9V55mk-mSag5T6fv-R2FPzd0RULhqiXYNX1ZTkiN1H0sd4d0MNrOGO2AniwqUBFzIOOYnGCmGo7Kfk9A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e سبحان‌الله؛ دیروز تو بجنورد، فردی که سال‌ها با معلولیت شدید تو یکی از خیابون‌های شهر دیده می‌شد و مردم هر روز بهش کمک می‌کردن؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e به محض دیدن پلیس کامل درمان شد و درلحظه به‌طور کامل کاملاً شفا گرفت :\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e+طبق گزارشات این فرد روزانه چیزی بیش از 20 میلیون‌تومان درآمد داشت\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-09-08T11:04:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MsW4Q0xKT2SHjCrkF7-SQ3zqIDn8x14_PMRlknTMYQgFkO1zKGpTq5z1SNy8T-NmVcNkT1UcTFg6UpnsP8sNGM9_I_qJoDWZojuV1lLfr4TUwIrVtdZArTkKI6CcC7E1lM6ICOHH8TJBd8esWRI9Dfv4Sd2dx_6VCfWvnxB92EDhv6Z5iuzVRL4iPidLRaWivTWJnvVZxsAqpk5pzBc-TmDZ-SdjFqg1dCh6cHuxVe2MH6vvdAJjd48LCXgl0wwTOTffO6hBUisqCHFp-AEH18g7QkXu4Tq0gBuY2xXUeDw1iMdHo4_FF9lNpeqhavlr5wbOhC0kQpWXdudTzGu1sg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e دیروز انصارالله یمن حملات شدیدی به مواضع عربستان سعودی \u003ctg-emoji emoji-id=\"5254002663921590911\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B8F09F87A6.png\u0026#39;)\"\u003e\u003cb\u003e🇸🇦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  انجام داد؛\u003cbr/\u003e\u003cbr/\u003e+ همچنین گفته میشه به تاسیسات آرامکو عربستان ( شرکت نفت \u003ctg-emoji emoji-id=\"5436341901290658109\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA2.png\u0026#39;)\"\u003e\u003cb\u003e🛢\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e عربستان و یکی از بزرگ‌ترین شرکت‌های نفتیِ جهان ) هم حملاتی رو انجام دادن که همین باعث شده قیمت نفت افزایش پیدا کنه. (ویدیو پایین) \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-09-08T11:48:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130000,
+      "views": 166000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,11 +38,11 @@
     },
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e چند روز پیش حامیان حجاب تو اصفهان علیه بی‌حجابی تظاهرات کردن و خواستار بازگشت گشت ارشاد و اجرای قانون اجباری حفظ حجاب شدن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e چند روز پیش حامیان حجاب تو خمینی‌شهر علیه بی‌حجابی تظاهرات کردن و خواستار بازگشت گشت ارشاد و اجرای قانون اجباری حفظ حجاب شدن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-09-08T12:32:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 126000,
+      "views": 170000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +61,7 @@
       "date": "2026-09-08T12:50:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107000,
+      "views": 156000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +73,7 @@
       "date": "2026-09-08T13:35:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 82500,
+      "views": 151000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -201,7 +95,7 @@
       "date": "2026-09-08T14:12:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 50600,
+      "views": 140000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +107,186 @@
           "width": 1280
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5253525299781478815\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eنیروی دریایی سپاه :\u003cbr/\u003e\u003cbr/\u003eیکی از مدرن‌ترین زیر دریایی‌های هوشمند و بدون سرنشین ارتش آمریکا\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رو تو ورودی تنگه هرمز به دام انداختیم و به زودی عکس‌هاش رو منتشر می‌کنیم!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T14:58:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 131000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/EafiAkJk0TIXZ-q6xBZXsFQ68cU6MJlJGKXj85XYagizQkTFDroyZ3TWm2vkqPJf3e1Hq_0EpSOdu2AHmJ6WDIDe1vB_m7rbwkpwbIJXMu45sMcP63vxcNiN3c6yOHlvkXw7XfEZX5kitFyYG9BF-bnPaNs9gr7Jc_ldWRpm_HqwUlPb03ab3LZFut-PdOamlF5PLL2ChfTRaJdPJgju0xJaZi5UNfU8ssrwU1VyrGMgbiJPwFGF9Xuy_wBmgPlMfPiTJBxfh1JOHj5qUVYvAqhFd-WB6LWEHLj-iH7vJ3Zn0Xbn3h8V7ThlV9BR7HzFOSQuy1cRKN1FZnRt_UxTWg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eوزارت خزانه‌داری آمریکا، صنعت هوانوردی ایران رو بیشتر از قبل تحریم کرد؛\u003cbr/\u003e\u003cbr/\u003e■ 28 شرکت هواپیمایی [مثلِ ماهان، آتا، چابهار، ایران‌ایرتور، آسمان، کیش، کارون، قشم، سپهران، تابان، زاگرس، وارش، فلای‌پرشیا و...]\u003cbr/\u003e\u003cbr/\u003e■ 7 شرکت مستقر تو امارات، بريتانيا، ترکیه، مالزی و قزاقستان که با ماهان‌ایر یا شبکه‌های مرتبط با ایران ارتباط داشتن.\u003cbr/\u003e\u003cbr/\u003e■ یه تبعه مصریِ ساکنِ امارات که با ایران همکاری داشته.\u003cbr/\u003e\u003cbr/\u003e+ وزارت خزانه‌داری آمریکا مجوز عمومی G1ایران رو که اجازه می‌داد بعضی هواپیماهای غیرنظامی به‌طور موقت به ایران صادر یا منتقل بشن رو هم تعلیق کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T15:33:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 116000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/n8Fbm3GhVCv4EXA8-qgCpxd_lfv7bzdqK52LCNFwy0g4lpAk8gfBgnYzxIomoSk7zpKWqRA1clHVeoaTNsmwO6359YVGVMThMg4JLizqDmUx2F_nJiCxPqSR5YqR2MFWF4EwnjIK4KqKhcklCXJQxHBruFXNM7STd6j_Umt8yjuaUBdFeLQgFtcUyCIVmN8d3WRU2smQG6lNU96zZWFnoukzRq81zg1EspchPD1RIKXmxZmaNASbWcQp_z_K6MJo0_o6SwbghhQexsvHJR8oZsahUhL8hk0mP-PXoQ-3G1sANNPhUmTtoIhREAJI5p6NfRblskp1OpFqYmaFjppX6A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5811923073200298659\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e شب‌های باشکوه اروپا در راه است!\u003cbr/\u003eجایی که رویاها، ستاره‌ها و جاه‌طلبی‌ها\u003cbr/\u003eبرای فتح بزرگ‌ترین جام قاره به هم می‌رسند\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5940608410876650009\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e RealMadrid - \u003c/b\u003e\u003ctg-emoji emoji-id=\"5951835558467607351\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e Inter\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5823247248397442627\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eTonight 22:30\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5814612315433082387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F9F.png\u0026#39;)\"\u003e\u003cb\u003e🏟\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e Bernabèu\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5811966220441754634\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E81.png\u0026#39;)\"\u003e\u003cb\u003e🎁\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    \u003cb\u003eبونوس ویژه اولین شارژ: \u003c/b\u003e\u003cbr/\u003eفقط با ثبت یک پیش‌بینی، می‌تونی ۱۰٪ از مبلغ اولین شارژ خود، بونوس خوش‌آمدگویی رو دریافت و سپس به موجودی اصلی حسابت اضافه کنی.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5811926079677408271\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برنابئو در انتظار یک شبِ کهکشانی\u003cbr/\u003eرئال و اینتر؛ کدام تیم پیروز خواهد بود؟ \u003cbr/\u003eفرصت رو از دست نده و همین حالا وارد وینکوبت شو و پیش‌بینی خودتو ثبت کن.\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e \u003c/b\u003e\u003ctg-emoji emoji-id=\"5812382565981495050\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e لینک بدون فیلتر وینکوبت:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5812442145767823851\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://wngd3co.com/\" target=\"_blank\" rel=\"noopener\"\u003ewngd3co.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5820935800077950902\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e ربات رسمی مینی‌اپ وینکوبت برای ورود سریعتر به سایت:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5800824701613775891\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Wincobet_bot\" target=\"_blank\"\u003e@Wincobet_bot\u003c/a\u003e",
+      "date": "2026-09-08T16:06:29Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 105000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qZMYoSV-wY4iiR-o9Nkp4QxOQCkjL8zC6M7BHuRMbg9lZu9bNCOGNaJjhmIYh5UpEq7QF3tLx295oGzsZeY-9tm3zO0_m2P9xlocl9UJOj351amjXGdivqa7_WEh0AI3WsopZeMA9TNDi8l626sz5EOzVUvhpQY0v2_610V_9VgN2JAprn_NAMP1VSZSL5tvVgnuVVqsfX2hMkn8Lc0OqDHYDWMBunvlJYNW_wH86huV1THr1kkTPBpelZX4DaX3xQE695Zbkw8pZfzob1U4pjHH2A02z6V-vqpNshhGI-dB25ZR_PdOiRq9kMGtBkVTedgTJKEVmC21kZFERoISLg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eچندروز پیش یه دختر‌خانم از موقعی که رفیقش رد داده بود، فیلم گذاشت تو اینستاگرام و حسابی وایرال شد؛\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eبعدش خیلی‌ها گفتن ای‌کاش این خانم رفیق ما بود و از اونطرف یه‌سری دیگه به ایشون هیت دادن که این چه‌کاریه...\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T16:06:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 111000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ulya4t5Yl1kCfqXvq5YjS7EHGfHRxYq_cVmaAFC5kkodiRMv4RxxmBcHmTG9GmWfDqdfczt1YMOoSjJXJUYBCijUYzE9cDpJfqU2n7IWdnCR_YdyAyw4LDOGgHDjby8bIuq3HxdOUCa6tZ2SwyDV5D-vWPzpB1_OPV1DeW2n568tqwjftQsOPyTTLjM8RoqXszKiRpW1K6WN38gbHucx9-oKDRzXVBQ69769gDpa02vDLVxIIQaEYeJD3AVqFGQnWYjrXZB3wNZM_BO4CbCFlr2KRKW50khyVB8-6Fbzxi4D_kMjgAiBOeBV4axgcSz3W-KtDC7EVclSWwwNKNLv-A",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eپست جدید اینستاگرامی \u003cb\u003eبنیامین نتانیاهو\u003c/b\u003e که برای ترغیب مردم اسرائیل\u003ctg-emoji emoji-id=\"5332299462461107995\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B1.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇱\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به رأی دادن بهش تو انتخابات پیش‌رو منتشر کرده:\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T16:36:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 106000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/t7Okt8ewxEFbNOryOFuoDKrikUAbRsky8l0yHqZFUroiAP3z6zyNnL8sQoc_UNhbM9ALGkhizO7dikH_KfZdwqxznUBuMYax8jUBTBGxmiErdrDqBD8ubkUEy8jw76PB1emWnBkE-BbCTd9xk1Fa-j4wyLJ10VkB_r-w0FOkFZg8N3s_IJoPwa5E3RQ5zfMEwZKQimJa0205ITOH985atm8-twMRFFfmp_XSncZOH9t5K73OXX089K4_C46N-hbg_pLZsccwScRA9KkgkrjTlT0EnTNzg9tYd7MSJelUsJjdHun3RpedoK9b09TCqipaTpcJODWYx3ba4nctDXEGRg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "سلام یه یادآوری بکنین انگار عروسی دختر شمخانی کم کم داره فراموش میشه....ممنون از زحماتتون\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-08T16:41:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 93600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eبریتانیا \u003ctg-emoji emoji-id=\"5202196682497859879\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ACF09F87A7.png\u0026#39;)\"\u003e\u003cb\u003e🇬🇧\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e در جهت تحریمِ بیشترِ ایران، فرودِ هواپیماهای ایرانی رو تو این کشور از امروز ممنوع اعلام کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T17:14:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/NTbVHc1k_Gjlqbd_NO0k4f5HuX72TqqWZ3El6Q5hxasQa9aQXHOM65KQ2Jhml4-GYDCiCQLrQ3aR5AYe2eErXjkqE43cEqtaiNsWalohocDLu1U1yUUY-n_bXbhCUc4NmsqZ_zJWCrHbqbzqJBsxysFfHbYNkPeQ-wXTsBJNRl3vlyVjZz_FqZardl4dIMQf4mObBTIiIz1po2kioPkCVQMDhY6GX18g5n4y5JPjYxL5xdoKPrvnkyQZdfOj0HItwtyZIBoJT-qcMBrMIUZN70Duv_IXkrxAEewKL0YWRXTLl2vMH04fOeyRwKnTQ2tAVe2K9h74qakl--1fwVg8Bg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e بسنت، وزیر خزانه‌داری آمریکا:\u003cbr/\u003e\u003cbr/\u003eمارِ ایرانی یعنی رهبریِ ایران، هنوز نمیدونن که مُرده‌ان، ولی مُرده‌ان.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T17:58:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 32600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/jao9VCAU4hp_hZ5e9EZZ7yzFWtjk8ou97ZnqT-j5fZrOaDlm1djm1bUv9CJCxfCxqZAn6hSR5bo5tlzrPz0G6uz1JCZb3U-TTtV0mLLk64rUOwAFvO5dPVi2PpAY1Mg1BB3VH7iuMcjosCDYq7eGjge2EOQYCydHi7i5SLuCZtuJk99lvd43fx2vZjjqSw7ZCnjx1tBsHb2DxyEvOPMjhkemJ7FMgjJxpfNGUiB_oXhsa7L2VOPVa_NshRstQpf26wL4qub-8VPl-axdkhpG5h9kqd1neuujj7nVyCc7sgYUucMDXvdOlJbegx1UfA0AmL2GZtlckKGicf8YWh9MwQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5253525299781478815\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eسپاه پاسداران اولین تصاویر از زیردریایی بدون‌سرنشین Dive-LD آمریکا \u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e که امروز غنیمت گرفتن رو منتشر کرد :\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-09-08T18:18:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UVhcUlh6ici9qlKkBGwY4nzPsn1E_7xXGcdbzsk8tqbNGHfAweu0QSb4YjZ33GyAV5Hx_seDICPcLKMrRSV0S6pzuFpGn9GQSbpMJMe-YNybstWK_ffFSQ2TRfUOUMqv88pmSTn-ZXVUzAYjw_sph3IHdGZnqycA7-_IETNJfQTvz-RIn4coJ3vSqXNVk-Y3khYNmBaH7QxW06Cg6jhGpVsCmjK6bjBy_0YNaJ9Uu5blVMXmzhhvMgcbv4ylaw4IBH4HOrOKIBCtE8JX0JsSs9TBsgsZ1M8_z-o_KPjOhTDo58UcdSNviyGYcRL8PPLjf-dZWu2HMCvHjtU9Yolm-w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RWJkQmOtd-Fh3zZP4P2B4cm3CBCN3kfMAuRcyUbe6M2a701LvXb_f7ic-0drVwjRoKie7IrS5mIgAg4KaU3UFw3ZQUHmBauRp7Uqp9JNcH5kZvBVHiBKLb4DgVn1a1_UT6rcoXoue122h99l6pUAu4aaYZlmjuQBYoBNuJgo4CbM7D2sYnG0BPlFqwJ-btPBOgxAtBY5GlvLBWjdR8yx7UtgEhrl_Oa_TCjnaHbgb9IpdfSyMmKik35UH-oDu82ItQv2n0nG8862lS63fULwbteDNsiEc8iMnyuu6-CXljNpirElQH28nXD5toEAzHtIeH35wOfHj0nXTb8UbpEtBg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RyzdkYjMCLwz0HoLquNCrNkFE_gPmDIhx6u5dtOB0Erzl0nGqkO-xr4pu2TnNcm-GjZGWB3T-4S85GrDR6Zbut6MlQp5T1TG1SjOiqeEe6dXKHb9zzVJgLrolKo94EQoyi_BoecjoO0IpXhcvtsZhVLWkVR41roR62SjmBaKFtsuhStlQoH_OcHkhaLYt6Uct0teOc-68Q0n8HE39kPH1kZ61B32l0O28Z8yymQa6v8qURZhxqprtL136zJafnzWe4L8XK2jftUBUJlvumI60EiQu6XVqoOU5SchfcnzVD9gqOwX5DK2HR-P0b6heHLa8bUL6iY0OWpjm6v59lOYkQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OWUCnznpJbAKUk9O7yLWW7567LMh5rrTp8xhb186GJdABy3xh_nnUXOtvM08IMZ73-vxYm4evMHigi5ToNR89sTT2c9ZOFclf1kpq1CD9k5Ax7qMnECCw-tqFVTgkoPK551Jr6axybsiTTyPmN0qT0jfnL8yK_k80SP1nahXUngw8bHke6WiVf1zr9nGZ9pM3wbNI5cISrNEhNBSwuDHt2lXh5enIKAf-MaeLAfdURomA4rb1eiuh8Qlz98r3X3-HrwOO0oVdYwwBOsw8WtQcHNXJ20JDguoWCfTNRhy-4vYCgrSX2v3Zfpj7GSi76Gy3dv-RMgECyn0UPFFFvRzVA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/USOQpZJrr-EzCzfEoKsxTD47NrzMfrvHjmEdh6l9TtR6LRCqyeWWX-UScRkwibqOVQuhYy68Biy3JCI-8_Dw8rAIiuyuZ2xrdpPLqBRkf6WOtM1vr-nOaj_3TMT0ATVY0rkQKsUXsemM5yvsxfBHGnuXCB95PK9cEHAP5JddpHz9JBOoxujSNQUH4kQiURlFnRyxNXDoV3RoC15VVvNL-yB9bT7C1RxeqqlcB5CLCqxj3557QAdtax_R2pmVSB73DfXKXfjb4q0-Z35w987BwBtMXNwRS5aL6JcpTzxyL24k8s2l-IIRWW_hipSfPZQ3uXRlTGmW5EEm87ahVdJvvQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KNUel8xaPZIhkOaoKRVF7V9cxLsqaR0H-naFQeDFxh_o1shzbBA473OulMP6HIwDC-YWswJiorT5vZ6SQpu7UgTAzuiFg6VEZyleZ5HdetKG6IMkLsMPakVOkoaqi-7aZLzfaFrbamm3ojNgGzt2uoGzf08uqNeKwtiGVYbJU4aE76S95jnhp8NbAak608mkxF10SaV8d27-0Xqst6lKVsM8CRs5oAM_fwHEwOWP_Rt747OXumVZdjPBzIVOlp_Eb7o4S7-S1oEGq8OwRrg2U8UXBAUjW-XIuLD2Twip2bfOv3IU9JE6Xh0Q-hiLg4J2VDvyMgxUXuwVpFXvbGgWjA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1788879201
+  "last_updated": 1788891528
 }
