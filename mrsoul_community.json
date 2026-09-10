@@ -8,42 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "موشک‌های ایرانی بر اردن باران می‌کنند",
-      "date": "2026-09-08T21:38:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3930,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dH5B5R9Y1mwgpXuWYqgxy8TJtFkfNDY5vxoqO-0HzFnzUtqAovCgLOivxHq2EoPuv-8f73XLNwveQwbr331LtuMH-CSwq5PUkut_249Hr54RjHtf1HVeEVG-FwjUG1J7HAfHQeAv34EdSIIN_zh-gRc-iT3tq7c55hQ_G7u8HVYQ-9pHzr1yIaUcm9t2wlO1-TnA_Lo2avqi777G-YMVgmkSVdgPo1FS7lT_btiNYn0OWRii9D216_IPbhBERu8OBNolojxdLA85w0K2Q_8negjugKIAk45xuDwyf8-iBhZnDTgzvILuQh-jflSfPoPBw3pJ26dOAtn_oWcSimHgmQ",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5960642277238904258\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eشلیک موج پهبادی شاهد به اهداف در تنگه هرمز",
-      "date": "2026-09-08T21:38:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3840,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "قابو بگیر\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-09-08T21:39:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 4150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +30,7 @@
       "date": "2026-09-08T21:44:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4330,
+      "views": 4380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +48,7 @@
       "date": "2026-09-08T21:47:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4070,
+      "views": 4110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -91,7 +60,7 @@
       "date": "2026-09-08T21:48:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4040,
+      "views": 4090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +79,7 @@
       "date": "2026-09-08T21:48:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4530,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +98,7 @@
       "date": "2026-09-08T21:51:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4600,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +117,7 @@
       "date": "2026-09-08T21:54:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4440,
+      "views": 4530,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +129,7 @@
       "date": "2026-09-08T22:10:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4590,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +159,7 @@
       "date": "2026-09-08T22:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4910,
+      "views": 4990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +171,7 @@
       "date": "2026-09-08T23:12:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -214,7 +183,7 @@
       "date": "2026-09-09T10:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 4340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +201,7 @@
       "date": "2026-09-09T18:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 4520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +212,37 @@
           "url": "https://cdn4.telesco.pe/file/V_mvlPF2c9zpMR3o1GekbHfK-wNCIF0b8m2nGcF7mHgOrLgCoMYA9JA7ABzwV1kBFfUGPFSyy01dYGTmWdajZAxOqahBmAI9eG7mPzWFcLf9526dRHvyImu1XX_BnWq2WiUQtHLKYg1sJ1vTNRJQqKZEVVrbxcWzWYAw5nBYX27-qbRilX-aaa5u6ERJQvAhxw1KekXi0lb1CMqcrmYV_dHai_IpgJEuxqFPQyixC7SeQwdTSzgspSCd5LyUgB_usICsEBZppFot4_Opo7p90cNIcDqDlirimTqLhwPD_nCmozzvgMUyY3sK50TwRhNxU9khGkfZqH-c4RFNc39qVQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "سس خرسی: \u003cbr/\u003e\u003cbr/\u003eمن آماده‌ام تا رهبری مناطق تازه آزادشده یمن را بر عهده بگیرم.",
+      "date": "2026-09-10T17:39:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 649,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YiciT9cQ44gEs--JKSRtlS1jpe0NBV99G-CrqCjcCu8UDGrsJ3QUZDYIzPkpO1Q4okhSzlyHLUB-oic4mxKDn_FIA_UAYaViXl0Jn6AympSLb5f6M4rF7g3Bi2GD5oGdwUUiz6O0AQP0G9kX-GIH0cMKO7AlKwZ3Ws1Nep7CJ8XocXaNCRVN0ngdJMS1Ulnd_ZvsMqAFmMe6vsFOAfb1oqsoJHmdirnuFskCcPEjENdqM4X3NzYQmRVRfGiuENFopl9pQud7D0sXthHETg9b2OJWVbkwntKUcTLjDvlFKTZxM2fq-xRIQqNUd-YFTmQtfzfOlRO5XW_HNHvZUk7IOA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "نیروهای آمریکایی آغاز به عقب‌نشینی از منطقه کردستان عراق کرده‌اند.",
+      "date": "2026-09-10T17:41:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 543,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1789049453
+  "last_updated": 1789062572
 }
