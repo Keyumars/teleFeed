@@ -8,75 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "بانو فق می‌درخشد",
-      "date": "2026-09-11T19:55:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "فتوشوت های پیرمرد خوشتیپ با کیت جدید النصر\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-09-11T20:08:07Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Y5LXKBHTZ2CGDbfW_1OwL-ekCzaqjE61qFbQKL4eJ_8aPVAjcxAU-mNVwi_guIj6-Sfl_AXb69F2qkkzs7U6FZTuZrj7lGRSRffYmVPNURTSfPvu0_joJrShmL2P-xY_fq8I3ZP4hbqGiwYkbFJzEkdbmJ374XLUnErn3mYfmN2IZB-8f8N85XBhpSpAwN0ahH0X47ERk8Qf_JGXBHLT1LPT6DsVJkusFEuIEO66b4obcfqdFuCEjr6AhSmBv1UFhkThxtiHRF3YGl6qZ-i2m-iWRrGZ9bwgH4mf1yfW6k5pfKzO-yE-c1NmRark5X1IVfW72HklKm8nz8VSmdwBPg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GQSyeJL7Gpj_HQYR-27UGdUsswTEDM5hQBitHrwSQIlNszB-OFZRIp5XkWJkVHdg_CltAVfBWa4agCsyt2IowZcv5j4x_HYE7eBIEb38X2ljirLptZpuxAgFCX6Ekwsys6yLt6TRzS9DCuSQAl_oQ6ki5ojQ4qPCPU8RPKM4c-O0XU8H7KK6q9jg3cCvEmxWiQ4lYOwk3kVYCNECpjB807WyAMlIOfYfcTgwWicw1_4SSDL_ZXm6yN7KhHbrJxUGOZWNzhTvzILelitPA5_XolVO4_NUE-1br6DgkMRcpAaOMOkPvFCZ3yaskGQmVnxjpKh61jz7Hh3kSxRXX9ZoSA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "بارسایی باز نکنه \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D8C.png\u0026#39;)\"\u003e\u003cb\u003e❌\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-09-11T20:17:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 53000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QCD5sbRSnvYg41l9xXCcFAikM9Nv0ZICWPS6H7ErZsb6pvwPZEo90wHQgG8GP6PVkIHD29mIWjGlcUZ0wJWCg5BG98IoLI4ut22czltopgu7h9gqnJzFH01mBpPQ1CXXPq4ICI4fSxiyqDtdyXynHAYfZJjnEf6PvP-dW5q12btOxkiv-MUpH8gghGuajopUOFpeg83qiCZQrmm5Kt1kQLw-gG1lcfhgRxcCuWp4bpBLAnFCeXg7qEFU2_Lf7ut-YzYbYqQuJNuIsmOslb55J2nfIJimS78xUis6iOH01mE0pXng111GEnYE3ezHg67OMpikhYyc6jmcBkICyqWYAA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "هتریک کرددددددد",
-      "date": "2026-09-11T20:33:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5972288184141225207\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هتریککک ماستانتونو : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
       "date": "2026-09-11T20:34:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46800,
+      "views": 57200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +24,7 @@
       "date": "2026-09-11T20:34:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49200,
+      "views": 59800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -106,7 +42,7 @@
       "date": "2026-09-11T20:39:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48500,
+      "views": 60100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +60,7 @@
       "date": "2026-09-11T20:48:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46500,
+      "views": 59400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +78,7 @@
       "date": "2026-09-11T21:18:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
+      "views": 53900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +90,7 @@
       "date": "2026-09-11T21:19:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42600,
+      "views": 57600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +108,7 @@
       "date": "2026-09-11T21:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35000,
+      "views": 52300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +127,7 @@
       "date": "2026-09-11T21:56:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34100,
+      "views": 52300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +149,7 @@
       "date": "2026-09-11T22:18:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 49500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,7 +175,7 @@
       "date": "2026-09-11T22:37:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
+      "views": 48200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +193,7 @@
       "date": "2026-09-11T22:37:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26200,
+      "views": 49700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +212,7 @@
       "date": "2026-09-12T00:09:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9550,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +224,92 @@
           "width": 576
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5884122938029904840\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A6F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇦🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فرانکو ماستانتونو یکی از ده ها رکوردی که قراره از مسی بشکونه رو شکست و تبدیل به جوان ترین ارژانتیتی تاریخ 5 لیگ معتبر شد که هتریک میکنه. \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-09-12T03:51:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/KtwuepNVBrwr7mBrLEhqKdx2O0tZRLHhAlw5W7VOQGxaTaOZWh3Ooj-6aJZsHeq9KRYyr3E1PW3pGSAVPvu4jExw9FmC3w36Z7rZLhCR0NxqCJvnPvCp_tlmqVLdYH-o3bG_ermMtOYoyXQTGDdWT7YFATQLllxsBKUb9yggGGZ9oTjXICu077AMIBu1r2Uln_Vdx4rp-Rxn3PpDZPcgPf0R7uNGcvgMyk9eC-P4C5bCwvTOfD8aKYHwyTeyTmF_kumOAgNeae7ETylqqBLRIVO0vjMITDu9nsAogaiCkIapDoEHS6A9VX6sfLNy5Vb6wrpTtfHoVDObEmEDYo4-TA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"?q=%23TimeLine\"\u003e#TimeLine\u003c/a\u003e | بازیای مهم امروز \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e \u003cu\u003eلیگ برتر انگلیس\u003c/u\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eچلسی - هال سیتی\u003c/b\u003e \u003cbr/\u003eساعت 17:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eلیورپول - فولام\u003c/b\u003e \u003cbr/\u003eساعت 17:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eتاتنهام - اورتون\u003c/b\u003e \u003cbr/\u003eساعت 20:00 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eساندرلند - آرسنال\u003c/b\u003e \u003cbr/\u003eساعت 22:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e \u003cu\u003eلالیگا اسپانیا\u003c/u\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eرئال مادرید - رایو وایکانو\u003c/b\u003e \u003cbr/\u003eساعت 22:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e \u003cu\u003eسری آ ایتالیا\u003c/u\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eلاتسیو - میلان\u003c/b\u003e \u003cbr/\u003eساعت 19:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e \u003cu\u003eلیگ برتر عربستان\u003c/u\u003e:\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eالخلیج - النصر\u003c/b\u003e \u003cbr/\u003eساعت 21:30 \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FB0.png\u0026#39;)\"\u003e\u003cb\u003e⏰\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBaadNews\" target=\"_blank\"\u003e@SportBaadNews\u003c/a\u003e",
+      "date": "2026-09-12T04:30:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News"
+    },
+    {
+      "id": 0,
+      "message": "نیمار نشسته دخترش آرایشش کنه و این شده نتیجش \u003ctg-emoji emoji-id=\"6048628723861689343\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA5B0.png\u0026#39;)\"\u003e\u003cb\u003e🥰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-09-12T04:59:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19100,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/rxiTL8Req7cyTOynjSOYASb3xyKZbua99LLh2gaRI7VLkSfb6eZBB_drGrCLxd1GEbihQgbQGPkduTkou2wYJo3xuUBPHu8oXYuH6ZVCJ4CKhMxHUZKv9iea8NVv1-qn0wm_Z0PxV3HtJidFELdF2QyZ_4r728zX3C17ti4a_hWt_RnUwsXy_ooc0FMNx4aUWcByWduKDODLsPJrHXkUzeo8uZDTRKtq4hOH7gQXtUXHgL-aMqkjZx44XbRO2ltTbzFYKhtuEzLDrdSxW_NNT5YamfUANSCQVyeG8GxaQcZm2nAdTcmGaLTzfnxsodWXkfZ81nFXMkRxCN7dxHmOcQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "هنوزم یکی از بامزه ترین صحنه های چند سال اخیر فوتباله\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-09-12T05:25:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/X0GtlzwwxJf9Rhc6n2AFtM3ZbFtoUcY4BZ4kWV8uRjgZ1buQu-r5OdLIGktBjWbvsr2v4rKqWZAc5oZrP1NKRSXUQc6bJp6hgYWrtPMPiqm4HTtpKgOGpoVrLdPBHEv_nEBHvHdfjk_LSUTQNRYMo37-ijYMqfIxd_UxpNEljpDK8oZ2rkvgvgy8CMF38LWwRSiuLJDaHM7c_jo2RtpuWe2ZyjGwelrwfVbYAFbakWf6xlGeu1asFxzAMIpwN1Cygxo1q44t_ngUckJWxmgBqRFomjriTPIqk3qhMjQyuHYR-5F2L3QQLNiCiM60Kkv51a15CyO-2SiLgYVKrNsfaA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "سلفی بر و بچه های آکادمی اینترمیامی با لیونل مسی\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-09-12T05:52:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UQ0yAtuT1y9vQG3k4Z_LpoG5nM0y8y3msvnPbGqL4WVdMR159NwsmapPqKA5dVFbed9BfAZtVUmB5IwujqOfm8PURkLKGlULIG6-XkCoGw0ni6QvHFCws_BULjZnWiDFvF4aCFj9qZPC_r-SRQSBe8k6_dF8g8v3gVFYDZS6Gxc1DcKuzozBWpu23oKBZopIR6oY2WIhWHpY0NRkXUq678DrPoyNZ0nbyxtdaPCdyismzPaOEfDAcybNrzZqpMCp_4gadsGmQAr7_V41Y4LpXjCf4AhC1RJyQ03NbHGUAXkGEZX38qgUiufybXAe8LlrtvA0Qx5MksvlSnGVOFlVVQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789176350
+  "last_updated": 1789193508
 }
