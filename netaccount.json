@@ -51,7 +51,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/aJh6RTcBJZ0ttkva7Wvt-tmb3YxvHNHU8zQqsc-WYv-RCGbmkKJ81FE0dhOVKu1f90ycOYHs23JRI6OImdXoUJ0-vgE1tWgEZ31gjFc13KEiKn8HkBwqRbMSHoA5wVYoB6qKsCZekiNvxj3R2ZSZsO1dcGQ2_UYsZGd6_oapJDXhXPvzCN7_lbsgzxk-HzjBOnYo9l1SGaK10Hncckg0q2PLDTfUOAtuK0gV9i97Kw4LNjSB91wX9jcrBC9S9cMbQrmwgxXRXUdlSZrdsK1oNNJrq6Q37d1vlzpszZCUWdsEoW-K7q8_lpGbFp-Q_W8-Be73rvjeKjTmsKKRD7epaw",
+          "url": "https://cdn4.telesco.pe/file/KuHEqIui-oeb023LEYmlrM2E246758qRU0tysZxzFSyGo_PFz5rgJj6NF_7TlU9eo3SLddw7CbmFY6OcJb35Y_Ojlv6dYX2K3C2ixdbnRW06S6AgxsapqlAYMv6r_3zf4leRpnorSkS0SD8FbwF-FcmW7P4UMOOKUlUTkQPHLzELf175r_aCe-2rG7KqKBff03IZfERpc4qdyEfY0Yu0Itt_DRYGhxmasuck1THOj__A_oPkf8CrvpwM8RzLN0115iJDdFwH2MlcIcKVWwO1Vzm24wabuPQB-Majknv5tk2_yGZctVWcOYRk4b5e_HwoYn80RgIpt6hEdXEAcoutOg",
           "width": 480
         }
       ]
@@ -74,7 +74,7 @@
       "date": "2026-08-25T18:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41100,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +98,7 @@
       "date": "2026-08-26T18:02:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33500,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +152,7 @@
       "date": "2026-08-26T18:04:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47000,
+      "views": 47100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +176,7 @@
       "date": "2026-08-30T22:58:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 33800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +194,7 @@
       "date": "2026-08-30T23:00:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37300,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,5 +207,5 @@
       ]
     }
   ],
-  "last_updated": 1789442869
+  "last_updated": 1789462465
 }
