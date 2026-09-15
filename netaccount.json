@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Net Account | نت اكانت",
     "username": "NetAccount",
-    "photo_url": "https://cdn4.telesco.pe/file/K5vMLHcYuS7fml_pVTLtl93DD7qovfVfYcZ6KjHclvUgoMYf2nR2OvUW8EEgj50_oafOSsreUFtvlRw-TeeKyLZCPAvW19oSbb0R6VE-jYZ4FWbWTZkXuds6kAcmM39UUqo2vRsiewrknSD_yZzA2SFUskK5cfKeXsUVww_RKNs-zAXfYsvgHkfAR47BT8VlsryowKrpvbXJmemU8_y9iVtu5yf5Ev7ie9_3QrV8QOQwaDtwnbFPqmqj7Y-18v8aKavQKivXLWqljpYOWPcw0190jqULMvIwJJaJ1zMzbgkwoCTenABsfa_0_dWvvFcA-GY-u_yxA-nFCv5Ghi21vQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/GCHvSD6KEKzq8Y5JJURpxEDMczjMnMQsI1cGVjqMehPZCwaBWJaBZ6CYcvN4dpMnnHREsVspy1tuc3lPHiV1WwgvCiPwzg2z3pjGmor759vx8X0wCiFlURTSEVe6Vl8CDjuP0IgZqC6OYGaH7ajFD-HGDkloPmRVAJwsaKl10QHsn_tpj8nREt67Juh7vNyYn2gNkBweznS5YbF4BVBP0yYwg7njeyotH7Qo7FC_FzrJulII3rY43CiN93BgmutAo2Neh7Rduixl5EDjeWdEhI9CEux3hiDXUGqZBpE3OSs6xoqp2aY_P0KYJQXqn80OsUiHK2cAPjHqVr2RLm-oig.jpg"
   },
   "posts": [
     {
@@ -86,7 +86,7 @@
       "date": "2026-08-26T04:46:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39700,
+      "views": 39800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +164,7 @@
       "date": "2026-08-26T21:15:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46000,
+      "views": 46100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,5 +207,5 @@
       ]
     }
   ],
-  "last_updated": 1789429299
+  "last_updated": 1789442869
 }
