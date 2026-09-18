@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "اردن",
-      "date": "2026-09-08T22:10:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7420,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Yq2XYf1uzngeylPWkH-VcUIgCy2baiwiBhA2Y-RZkjGBwjHdPsNU9HEIisQ5GTgjVD8vtoZzYEq8hsnsa-Kb0KFubKpjptwFffTm1a_m1822ChMWbBRa9YYKHNg1J9R5Um98b5ISH0I_1YcBLt5LRsQ4rRl6VweH9rT46zD1F9bRHVKPl5VXoMQM4i0I1_zDTi3NOqYkISR8ssm-U4-hkkLqmaCxOJw7vKAypYU5AEAMPecWzZvZvpvBx5hQTNBN75iamF3w0Tnb4eSw3Tkt6knfg212FgoPtLUgl6dy9XDdirBwab4MpI9uLdnSK9C1y4iMXGqhmCjT1Dv1nfuifQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Z-4tLb3nf3UgA8WqHeKkzIAingU50wHoqeU8-OuL9W_w-8nfYM7KYO8RSF9V9LFlSBy4Z9RFKUwzeJxySw_0mSzctVyz1H-HZNcZwH9wm1CLTwrhT4qvxkNdVJgUAHnwRqHSWL2XBdrRWVxj8XthT1p2HpQXvltGJLuda2yGWrPhLsEiTC3NVIPYI_aj-vVK0DmIPDiSgG9bmb1rBSFscdwQfGgUymWiUU_z8WPJE4JKyl0IfcBXYrJTaOUGXJT-LiTM3TnX3ibTQX-5E0bNtsCIOboW730rHbR3oVo_SjUdq2EH0bXufIxDvNto2agbg8vbZX8zIFbLCsmGjJlg3w"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/pc9FBeiHHW70QO-Xzyz9MI6ZqXcBSQgCl87LEXsXe6DIyZI4CckVNZDBGOqpYHV8yricmizhAqux4c358xAGnf26mf8TCanScw19ZjMsawaQI0xjUjPEn63MTZSVEAH28OYP6NqDI2-joIO83jgb0X2rWbwVTCnwuZijI81wHhvoeHLctUQKAQL1lJPnpVseflgMrPvt49kJoUB_ojEj_mkG83QrZlmtWmrqlVAowjcIsmcjVbnhPL9Mr7rbVJ4XAKjJBfjZg8-FrF7e6bIqIuxGjafYbqP36x_f7gsVWM8ZGLLvHZuhcnazSnNzktk3Wwm2DFsdACjcRqV0rAeFbw"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Ktb84sqnWFJvb4ICxUrucpqj-exX5G1UsgdMuToSAnTX3S3icbbTc6EsdbccMtv6ZhJ4-dTsFrP-4LSUvCYSJ--K-LO9Ed5OvXk_H9BCDgqb8QyKgRv2xSBmP_ZANbAUw3Bswz_9Cy8cwJxy8StvR7UJ6IbyySABlBBzLsrxTLtcd7Fkm5fet6BaOhnKXMIqZ38bOZGgqibm5Vos76B2w0bAo9eZhPQWSUfxT0WMIz5u1NqezTxr6sRIjCox1PnC4mnRCGbUTxkUf6T9kv-rFcxqmDUSn0WSEVtV0rjzSomMvVCsadOtRWBTx3B4W-bwpkkg6hfa-wmFqjDwJAn48w"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "سپاه پاسداران انقلاب اسلامی:\u003cbr/\u003e\u003cbr/\u003eهدف قرار دادن انبار نگهداری و آماده‌سازی، محل مستقر شدن جنگنده‌های اف-۱۵، اف-۳۵ و اف-۱۶ و پناهگاه جنگنده‌ها",
       "date": "2026-09-08T22:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9050,
+      "views": 9140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +24,7 @@
       "date": "2026-09-08T23:12:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8140,
+      "views": 8450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +36,7 @@
       "date": "2026-09-09T10:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8119,
+      "views": 8189,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-09-09T18:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +72,7 @@
       "date": "2026-09-10T17:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-09-10T17:41:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10400,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +102,7 @@
       "date": "2026-09-10T22:18:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10000,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +114,7 @@
       "date": "2026-09-12T11:40:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8480,
+      "views": 8660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +122,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/wAzul40T47_X9HvleMYygXTPjtoWgMU9N6dvLxkAxI4uWcy5g83nf7mxFYPE8m--Ynggrqy3rXNCd1l1H_kTCY4nnC1Qfqp-986WqSlHwkfjMwZrzb5xr27knIyksBMgdHIsrwjVQ9npXdKldPckerrxTFWiuHqFsYP9cXgB4VfbKYU8GMR7_0EJRxVzZS6VSnB7DCgvGvBzsNS_xoXKigcyujRJT9FG8WmRCBEYM_ThoQK_gmnsftRHgq2S6aO_RhBxkkwuJ_jqTAfEMxl7iBFUXCjs0WqjQxZosWXBJo-dLl8odEmG2LBOTbzHAtX1U49L0oIyosvI8ToH1JlQMA",
+          "url": "https://cdn4.telesco.pe/file/NEAd32wKO9UtfoWK8GNi9S5k_ndHn4rS7dLflTzzPL8MdyPG0p5hQpGeQ7G97alqrVsRZHcq4qUpfb9MSKSwBPMuDzXB_1StjCIZi2OZvgcJVGdoSRFHXzSQPDf3Szfw1Pvvs1a-DYVK28KJbIZISRbvzlKgnZW2MRfUOlTDw_QQTb612_fejPLxkp8oYbHUh-o8utyUPkKaAnWiOhUMkCfOiR2PoevotkShMehj5AKmnfxPvF42oZx1UQ9OOu_q80OtOUEwWgNz81zT-iMm1n254YJ6axRDlRT9OlM42QKWb2eoZKOOS5GN6P1uTaAcQPSbSyy_M82tiu_L1VUZCw",
           "width": 464
         }
       ]
@@ -163,7 +133,7 @@
       "date": "2026-09-13T22:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7430,
+      "views": 7650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +145,7 @@
       "date": "2026-09-13T22:22:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7710,
+      "views": 7950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +164,7 @@
       "date": "2026-09-14T11:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6670,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +172,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PhNXmR8UTBEq3RW55LZoVbD5_6dRcrQ2uJ7ofWyH51vMXWNBKhZi9ueGTCeHcRrQhE52BhZsreAz1OD5ybS-oP0xZ7bA09mimqyf1hREHJOjtiHdBXnCBaYf-i4cHkkolHmhbBDUHAB_pyZn_iBXcw5zlouEJZdV-Mlb2o4N3z1dIuvymfq40AoZpjxtnmew324BK6Fyg7xE5KZgVrKqsA2PS25VHzNZx3XdF8Fkpha1gSRp5MWBjy45s0KTyKIdmBbhhkaMR1pzHZMlRDjHzF_XbnzEq2u-3TS6a7RzitIVOm2e7t1_5swlhZ99If79v_rl3WsfcQ6EOWb1RZpPqg.jpg"
+          "url": "https://cdn4.telesco.pe/file/FlksuNRgFDgH7ghj3MM2SL4ImMNwreEabLJ6EnJCsb4mQwP4u8mOOQ865y5Rz9qwV4uCNf-AEIJ1Gmt2gZm5VonVEPSayQ_bVEG0DwFESdxAerWbSSIaFWHcewXxSpQGoD3pQN1OIHvpz1JahYX2hOSGPRCsd5wW548q-JOrfznLq0Mu6IuYm6jYv5B4waNb5B0dSBO2bjDtak3MGorKonYr_Gvz-nYUGOkFnnlln7RwmAFp5SrkM3y9t6wFOKSrJ8ZjB495e8ihnZgB5lT8lzu-_wITbJKNbiLUx3jycbIjxP0zEpD6ZcvsvW02F0zVdIn9IEZXQrCKT9b2n_8jSg.jpg"
         }
       ]
     },
@@ -212,7 +182,7 @@
       "date": "2026-09-14T17:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 5720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +194,7 @@
       "date": "2026-09-17T13:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3290,
+      "views": 3630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,10 +202,52 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p1O73vS7MwacX7A-_d1MNw00JNmw9x0Kmx3EBNVOrihO6127D849N5D3rwFW5FLk3K-cxC5i3NewgTNBRRwJDuaGXsTHcJo90LlKBhjefK2vT4R7sqqKzbv1Vfq1ENPm8EzMYoBqGhRuiWS0Ie4ItS43CN6sgpd6_V9epCpsPKRJa-QLdGMXD_0NyWzlnsaKMFTaWRuGfdBM7-NI4sMMkJvbOdN_oA8bUltgtqpeP7etu0Co4QyO6wKxKHr_L8qQHRbR4IsLPLyknf29n05FueFzc41_CuCCG8nOdbdteXem10brAhmDChQEJM1LO2WoreDC1EtuJCnDa-oSIcuSww.jpg"
+          "url": "https://cdn4.telesco.pe/file/pl4Yfe-QGwb70M6Qvay8ZuuP_yhLp1r4O3Olh9iXXM6KGUIybC_nD-idfRAlBqLP9UWuAU6KUu6nk1YR76YugeYZePVqDyLdYf-jb5GIZtV6Kyfnf33aGBiSmJ9veuW0gUTsmzcAKW6mWhYLUMbNpG4O85ls1MkuS6iPpLMA3tjvFpk-YqiX7W79l6dac0UW0-ABtseyt8IL1-MSb6bEzSJniobnqksTJbSE3xJYaYsgtbQrSDVtiU2NVJa4VU90Cp3bsCZH1h04-j0yixh6yDx4v1EGCOVIQny_muIdF4Kk76roqwsdnkuPSPV10wXsoPNP_jUIspINwapzS8bx6w.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/releases/tag/v1.3.0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب و استفاده از SoulScreen:\u003cbr/\u003eنسخه 1.3.0 رو دانلود و اکسترکت کنید\u003cbr/\u003eسپس SoulScreen.exe رو اجرا کنید، اگه فایروال ویندوز پیام داد روی شبکه‌ای که آیفونتون بهش وصله اجازه بدید.\u003cbr/\u003eحالا روی آیفون از Control Center گزینه‌ی Screen Mirroring رو بزنید و پی‌سیتون رو از لیست انتخاب کنید تا وصل بشه.\u003cbr/\u003e\u003cbr/\u003eیک سوالی که ممکنه بپرسید این بود که چرا باید آیفون و پی‌سی حتماً روی یه Wi-Fi باشن؟\u003cbr/\u003eچون SoulScreen از AirPlay استفاده می‌کنه که یه پروتکل توی همون شبکه‌ی محلیه، برای همین شبکه‌های Guest جواب نمی‌دن و باید هر دو دستگاه روی یه Wi-Fi باشن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-09-18T14:27:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 735,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/maz_45ztakCqT9Zd3C0AH8zAbQvC4b80U9xIxzyWjGDtNyiWonzb9ioGfgaeu08YlhhGigo--1zux1JlMJLiLSQNUFO5itGWYJifqyYwyEHNdRbAU32PjeaGHADTlPEEyhIU-c6JLyedF2Ty_8-EKhoAiDsqqivhcbnMxIzcAzR01-x8JRbFU0Z7DsYyjXmJjy06XWdVK1EZT2boMiueQ7OWDlmfh0DUlEomaZ5NNVo0l0IiFnOkm3emt7-jx9DtUJxkwDX1vmJXxRtPHlFlqB_HQLX2jyFp-TEOIG1Gcfd6FhmY8gwjVBaJ_qqo0sls4vP5tLt1sHoC9o7mfLtCCw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pP4_G4K768xIvG5cSWyt3d_Rpx9DACu2I6bEFU-MoEPcwTGiBjudRqEqIgZsAoLnTkGicLMOKDF2sz9E77hZ-LQc-_EQFjUGlppQzGlejKcP3xCMKQmJcHP26PSEYToDX_Cs2rN-4JJXEskkthEmTmvQRyWjv0aLa9rBA4XimoyisC0TqMRXTGNDvfjrcGjjyuAd2WflsbN0YzCsxgkEtdhDUqhGnZQTtD_1RVxc498-2sVpQCLDJMbtABOwcR_dHmL7W0EeA4kyw6xb3PMwS6GH2dIlDdNoBpYRgKh5F9AcIAXGPdWXsoc_A-oQYzaY7WawtwA7QiWI3ykg-lEWKw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ToYhrehvgjChcSU2mEKGdI1qfkMv6lPHtDkJ0qqSp00C2dGIWVw2pOfSThOSQh0VXa29vJIWTImBv1S9FRwmnVQ97V8ieafMkrnKVMDf3dnPQBx6vgi8D-TVwywXslRY8bAYzvykf4-St8J1WCkct_N-vlVM2UYjq1Rcv00c0OBmRc4JffR7_YiEM28N_8LXJqPnZrqLxjyGG3pD3v5yxofrzGO8bwrwv29YTK1TsrVPxuMzDpZnd4WQnYUY1L_pXqahVV3EbKnW0SdMec5-0JRAKgDlqv0pUygVAeBqDm-6qqIFYPAfu1z0vIPxGQB_vfFsAzaF6-AGI8OkqhAQVg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FAJMmVZp4kUeZN2AoTzy6olvXBbgEec55_PJnradCf6U5rwBVFfCrZHEmpjgc9zcroEoo1SKCamjPe7bheKLMWfMg6Hx31YnRavr7mK6d6G339H4hXyzbmWSpcEY1Zwxhgl94owYXsLvBwf_wj6iBgMfZS1op5AAuFM-_HpPEyp1uPxAG8CR71UarZQuzyCruVZ4intbfR67MkYmTv6EzMiizuDg_kiNrytT5l5voWAxRpD4K4Qf_hJP2Q6uTYI7DS859Oq5kfKlwc9AThirXVhy9uNxp0pmrC_JnoeGZEO27paJwdSE95Vg_Bi1vdD8oKAhOKTjZzqIQ_N1xtG88A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "به جرعت میتونم بگم حرفه ای ترین و بهترین اپ انتقال تصویر به پیسی هست\u003cbr/\u003e\u003cbr/\u003eنهایتا تا دو سه روز اینده اتصال دستگاه های اندروید هم به اپ اضافه میشه",
+      "date": "2026-09-18T14:28:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 663,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1789727880
+  "last_updated": 1789742967
 }
