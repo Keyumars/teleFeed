@@ -8,23 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "سپاه پاسداران انقلاب اسلامی:\u003cbr/\u003e\u003cbr/\u003eهدف قرار دادن انبار نگهداری و آماده‌سازی، محل مستقر شدن جنگنده‌های اف-۱۵، اف-۳۵ و اف-۱۶ و پناهگاه جنگنده‌ها",
-      "date": "2026-09-08T22:46:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "روابط عمومی سپاه پاسداران انقلاب اسلامی ایران:\u003cbr/\u003e\u003cbr/\u003eهدف قرار دادن دو ناوشکن آمریکایی DDG-119 و DDG-53 که مجهز به موشک‌های کروز و سیستم «ایجس» هستند.",
       "date": "2026-09-08T23:12:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8450,
+      "views": 9070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-09-09T10:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8189,
+      "views": 8300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +42,7 @@
       "date": "2026-09-09T18:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10300,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +60,7 @@
       "date": "2026-09-10T17:39:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +68,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ErBs3EmEeOv9AsHFS6aJqkV8J6XwKHEu3ofq7UntAjYde1fzfc7fZ9rIygqGGvH2hz0E7cxxlvsw0vapiZh7XGt7lv-61fuPGrdiFh0RDszc0kOXT9qIWpVNlHDK2jPKAnAHsZMPBCFWpXyisaHv9j5w3MTqPbSUTH4mrvmlhsszJEFWpg2Mt3iavEGfAsXKf2gyaBlbjzgFHmmliBoB58tRLV4yMiw7-jKal033VN9zdRPQtaiuxMcZFItDZLvzYMIk0JPSKiDN8nuM3txysy4adFaOC7GBlkFmUTb9lc0OdMC8Uu_WMjvvTNcVVnqzZSHthVlX82YvqPIH2ApoZg.jpg"
+          "url": "https://cdn4.telesco.pe/file/WLe3ZPAD12vDbbDszbxy6gp9NSfjsvmBeNbG3Px-8KmgOoZhX7s7LURTzQOXHbQaGzFwhaeEJfq570_ZkhcutbOPEPN5BFu1-HrqnmWLplDMfRzd4fcDZaFsRFAF23wW0KI8laLSdjcpBuLOmR2ez1gSnHGDcC7LJ7yVzAFn7vmuYHEpDs23mOxMlFDLO16vzkI_JucSK8aJKCMDUH3RrV6aXh0xAgoeDWZe4qfPfL63bphcioYXhsgdM4VDJMmjlXJTG-QP60uMr0vd3I5L1x404TRgTp1tLsklV8OwCs803l_8muuef3Q15rKq7uqzBsE1ee482uZZLofcQSHw1A.jpg"
         }
       ]
     },
@@ -90,7 +78,7 @@
       "date": "2026-09-10T17:41:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-09-10T22:18:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 10500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +102,7 @@
       "date": "2026-09-12T11:40:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8660,
+      "views": 8930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +121,7 @@
       "date": "2026-09-13T22:10:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7650,
+      "views": 7890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +133,7 @@
       "date": "2026-09-13T22:22:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7950,
+      "views": 8290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +152,7 @@
       "date": "2026-09-14T11:45:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7040,
+      "views": 7620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +170,7 @@
       "date": "2026-09-14T17:33:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5720,
+      "views": 6550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +182,7 @@
       "date": "2026-09-17T13:29:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3630,
+      "views": 4080,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -212,7 +200,7 @@
       "date": "2026-09-18T14:27:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 735,
+      "views": 2360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,12 +230,42 @@
       "date": "2026-09-18T14:28:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 663,
+      "views": 2300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/releases/download/v1.3.0/SoulScreen-1.3.0-win-x64-setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود\u003c/a\u003e مستقیم فیکس شد.\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/archive/refs/tags/v1.3.0.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود \u003c/a\u003eمستقیم سورس کد پروژه فیکس شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفعلا فقط با ایرپلی هست و فقط برای ایفون ساخته شده.\u003cbr/\u003eتا دو سه روز اینده اتصال اندروید به اپ هم اضافه میشه \u003cbr/\u003eو مرحله بعد اتصال ایفون با سیم به سیستم هست که اتصال به شدت استیبلی میده و برای استریمینگ هم مناست هست \u003cbr/\u003eهمچنین الان اپ یه اوتپوت به API لوکال اپ OBS داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
+      "date": "2026-09-18T14:58:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "اگه از مدل های پولی و لیمیت دار هوش مصنوعی استفاده میکنید 9 روتر رو بهتون پیشنهاد میکنم \u003cbr/\u003e\u003cbr/\u003eاینجا توکن کلاد من تموم شده بود و بقیه کار رو با دیپسیک جلو برد و بلافاصله بعد از تمدید شدن توکن کلاد سویچ کرد روی سونت 5 و من اصلا متوجه سویچ و تغییر مدل نشده بودم",
+      "date": "2026-09-18T16:53:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1220,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IqiyaDn5lP-lK6oULDkdOvXM8LdUxlHo6gqdla-khh63hqcBlk69DNdrd-eEoF0mlv2azDIwzj4zNErd3uLTDdrJhTxW8QkKEXs7o84mRrcgrrGLBNtRnOkzJJ-naONpnjKICmcpOKVnyJm4M6ZYFviUSXpIo3Tpw4th_OabYpQXKS8KiEyFpFpWkF4t7cgaxrj2FtrzDkrpZiRPxQpjzQ3ubM_znVJjxuY0nHe7lKR9hcwgZOkQrUdwisI_ifYgKMG1Lmrdjr1pDzFnYQfVRozPzSs1nyzQpCt9oOvlUW6la-8_BdcA5NAj5yT605GUgP0CYiKv_nyS4j4TlwqoqQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789742967
+  "last_updated": 1789754820
 }
