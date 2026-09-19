@@ -3,34 +3,16 @@
     "id": 0,
     "title": "Quizoly",
     "username": "Quizoly",
-    "photo_url": "https://cdn4.telesco.pe/file/fdcPDJyPhVJOxG-MNKnxH2EDVgOoPwEQ8I74_JRVydBR8UzIoJv_laBmVXrAs5ePssxY9RhGuyGIONJPULAnOiH5XyDg-48rS-mCEaE4vz0yWPvoCbLaM362lL3uuIzdReFt34zhy-uCCdsN_JDwmgh5KTC6rLc-d3NOXCdKiASQAB9MxU2DPieGZE-3Y6X7HnMNij4pDze0M_ZExawH132-vawd71Hvt8wbPQUfSDP3pa7j8jg1vRq-IldeWsDnfTQ9qQKr8Hj4ylws3aE_69o5RVmzGpVq9KbkDrVWUvZJ4xZmgIkkWb7AYrhURrbW542F1Mx2O6GDqq0TLdEHxQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/JMUSKHD1_IoO3gB_6XYaBtaNalUHCVg8wJZHNVca9x46PIoy1JcGIVEEa2EZIddRwczOsTBb-C9ojjLjvIMZ__TxPt5pib0VPrFhEw-w7g8fDeSo6DwfsImq1kwsnQy6tVvN0iiysvFT89a32CMbo9gTiNzHsLCU9laKzBiafI8Qr0G2ttrptxMlrX__iMH8bNgHjs2lPggdTYzYmW9AFs_jTvMamV3rups6G7bPochN7vwRhdGtJau9FV7FA76ertV0SQb_WLwUHtIikat_j4JMq32OSKh6oxfUa5NhmA8BgjjhTXu1YPf6E_6gnteRxdVYsS4j4_TVG1rvQfansA.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانستید\u003cbr/\u003e اگه کسی هنگام صحبت کردن زیاد پلک زد یا زیاد تکون خورد یعنی داره چیزی رو از شما پنهون میکنه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-16T14:32:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Quizoly",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WO3HUYp3g5nsb0HXiSlvgOioemsvb4knAEg7-q_7a0oQsohFVtFx3f_qnlmVhIH0zCTac94BpyYP9cr6sOtwvSXOp_-StLf7gH2RaiwL-siATrvZxrjYaVMcbAVvqWF1BGBSD1aCUby8gW2l8nPhYYo_kl1XqNNEALO0JJXD67Gt5HLtV6A1929Uqgl1odb1VjsvXb2ExlekmpBPSuuh9efvmCkgBBedqxEKHWvii8_ZSIxNpDP4-5B6GtStRLlIqGaGIiHjN8nd67hyqA3OGi7OOMFZusRuBV8TaGOhvT0KBE051oU1sro6vYha580F-QmPYK4jES6oRnESthNOeg.jpg"
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003eاین تخته پاک کن همزمان که تخته رو پاک میکنه مطالب روی تخته رو اسکن میکنه و دانشجوها پایان کلاس فایلهای اسکن شده رو میتونن بردارن و توی کلاس فقط گوش کنند\u003c/b\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
       "date": "2026-09-16T20:32:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 261,
+      "views": 262,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -38,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EAe_6o6b39U_XR4M7mHUNy_8IJLH8wQJa_AlBSSOG9A-Rdy9lbuQ3idrY1W_d23xcpuRW1iArLWYRyk5_3WVtju7WiW4-HWaIS95qLwWKZc9deRuqYPRkNSNHFplgWvCioAIU3_YjA98z1N9rH0XN6BNr6FOacktl8y3vO3Y7mlzbAH5aQuowmOt1jv0zPI-qs_LY9P4O36_f4Y2VQUw4DndNNkMLgbQfzG8MxA5LgL3u7XoFQcaRJ-Q0XlpKBTU2A3_FtB6GpSiM-VRz4CHJO_NEhq5QRmIKGKd5fc9IBkPMg_CvFJbFTWzv53RvGGI6W9Xs9t2DMAcDnU3Bqrirg.jpg"
+          "url": "https://cdn4.telesco.pe/file/kB-a8Z1l_t0KH7MjylpfTT2ww5TXXf2meSSXv85IJ0SnfV4jGWoLn8wxid4PtlycGBe8pRXt1oV12cN-_ciuJvTvZvPFjb-Jr3ZoWdSLHz6p5pBf65mGWtRln6EuSLTrjNXSRGa4CGyQ3lY2VV5-EHEbvAx2QP942UCz3vd5npdtVsGw9Ki2pj-1aRLf2hBfA9ADaa836D6xxDQfHhCy9dPO0aGZJjqsppxqHPSgwVlJ1BKqPdrPV8nVOTsaAGeOGj_XVZhc5yMxjNLfP5MMQvpCjAgLK_kJ9nRTh683t5CFoGPgssEpVtJb_pK0AyzqkGGRUn-ds2buKLdcTYblvw.jpg"
         }
       ]
     },
@@ -48,7 +30,7 @@
       "date": "2026-09-17T08:31:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 260,
+      "views": 262,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +48,7 @@
       "date": "2026-09-17T14:31:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 290,
+      "views": 293,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-09-17T20:31:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 274,
+      "views": 275,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FdLOXfHtKqwMZbIQZklJZdGAyoc4H0GX22LStbzLQl6JU6tDEugggbxb4FAeWOD1v59BoDf_WXag4Jh8WNhs52inl3GD33AjFKZESTF56Ql9QuUIIfPddafJwPxFGPMcx0-zIprdOdKwL-h_ogziHbq4_jAtw2ieFE7uP1O8YJA_Y7YfWo9bsURFJYoIYomjBVd_gEp_48pbEVXCaar2w-YXeQo59OWFT7JMw96YsQA4IOkW7PtBYI1W7prpV0W_gJ5rLI_Y97zqg819BJBpSyoigAZyXRvqB1B36u0ww-sQqOuSWd13ww9TGCJdAQVMAskaSb3dacvjOyN8UcCOzw.jpg"
+          "url": "https://cdn4.telesco.pe/file/vMh0gC_hElAbmE4ajFuvZ0aKhSvAkTSH0EueRX3nLIfA3RPoDgRYR2Gr1hVgq2OfV7q9HSRyvAwwxzkH2pcShFj-Rfy1QwSPsedEAIlwLhjnoRg92tqa9Bot1Hkgc0McNswZuLV1kLvJyq4IiCanJG-CbC3qjiNXDgGHVNgx1qYJLEhwez9NEJqAxj8bpR-sLQUp7o1CpWpdz9hvJ_UnWoilu9Ua1qZgnYnV95ttWqlcwFqgSn8OUhmpiqzIQChsXVhfHpxbm7ji5C8B_6XURQrXtfYQ3qkVV__DW6LSMjxaG4BIon-7INLScf-V8jKekxZKQYOgEjl1FEaWbFn8_w.jpg"
         }
       ]
     },
@@ -102,7 +84,7 @@
       "date": "2026-09-18T09:13:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 263,
+      "views": 264,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-09-18T17:06:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 270,
+      "views": 274,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-09-18T20:45:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 231,
+      "views": 237,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XXBnVKYsfIWi5JtIQM0KFOXcuahQWHO8INkpH-gxZL_lrpmXhOuc9Gg7ouRFwBzD_Gon5Y-4ppjhidMARtEGSh7z8Aoq5YZo_-ginHhL-zDp3RyRsx7512jHZhhBqPTyU3eRbSP3fNWppackTZ7d_t1h3gD9wJdV3F4LCKWYiMjp8h7nRbPGV_fq1rNb22sYdjYm9KzghMkLgMadYxnZMh7raFolXCFUixqmxduG4Ng8rgJqRY6PAjJhNqqml0P2Hbs_6xMIk7aCNlDmAbshH8M9EKX_celybW7fUyWqcJqYNJhE32UFd0HNl0X0O58n856o9BogBLjm-TARFSavXw.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZlGGn-qPrvKA-MnQ-iqWNlv7mUmSaITWLtTN2aAD4rJnshyqog3A5FQOxsdGSdH1hK6MMXbP8D6yciqeocB117CDmRgWvlE6WQJ124yJnuRsl4_IwOdWJN24vhVLWYDdQR35jja81e8ach5UTtCN5hBxVpR93Cp1lVHefAJVupYqR2SfCBcVBe4KlaNxGpQyyz4Z2r8DOV8R2JE2nUExKRcYMXyT-XhSEybXg0Y7G_-m0ulO2qCMhunjEejmQzpSZ-KzXMtIBEanVTtXKSpFfmMJr3Rd6dyUGy2cZo_EmP7anmQtUk8b1qs-5TrQW0bcxAmER6WjlFnRPNQuFBhMsw.jpg"
         }
       ]
     },
@@ -156,7 +138,7 @@
       "date": "2026-09-19T09:51:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 234,
+      "views": 251,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-09-19T14:51:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 198,
+      "views": 211,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -185,7 +167,25 @@
           "url": "https://cdn4.telesco.pe/file/ToPbdJPFVGaRJzzevpG6_JaT-FemOy7jmSey5GnK5AU4PUWoDMJt00bEBgMsA9gFxvryJwtlWTl1uNVAA6C75q5K7kWRLQUnU2CZRcH6NZvm5dFZqs2nxmxcYcWqZqkdVFgxVvPT2yuPX6bngafZ5xu2wUn4bGdRUPirTXg6yMCvxYG66Vo0fIDnNV4gJPQjdCEDKnf9_65uGjh1cAo_iDzJPGlpRU4NfG3Bw9SU_BEVYVLBVeus_Crfw8Kg83_EBDWRbYv60UK1UeVBoK9Hg68i37HexOCFeMfmgRv1HNZNG8NkV12Q5-cksWlFZntdSFJYdvDLmgXk9BoeyoK0Pw.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e \u003cb\u003eآیا میدانید\u003cbr/\u003e در بنای معروف تاج محل ، بیش از 2000 اتاق وجود دارند که پنهان هستند.  100 اتاق تاکنون کشف و باز شده است، هیچ کس نمی داند دیگر اتاقها کجا هستند و یا درون آنها چه قرار دارد. برخی معتقدند که  آنها حاوی برخی اسرار تاریک و قدرتمند هستند. برخی مقامات رسمی که سعی در باز کردن آنها داشتند به طرز مرموزی درگذشتند.  به همین دلیل است که این اتاقها برای عموم بسته شده اند\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/Quizoly\" target=\"_blank\"\u003e@Quizoly\u003c/a\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28189.png\u0026#39;)\"\u003e\u003cb\u003e⁉️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-19T20:36:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 185,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Quizoly",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/hLzYnnWsXlKuEFv6JyC-WIKRJiodJqu1TDVPsBYPfdxVcsfVnXMip2MrtH3Lwqno5RhlgWPnPXNgKIAeV-SdHWiqZTGMlJrSe2swHygdcXfseU_TUenwUkWENeU1G-H7CnLQxff3Gyiw1rm9gqNvCv65vKQlkhYZAw60mw3VINNTmSamghbXKlL_Viz-fDt2eQW7F2JfvOidWYbiCVSyFLamiXNn92iaXDa1bEahfDInq8bUWZl7ZAWEiBLSJ8DFx80M9XP63cMW1qsVe-Qr8WSaZ5Bh19NyWA1BzJ_LU7864YVPxqQJhLnTLd-C0Yi1iuQ_j7htjuqqfBt7wdsXDA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1789848218
+  "last_updated": 1789856608
 }
