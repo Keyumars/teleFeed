@@ -8,45 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cblockquote expandable=\"\"\u003eاکثرنتا\u003cbr/\u003e\u003ccode\u003evmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==\u003cbr/\u003e\u003cbr/\u003evless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one\u0026amp;path=%2Fassets%2Fv2%2Fpkg\u0026amp;security=reality\u0026amp;encryption=none\u0026amp;extra=%7B%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%0A%20%20%7D%0A%7D\u0026amp;pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg\u0026amp;fp=chrome\u0026amp;type=xhttp\u0026amp;sni=s3.netavex.com\u0026amp;sid=e0#@\u003c/code\u003eProxyMTProtoIR\u003ccode\u003e\u003cbr/\u003e\u003cbr/\u003evless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@144.31.103.195:8443?security=tls\u0026amp;encryption=none\u0026amp;insecure=0\u0026amp;headerType=none\u0026amp;fp=safari\u0026amp;type=tcp\u0026amp;allowInsecure=0\u0026amp;flow=xtls-rprx-vision\u0026amp;sni=nl1.hys.braidx.tech#@\u003c/code\u003eProxyMTProtoIR\u003ccode\u003e\u003cbr/\u003e\u003cbr/\u003evmess://eyJhZGQiOiIxNjcuODguNjMuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQG1lbGlwcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9\u003cbr/\u003e\u003cbr/\u003evmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQG1lbGlwcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=\u003cbr/\u003e\u003cbr/\u003evless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun\u0026amp;security=reality\u0026amp;encryption=none\u0026amp;pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g\u0026amp;fp=firefox\u0026amp;type=grpc\u0026amp;serviceName=api.v1.StreamService\u0026amp;sni=files.noneok.com\u0026amp;sid=d3b394558cfe0266#@\u003c/code\u003eProxyMTProtoIR\u003ccode\u003e\u003cbr/\u003e\u003cbr/\u003evless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality\u0026amp;encryption=none\u0026amp;pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg\u0026amp;headerType=none\u0026amp;fp=ios\u0026amp;type=tcp\u0026amp;flow=xtls-rprx-vision\u0026amp;sni=yahoo.com\u0026amp;sid=c39cc7310a#@\u003c/code\u003eProxyMTProtoIR\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4990389330913527566\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"4987850708888848736\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9492.png\u0026#39;)\"\u003e\u003cb\u003e🔒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکانفیگ \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5908831399552490386\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E380B0.png\u0026#39;)\"\u003e\u003cb\u003e〰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e️\u003c/a\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخرید فیلترشکن اختصاصی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5852871561983299073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771581325857264976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e",
-      "date": "2026-09-23T11:17:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
-    },
-    {
-      "id": 0,
-      "message": "کوچیکترین بچه مدرسه‌ای دنیا\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=pofak.mikhay.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=adam.poolaki.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=dokhtar.nanaz.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=bastani.mikhay.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=panir.begir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=qadim.zhigool.co.uk\u0026amp;amp;port=22\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=reyhoon.shambelile.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=noon.begir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5908831399552490386\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E380B0.png\u0026#39;)\"\u003e\u003cb\u003e〰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e️\u003c/a\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخرید فیلترشکن اختصاصی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5852871561983299073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771581325857264976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e",
-      "date": "2026-09-23T11:57:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 69000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/h4wzmxzuogAhRpd7u6qGoBzxvYFbdnPYSVDMceriRwwWjCF_O1-z2Bh1ooeCasVFdUi9EIUPUCtR2VV7nCJdY5VSBbAh0TAZJAIpZLIxEYt5o_tRmPO_BrlbhPtf8HtwVxgsJLUEcb4O6JY0lfM_IExT46TOrCpcdPyOQiHC_3UaGRelASndrt8OuiaxJ0kT7ybbXsb01ylzJEvDW-GIZxJt2cYVmFNs0GMjd-3wYSC77vWEB3m4Qjfrk6RmS00tVbSqnsqpy11soMM_isNRMWMkh4ydgNKwfI961RJmiGtAJy1VEcCMaTPhgoStTpqzWWQFT_uPRZAXaZOu0rqBQA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UKvguDuPHaMmrNJ-8kQ8BSnTlT7suaVVH60FmteVIf-MuaAwnQ7qn2uYAHrjZzUe-hkdofTaSBCTOf8iQzW63cQudtrKlSlIyciYarOhwe_pvZhwdMW7atVZ0FwwiTmxJJSoBDpea-VaFCfs-vO-rlZF8FcideISPclSPsbHiR_WRAbTSxT3-vEkf7thquCBUpLXR7WEC31mAyN1kSSiSS9BoVG7IpV2moXL3gp_fTn6RqzflUJch4i8Mrmt4NlWCikCNRsfgMOoSl1NAONXODb0qcqW99qq0pGCEbfFdI8Su1ifWndcKhie9vaqMHObuTR7-KCtWkqL4xFluYufBA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "لحظه‌ای که نوتیف تو رو گوشیم میاد \u003ctg-emoji emoji-id=\"5445049131439498861\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A9E2808DE29DA4E2808DF09F91A8.png\u0026#39;)\"\u003e\u003cb\u003e👩‍❤️‍👨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=pofak.mikhay.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=adam.poolaki.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=dokhtar.nanaz.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=bastani.mikhay.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=panir.begir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=qadim.zhigool.co.uk\u0026amp;amp;port=22\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=reyhoon.shambelile.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=noon.begir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=EERighJJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5908831399552490386\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E380B0.png\u0026#39;)\"\u003e\u003cb\u003e〰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e️\u003c/a\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخرید فیلترشکن اختصاصی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5852871561983299073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771581325857264976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e",
       "date": "2026-09-23T13:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59400,
+      "views": 65700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +31,7 @@
       "date": "2026-09-23T14:09:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 52800,
+      "views": 60400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -83,7 +49,7 @@
       "date": "2026-09-23T14:31:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48900,
+      "views": 56900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -101,7 +67,7 @@
       "date": "2026-09-23T14:31:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 49800,
+      "views": 55300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +79,7 @@
       "date": "2026-09-23T14:55:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57400,
+      "views": 64700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +98,7 @@
       "date": "2026-09-23T16:34:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 48400,
+      "views": 58000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +117,7 @@
       "date": "2026-09-23T17:00:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44800,
+      "views": 55200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +135,7 @@
       "date": "2026-09-23T17:33:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45000,
+      "views": 54400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +154,7 @@
       "date": "2026-09-23T18:00:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39700,
+      "views": 50400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +172,7 @@
       "date": "2026-09-23T18:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28900,
+      "views": 41900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +190,7 @@
       "date": "2026-09-23T19:00:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -242,7 +208,7 @@
       "date": "2026-09-23T19:02:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 46600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +238,7 @@
       "date": "2026-09-23T19:15:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 41200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,7 +250,7 @@
       "date": "2026-09-23T19:31:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 46500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +262,56 @@
           "width": 720
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "وقتی پول نداری ولی خلاقیت داری:\u003cbr/\u003e\u003cbr/\u003e- سوئیس \u003cbr/\u003e\u003cbr/\u003eای لک لک بیناموس نمیشد منو ببری اونجا‌؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=max.kimt.click\u0026amp;amp;port=443\u0026amp;amp;secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=ykima.davay.click\u0026amp;amp;port=443\u0026amp;amp;secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=mkima.davay.click\u0026amp;amp;port=443\u0026amp;amp;secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=PAyDaR.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e |  \u003ca href=\"https://t.me/proxy?server=nab.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=soh5.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=vasle.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e |  \u003ca href=\"https://t.me/proxy?server=tassian.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=soheil.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e | \u003ca href=\"https://t.me/proxy?server=for.you.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e  | \u003ca href=\"https://t.me/proxy?server=AZADI.goooalir.co.uk\u0026amp;amp;port=8443\u0026amp;amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=mashti.just-money.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=are.ajjab.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=mio.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=bale.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=hey.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=you.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=look.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=at.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e • \u003ca href=\"https://t.me/proxy?server=me.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/proxy?server=idiot.foltmeingop.co.uk\u0026amp;amp;port=8880\u0026amp;amp;secret=eeNEgYdJvXrFGRMCIMJdCQ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپروکسی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5908831399552490386\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E380B0.png\u0026#39;)\"\u003e\u003cb\u003e〰️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/BeshcanBot?start=utm_proxy\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eخرید فیلترشکن اختصاصی\u003c/a\u003e\u003ctg-emoji emoji-id=\"5852871561983299073\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5771581325857264976\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e \u003c/b\u003e\u003ca href=\"https://t.me/ProxyMTProtoIR\" target=\"_blank\"\u003e@ProxyMTProtoIR\u003c/a\u003e",
+      "date": "2026-09-23T20:04:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JURRk7S98FscIn5bInkw3AgOlnR5FzyBAC-EK4pTUXG0FRX3OISRf7oUpzlWG9XqCc8u9U-KAdBFv7hJgQhmdk0BMtu12Vgl8tNXKc7rj4fCFci8_uHm2hFVZMNExR96GwmRImlibilycJhQg1lTjUyaIst-hIt5ieRYoCkuXYidjnlXxDVkUCG1c4Ih5diNRgSIIdalBUCBTvNYwyyGt3MR8YLsWlOewHRWy3znL7CP8WowroFtyLDnCxbopwtfWSFZ9UF40UCo2KO_ev9guaMPN2R7-3LhfJUTG2hRC1IWuyZanTjxTMKw3GRVZ7OgIWwMJOiXlU4foQ3srQ1veg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"6215041273309434461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eبرترین و قدیمی ترین مجموعه تحلیلی ایران ینی انتن بت\u003c/b\u003e\u003ctg-emoji emoji-id=\"6215041273309434461\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6215419994935660864\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29D97.png\u0026#39;)\"\u003e\u003cb\u003e❗️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگ توم میخوای روزانه درامد دلاری داشته باشی کانالی انالیز انتن بت از دست نده\u003ctg-emoji emoji-id=\"5339175138166321238\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9296.png\u0026#39;)\"\u003e\u003cb\u003e💖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5456140674028019486\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eتوی این کانال تحلیل و انالیز یاد میگیری تا خودت بتونی درامد دلاری داشته باشی از پیش بینی تخصصی فوتبال\u003ctg-emoji emoji-id=\"5336947153946291395\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9296.png\u0026#39;)\"\u003e\u003cb\u003e💖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003eادرس عضویت کانالشون:\u003ctg-emoji emoji-id=\"5337228225196076624\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9296.png\u0026#39;)\"\u003e\u003cb\u003e💖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e1\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269255258212404947\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+gYDRnUG5OX03MWJk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+gYDRnUG5OX03MWJk\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6269255258212404947\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C89.png\u0026#39;)\"\u003e\u003cb\u003e✉️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/+gYDRnUG5OX03MWJk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+gYDRnUG5OX03MWJk\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6271537028307881531\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F928E.png\u0026#39;)\"\u003e\u003cb\u003e💎\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eعضویت محدود سریع اقدام کنید\u003ctg-emoji emoji-id=\"6280576229363946136\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C85.png\u0026#39;)\"\u003e\u003cb\u003e✅\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-09-23T20:30:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tr-ekGdBmuyRL-VJ16ND9rWxIpb7S_3pXYktbilf0XgmvJF6nMmQ8FUYV3QUea6zjzU2q7fAVkzn32UK-RIWub6Vo4QZcI3bzprczokcMjhBJvWIeWnrS9BDF4MwIQWEShcMe5RfBEJ0akIK6nFpQ6UTjW7XehTViGmku0-JIgQe3HTqQJxlHG9FSz_C_UYShVXo5tPRfdNhe02X-r_XYw9gD5gu0tEtiUDY3eJ8Ey2ZNA1hEtoWem4jTHs29tiy-QML-ZO6Fekbfk9lKzAOGtd158Qu_2hawbRQBEXUm6ygBXLSlS1-u-YUpS8IdW_6LjYfYyOU9AVt_Y402thmkQ",
+          "width": 268
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وقتشه دست از کار سخت برداری و خیلی راحت با کانال انتن بت پولت چند برابر کنی\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F988D.png\u0026#39;)\"\u003e\u003cb\u003e😍\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/+gYDRnUG5OX03MWJk\" target=\"_blank\" rel=\"noopener\"\u003ehttps://t.me/+gYDRnUG5OX03MWJk\u003c/a\u003e",
+      "date": "2026-09-23T20:30:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 28200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "پروکسی فیلترشکن شکن کانفیگ"
     }
   ],
-  "last_updated": 1790192760
+  "last_updated": 1790203318
 }

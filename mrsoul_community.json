@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/releases/tag/v1.3.0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب و استفاده از SoulScreen:\u003cbr/\u003eنسخه 1.3.0 رو دانلود و اکسترکت کنید\u003cbr/\u003eسپس SoulScreen.exe رو اجرا کنید، اگه فایروال ویندوز پیام داد روی شبکه‌ای که آیفونتون بهش وصله اجازه بدید.\u003cbr/\u003eحالا روی آیفون از Control Center گزینه‌ی Screen Mirroring رو بزنید و پی‌سیتون رو از لیست انتخاب کنید تا وصل بشه.\u003cbr/\u003e\u003cbr/\u003eیک سوالی که ممکنه بپرسید این بود که چرا باید آیفون و پی‌سی حتماً روی یه Wi-Fi باشن؟\u003cbr/\u003eچون SoulScreen از AirPlay استفاده می‌کنه که یه پروتکل توی همون شبکه‌ی محلیه، برای همین شبکه‌های Guest جواب نمی‌دن و باید هر دو دستگاه روی یه Wi-Fi باشن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-09-18T14:27:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6970,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/twD3JTGc_SXfpctTEM21HjEPVOY9C32hZVxXP-2GeQDrh6-QOaZIwj0B-9GJijD2nMTmh2zA0nUFhG9mA_rIjQtBrWr1FSmRelLpi9_tPa_BVS-wLVBZ7Qw6NkbOVEATreKYwsIhQV4Q1E087l15VD5nVhJUKdDlEr1lwNQsowII2dz029fR_sVJT9P7oLMB4i6W7VAafRnaVJlFFW67eQAbPFdsqMefuU6DgtacHCrn6xWe9D5FiqqZnS6RwgdPJ_JCl2mJrqZZocbDDx1Yle_R8QpePgaAcfpQdhkK4BXNrcjVwmUZI_DX_xYWZ_JbVZgzqUTAPUEU3sDBFTQLpQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nNq65IiTNjYPNsu5Acfz12uxNNWfGkj5w_zwj9_T_idhrmUPMvT27ypI9zuIjWODfJERTAe99WKh5TsRD4MS_rWH1SIxIgJDgsWF48UoLMdY5_8_rsHt03ajMPBEyLOJcPFBMVfdlsiUGmalE9Sz4vyIW5L05esfhQC1xvyjoqvzljeY0jmxeJTEw4fMfMCr_HHDWXdnLA4l7neWbhCYSoY2HT5r9W65PgY0wIO6dTxpT3c1p3u3PIDh_ultmqz7cWCz0qWqcCk3h-w6HTHpoVLTDoAN3oEc0Fa1hwPz1EJsh416j315IVbakwlk7jsyQ3PCpG7Hpfp27b6E2SdCgA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qc5mjsmQcIolQGo3JfROleWuf-mwy-sNLmrqII93Jd856vPHjMP2fUFDTJU17F1Id5tmwnlbnxj8twA7oihZx1YNi02qr7dEy-qch2tOEGjvAR51oDSMIhjDJec7_NG44ih4awC_MDxXWFAe6G2dZkOqCQuwS3gKVF8bbNbYjC5_yDE8wF_jXHA-xSIA7pqDH2-h2MH8cdc-Sbg_IsyNLhf93NBAfFkryI5acXH1bSBPVroXt2DlksXy6X5GRIE4gdEC2lqkIBbNUjAdgnO_qkxRn9BoCcom-Z2ljEL8mQ05ohwScDLsF2Hy4Nxo-C8UXbtltSjT2eoKH4A-Y7GWdA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HohnHACHgT33YWAC2zHRpUs_9bjrQpltbcGrbTdabm5gZrZb_kI4_6QzBmiuZuHlcKJKniHET3DshevYE9yw0uLeyLVRg9UA-hs_M0i1S1iRVw6JpC8vyKMfNbEZhfnEL1N7Y3Bxtam0KDhc0-1CT9wA7JNxW1qKlbyQjXL1Sh6z7yR3-ciiKGlMPV-ciuddWSyagE5sDvk_7fhHLjvd1VaLjRzhKSa1habqMIOjCn6FBLIVNYgLQI-2SBVOAuTPt8LWTkntARLoW6DtowL4M3KQGYGBVjfTwXJOitbCm765tOaCH0PE2SXdr5W6OgB9UEPs9GSs1lWZBwL6NwKa8w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "به جرعت میتونم بگم حرفه ای ترین و بهترین اپ انتقال تصویر به پیسی هست\u003cbr/\u003e\u003cbr/\u003eنهایتا تا دو سه روز اینده اتصال دستگاه های اندروید هم به اپ اضافه میشه",
-      "date": "2026-09-18T14:28:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7180,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/releases/download/v1.3.0/SoulScreen-1.3.0-win-x64-setup.exe\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود\u003c/a\u003e مستقیم فیکس شد.\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/archive/refs/tags/v1.3.0.zip\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود \u003c/a\u003eمستقیم سورس کد پروژه فیکس شد.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003eفعلا فقط با ایرپلی هست و فقط برای ایفون ساخته شده.\u003cbr/\u003eتا دو سه روز اینده اتصال اندروید به اپ هم اضافه میشه \u003cbr/\u003eو مرحله بعد اتصال ایفون با سیم به سیستم هست که اتصال به شدت استیبلی میده و برای استریمینگ هم مناست هست \u003cbr/\u003eهمچنین الان اپ یه اوتپوت به API لوکال اپ OBS داره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
-      "date": "2026-09-18T14:58:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7690,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "اگه از مدل های پولی و لیمیت دار هوش مصنوعی استفاده میکنید 9 روتر رو بهتون پیشنهاد میکنم \u003cbr/\u003e\u003cbr/\u003eاینجا توکن کلاد من تموم شده بود و بقیه کار رو با دیپسیک جلو برد و بلافاصله بعد از تمدید شدن توکن کلاد سویچ کرد روی سونت 5 و من اصلا متوجه سویچ و تغییر مدل نشده بودم",
       "date": "2026-09-18T16:53:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8100,
+      "views": 8260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +30,7 @@
       "date": "2026-09-20T12:43:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 6710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +48,7 @@
       "date": "2026-09-22T11:03:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 4890,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -114,7 +60,7 @@
       "date": "2026-09-22T21:35:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 4430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,11 +68,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/sN916sjskXx8FKU_T20ZcRwYSspmwkCLSzJ_t5LE6RiJ-X5ZMxUVYwkRUyiLjj3kmciUiW3eNuxyftUYrK4Nyh4XQ1mKr58O1vMfbzDxRx7RWFX0H9KJZKKxqjtFlYTy9wsHO1Lw4sCkHXZbPeycio76NcyPzR-eBGSCgZvDJ15HGRjz2DGcJ2qSXsTETPdAyd6Ye0aZBJGJINyvzN68oEEUtiVCj8IW9ztXOFLuTC2crI2yyDOMOMVQgF0_LQqOVku9Nk010Etm8K7bN2qa0kreNJW0o9S4PXcUqEGRQKZhKlsgP8B6rKgCKG0erzbvDHraNhanL5A6y2THwI5yvg.jpg"
+          "url": "https://cdn1.telesco.pe/file/szIB_gtv-oTc9iEI8u8Hpcutnwe5MRuIpjFwn4d27VFnXVSL4kUHJ2N8X9w0M3VWaH73H5-kWvXFgmTLTS5iIyq19R7XxUuzvuXHjJQxvKhF5kvquklDhmHeaBWycZ41p7-BBGq2ciJmkq0_aSBe5PtY80FpibzAkf4kCorK_czGr2EAFDv28CYyH6rLfFY81ctqUbw4edIPrvS-bjKpGxK7TWJpa1ruk-mHaR9m-MCLFYfVHGAMbZTgh-1Z9CerW_dcPv1t6ODoZwZz42UxhvTLjqqfdRIn1wlO5M8f0lqY5iO3kIYtCLIWsIDZNn40T_RZlMCGB0H0KOMazCcsnA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RA0MVrNhZ9P8kdxZ2cpszHsETNRQ0653mE5zipQGcfB-2-IgP7ga6BUHo5OzWwoDueWyYF_dT3jozX5O3eQwKGknqj13COuV63FnsE13A9-zVyINCzk49pPKebatK737WHUABSOYhaOoK0rDQpDtuCt8OCYb4rlLheUNlPr5mLrUUn0V2i9CWe0bU5h4HcoDorBHQcJQ4bvWb8MDowhrnkD27bZ7s4iBQa8TDltxvwLvqCj4XMqbBqOYPGfAA2gciXN570UCEVAmdKsQgR9P9Ftu-WcNRWpnFtTZAodwCMOE3Kl-yMDHX-Y2ChxxGfx-Z8wLmFDVnguZk_B7AygbFA.jpg"
+          "url": "https://cdn1.telesco.pe/file/MPNjUf2uq1jXuVBXmnPoFnFEOxnNtVruJeAQscP0gOH1ESLbJg7tONNQkTyC5SBVA_zxAyFop9UCqT_rcKEnz2v2zeu-UhiJPnKzkk8ssKBxdHSUarQ4UeS7NPAib9D0NIIslIxlr9H-ViRjm8ZYMMLGzcPP4fGbysRTfsLrwZ_OB_ji3RSSsf31tHZhJpdNn_LDKEVp8WDNTyhnCxMJh0T0ol89NMQoEcg5Sw9WodeNIJ4d-H13eL5qjYN5dq7tgJpwnkersk1dfLdDOrqmNCnoRl0aRaxGmXASOY1kUUxHhkEjybnKVfISTM4FO2mLfePGuTr8BgZpCN-DqogCqg.jpg"
         }
       ]
     },
@@ -136,7 +82,7 @@
       "date": "2026-09-22T21:37:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4130,
+      "views": 4370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +94,7 @@
       "date": "2026-09-22T21:39:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
+      "views": 4430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +102,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TpffxiE8BifD5u-O7ub3UQGybv57lUdpMu6C5iJ3PBcsq611LuvsVVgxSw5RJ32fIdK4MN__resGsvM3UsUxI6d-Z9Nn7SUkJZzAAFcc2lIWoV8ina1GMrwZoWyZ6Ifi8Ymbg57Qfd4hlWbQvZEAJeyuIbM9kxe1eD8TB8R1POxXwoGWOQ7hr9m5qGGf66GuORrCa9-LvGJBiI52_jrTXMihMn1UwLEOqjdlqxJiQR3k3p9cJ-OSXz2JSxzldy9s83Lypje17GB3n6lJfOAoZj6_NDs25QXMSyJdbnWSKImofkvRvVpVtoQvV_F1JUCQi8XDR1qay9BT7i2y0HxI-w.jpg"
+          "url": "https://cdn4.telesco.pe/file/GdK6ijd7jULlc47pF_JIJnuFv7aVjwGmeGVoVl51A9ll3V05PEDnP0rNWBbQl9NosR6XRMlgEQ_fhcV5sB3war2Aj63q3HQDZuauzc79qzbmyXpujEr6hU0nvVJt7qDhTD2q_GBgl9XpvulYWiLzCYerz2HPcrNlbgp8TErrB_bi8kZwjwoFjlVK_lQLdXnnzkrFiHs9FT_FQB5WAoykt_CnJNcJOOMIC0_Nc3XWD-0fH8sQn9NITFQ0VVILI0OaJ9gcy35ciQX7QXqlPsstwiToKy_-353Ww6wI2N-qYjhvWI0BQjGENj7SfxShUecxqd_3Gi2c45prRhRTjdVhIw.jpg"
         }
       ]
     },
@@ -166,7 +112,7 @@
       "date": "2026-09-23T14:52:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2940,
+      "views": 3460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +130,7 @@
       "date": "2026-09-23T14:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
+      "views": 3550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +142,7 @@
       "date": "2026-09-23T16:40:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2320,
+      "views": 3020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +154,7 @@
       "date": "2026-09-23T16:53:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 3030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +166,7 @@
       "date": "2026-09-23T18:00:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1590,
+      "views": 2630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +178,7 @@
       "date": "2026-09-23T18:56:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 958,
+      "views": 2340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +190,7 @@
       "date": "2026-09-23T19:02:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 834,
+      "views": 2340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -255,7 +201,65 @@
           "url": "https://cdn4.telesco.pe/file/HdbxOAAbvrGcteUvfqw3--DtX-WqJQf_0fHkMovl04noSp4NIZ9eEO4cpCMXkrogKirPjTxQca7btdiqFwI3iuMpZFOxQkg94EvOPr74nyEWnm4ASdTt0XTkZQwyvyoMZRZITZgqQ9V7WGd_-m03G0kiZcpMakWEqz52g98K0UO6PLUZi1GuDkGlAdiDDzlgZb8UlSuK9vLZg-t9u-qPxE8WPB2UFW6sX8Qu-M2sPzgJIQy_b-jUiHuWWkxPLP0f-cLXz3FcNhrO0tM199kqwAqDmqCGXFcPyhEhVN925lsjAYH29nvC7kx9i60vs4ztNl6x1qD7ZXwGZeMVjoERAQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "من مثل بقیه نیستم بیام الکی تعریف کنم \u003cbr/\u003eاپلود سرور اشغاله انشالله خودش فیکس میشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-23T20:06:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1920,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/kLS-ik1zgYxAWQpCiufKL_WCM6H34NBQbCLQLlKe13_sKb8_2Z6C1NAxBxkFz2AGUojm3sU66f32B0j3hBD3XqSWChyIxlghK2Hfh0NY92yzQ-GMZb01yqnqRmtMGBEaFad-CX-HK-yXDJL7E00wST6lzi2yXN3Tv8Jcd-OfzFnYIrHqmLvNXgZ7HMURfb4XJVLt3-YHZKdGwBR_u6Dsc4IJJY8rmlzPFJ6ohsMYLhrekzt5OpfLZR8zUlKAeUfnPGzV_716WjUGRHMbLWs4GsSeI1boJVuigZs3clhg1o62MU_MtJMf9KJFY8TwV5gi-3LVpsldGOUeDFwkgi6r8w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Y0DEpDbgxlmPtMsg8gCxUNUaIDR-sWDDUm3dilzXfouWYKk2sDvdsfK3KDynerRLU5NUvKcYDv4mJRlE1E5txjefJRRlh0aChJPiBN3OCeTeidPhcWjZtBEA0QBbgHeaXBlhsnt19oafG20YM-imRGg0pu1qYlqDSp5p7dI8bbAPU8ZLL9msQ_pOqeD9tEzNLh2Ej5Qk1URBiAcuoyDt72V_vwVg_Xl0WRWVZnvrJlkKMc2cggjO1hyhty9Lc3kT3Mwy1z2_XQ_kx1kVPwVTmXWlccLZE57kqd9to-XZ7t09St6-_8yOwyiBYcRWE2enGWYCMnY_d7TeZmDQUVVSGA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "اشتراک تست مجدد برای تمامی اکانت ها فعال شد\u003cbr/\u003e\u003cbr/\u003e \u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-23T22:14:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 650,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "فردا به لطف خدا سرور تست رو از سرور اصلی جدا میکنم تا بتونیم به صورت نامحدود تست بدیم و افت کیفیت برای کسایی که اشتراک خریدن پیش نیاد \u003cbr/\u003e\u003cbr/\u003eشبتون بخیر\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29DA4.png\u0026#39;)\"\u003e\u003cb\u003e❤️\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-09-23T22:22:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 542,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "تیراندازی در فرودگاه میامی",
+      "date": "2026-09-23T22:24:07Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1790192844
+  "last_updated": 1790203403
 }
