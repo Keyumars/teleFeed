@@ -8,78 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "پرتاب مداوم موشک‌های ایرانی به سمت تنگه هرمز",
-      "date": "2026-09-13T22:22:13Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/AyZTTcOWkXKj-Sh1BPegI-LmzWxbHZC0kT_uVcvUlyPTybjisYccpWTsbilqxd2pHy85s2qXcsKmJv_0GR9wNbSwINxZETCheNANc7NCbjaC2KOEwuj0-YXkQKpMGT-TAlH8jBGRtwwO8KK-2lNmsRgYWhpY043ERiUz0Ju1cWusYmFTJE3jxnWcK0MVRUUhav2cjroj3_kwkFHwdstImU7OpitP66ZTCQE9wDIchmLidHuCkbR7BrP05ffPv7RUcZ4fqR-0R3Li6gxp091b6cPO7XUC_WZByTxZaCfm7X0Raj7Bni451Fw84kVe0dYawWbPGoZ5PzIKsXcoVvtF5g",
-          "width": 256
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "SoulScreen Coming Soon\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eسول اسکرین هم استفاده شخصی هست و قرار نیست دیتا هاتونو بدزدم اپ کاملا اوپن سورس هست و من هیچ گرایشی به دیتا های شما ندارم نهایتا تا دو سه روز اینده ریلیز اپ منتشر میشه\u003c/blockquote\u003e",
-      "date": "2026-09-14T11:45:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IYD9xKxoQqrz3pRQ4ajtuX1P4_rBLWekQ1b-2H0V7_xfzUZghEkaTtOUMNxLJQpXdAoWIMuWnLQnADAm8Oj-ERXT9ZzoTVLjTVFK0fTbvdrSrnPkA-iOmQcHEjhsX3RFly82TLWR6HPb7qUDYAs_bSO2mUXoUGYL-QEq5rz8unUOadLFMSBuGX3dbcYfNzUZpUjnPpthPuwQwL5D0Ax1q2-MPPlAg9B0qvRq2zEzBzIByfLrRHEDF3le2OZS07zePxVFbzTHMRkZLPIeYTjZoN-Te4RwxHamWdqHsVGoKHCUf7sg9MgXgwoNFdtMaKbkF0qpzk34exWX836MMyTjyg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003cb\u003eنفت 109 دلار ، باب المندب هم بسته شد\u003c/b\u003e",
-      "date": "2026-09-14T17:33:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8750,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "مدال اشغال ترین و بی دقت ترین مدلی که توی 9Router استفاده کردم میرسه به مدل های جمنای گوگل",
-      "date": "2026-09-17T13:29:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z_b9pYA6sc2_bZYeyfRRL68JWzoFXkrnwtUnIUKuujCI7CZNh0sr7N7m6lBbV8JiZnU3pUCn6t91Fplj9ziZ0vPA2ztyMziDR3gCKdJ1iPtDOBgLt4JALYTNOflTVGpxRnFMMzDPcNxfHrWEf8l5Ndr7OhdZ7weEtbTIyXiDpAeWWH48HzAgbGNc3rSl-9DrwmL0O5-XGdtHqtNtyiedhFbPBpzb6W_iilwEBEG6grrxb6ad0ShVNcS3j46VdfqmHC6ugnqY_w3DSX4lceMip4s_htVU91JWrV09USjOvtzlmzZjF218Ors-NGjB6-lIbdnjo-3VAiXdXGgh4TXvoA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eسورس کد پروژه\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://github.com/mrsoulcommunity/SoulScreen/releases/tag/v1.3.0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eلینک دانلود مستقیم\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eراهنمای نصب و استفاده از SoulScreen:\u003cbr/\u003eنسخه 1.3.0 رو دانلود و اکسترکت کنید\u003cbr/\u003eسپس SoulScreen.exe رو اجرا کنید، اگه فایروال ویندوز پیام داد روی شبکه‌ای که آیفونتون بهش وصله اجازه بدید.\u003cbr/\u003eحالا روی آیفون از Control Center گزینه‌ی Screen Mirroring رو بزنید و پی‌سیتون رو از لیست انتخاب کنید تا وصل بشه.\u003cbr/\u003e\u003cbr/\u003eیک سوالی که ممکنه بپرسید این بود که چرا باید آیفون و پی‌سی حتماً روی یه Wi-Fi باشن؟\u003cbr/\u003eچون SoulScreen از AirPlay استفاده می‌کنه که یه پروتکل توی همون شبکه‌ی محلیه، برای همین شبکه‌های Guest جواب نمی‌دن و باید هر دو دستگاه روی یه Wi-Fi باشن.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e",
       "date": "2026-09-18T14:27:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6450,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +42,7 @@
       "date": "2026-09-18T14:28:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6810,
+      "views": 7180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +54,7 @@
       "date": "2026-09-18T14:58:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7340,
+      "views": 7690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +66,7 @@
       "date": "2026-09-18T16:53:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7820,
+      "views": 8100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +74,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/OWtEvsGmFRsag2yzNDwrSJYTtHMxBS6MAk9nVEvZ6Ps5LYPhNcXk5_kyygLhzUp80n5zl7EsgprlDALwTyRfGf8Z_VAKNrTjr7qP2syyX4bGYKDdKGcWnzot7gHD6o64NNxPyUno9elhZzniGJS--r9RbGzDa9wh_hciPuBudrl9LuMMLeYopDetC2g16MQhz2LAWeTspB_Nx79pek6SnRs3__33MxxDlRvkgjJLG5aPQ9uLfKDmqI0cLnINV46SbgP9E4HeBvvN7ZIhVfyb0_yybPQ7ZXGHQ7bIZI6u3szbh5FYWjlnXye2zGbx--jQBB929HvM2VYuN3skN9MUiA.jpg"
+          "url": "https://cdn4.telesco.pe/file/d1P2CqF4OVLfmSXEPT--ArSMrGgKq8Ibn8qh804K2ReZV6UWIruNLNFu1Zu-WVK9HqCfzWM7qT54qsIxD7FPYKrGjcNOqSLebr0xkcfpzFWHsiFBNHc_mziHJKw3jEj4Q-vGMcjf2wb5cq58rkbSDfv5f86L7dPs5Bv-JP-PcFwKlXnL-XVHemBd4XEohiQ0JNRYV8JGSyrqmMXOWbG-AtHlx-YAoa4fT5drGA0x2McMaULGmsKS621QwDoaLrz7id384khxMrIN-SvRwTzzhlHYLytCq7SU5-E9eSGv2WdUYVjV_TvdbgxCzsLuZyKX3MQl8AQjx9gINEwmC1k0MA.jpg"
         }
       ]
     },
@@ -151,7 +84,7 @@
       "date": "2026-09-20T12:43:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5740,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +102,7 @@
       "date": "2026-09-22T11:03:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4390,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +114,7 @@
       "date": "2026-09-22T21:35:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3610,
+      "views": 4170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -203,7 +136,7 @@
       "date": "2026-09-22T21:37:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
+      "views": 4130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +148,7 @@
       "date": "2026-09-22T21:39:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
+      "views": 4200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +166,7 @@
       "date": "2026-09-23T14:52:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 2940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,16 +180,82 @@
     },
     {
       "id": 0,
-      "message": "و چیزی که قراره این سرویس رو با بقیه سرویس‌ها متفاوت کنه، پلن شخصی هست.\u003cbr/\u003e\u003cbr/\u003eبرای مثال، شما نیاز به IP استاتیک و تمیز بودن IP دارین و همچنین نمی‌خواین محدودیت کاربر و حجم داشته باشه؛ ما براتون سرور شخصی از لوکیشن دلخواهتون تهیه می‌کنیم و با ساب‌دامین شخصی، هر جوری که شما راحت هستید، تانل می‌زنیم.\u003cbr/\u003e\u003cbr/\u003eشما نیاز به تانل سرور چین دارید، ما براتون فراهم می‌کنیم.\u003cbr/\u003eشما نیاز به تانل سرور آفریقا دارید، ما براتون فراهم می‌کنیم.",
+      "message": "و چیزی که قراره این سرویس رو با بقیه سرویس‌ها متفاوت کنه، پلن شخصی هست.\u003cbr/\u003e\u003cbr/\u003eبرای مثال، شما نیاز به IP استاتیک و تمیز بودن IP دارین و همچنین نمی‌خواین محدودیت کاربر و حجم داشته باشه؛ ما براتون سرور شخصی از لوکیشن دلخواهتون تهیه می‌کنیم و با ساب‌دامین شخصی، هر جوری که شما راحت هستید، تانل می‌زنیم.\u003cbr/\u003e\u003cbr/\u003eشما نیاز به تانل سرور چین دارید، ما براتون فراهم می‌کنیم.\u003cbr/\u003eشما نیاز به تانل سرور آفریقا دارید، ما براتون فراهم می‌کنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
       "date": "2026-09-23T14:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1160,
+      "views": 2960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "ممنون بابت همکاری تمامی عزیزان که  در این تست شرکت کردین و فهمیدم ظرفیت پنل کلا 19 نفره کلا 10 تا ظرفیت باز میکنیم که کیفیت افت نکنه",
+      "date": "2026-09-23T16:40:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eممنونم از همه کسایی که توی این تست شرکت کردن و وقت گذاشتن. با تست‌هایی که انجام دادیم، تونستیم یه دید نسبتاً خوبی از ظرفیت پنل و عملکرد سرویس به دست بیاریم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eفعلاً تصمیم گرفتیم سرویس رو به‌صورت آزمایشی برای یک ماه و نیم باز کنیم تا ببینیم توی استفاده واقعی چه شرایطی پیش میاد و عملکردش چطوره.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eاگه هر مشکلی، باگ یا ایرادی دیدین، حتماً داخل پشتیبانی بهمون اطلاع بدین. مخصوصاً اگه باگ جدی و قابل‌توجهی گزارش کنید که بتونیم برطرفش کنیم، یک اشتراک نامحدود تک‌کاربری یک‌ماهه هم به‌عنوان اشانتیون از طرف ما دریافت می‌کنید.\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-23T16:53:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "۵۰۰تا تست شارژ شد\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-23T18:00:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "قابلیت رفرال به \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبات\u003c/a\u003e اضافه شد.\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5409380072291316349\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A6.png\u0026#39;)\"\u003e\u003cb\u003e📦\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هر \u003cb\u003e۴\u003c/b\u003e دعوت: یک اشتراک \u003cb\u003e۱۰ گیگ / ۷ روز\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5927241068197187139\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E299BE.png\u0026#39;)\"\u003e\u003cb\u003e♾\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هر \u003cb\u003e۲۰\u003c/b\u003e دعوت: یک اشتراک \u003cb\u003eنامحدود ۳۰ روزه\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-23T18:56:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 958,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "سرویس ویژه به بات اضافه شد برای افرادی که کاری که میکنن نیاز به  ایپی فوق تمیز استاتیک و شخصی دارن\u003cbr/\u003eبه صورت دستی توسط خود مستر سول سرور شخصی براشون خریداری میشه تانل زده میشه و طی 12 الا 72 ساعت اشتراکشون فعال میشه \u003cbr/\u003e\u003cbr/\u003eاین نوع اشتراک ها هیچ محدودیت کاربری و حجمی ندارن یک پنل یک ایپی یک ساب دامین برای یک اشتراک\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-23T19:02:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 834,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HdbxOAAbvrGcteUvfqw3--DtX-WqJQf_0fHkMovl04noSp4NIZ9eEO4cpCMXkrogKirPjTxQca7btdiqFwI3iuMpZFOxQkg94EvOPr74nyEWnm4ASdTt0XTkZQwyvyoMZRZITZgqQ9V7WGd_-m03G0kiZcpMakWEqz52g98K0UO6PLUZi1GuDkGlAdiDDzlgZb8UlSuK9vLZg-t9u-qPxE8WPB2UFW6sX8Qu-M2sPzgJIQy_b-jUiHuWWkxPLP0f-cLXz3FcNhrO0tM199kqwAqDmqCGXFcPyhEhVN925lsjAYH29nvC7kx9i60vs4ztNl6x1qD7ZXwGZeMVjoERAQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790180366
+  "last_updated": 1790192844
 }
