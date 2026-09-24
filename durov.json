@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/TYDgH7j6pJDyJ8V5ipGXywWR_shlih1G3t5zuiahI8e0W0czGDJCDLfsH2CH-dl22Sk0Jvfwvcj-TmnG6m2s8aWI4vhSrc64lj6Jsqtk9DIlSd1hG-miJhsaEBz7YhgfcxO_JAYEaURt6IB30pRCyNNqNsrzOXI7DWAAk_T86MX6PQf-F9CpoCxGH9nxfZ8K3kzX2CYX_BTwTz2Gx3CjbkXmGPlIlHbcD3W4TueB6IU-z5_9isrDETXIo2GgHAJ6SgT4zErh1kunF9vBxm6ORfwIsuwIoXJlx0ZYFtfCF67UG4-Z253PIOL2IwbrkRmKBKP6A0k0Pdc3gmwtQMlNBw.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/iIlbECtNkluY4zSc7IuHtIakaShxYhauSyQHIwXA_MYgfXaaInxPJy4FkPcTBKk-nJ3tvpDTKyTg4HYgdqcrMl8mIxzGKWJzFQHoeGTYFv8LRvHsPqrhyyDqaBacXQ-P44KeOuJPJP9hzQ5PZWlTboh6MiCZGORu5kILvkU9SYZVJ2TZtAKcke94EPjBkGaVzxkbZ5qEl_Om-SdxW9F4VXMz4ThrPCR-axKOOJ6KFeAG9qkNDPFCmGrGQuWDjNmjuKB02uGGQl_c4E26U_jPBpAXVcRX-QV8s0_19giwK5dLOFdstdcq899MgsOT0DjnRHqN4oQOxgAbm0OH10F4ig.jpg"
   },
   "posts": [
     {
@@ -286,5 +286,5 @@
       "sender_name": "Pavel Durov"
     }
   ],
-  "last_updated": 1790270927
+  "last_updated": 1790282508
 }
