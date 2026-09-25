@@ -8,41 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "هزینه هم از ۲۵دلار به ازای یک میلیون توکن پایین تر اومده و شده ۲۰دلار به ازای هر یک ملیون توکن",
-      "date": "2026-09-22T21:37:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "فردا شاهد ریلیز شدن یه مدل چینی با شرکت نامعلوم خواهیم بود",
-      "date": "2026-09-22T21:39:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4870,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QfY0nstLqhPznKuBe9ZMHNGcxzVp7ACIGO5qX8z8yJNEOMi4pL9VgGn20xMhf5JriFTmf1dxfGAj4RuP3X_6AG47s2xW5HI_B7hfnqJsZNtl03sOkbOYSn1uIwdhMh7idx72Xk1IqS_Av_IieJDcQXY-pkAVS17-Dwx4-jlVmQqwla60K15VTfrduHmCzEF42tISDu60pSLPgOBmN6hh5CUzM7fOas_4SyVNKzppN1C3vhkv52UkwGhFcNoqTpvg3ABvEh7pGdxSfg5jrbnxzZnsS05fHhyvD2DMzfYuOIMP4jK6eqfOUN0yYVlye-iy8rPkI1I51bBST3vc_oeNfw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "SoulTunnel Coming soon…\u003cbr/\u003e\u003cbr/\u003eیکی دو ماه اول تستی هست و نهایتا ۱۰تا اشتراک باز کنیم کیفیت و پایداری و امنیت سرور ها مهم ترین ملاک برای ما هست و به هیچ وجه قرارنیست اورسل کنیم",
       "date": "2026-09-23T14:52:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4440,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +30,7 @@
       "date": "2026-09-23T14:59:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4640,
+      "views": 4720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +42,7 @@
       "date": "2026-09-23T16:40:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4170,
+      "views": 4250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +54,7 @@
       "date": "2026-09-23T16:53:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4290,
+      "views": 4370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +66,7 @@
       "date": "2026-09-23T18:00:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 4230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +78,7 @@
       "date": "2026-09-23T18:56:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4030,
+      "views": 4140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +90,7 @@
       "date": "2026-09-23T19:02:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4240,
+      "views": 4380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +108,7 @@
       "date": "2026-09-23T20:06:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4350,
+      "views": 4470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +130,7 @@
       "date": "2026-09-23T22:14:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4200,
+      "views": 4370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +142,7 @@
       "date": "2026-09-23T22:22:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4300,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +154,7 @@
       "date": "2026-09-23T22:24:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4310,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +166,7 @@
       "date": "2026-09-23T23:39:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4230,
+      "views": 4430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +185,7 @@
       "date": "2026-09-24T10:59:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3750,
+      "views": 4040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -223,7 +193,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/obuKZJ03C-lGnErZGxyt8qQIQ8WpRRhmO2Fb21BPipHatPxGaKwDKljeGrU9jroXmV4OBz5w6mqKbSpATSKWg2tIS0LQP3M4AWgA0nhvpY7lu5KRECL08HhW64b8zUc3sZS31I7XmWrh_TXHP13EaEOEYk4Er4hg6J47wiUSxkeavzOdbyZfhkTxsN4Hg2okZADo18PkuC_UrxA5mZA_BuUvpr8yK5z3kw0XfK5EGqM9ydkYtPlAG1EVeDuHxSD42P1QGtf0zvRG1bDnxFBT6Ac8bs5CYK5cM7QdXJOyIC-dKyjNul3Krsq-E42_9X1XJzojY94yWgHy9r7bIeliaA.jpg"
+          "url": "https://cdn4.telesco.pe/file/o4NC4gEoYE5cM2ua89CV5SRC9k6ZSZUKPGAiUGiAd1XRQ6jteEwRxxaJPrg5ODKVpPlIFztqsDVo63Sp7y6f1DqC6oIZpbPWOVmKbjGzLZ2ZCPQfSJGoq0v7zzMUZXJUljx17FChzvM5JCVCUcHQOor8KiEnzn5KwiO9Fg94DtkGXRhN_7Wqyed0N-ZF0_Zo00F35CtRFegqxtJ0_aqy7F7vM0WEtnpSH52a8ndOPsApQsPGrY1qBzPa8mUEgdTVJl-6f3kNrdWDmQ5bt1ZPjvfQcvz6DtPOgNPTJfBUieaOKAMe5Oce21kaxZ0Qsnx69CwiTHxo8kTR3vY4IRS_Fg.jpg"
         }
       ]
     },
@@ -233,7 +203,7 @@
       "date": "2026-09-24T17:47:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3290,
+      "views": 3740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +215,7 @@
       "date": "2026-09-24T17:49:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3170,
+      "views": 3630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,7 +227,7 @@
       "date": "2026-09-24T17:49:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3180,
+      "views": 3640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -269,12 +239,48 @@
       "date": "2026-09-24T22:17:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2310,
+      "views": 3100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eپس از انجام مجموعه‌ای از بک‌تست‌ها و ارزیابی‌های فنی، \u003cb\u003eپایداری سرورها به‌صورت کامل تأیید شد\u003c/b\u003e. همچنین تمامی IPها تثبیت شده و به‌صورت \u003cb\u003eاختصاصی\u003c/b\u003e تهیه شده‌اند تا زیرساخت از نظر پایداری، کیفیت اتصال و عملکرد، به‌صورت ویژه برای سرویس‌های حساس از جمله \u003cb\u003eهوش مصنوعی و ترید\u003c/b\u003e بهینه‌سازی شود.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدر بخش امنیت نیز تنظیمات و ساختار تونل‌ها به‌طور کامل بازبینی و تقویت شده و سطح امنیت زیرساخت به بالاترین سطح ممکن در معماری فعلی ارتقا یافته است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدر مرحله نهایی، تمامی سرویس‌ها و پلتفرم‌های مورد استفاده به‌صورت عملیاتی بررسی و تست شدند و در حال حاضر بدون مشکل در دسترس هستند؛ از جمله \u003cb\u003eGemini و سایر سرویس‌های هوش مصنوعی، Binance و پلتفرم‌های معاملاتی و بروکرهای مختلف\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eدر حال حاضر زیرساخت از نظر \u003cb\u003eپایداری، امنیت، IPهای اختصاصی و سازگاری با سرویس‌های موردنظر\u003c/b\u003e آماده ارائه سرویس است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-25T12:03:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1560,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qZzeVNCNto6pccDkn8DMUURItEC8IeeM06CYu0O6vJDj3sHXYJxHBQExglFD40IsC-s0TddWoL5gSkef7AHHlSLOgMhAK2caeD39H9ZKwGcsqqbFcEtxarWerdK8_gbPTVQ6E3Xh6ifG7SHI7T2K7AldUoz6JVVGAhKwkza1ubiZV20m-GYA2HAeum1_6S-w9CtYwwyrqQQoH3Zi0RkK0Yih7yZH4fz7Mp3pFzwlUeUa2S5FIaGlci-Sy1F1W4UqL8GqKEdZZYA9JmDfxNViwWybuwM5g7IBgTIBCupaP38XI_Ngef7QI_J0cUlz_gf628RWFTZWkohCsgSatyfZxg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یه سرور گیمینگ اضافه میکنم نیست پشمای همه وی پی ان فروشا بریزه پینگ 54 ایپی ترکیه\u003cbr/\u003e\u003cbr/\u003e\u003ctg-spoiler\u003eامنیت نداره فقط پینگش خوبه\u003c/tg-spoiler\u003e",
+      "date": "2026-09-25T12:50:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ZQqi8SaBOvh4E_Nj8z0JqjCeX_6Qv49c_b7IbJQ_91JpC2zUQxAaWwIUu8kDZqSjF-Y9MJQL5iI-qioAEA16f9_OMRvKsO1JpIXCV15XfhgouOyiLrElNp73t-mvcKqtTiRfY45RQI7jL7KbXguWhAF1Ay2m0h7qjaouGAHjQs6R3kec_A-ZiwJBstuXCa9cX1MhZg5osMRGzgpVkcwCU6onlq3RoRG56rsUIUWblpxI7mIQhf4DDkeO11luP9IMoSiOompfMtUhiHAGdrijwIc0wm08911CZRYV_9CQSzvx4oDj1kDRMwOPx7r3ENx0oGNBDAKXTBCLRc167FLSYQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790327155
+  "last_updated": 1790347429
 }
