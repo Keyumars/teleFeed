@@ -8,65 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003cblockquote\u003e\u003ca href=\"?q=%23Fun\"\u003e#Fun\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e nill_studio_ai\u003cbr/\u003e\u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
-      "date": "2026-09-25T10:06:45Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Cqe0AqQlgYbWx1gNc86tl5PAK5gniFxtGm6QGqiCTXPSHDeLhAuj7r4ZQnoo9_JhSCI-LlP6ek0-JTuCm8qCFrke6HqSjEsHcCwUWAZN0r6VAAd66g07-rnBPHoWqMbw8o1gPzrXhu2IvsaYaEyeutD-cmDvk3yIMAjh276_h7mBEY_bwWY0wVhe9-4rHDxIW6ooMvbfDPa2YZCKjHz52WvkcE7P3-iiFZEhzClVTdnEVgOvBatDi0jOi1InWhQrpC5mqV2C9nnxOMwKFG4XgKCUjuDl-D2t9L59QBwFs88JqJx7kIrVx1GuKkWhCxGsvhainThAdFLdZNSrL1qsoQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Dw24humgMO_fcE-DBGtsUAr8erc3DkYNX8kO1Wp0tkI5uUzc-5YgUkSA7zIu7wAPxCbZmTsqeY3r1VvjgyA1fvv6X2jFKBtesnl6qaHCrVDHJptbo-N1vlNqPtHnhnhyciVNJXlB8n8UOp-2g5ML_IOeklXXQKiLfyr1piOOXhyEb_VaLykLYbonu7-rboVYxL5EQueKFZF-nwocSTr8z6kgKo1IRl4YegK4dAr2X7rGxjiv76se1VkPElo7f5Mf9pwR3ity04O2cbTNUSiqR1pjpP-HT-IG0NPUgrky6B_JSAOo-LVEOY8zntHVEuRbSxwzB0-mVtjGhxIY5G74Kg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WCgS-TjUlSpO17cqFsjGoFe6sQc08XK9y5LwUZ2vFUhONS5N7UuxLgnQZHPIraC6IXE_u0fy0Oyu7TjL8B8Bcx5OqiPZGwrAj1to3ekq82rhaRKH23bWWuewvVdsZOtQPtsX1dsMbI26JfVGzb_IoI5xAH9-QYWEnQ8Uo9CpuVmENHBFcCqkgnpn23O5cLfXuhbNllV_O28ZbYmnDVadmcu8u4a3NcvBrZln4Dg-171vW-vNuXGA06-haAq9KiHdHTPvYAfR2URTura8NxXoze9rPRRReslF5ekrVcLdoMWX5ZynSUpJkE6PgA5nYjNn3MHME7wO1MrK4N8YjlCVag.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MHeGxvhBS9jLYgQlj2xJGHdZrCko32Ld7oxWGqvRIkLJN1GnANj-0bj_3bG2zD9UotBeywqnhOn-jvWeduVnfCA6NAO-BKh7FVpZoPVHeXrpvFy0OiYrNJWoGsl320kGUjPENS8ZtuzAcH32UYsuMp9--cblpO8VQ7pYUIpCRWnHyEVxA1302PgUqJrVte-9stwUGLvLm6KIZRXKRRrfw9FkNNUOaXny3_jbEjgSF2s8B8cNsQxtGBh9eOw2ecp7uZ1JNR0Y2aFsk2NjQTI1ZNW53rucG6nQ7aePq1res7TIZdwnZtrUjQ2J2X8GhqVMFVpVJZjUV5xuhW0T-U8wcA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eMJEcVAXBNneOSvt5C-XlGlCJdaFXNrZPw61J0btAKnH6HWuqtzCYumOtpB-Ldf8gFbprNSNu3TyE-X5TxFgnyDvRad5WLFPSkZSnAgMaxnP55gbceNYkMZH48y2B6ghNTmq48RMFske55XNpPDP3WTIMJlFVpVc7jLWqsCMmla4CnULoNZuzO0V1TrMIfvXaJnKrWP1Khgmqt78aM1eKTKy-pB6lvEQR5FwFAQvhuOxFw2w6D4McOU0kdRBKhCdGwzk0BHdB7Ojdel3UC_TTWGVltZMXJO7-Sdgxu3bVtpBKTqJymELEuyPbF6K2O2-DxAn85mZBqm8VMaZyoqbKg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NaSacUXc4TuGO9TdfA4nCGcazMZnFyVgeE4FbUhbILu7B5L-woK6w1qs4r8_lkLt4CufuME7W3QijLjz0r9Y7_Eu7lRaj7QYrkzZLFBompeIWWlSJ8QB8O0kzQuyKwmcM_QLmYjyc22sNzcKlB8-r2YYlmfvih9jrj10s1D3zYuhOmBuxTB8d-dFHvGjsYiR8GlzRbpRSkstHp8bcsu09qhDdraDyWWY5Qu1MdAzFsMYtOb21husGMeDKxIRwT77JIgNpqenSnyJAIdXVqQw32jvOcDCrDegbQfCZpK_It9m1ubJzHfnMlR-eeVTKeR37A46Hq0dJwoq4sWknxVdsA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fjMaa8s1gO54oPMf9vBaoNxhuDwOmCsNtsLS046r8QDThquX29RBUxRElB5RQDlx9tsCTBmJgWD7PtaxsNfzbvUeOTp9AkA-QKnbDm7hBrIGDtiQCSOfFsYxaJeCXZt348T4B-Q-njHI5YDiPrOyVRTlxG6NAf-jctWeSCWVJGws0iv-maHCz2IQcBh5oHCp_nPx48ihgbmAEwo3jn33qy0NCv3jtUCqAAsxtEP2ACl0xONj05QoGQdrgCndomfKUJ1xHXEzLwme6JKPLVAKDg7zDOHH5gTP52TXHIadXXYwN32_w5VMY7DeKTMZEAn3Erh6AxBxyG4G_SLTydDIKQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b7rR4QI6EVBeJQPXm3K0RtfVBp1UFlHu76Ca_0UP0OxzPd2FudTXUwBybbI6t1d7XLZg7e5mk8gHrzx9PQhBmXXz6k_am6Q43G_3Xty-WkCzdcTV0r_XWt1uVqrx17XBirnZl2HPdgAqDuYyB5SXgtbwh2-H5FC5yOQvR2CZ_BuMxGUrPIeG2ffuNzx6yAGGFx9-UyhYMZPPS3qrBD85qrBsHGEtU4yGjjkLX2_gdRrzkp-e6EJUqOJEVdsOURsfite0rSLqVlv59oCef3o1uYaY0oDzrHYCh7ndGxPIEEddWSTjZV27iywa5olqrqO5JshIfn1RqK9q-lwpmYISpA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XMT_oZQ-Z2s3TpeBbJi889U6cQtEOTkwZ_lAbqlzSJAMazfXXKrnAr5O58g_q7BBqZN44GRIe4rD-KU9zA7Ov2PJpnPEsFjCSuYAfRshhnkygcU8BG_B04S5vE0uLyC670-Vbg3ezUpF1meGBeCPvHHgDM2E7iCLisiQDSDcLh_NN54H14oulTlRfOVNyIz0abJjhI34MGyM3bh_015Ll_-HgAU-3KBdhonb62TrYSQvQf2NE7fDNiUwkRgukW8SEg-QDxNVO4V8cRLIgCdZO4g8CXcvxTURKJXKQchEbxv-ty8rYKBEXRj4aaV3DEde7LvAi4ahzxLT4cDRDU9P4g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mQtYv6_dTCCf_v7avJTJrUHzk0cWg5O4gSIlccdWmRxVyLuTz_74DPLww25GWNOmQEygfdxDi_a3k7-vEU-1d66iE6gKNQzBnvy7B8wX7Wql24GEmKPbcaBt2o_wPzJeurjTT_c_4H29vSsJF-AxLMzN3YKUWpIvMsj2hzW27f02UEf4ruKd9TJT5-8oHndLsBCDp3EtJiQfvrhgRLrbThWfGOKp56Y6PeGnjN4QSvpYO-ozcS9oSekKZ2nlD-90u11pH_KAVhInigsTuCjfoPqg0nkc6HrKHTaWp0_9KeyRUnYTvH6ZGzSgnFwrE4VpYctaSlJjlPpinRNPNYuKSw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"6032933229734925420\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6B9.png\u0026#39;)\"\u003e\u003cb\u003e🦹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"6032765837679530733\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6B9.png\u0026#39;)\"\u003e\u003cb\u003e🦹\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یک سال پیش در چنین روزی اولین فصل از \u003cb\u003eMarvel Zombies\u003c/b\u003e از دیزنی پلاس منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5397782960512444700\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F938C.png\u0026#39;)\"\u003e\u003cb\u003e📌\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e فصل دوم این سریال در دست ساخت قرار دارد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"4927413647086453368\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/marveluniverse_bot?start=722298243\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eدانلود فصل اول\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23MarvelZombies\"\u003e#MarvelZombies\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
       "date": "2026-09-25T11:31:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4490,
+      "views": 4600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -74,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/nFFwOWxpgJ-nImyEvkXjTw1f57YsNok8KJYxzbSh1wW6PzfFWYCeDteKU1wGP9J46ImXg3jW7-X6RRNrfEruPFtoIvf3kMTTRRkhL4f-HaezUMAwIGgjN70x9oAsl2Qh6sTtR5U8ZqZ_w99yUHObonMUKqsixnTvmhzvCNNo2YatOiB3hGVwbXnUFGdRgg9atO33vlbXNXeACJfnrbZDCOSytxS9xobbPkaA_dH8G4Q87SA2KayYlGJQxfL-MsKkpWuMYPoKKNH8_pjp-Eaos2GaIEZGo-AcYUlXV8X-bq1z1sETulZGziUmj8Rr7liOtG3SbAsoq_Vq6hxGMwjlRQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/AHN8ugHIVlADV3WoQ_y48euP4rYEw6emBt6InltM_pprJMrLZl_ULRj7hX9UGDwLhUil2CatV3SbtvavZONUn2co0wsalNVYBMp0Pw7iP4W8hSs0EeBDO734DtR8cykFCQmHLyv7HwkruU34ykXotmveQVCs11Xi4SyMa3Tl7cosUeGmcQUXx2XlnC9EZWh01VYlSlOehXfO4e-TJoe3GvFCkmE80cim3JNweSRaLs_BNPhwfmRLcBA8UGHHWBZBxeP_r76c11fJ5iRhMbSQ1qsFttpVEvprNg7Bha82I6rPZpMhxWmiJc-zAWOMZdCob_lRdklSI0q1aKghuL2_IA.jpg"
         }
       ]
     },
@@ -84,7 +30,7 @@
       "date": "2026-09-25T15:00:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4340,
+      "views": 4450,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/v6rHbPaKJbIkxn76y-ha1awEBf28LnCQlwuqo8LB-brJi_grxcXAxK9M9NQvYOUy32ZnVbUNysNa350Z6I5V-Ipq7lEO96P4r1IKNL3zTmaqSNJ7A9VL1TxnHboTb9I2es69GwWDhL2xQBq7hfywVeCK1buDBvkK9takUTQotTHcnjXG9HS1fjb8iMUB3LhAjBqrc8n-xxoo9Pfwle9guibepOhYZcta15fULGQGNdTTc1KmGHlWjmxlV7MuL6o3Ce0_1bevOdriTFqOTK35qyie-czvTgaFJYuZ1JA9Wq-zNspCvUdaa9vhYffLeyEhx_dXXMruerPo3k-BD8J-IA.jpg"
+          "url": "https://cdn4.telesco.pe/file/NQs2SpiC0b1dr5tjL5WogF7jq6y1YEQcIxYE61R20m2nhyttNu2N5LeAahw1ot8dbelPGX8dzqILKmUavChMRmxhUVslRMIG_IT16gAxx_zMqmuvGaBrPu2-qzLJ52G7IqIXVB2FikjRv6Nv3NuvVtLtQ9pP1XYqemLjZHiyFa3wxSjY2BDsG-dQ-U7id9cXCKuduL1byQJyxUM4qxM0Ova1idbqyemPOTh-IF46tavgN5Brp9GSAhBbZhaIkLcgujcYKXeWyFJ0OjNssmwPn80qjvXzfp-vXQZK1jvYVsB8AO-nhn06NRVNOupAKzOpR2XEtSKIbYsbQeOFBBeegQ.jpg"
         }
       ]
     },
@@ -102,7 +48,7 @@
       "date": "2026-09-25T15:57:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
+      "views": 5040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/LNE-ntBLhzegR9nNGQhs6t9WShR1a9udAhVNCUzJ5Ls-twPdhSlUdDK3Dg6HO0gMA4F3Slq1QBRrCGLK_GYTZzMfy3Lyq25-CQunYBv_ZlCX4HBRHSq-wXh2LlsKDiCEiTsyF9yCRwbvvijrkUXJ56qxVtL2fH2GgyucUBYB4Q00-7cFfJro3JuYDBJe-BgJhOamyD1B9mcOejk5kC8KjVLZy1Dr_NwIkUXD375VCG6soBhjr2tNzNn_jqSlSmL6m9nOTV872f07hfYQYEoSHcmXmjXTE4r8cb-arWV_NoIsBqpcRimucECqQ4aSbf4-_ZY1JIwAN8IOcEorElsvXw.jpg"
+          "url": "https://cdn1.telesco.pe/file/qLZebqZDg4CbDU0RlxKRA2WPfPlIT2EfR7KN_YLACl128yKF5ILN0NEobqs-vgJujd3VoTbqGA6uaGEonmwb0ZZJShqT2fl4EmOEQWV16RSL0kn6McLyr2ko6WpLZ_SyZbDvgUcoDRTBa4YIXSq06O_pd7gMsBcg2s__LSVjbJJbMkpf053gHLmgWxBj1p39n59DiqYCeoK6C1kaUJaU85J8mQkNxQ-ltVu9Kc9aYat8Y69zxn--LwZs-RJTEVBLKpKEqlhoc_xyYLLCegcO-_AbdIA16krWpy15kzr2I9z8cHddv7wfnzYDrGWZTT3tvwH6L2oaGXH4MgjH2Crwsw.jpg"
         }
       ]
     },
@@ -120,7 +66,7 @@
       "date": "2026-09-25T17:25:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4860,
+      "views": 5010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +85,7 @@
       "date": "2026-09-26T12:46:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/szTJsZKMrsqDwJWyk4zjYHCxTqKjb6nxFc8EEfSlg0umRj5fijd549YfKgY46tvoQs6igR9MGTNji4e1SLG2_LAstAhh1sHdrxsoKNU3PSIkV_ph0hs3qDnz8LoI8aNcEZbokEepiU6Gd-HPKmWdvIYu0GyQ9tqNXPO_yq5dWB7NK1295JVClpwwpMD4T1ceEG0i-xYfyEMNCRbKnTIaoYTKzB8XsSv9ai9NZzPH9MpndbKHxb6ACiGc1ra6-TsPD2gYsjEBDqXgkSFuRTaxhKUjlJtbDT2qqcEY8-1XfP5ZbzDXiMHYUvVtHJM-xnw0F4inGriQ3hnGtMN43qRjog.jpg"
+          "url": "https://cdn4.telesco.pe/file/D3Lt9zuzrWrEkQJ62hM8QRefdcE4aawRGDr67i7nk05GNzWwCmgahyLKQopOlgqPzP1UqLZQK3pwsdCrgHTgZVYbCQ8VcPk-oGY6hjY6FHmaRZ1gwEBM1GnyP6eDWtWyPLnW1__r-M83po8m5EmoFnl_LCtlZZsvJF6DWypwNY1CdlXC1NlkJCKJ2f1JxScuCMWJGYBC4priPFuudo6cDJNtPVgYp1MfDVu8ogeM7DEx1IrxGsySaoBgrNzt6ggpdZykFBAZlS4XdAbNchtl9dRGZz_qFuiK8Ri5t1mHfM5EndiMn2ntOLU579uwojI3q-baflcSKcw52_Tis07z_Q.jpg"
         }
       ]
     },
@@ -157,7 +103,7 @@
       "date": "2026-09-26T16:43:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4360,
+      "views": 4590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +121,7 @@
       "date": "2026-09-26T21:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3910,
+      "views": 4210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -194,7 +140,7 @@
       "date": "2026-09-27T11:46:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3340,
+      "views": 3730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +148,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/p0LBZUTLvz8tBsOB-VH-2cDDlk8_g3Ul0CoChSmF_p3o1xOOG0_iN1Nd1dx6zXiERzxwaIrDwuu_5g5NwZq8OMnnzY2a2w1_QQtJlhRSVxZDkVaoIElvhYQYsW9gNWDBXgZquvvr9jW0yF5KvW-RLvnYO2RLYi04mERa0-wu8pR_6CIsSWXQCuvPTh3IYf-kGEeq_Tn38uCq8oGUJUzWngXqySMJ5bbhRxBXx6SeoobnE0HQiRh3tBFIxBM9BbussC7tsj2vGexhcHa1byf2iNVD-afkPVfbwxzEOFeYGkSuRxqbBwEnIBobyjjD25knt1tBtMz28iqteyZkziIyCw.jpg"
+          "url": "https://cdn4.telesco.pe/file/LpYdJ-CJxx8oaznP7A4Hs85iBsI6boDb8tnKIkk3Uy5zYnHvxUsG0Q-l-JKTxAF0BZtDdobX9LkjW9tmnQiKb-yz5P2FcSXwuSskFHgieTv6sJirgIr3nsDqoZCFlnZEDxPEYg8AKX0LS65DGLj-NFSw6ccwB1Xwhm2vEwIRmDnxckdN1to4r4X9tYjN8zVZoUoW1YTJgpFFg1vMcJLiHuyfPLx4adyBlO_EWv7OLF5DCNdnum5Ap2a596Y3dZyUL8MG_oG3wdj4RFUGuHIUHVWPjzW2w7vM1iJio1-15gHkPtWCopeTjOG-LBTYAxqTvTtOHkzrORB8k8Dc6EKLpA.jpg"
         }
       ]
     },
@@ -212,7 +158,7 @@
       "date": "2026-09-27T16:53:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2940,
+      "views": 3400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +176,7 @@
       "date": "2026-09-27T17:40:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2760,
+      "views": 3290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -248,7 +194,7 @@
       "date": "2026-09-27T17:50:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2620,
+      "views": 3260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,7 +212,7 @@
       "date": "2026-09-27T17:58:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2470,
+      "views": 3110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +224,7 @@
       "date": "2026-09-27T18:01:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2660,
+      "views": 3360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -296,7 +242,7 @@
       "date": "2026-09-27T18:14:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2840,
+      "views": 3700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +260,7 @@
       "date": "2026-09-27T18:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2490,
+      "views": 3410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -325,7 +271,61 @@
           "url": "https://cdn1.telesco.pe/file/VgcwERVKANsF6m-I7NUcnijbQPDwSNuGAGLyivrHBPcxawyBEHD1s883hMckC7YtFizQVhxBgR-bcYi9fE9r6_ztsVPNghU8VE5-PF39mmMHpvdfxbtT4V7vg9Q6-PGnkAz7QX6ghXUk6Jp7cbRtNQWVfvIChuyG0KKGK63bOmBFyro0BxJfkyC90npfnldsiY90xoDDIV0hjyuXyKGB2G75Y06a6piexx4R_WMJJsLCMqNREyUZnnPCNdJrVXacpM73U1zwqoAD--4VZ3yfxtZ_3JavNKpAcdFIceIWjD2Fzt_dppJc-P6iJMV93k2q5GclCGJtJc59o9k9mLfmfg.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5411225014148014586\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e کارگردان Blade درباره رویکرد مارول به فیلمسازان MCU صحبت کرد\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23Blade\"\u003e#Blade\u003c/a\u003e \u003ca href=\"?q=%23MCU\"\u003e#MCU\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبسام طارق\u003c/b\u003e، کارگردان سابق فیلم \u003cb\u003eBlade\u003c/b\u003e، درباره نحوه همکاری \u003cb\u003eمارول\u003c/b\u003e با فیلمسازانی که وظیفه کارگردانی پروژه‌های \u003cb\u003eMCU\u003c/b\u003e را بر عهده می‌گیرند، صحبت کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eطارق\u003c/b\u003e توضیح داد که مارول از همان ابتدا به فیلمسازان یادآوری می‌کند:\u003cbr/\u003e\u003cblockquote\u003e\u0026#34;آن‌ها خیلی محترمانه به شما می‌گویند... این یک فیلم مارول است که توسط یک شخص کارگردانی شده است.\u0026#34;\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e به گفته\u003cb\u003e طارق\u003c/b\u003e، مارول در روند تولید می‌تواند تغییراتی در فیلم ایجاد کند؛ از جمله \u003cb\u003eکراپ کردن قاب‌ها و تغییر برخی نماها\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841544122611012973\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eماهرشالا علی\u003c/b\u003e نیز در ادامه با اشاره به تجربه کار در پروژه‌های مارول گفت:\u003cbr/\u003e\u003cblockquote\u003e\u0026#34;ممکن است نام شما اهمیتی نداشته باشد.\u0026#34;\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5418206758365574104\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29E96.png\u0026#39;)\"\u003e\u003cb\u003e➖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5431499171045581032\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eخرید انواع اکانت‌های قانونی و اشتراکی و بازی‌های اشتراکی:\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5282843764451195532\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F96A5.png\u0026#39;)\"\u003e\u003cb\u003e🖥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/GZoneSupport\" target=\"_blank\"\u003e@GZoneSupport\u003c/a\u003e | \u003ctg-emoji emoji-id=\"5003669288188381629\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA1.png\u0026#39;)\"\u003e\u003cb\u003e🟡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/GenesisZone\" target=\"_blank\"\u003e@GenesisZone\u003c/a\u003e",
+      "date": "2026-09-28T08:52:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/fsvn1uoGN1GPI4TkOcCoRyaMoKaf1aTexk9HS2PP1zDemum1hdh-SrITj0cRPRCDBZd5ubGVaLiDr0uJLR-jRkie2u3IaHSnJgQvkmkU57v37iFWGh9BOZJ1VcLmF4ow58S-jl_R-0Lp7E3ssapRDgXTguCHjz8539lFeVZT6Qaljn8dUFmwrpxumSAlove_XwqKAEA8afcGKU4khxEnUEpP4Gc4l9lf_6JxiYF7swB9Nw7n1extjwq5if0QJwpP4H_NE18ui2j1idS9p3Hfhi2TC_6tGszb2IcQZSqqV1Mu9imQtRAXTybYc-XpPJQzV3lqCPb_85ba6MRW5PW50Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"4933826248007747554\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eقیام ارتش مردگان! راز مخفی حلقه سیاه و کابوس وحشتناک سپاه گرین لنترن | Blackest Night\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eتوی این ویدیو داستان تاریک‌ترین رویداد تاریخ دی‌سی یعنی \u003cb\u003eBlackest\u003c/b\u003e \u003cb\u003eNight\u003c/b\u003e و قیام ارتش مردگان نکرون علیه دنیای دی‌سی رو موشکافی کردیم. \u003ctg-emoji emoji-id=\"5210956306952758910\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9180.png\u0026#39;)\"\u003e\u003cb\u003e👀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cbr/\u003e\u003cbr/\u003e‏\u003ctg-emoji emoji-id=\"5372952487558912793\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FABA1.png\u0026#39;)\"\u003e\u003cb\u003e🫡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهرآنچه درباره رویداد شاهکار بلکست نایت و ارتش مردگان باید بدانید:\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841383014092772737\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e شروع تاریک‌ترین شب دی‌سی و قیام ارتش بلک لنترن‌ها\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5861628399004423212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e راز \u003cb\u003eویلیام هند\u003c/b\u003e (\u003cb\u003eBlack Hand\u003c/b\u003e) و شکنجه روانی قهرمانان\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841383014092772737\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e مکانیک مخوف حلقه‌های سیاه و سقوط \u003cb\u003eجاستیس لیگ\u003c/b\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5861628399004423212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کشف راز طیف احساسی و تقسیم حلقه‌های قدرت جدید\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841383014092772737\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ظهور \u003cb\u003eنکرون\u003c/b\u003e و افشای راز تاریک سقوط ابین سور\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5861628399004423212\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E28FBA.png\u0026#39;)\"\u003e\u003cb\u003e⏺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e راز پنهان منشأ حیات کیهان در زمین و تولد وایت لنترن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5841383014092772737\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آغاز رویداد \u003cb\u003eBrightest Day\u003c/b\u003e \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"6019089631016915133\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93BA.png\u0026#39;)\"\u003e\u003cb\u003e📺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eلینک تماشای ویدیو در یوتیوب:\u003c/b\u003e\u003cbr/\u003e\u003ca href=\"https://youtu.be/zMSQ3S6-ZTY\" target=\"_blank\" rel=\"noopener\"\u003ehttps://youtu.be/zMSQ3S6-ZTY\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5042112234784818424\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5041888600132683577\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5042221365608842443\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5042139636676166912\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5042283689879274775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e | \u003ca href=\"?q=%23%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C\"\u003e#ویدیو_اختصاصی\u003c/a\u003e",
+      "date": "2026-09-28T13:02:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Y4ILIonv9uP27BLv78yrim4-TCWjO3PIT4kFHJPv5wj6xMsY6SVjkPm0EGxR5Q2OXmGszhS4dMo-ZfuvKs9W9hBWuq993LVvfTamvxgNad85k5z_E3mDZZigjdU6veblfVyMdb0Va5nsCpqwFmuE5mC9OIJ_4MFYGnFtYv9iclFJRwkHQyZPxJhChJAVF-sE-Axk_9wkh12NoLi3EKWFUA1J5GkroAVyXXyqRBMof0fJ7VIoyaiyZcO0ZD_xDAp6uY_kE6NrnZPI1ofJtvl6ASpuRp9zIH0EvSY641UmNIrdTMU5cDS8qeU1U4oHqjZ8_10qcoXusICWEVZzwU2X0w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "‏\u003ctg-emoji emoji-id=\"5186038852321543285\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تصویری از\u003cb\u003e مارک روفالو\u003c/b\u003e در پشت صحنه فیلم \u003cb\u003eAvengers: Doomsday\u003c/b\u003e منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ca href=\"?q=%23Avengers\"\u003e#Avengers\u003c/a\u003e \u003ca href=\"?q=%23Doomsday\"\u003e#Doomsday\u003c/a\u003e\u003c/blockquote\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5877598758153228264\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5884219922686413795\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5891230868386614127\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C8A.png\u0026#39;)\"\u003e\u003cb\u003e✊\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5881745566257384670\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5156896142008517446\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/MarvelVerse\" target=\"_blank\"\u003e@MarvelVerse\u003c/a\u003e",
+      "date": "2026-09-28T14:01:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Marvel Verse | مارول ورس | Spider-Man Brand New Day | DoomsDay | مرد عنکبوتی | SpiderMan",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/OBcR-gq5N99YPOHLf72MGoJN3lVddmojF73YjAzuQQDP1J-uRKAyXcTe1dgGcLHiVrScYzOxPaO41xJdOpaPVCN53DG8vxpQnlueOo5hG2aMDAqHklmoUurZNJYJBFlua3DVtnA8Kk3PJbnSN82K3oSsMPbMfRBg8X0YPFbmPD1bvq0dX2x0yR636Ulr75VrQmKM97GY9SVQWJU8bihe0oS3x1HrGcVtFINI5J4-iQLjI5ZvDKhC3OGGRqxQ2e8-cIdf2x0akzDeYkaQt_iXm6UhYTW_uYHhZ7HnU6aC05OJ9Fpr7Mnwi4rumaJp_sos7MolNcVs_MBtoR12EJX4NA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790580074
+  "last_updated": 1790610481
 }
