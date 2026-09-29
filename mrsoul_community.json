@@ -3,40 +3,16 @@
     "id": 0,
     "title": "Mr Soul",
     "username": "mrsoul_community",
-    "photo_url": "https://cdn4.telesco.pe/file/DdES5JtvGFp7UqzpK1MR8QObbxPpJVmLUkIS6Hj6zu32BXk8aksg674tZoZpMFZ0ZMzAIU9LaG5o3x7TiobAY0jccz87dgxoYKVBtfUvOhSZUu2WyeBPBQAJadkEQ9EovszAfdGwirmk__D20qBKK2lSy4JQpbg3ttzJTcrdZfLfUClFSbV2Or90JDKhUsES04IvuutItPaRNws7ger2aR-lxOtKk_G_wBk_1DaMi8RrI-HdHIQDp2GybecdmckRCsI4dmum1uM5XmblGRL8Y725huzyqyTXMNt-et5LQL5jqgsAx1qObR6mugvhgL01UN5IvPSVK016ZBRxqHYLEQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/uSRdTqxdaAT9t1uLbzp8tI5cYtMTLXzAym2hoT11Cc18jJth_tNE2X93eDoYXOadRPviptEz5EdJ-ehPxLcAToObw-hJ8-UnmwRg951Ao9vatnMTGc0_beWi44dyw92J13Gslfg4UgiWASS5NPnyR-I6BHPWjsEKEtJ0yQlsT_g-Ogm707BGgjbOm3C4FRYqkjmESL1sEFoUFVbwHddontdJ1DDtrYDHEXQGSNgkgfoP9WHJ_gSSpq44etiqhgct133hspxRA4JwlUu3RVuy_eJbYWbF-gZIxBDHSgzYXQ0Pi8m0MaDVSWIU0dhKw6QYBDiU3A9Klu3QLBH91bGHQw.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5395695537687123235\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e دو تا موشک از ارومیه لانچ شد.\u003c/b\u003e",
-      "date": "2026-09-24T17:47:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "اطلاعات سپاه پاسداران انقلاب اسلامی:\u003cbr/\u003e\u003cbr/\u003eمقاومت و شجاعت مردم ایران و استفاده هوشمندانه از شرایط جغرافیایی، از یک سو الگوهای جنگی پرهزینه و کم‌بازده ارتش آمریکا را به بن‌بست کشانده است؛ از سوی دیگر، تخلیه و غیرفعال‌سازی پایگاه‌های فرماندهی مرکزی آمریکا (سنتکام)، انتقال نیروها به اردن به عنوان «عمق امن»، متحمل شدن خسارات، بازپس‌گیری تجهیزات اطلاعاتی و نظامی به نقاط دورتر، و انتقال به مکان‌های پنهان و زیرزمینی، همگی باعث شده‌اند تا مردم آمریکا هزینه‌های سنگینی برای حفظ حضور محدود و بی‌فایده آمریکا در محیطی اطراف ایران که هیچ تهدیدی ندارد، بپردازند.",
-      "date": "2026-09-24T17:49:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6160,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
     {
       "id": 0,
       "message": "در حال حاضر، دو انفجار در تنگه هرمز رخ داده است.",
       "date": "2026-09-24T17:49:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5990,
+      "views": 6060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-09-24T22:17:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6750,
+      "views": 6900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +36,7 @@
       "date": "2026-09-27T09:25:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5000,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +48,7 @@
       "date": "2026-09-27T09:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5060,
+      "views": 5150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-09-27T09:32:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 5180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +68,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/mZWak5usuPXgtKt-UA3aRjnzftHsW6A7eECGtlYCdCSBVv1O_WA8ascVljAfqMFYR956EeY6nS6bDQ6PuOxI3PDB6VOkgQJccKvOQCps10Axj4k9xEYO_MkZ2Ea4HHzp2Yimb24SfN1c99i8dFD37QiYBbM3G_gyU7Dkj05_PhKaERWZGA_anA3NOfbkqrKrd0H7CErxiciXjp7zMLT3eyIw0TtaOO2wbAZq5-bkYXWkqQI_otsccHYANvN07tNsf58FmgdgWTZ612ZF5REjyTfYfg4UQrB6TeGPk6vlaHGqcjNt-ygNd0EFMy9NZFeOWSjEJiVjfZFNyCzsZnua_g",
+          "url": "https://cdn4.telesco.pe/file/LiKCbstN5T_yGZLXL9wrMs5_TspeMI0xKcHqibtb9romlerea_JgpRZHxl9kHblBj38b6exwsG3UFLaMXse-uZvR1c-ML4wQmvsx3b_ATW-D97CDTt7wRSv3Zg2VJxOhhu-AV38Awl5v045F84hwVwtnYV1WY-ax2h6AfRrG8aa5GBiUlBHXpCK5Sc73IvOKiunMPFhF0f0jOApzaMqQShoitEcpkfa4g9TQ8dxtO7Nrx-4ajssQfM1e4zRjMbVHPirmuqsd1XjSIXHoLtZSWEDHLr3fL-oFP01DeKAPhh-p0iEy_K1DxIz7sAdr7YZerTm0TEQ_6eIserZIgdMVJg",
           "width": 1920
         }
       ]
@@ -103,7 +79,7 @@
       "date": "2026-09-27T09:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5220,
+      "views": 5320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +87,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XgMJMUq1Yqmny_MDxlP-wyCCfmM6z0faMJeAGtTMr-OK1tYy5a4SM-truQ1G0R75YbWOOZrl4t87f9f2NbmmtTGz2CU1kBXrh-2u6pdu3MR5Ij5xD9PHBe9ibYqTVRE9HpKPEV7NWBMXzvpcMWxK6pSMfoNzeI1qwtXW08bIWdRojTt_-9FNAeqnAi5e-rIg3K_6mQ6ooeNNNnz-ui5UkuQw8hSCx7iRZgzFyf7xLUy4VkGPOlKIKMgR6FDSzGPyYY9ZY0V11-WiQC6TYzbG_Uh0cshDIYYFDBIJcoCJ5Tu0CrYYC2zoVO_huU4NRGjiyZz3Q5r66bi8IUaHV9NcgA.jpg"
+          "url": "https://cdn4.telesco.pe/file/jjpODcPCK_mMMeCAbJrFJyg7BwNNUlK-LC04txBF0vU6RwfwiNyh-C8AYSnxhw6Rfv39eJhST_d5GLKhX329DtOD-V5FlnCDsHmsIL-HyI1-z8wdF6DcjfVRGXOEiGVJ94X90hgn8AIU3vWTg3TRldnui2IA6OwBI-Px2CUO9qRh4aDiXL0HY8tZnr4C_UVJppFPnl8-F0zK_5o7VKEZbB3WOfSPrjE7-n5sUaELS6Jnj9GrJVU619a36pK5I5-t_61Wd996-d7Ga7fJ4iw3EVsuGqU0LkS2l-TwangnrXzSoxjfetvM04tMboumiUSi-hqOCz63EUcdCxJ86WtbnA.jpg"
         }
       ]
     },
@@ -121,7 +97,7 @@
       "date": "2026-09-27T17:00:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4830,
+      "views": 4950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +109,7 @@
       "date": "2026-09-27T19:24:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4710,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +121,7 @@
       "date": "2026-09-27T22:03:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4330,
+      "views": 4510,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +133,7 @@
       "date": "2026-09-27T22:12:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4230,
+      "views": 4410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +145,7 @@
       "date": "2026-09-28T14:47:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3260,
+      "views": 3650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,7 +167,7 @@
       "date": "2026-09-28T15:06:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3140,
+      "views": 3550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +185,7 @@
       "date": "2026-09-28T15:10:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3080,
+      "views": 3480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +197,7 @@
       "date": "2026-09-28T15:21:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 3460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +209,7 @@
       "date": "2026-09-28T19:04:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2510,
+      "views": 3190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,12 +221,36 @@
       "date": "2026-09-28T20:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
+      "views": 2940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003cs\u003eسرور HighLoad (\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e 4 آلمان)  تا دقایق دیگر برای تمامی اشتراک ها فعال خواهد شد.\u003c/s\u003e\u003cbr/\u003e\u003cbr/\u003eسرور HighLoad (\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A9F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇩🇪\u003c/b\u003e\u003c/i\u003e 4 آلمان) برای تمامی اشتراک ها فعال شد.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-29T08:43:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "ایده بیزنس:\u003cbr/\u003eیه سایت بزن و یه ارز الکی بیار به اسم \u0026#34;طلای دیجیتال\u0026#34;\u003cbr/\u003eقیمتش رو با طلا بالا پایین کن، خالی فروشی کن، و از کارمزدا پول در بیار\u003cbr/\u003eهروقت هم سودت کم شد یا قیمت زیاد نوسان داشت، برداشت رو ببند و با تاخیر برداشتا رو تایید کن و خودت سود کن این وسط\u003cbr/\u003eبعدش از سودت برای تبلیغات توی کل شهر استفاده کن و دوباره پول در بیار\u003cbr/\u003eسرمایه‌ات که رفت بالا و بالاتر و مردم اعتماد کردن، یهو پول رو بردار و دفترات رو هم جمع کن و فرار کن، همه چیز رو هم بنداز گردن بانک مرکزی و فرار کن د برو که رفتیم",
+      "date": "2026-09-29T13:44:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 739,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
     }
   ],
-  "last_updated": 1790666856
+  "last_updated": 1790691395
 }
