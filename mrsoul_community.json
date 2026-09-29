@@ -8,47 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "در حال حاضر، دو انفجار در تنگه هرمز رخ داده است.",
-      "date": "2026-09-24T17:49:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "برای اونایی که می‌پرسن چرا سرعت سرویس خیلی بالا نیست، باید یه نکته رو شفاف بگم:\u003cbr/\u003e\u003cbr/\u003eتخصص و تمرکز ما صرفاً روی بیشترین سرعت یا پایین‌ترین پینگ نیست. اولویت اصلی سول تانل، \u003cb\u003eامنیت، پایداری، ثابت بودن IP و نگهداری درست زیرساخت\u003c/b\u003eه.\u003cbr/\u003e\u003cbr/\u003eکل بخش‌های پشتیبانی، تأمین و نگهداری سرورها رو خودم به‌تنهایی انجام میدم و سعی کردم به‌جای اینکه فقط روی عدد سرعت تمرکز کنم، زیرساختی بسازم که در استفاده طولانی‌مدت پایدار و قابل اعتماد باشه.\u003cbr/\u003e\u003cbr/\u003eاگه صرفاً دنبال سرعت نامحدود هستین، سرویس‌های رایگان هم وجود دارن و بعضی‌هاشون سرعت قابل قبولی ارائه میدن. ولی چیزی که ما روش تمرکز کردیم، بحث امنیت و پایداریه.\u003cbr/\u003e\u003cbr/\u003eبه جرئت می‌تونم بگم یکی از بالاترین سطوح امنیتی‌ای که تونستم برای این سرویس فراهم کنم رو پیاده‌سازی کردم و واقعاً به مسیری که طی کردم افتخار می‌کنم.\u003cbr/\u003e\u003cbr/\u003eتنهایی و در کمتر از ۲۴ ساعت، بات رو راه‌اندازی کردم، ۳ تا سرور رو کانفیگ کردم، استور رو به پروکسی متصل کردم و یک شبکه همانند Tor هم راه‌اندازی کردم.\u003cbr/\u003e\u003cbr/\u003eدر نهایت، وقتی سول تانل رو خریداری می‌کنین، صرفاً یک اشتراک اینترنت نمی‌خرین؛ \u003cb\u003eدارین بابت امنیت، پایداری و زیرساختی که پشت این سرویس ساخته شده هزینه می‌کنین.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eو این دقیقاً چیزیه که سول تانل رو از خیلی از سرویس‌های معمولی جدا می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
-      "date": "2026-09-24T22:17:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
-      "message": "در حد چند دقیقه اینترنت ملی شد متوجه شدید؟ \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
-      "date": "2026-09-27T09:25:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul"
-    },
-    {
-      "id": 0,
       "message": "اپدیت فایروال انتی دیداس لایه 7 مرکزی بوده جای نگرانی نیست",
       "date": "2026-09-27T09:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 5230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +24,7 @@
       "date": "2026-09-27T09:32:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5180,
+      "views": 5300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +43,7 @@
       "date": "2026-09-27T09:35:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 5410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,7 +61,7 @@
       "date": "2026-09-27T17:00:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 5100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +73,7 @@
       "date": "2026-09-27T19:24:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4710,
+      "views": 4910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +85,7 @@
       "date": "2026-09-27T22:03:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4510,
+      "views": 4740,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +97,7 @@
       "date": "2026-09-27T22:12:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4410,
+      "views": 4620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +109,7 @@
       "date": "2026-09-28T14:47:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 4019,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,11 +117,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FOFEdxNu0-GEfGQZbKmY-HkuAzxgusaYE6X0DYT7uVRtTXYM7OdBVYD9m-hXcTFrQKtU7d5BfRlg918g2biscSu_piT_uTgEXhJT6JuTwaxkoz7HxE2XZTdoaS2ANYu6le4RvOFbCk98b2ETBe_4_w5qc4nPsPj3u5Om8JkTedU-W78WPxAs-cxEbEe5bMueC1QSG5InuPD3xKwauGB9QpvOf2PIG_V3t905ZW077RyNS2eCP6PTcRxiMIsBfibTCAOLl21cgsVYW760RFAjZ6QVb5eL1nxDFEXiNOZI3sh4GMyYthfb3R37HGQmM7-qsY1Q2zX9OyhZIDqc4av9zQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/GWdGt5x-2d8mKcYgYfUVeXvp1h91FVKn9ugFbLxHHMVawVC4ylD5cbZYHNsTSpo1F9ZSKq6dVWAytVg4uvR9p6q0AloSS56JLtgs7TdlmnP5GK04UxHTVHDAb3X225L9cZ1ua6bppBp6RTUxuQw3wOwDj3Xth0rvCUOgNCy5VBytkPi-X7C2aaPGsPXE9bTgMiDVinbtISeYnvY2UCpOApPaSrxkbsPeyoOK1NuErszijrfBfcxVGZ-9aAE1-riqjmzb73e-6GbLmbhjwF0KM0eRQo0piSmqbOZnhfHyT8KsPHPBFWZIpbj2DoW5zRawB-o2sE0Bd3C7InTaCgT0yg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZTv34XQ3VmuoUUhayV4f6dCHCmKTpJ9N_6YkzpHN3lQo1ayNTeZYwm4ohbrvwspoVh2SYxrrbqLlePaCeWEcnfPKKm-zw_lmUjc-t1vrFxGjEGkEzrED_tKeWdtiEEEJyxwyckA8pkXvNRSZqH7GDfFe6QkaMORRUAt1HnXr3MnhCTOqu7-lnv7ueHo4stOB-v7BaLEmNrubIhy6xReKdZO2mMPMzQ2SKBGluNuFGs1vl_sGhVthIstaBJIhnsMa6G7wDfaYRBWCjNb3vVi_tMyARHi_z6UJ5QdN6S-b6Su3TV_AMgXmmcP1nutg-W9w0t_ZqqZQCZfsEjz52TPXow.jpg"
+          "url": "https://cdn4.telesco.pe/file/jXKlrnnS-4kcDp29oKHIJSMhTvbP9sgwWfF_HYq8e8wfpv4bp8apXHWfA_VFsUdysNm-qsR2yMtjcm8cMvFXAIatO2KKFex3eleKSs7AJQDAHFR30jKqbzdB-ez-chaanG23i_3VY8HjxLTdGC0lWq_k2kkv01WMIVJrEMx3HGHTNdvTaqS-NNkh-zCqQhKEmJa2aLvtjeCPK2AFjK600VbhW_xtFYCG6GuxiUQJ04kwgT3Jzs8cTa3G-V7uEKLp2VnAI0fwkfWIDWkQTYk1fS41kzV5gJNNljf5A9M494sjwVQ9CWEqGHDPKEK_dFDquyfd5JQxS74iFk8oXyzYLQ.jpg"
         }
       ]
     },
@@ -167,7 +131,7 @@
       "date": "2026-09-28T15:06:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3550,
+      "views": 3900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +139,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Cjnr_E-dJckPbC4GbGtSCEgUskf5EmBFeAUv2_Vxsw1ujQ6EBDHSx6xK0P4B1zNEjpcRjjmDlMunUzSaSyulcQR9TU5KNW7VKk0NhsByHbEwpG8JsFGxkE4qjcsNZkjQVdCjtLuKaRSFfMGMI6ZUJ26_c1Xvd0TRmQf-EDO2Z_oHrqq_fuRZLjBHqs6lX_ee3TCswoNyMdJBSsZ414nSAfzgDwC2A8LVXz05mW8u3zHhRyATEEWKoni9VvrM-6C7MP6IGaN7rlu43bfbzOxHwp_1er7yhGdt3P8fB00EmiSFGbp3U4p316bEWAJJWVjfUEOy9g9dBkzEhJxm-jB3UA.jpg"
+          "url": "https://cdn4.telesco.pe/file/mb2s0_UDoKYYL2iGkJo_JoqTTbd8rkEhtPaxStL6jttiWlEimaKTqFWiGIMaxvjzfTJ00lkzmgmHfOiKA9I41LGOsKjel2XKDdYp2nNbrcamqsOg9Lkctn61b2ZP0kR4w8BETU2WacdcLjUAWIoyX10kcaFgVgznWttB_OGHWQI0M4j7aEzta2UnPnRF6UAczmm6fHUGxEsKXmLowpk1mPdXomK-eas93vMMDALnEcTK6EQBm19Zwa2TShPIZcysjrPVAF03ngGg-bomxULgJQf3H3TR6vJweaPNkl3Qdy2bYcotyxvWUqTirazPC6CUKGVLhirz0hbeD-3KomzURQ.jpg"
         }
       ]
     },
@@ -185,7 +149,7 @@
       "date": "2026-09-28T15:10:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3480,
+      "views": 3820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +161,7 @@
       "date": "2026-09-28T15:21:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3460,
+      "views": 3860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +173,7 @@
       "date": "2026-09-28T19:04:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +185,7 @@
       "date": "2026-09-28T20:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2940,
+      "views": 3650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,7 +197,7 @@
       "date": "2026-09-29T08:43:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1800,
+      "views": 3010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,12 +209,30 @@
       "date": "2026-09-29T13:44:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739,
+      "views": 2660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "خیلی‌ها می‌پرسن چرا سرور گیمینگ نداریم یا چرا سرور گیمینگ داخل اشتراک‌ها نیست.\u003cbr/\u003e\u003cbr/\u003eدلیلش ساده‌ست: \u003cb\u003eسرور گیمینگ برای پینگ پایین باید به‌صورت مستقیم به کاربر متصل بشه و نمی‌تونه مثل سرویس‌های ما پشت CDN کلادفلر قرار بگیره.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاتصال مستقیم ممکنه پینگ خوبی بده، اما پایداری و امنیتش به شرایط شبکه و سرور وابسته‌ست. برای پایداری بیشتر هم معمولاً باید از سرور داخل ایران استفاده بشه که از نظر امنیتی برای مدل کاری ما انتخاب مناسبی نیست.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eمدل سرویس‌های ما بر پایه Tunnel و امنیت حداکثریه\u003c/b\u003e؛ بنابراین ترجیح می‌دیم کیفیت، امنیت و پایداری سرویس رو فدای چند میلی‌ثانیه پینگ کمتر نکنیم.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-09-29T16:17:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WAQymWT7od8u_Ty8go2SANjVRJjw38YvM-b5b6d-A9762NZoPEagKH-agWjq9FW1oKKqGKua6FXP8T5_9kZA_4ZXHgZT41a5dDDGBLvleU0sFqEJyklWU2aF754yji3J2EDZjhN2weLNbnbxqBYZuNg7OOsjNubLaQeKDOAtE4V_Srq-LHC-9NZRP4pasguO_2hToIeaorNX59Cy-sFKIOfi7W2d-oMUF3NHC8jT-wW-euR5k7Ww-xOjDPVPojU94FcUaaw5p-6N0duapU_dk173NXP9lpLXi6cv4ZMp1uL_Dw_IUHScveqaMU0RbS4trubeMjP1i1pITwxlo2yPiw.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790691395
+  "last_updated": 1790710563
 }
