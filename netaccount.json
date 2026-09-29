@@ -32,7 +32,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZpWKDnb9qAPAbCEFRKBcfd9p6ZZuz2IhIsVcPLBQ1llZFU8mfIF_3jAQt6PI5gUfdrZMJ6TXqFP-KgLYm1J6p0ZqkYNGOQRabBBGtWISYnmh9GBlCF5cbOQqjvMFXN_EqMsbJZgcjEu-hgriCU_uxhRAypzoOfez9DGxQ6OeYaGAZSNPNvES9v-QQnG8cDUQzVaXIAKi2kuehf4NexraVGEk0m2-Gg2_76LGgqdY5xeLBvk5vcERClYsoA_YXya-1YSJCJjyWMfsdPGA5baMo8eR1V3MEegV6QUXuc0SkBqiiTUtqzZ3BgKI19YaxlJzkaF9Lb0cS9DNx-uJgMhphQ",
+          "url": "https://cdn4.telesco.pe/file/lpj4iM-qQ5HpUlUDbvWbpvuJLPF79dq6jg-UdAtgsnd_m7A9mDH67SzMApd96jYc5IqQ4bQhwgutr1ovBl7M4rq-LqrTv_JSeTVIKY6UEbxm2r1dky-ByYk6bVgu2AHUkyDA70vo-cEtPWimZNnQIW_3hHV_q4nIo41UenexXqYC6YJI5-uQqbUrahwX4rhVu4kifyMj7M_2Vi-upBlpWDVNMij7IitgQlCcH2A112klPSPduZXkOSOuVYi319OunM1xUzWgFTazu2WI-wC4NLDhVijXHbFsKvykRgWX1pjR5O2pnJU76WMJ9ZrTeGdR6xKWv6jRZ7M8DrqRvNNKxA",
           "width": 480
         }
       ]
@@ -55,7 +55,7 @@
       "date": "2026-08-25T18:32:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 47200,
+      "views": 47300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +133,7 @@
       "date": "2026-08-26T18:04:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55000,
+      "views": 55100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "date": "2026-08-26T21:15:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59800,
+      "views": 59900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +157,7 @@
       "date": "2026-08-30T22:58:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 55900,
+      "views": 56100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +175,7 @@
       "date": "2026-08-30T23:00:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 68500,
+      "views": 68600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,12 +193,12 @@
       "date": "2026-09-23T19:40:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25200,
+      "views": 25400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Net Account | نت اكانت"
     }
   ],
-  "last_updated": 1790645354
+  "last_updated": 1790666748
 }
