@@ -8,51 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA48C.png\u0026#39;)\"\u003e\u003cb\u003e🤌\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-28T14:47:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PFgtygffiaVUwI-Dz35fXia_RDGasxkuu0PB6AgnWfQ2qOh2IaoRMWk6IsHQI9NFk9kA3zC9hzYVdq80lSQp2QKnfLllT6HQxJAVOWl3YQ-46cSP0AbQf1j_FOLwSBaicfAYp-h2X0xlEFmvFyPnc_NDil--E5lZLHVVuA5se0FLlXCQKGM58oXFq9gfCW1prLZGlgotnMkHiWhmnI5NMDZHFZXG2V8DvMly7AGQ02rkLSfZufspc6ElzK5GWuyn-3ZKdy4Sa3Zyn4BqYe9ZIe7iW5HkgvdPW8Jg36nFysqNwqfwz4drcnZrdRSShQb7jKdGE6Kk1Il8X4ZCzg7mkA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ubRhZU7y_yd4Dp3gijhf8oqrTylgC-Cd5pekZz7td5Hc399jUDGwRrA2x-6WQAyj4wExZL1C-0lvZ5G36_DPsvt8gJ46ugqkNv5dHwT5FngUqzDjmZMdQNguNZ9X817P3m3UAhMB402C4AS_LHUlB1M09dvuFcVC25FLDQl_nN8ZUp834_c_MWlEzJCJvOoKnpP8Zi9M1D0zUx86KoHYlpcrHZ76HKMa_D0nMhoFMQ6MIpDH7rCp0ELm5jiKQHfINvaWdZyMc3grDd2wOBYKEWQZdGNt-3yGqrCCpEUFa57mNOFZnY5MVT2ATXERikyzfLxElK9hoJvaIIY5YvX-yg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "احساس میکنم قراره به پنل تجاوز بشه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9982.png\u0026#39;)\"\u003e\u003cb\u003e🙂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-28T15:06:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Mr Soul",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sM507V-SMXkyn_rkLBglB5byHClfw6UDu1whinTgRlU1aH_CvHh_3YtLCbIhXZn4twyWhlFwb1bFDPQ_VtZAmSNeLecxM9HlPd1dDDz67X2O7IZXtDUVbXno2DhvAlqAIy8pwktslcin73_IRx8Fl3dPKHqa3msGonQHuFk-Cp0uCLQjCaodnEdXYPvlr6UJmnoK2wS2iPNditX8lgyO_JrK9ZZ4xTAyMeJRitl6rHFe-k_kka6BDUnR5lW20fVRdbsMYwjGR6a8kqsMOdqws28dQeS9oMKqG0pCnRuRwXvZy55rp56b8G8LDXW0OEC97t3kf0MSPGywWp6q9YlosQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "بریم سرور اضافه کنیم",
       "date": "2026-09-28T15:10:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -64,7 +24,7 @@
       "date": "2026-09-28T15:21:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4560,
+      "views": 4600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -76,7 +36,7 @@
       "date": "2026-09-28T19:04:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4860,
+      "views": 4920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +48,7 @@
       "date": "2026-09-28T20:23:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4820,
+      "views": 4900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +60,7 @@
       "date": "2026-09-29T08:43:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4630,
+      "views": 4680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +72,7 @@
       "date": "2026-09-29T13:44:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4610,
+      "views": 4700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -124,7 +84,7 @@
       "date": "2026-09-29T16:17:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4660,
+      "views": 4750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +102,7 @@
       "date": "2026-09-29T21:47:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4440,
+      "views": 4540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +114,7 @@
       "date": "2026-09-30T09:27:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3700,
+      "views": 3840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +126,7 @@
       "date": "2026-09-30T10:03:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3650,
+      "views": 3800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +138,7 @@
       "date": "2026-09-30T10:11:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3620,
+      "views": 3790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,7 +150,7 @@
       "date": "2026-09-30T10:41:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3500,
+      "views": 3670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,12 +162,38 @@
       "date": "2026-09-30T11:20:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3390,
+      "views": 3610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "Mr Soul"
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5348306023889254367\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پنل نمایندگی به ربات اضافه شد!\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5188678912883827293\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA496.png\u0026#39;)\"\u003e\u003cb\u003e🤖\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eکنترل کامل از طریق ربات تلگرام؛ بدون پنل یا سایت جدا\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5224692870790797620\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e برای هر مشتری‌تون ساب اختصاصی ساخته میشه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5287372146039861774\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29B94.png\u0026#39;)\"\u003e\u003cb\u003e⛔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هیچ‌گونه تبلیغی توی ساب‌ها نیست\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348503265967355284\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B0.png\u0026#39;)\"\u003e\u003cb\u003e💰\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e قیمت هر اعتبار: فقط ۱ دلار (معادل تومانی به نرخ روز)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5258011929993026890\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F91A4.png\u0026#39;)\"\u003e\u003cb\u003e👤\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هر اعتبار = یک کاربر (یک دستگاه) با حجم نامحدود برای ۳۰ روز\u003cbr/\u003e مشتری چند دستگاهی؟ هر دستگاه یک اعتبار (تا ۱۰ دستگاه روی یک لینک)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5312361253610475399\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e حداقل خرید: ۱۰ اعتبار\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5463297803235113601\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e امکانات پنل:\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ساخت کاربر با اسم دلخواه در چند ثانیه\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تعیین سقف حجم و تعداد دستگاه برای هر کاربر\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تحویل لینک با یک لمس: کپی، کیوآرکد یا «ارسال برای مشتری» با اسم فروشگاه خودتون\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تمدید با اعتبار، بدون عوض شدن لینک مشتری\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e توقف موقت کاربر، و لینک جدید اگه لینک لو رفت\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دیدن مصرف هر کاربر + یادداشت کنارش (شماره، قیمت فروش و...)\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e جستجو و فیلتر کاربرها و تاریخچهٔ اعتبار\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یادآوری خودکار کاربرهایی که نزدیک انقضا هستن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5314659335991739070\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e کاربری که هنوز مصرف نداشته رو حذف کنید، اعتبارش کامل برمی‌گرده\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445353829304387411\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92B3.png\u0026#39;)\"\u003e\u003cb\u003e💳\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پرداخت: کیف پول، کارت‌به‌کارت، کریپتو و استارز تلگرام\u003cbr/\u003e\u003cbr/\u003e شروع:\u003cbr/\u003eربات \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\"\u003e@SoulTunnelbot\u003c/a\u003e ← \u003ctg-emoji emoji-id=\"5870991681112772430\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9B92.png\u0026#39;)\"\u003e\u003cb\u003e🛒\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003eخرید سرویس ← \u003ctg-emoji emoji-id=\"5348306023889254367\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e نمایندگی\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5839117436024001991\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"http://t.me/mrsoul_community\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eMrsoul\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5895452700979499096\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://github.com/mrsoulcommunity\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eGitHub\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5866266486942733691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9490.png\u0026#39;)\"\u003e\u003cb\u003e🔐\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  \u003ca href=\"https://t.me/SoulTunnelbot\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eSoulTunnel\u003c/a\u003e",
+      "date": "2026-10-01T19:30:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1310,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Mr Soul",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vAWUi9rBkp_FJuOWRWC1--Poz2uPbPtKyNVAt9Yz4-TQEEwI8KOzjPDYA_cE53meKBY5O4ZoLjePluieeg4soI21qqy2QdINAkgbfi2fqb1PYR5bvyBr15kFR2veutgRnv6wANQzYZV5QA04SnwI9WYAuojk4KY7_EQt0pyVa-1ayaZo_gkOrWdJlRs6beaeGNaVlnFyrWizR7ZZPz7pgX6oxcVK_cokLvbFN4FMGZSc3aXr6_Suwgx4oSGbPwfxQe1wo87R0vO3HlVXRe2Ra-ezpVw9G832B1QsNg1tdHoimlXd7s4g2WUu1OawuLDEiiu_s34J2xZBSIiOBoUaDA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/FWFgGS9uye2SzskwnGFUA3WpM3634gtSNf8BGwRLAY9p11XbRhq20hOXC7c6K0CARlgELL2IjKO2KUXcZuS_CwMgwVZgKLL0630auqB1vkleJTlvOrha7xllurArBpkaUbIGgNmAConFrbxe66G0lPvGWifrpG2fGt0bMxWmq40bGc7bE8EqNjpprqd_dn3hcGfUyzmRWzz5Y9MV6b3reLC8mxWVGJF_85qjL7KrR4pkrIDzvlg9GX6hm7xRz2Qfkj_8H1t3bvIkc_dhV8mABjv5Hsu5z3KLUbThMer49Sp0uObYiBR4dqJ2EiiUBClqbyNxoGgd4kKgl0mCvDOF-g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/oS2YjixALWAfSz2Dt1avHbYxC9geJV1wTMvpS2pXh6A22PMhrg2z-s7yhvJnWzwXdzHnchcP8J86-3NLKrR1qtmFwXJtFvCiLIoSclV7ieYGkje03XhqiDpvnd_7ANFN4ulGwuCr6eMVKmf_PlBAQ4ln4zvikADWVBQofWLCUBymxNpDefVeFBYYThQryDZLzvA0Qvz5QZOqw3wnfPXUdmF4GblgA5UyuJ56WVfPxz_bofM09wMBrx8n5VLEVO4mRx6PFHpOkgnTcJHD8ALdNOC6eXbyRIt7a5etz811i6R2H57et5qWHy5Nw1pWM8xqDMeDMEP5HHLFQkY4Pz8JfA.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1790882341
+  "last_updated": 1790896980
 }
