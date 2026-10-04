@@ -8,53 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "گللل اول چک به اسپانیا",
-      "date": "2026-10-03T20:13:54Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "چِک چَک اول رو زد : \u003ca href=\"https://t.me/+yQ-g-1PoFLowMmNk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eWATCH\u003c/a\u003e",
-      "date": "2026-10-03T20:15:43Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News"
-    },
-    {
-      "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5902229540897299727\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e رافینیا این فصل 19 تاثیر مستقیم روی گل \u003cbr/\u003e\u003ctg-emoji emoji-id=\"5900151962137010645\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇪🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5972334097341620100\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e یامال این فصل 19 تاثیر مستقیم روی گل \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
-      "date": "2026-10-03T20:20:21Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "⚽ Sport Bad News",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Xq1A01q0mnVAS0eCT5Pzp76Bv9Ad7EwykJXS9ZcAILhiI3rPwzzavDhpKmzjaYdaAw4XE_9pRxPnxD7wtAF9OGQ9F4CVP636LO68zkGkdbiD5Dxs6EdcyJkxttwv5NRw7uTWNewHgKIMkK9x43245CmpTYJtV1vaGpKjpsHCaodKJynbv4lvtmAL2lqlpGJGbwLa7gCx6kNImbdc3nm5v-CC_8ZEIqm1chLQxJtyjqzS1tz_h6UaZTanC_v8p0zIu2ryZfIcjDuV-DJg5yE_Z6FJz9_VhZi60ryLjy9_UDO1od812cl7s3HelRHdBbrb-rSqQ926sztKBN5umIXPBw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5969647784276533459\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسپید با اکیتیکه یه شرط بسته بوده که باخت و بعدش پروفایل خودشو عکس اکیتیکه گذاشت؛ اکیتیکه هم اومده اینو استوری کرده \u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
       "date": "2026-10-03T20:32:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 39600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +30,7 @@
       "date": "2026-10-03T20:33:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +42,7 @@
       "date": "2026-10-03T20:35:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 38400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +54,7 @@
       "date": "2026-10-03T20:38:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31600,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +73,7 @@
       "date": "2026-10-03T20:39:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -133,7 +91,7 @@
       "date": "2026-10-03T20:40:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 40800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +109,7 @@
       "date": "2026-10-03T20:43:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33600,
+      "views": 40500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +127,7 @@
       "date": "2026-10-03T20:45:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 39700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +139,7 @@
       "date": "2026-10-03T20:46:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32600,
+      "views": 39300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +151,7 @@
       "date": "2026-10-03T20:51:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 38100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +169,7 @@
       "date": "2026-10-03T20:58:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27500,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +187,7 @@
       "date": "2026-10-03T21:00:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -247,7 +205,7 @@
       "date": "2026-10-03T21:07:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 33400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +223,7 @@
       "date": "2026-10-03T21:11:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +241,7 @@
       "date": "2026-10-03T21:19:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19400,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +260,7 @@
       "date": "2026-10-03T21:23:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17300,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +279,7 @@
       "date": "2026-10-03T21:36:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +290,63 @@
           "url": "https://cdn4.telesco.pe/file/sMggqTdpcTZS662xMZ4L_NFeGbq3rio67aohxtbIoVLuEURB9Dj6G77b69wSwDkZYS5ZlCdqR0XaNQSo4hcsALQgI3sFErVZWBkivlJWTTDiMh6Dej7NjGluBrqfy-M62s70c4g2WYCTH5Pz-65_C76jFNyH2BsSoyuTJbniXPhAs2EyPo2YvEGbZ8nJFWB1ybzEEzdaahdn1bLVzSba3PIh3w1O1dAj_z1aOmEh-BVKxsHHEHZKQzfrTqJtj09MbJq75aZBDcGUepu9a3tJWqfXrbvihPDucdMTAEjg4caByxq4sPsIeMtKPbOOQutdEirmkunj0s-KK5Ns9FQ0Ww.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5821281398916389297\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F918F.png\u0026#39;)\"\u003e\u003cb\u003e👏\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eیک بار شارژ کن ، دوبار شارژشو‌ این طرح اختصاصی ریتزوبت برای کاربرای فارسی زبان خودش رو از دست نده \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5764718573708647883\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003eاولین پلتفرم جهانی و اسپانسر لیگ هلند محیط امن و حرفه ای برای عاشقان شرط بندی فوتبال \u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5897848502456685775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e واریز آنی با کریپتو\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5897848502456685775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تسویه‌حساب سریع و مطمئن\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5897848502456685775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e دسترسی آسان و بدون دردسر\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5897848502456685775\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e محیط حرفه‌ای برای شرط‌بندی و کازینو\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445284980978621387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eهمین حالا ثبت‌نام کن و تجربه‌ای متفاوت از شرط‌بندی آنلاین رو شروع کن.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5406809207947142040\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B2.png\u0026#39;)\"\u003e\u003cb\u003e📲\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/Ritzobet_ir/3306\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eاپلیکیشن موبایل برای اندروید\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C90.png\u0026#39;)\"\u003e\u003cb\u003e🌐\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://RitzoBet.com/\" target=\"_blank\" rel=\"noopener\"\u003ehttps://RitzoBet.com\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپشتیبان فارسی سایت ریتزوبت \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F85B0.png\u0026#39;)\"\u003e\u003cb\u003e🅰\u003c/b\u003e\u003c/i\u003e11\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5900217365898990777\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ca href=\"https://t.me/RitzoBetsupports\" target=\"_blank\"\u003e@RitzoBetsupports\u003c/a\u003e",
+      "date": "2026-10-03T22:36:39Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/PlE0dsGym3LOaiOqCPFbXvjhuVDEqlkPwVrJw3L_NIa9c_HfUHLRMlB0v0P_K7DQeBveYN6zzVuWpKCfHY412ngOcqK5s-791vMt1GaIR7yPwDv0O7iRg1tazndEfg7QBwmzdAzQxjNPb8JSlPRjhpBFOtixOEQdeBvTk6fqOD4QIH-GyXWyx7-3DRKFrS81GXUu4PuinrL1Mh_SSDkZtCgOC2FxlOyQP0Rax4zHqM78jrJGLpmPr7hWWJBlzlfTtsk8m15xK0qBwq9QpuLKyY5ZIK26SacAdum4UvgaZcGox-37WeblwVPAnGldx8iwRTZGzUMmyd7UKtBpSupt1Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "ترکیدم این چیه\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-10-03T22:36:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MtzOnPGs8I3lYgtwBysypuQNgM-KSvrwwGExofQv4OoQLE1rtMAZVKpYbtgop9zKUYPIOTKtBytNLDFNgTVczZURFPxq52HJAgSrBNAyFrBps6agLFas_FMOI_DzMGGbM-QhgN1yDRozvjt7b6nHDHJ1rH3jgmTNN9mx5j7q8-8Qsb4atdJ24KEGeDM66hDPFW1CPjOitRzVWb0MRwb2hI52sW3YNvr3Gl5xj1nG3XuqwmKDyqUZaDskseg4M2vn0hTkVI_-xZSdV8JLSgezu3sE_wrCaAzIFGphk2SIL74wF2LXazvWdMwt6sCCtbYatrSZyxr0QqeRVUeASBMi5A",
+          "width": 1276
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "هایلایت وینی مقابل هند \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9890.png\u0026#39;)\"\u003e\u003cb\u003e😐\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/SportBadNews\" target=\"_blank\"\u003e@SportBadNews\u003c/a\u003e",
+      "date": "2026-10-03T23:20:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "⚽ Sport Bad News",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/X6EvypdTsC5EUcW7xt9cF7-ZUKrELhcs07-QXVUejSe8ff6yNyLwHj54YTU5ggSFo8prRg2Wq13AfnxDXW0S2zq22CzNZNvfqh7cwfLsLJ_rVcXAOI1_1FSY8h6C0XbpKXcbxf_LbAh1yNO59TJ7HGlqm06bzX_kFHNWD-mv9zEwRCvDKrOHTXx9KzW9ri_NAFt9DYIfdYuVyezNcnMikpYobSnMCQXzjLHBCtc8B7pdMKD8u3na2uQIuEycrSy-zJS01gZCn3jdu0NV7cXUBCCk0tGxK_1zwbBvvqJXQ3Pi6ro77cfrJH8hw3Q0KxtTp4Dv_UIOTaz8R71B14mryw",
+          "width": 640
+        }
+      ]
     }
   ],
-  "last_updated": 1791064811
+  "last_updated": 1791073736
 }
