@@ -8,94 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eتو بلژیک\u003ctg-emoji emoji-id=\"5411564862025244994\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87A7F09F87AA.png\u0026#39;)\"\u003e\u003cb\u003e🇧🇪\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هم بعد از فرانسه\u003ctg-emoji emoji-id=\"5202132623060640759\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87ABF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇫🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e، اعتراضات مردمی به راه افتاد :\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eمردم بلژیک به کاهش بودجه آموزش، افزایش هزینه‌های تحصیل و اصلاحات پیشنهادی بودجه اعتراض دارن.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eجالب اینجاست که مثل فرانسه هم دانش‌آموز و دانشجوها نقش پررنگی تو اعتراضات دارن.\u003cbr/\u003e\u003c/blockquote\u003e﻿\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-10-09T17:46:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 185000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/rh4pwj48h_qv-uNZhDEmAzC5OFuuEYWWM083wPT6GGAsfhEjPT7tYKJ-hniTJX1XCtDejeZOzY7sTL-VHIqMYFO6eTF3cvUaUjdQ33qQsQ4UMao8ubIp1N9PSwsdt3iK_0rMP4iHROcNbJcTKdna0U0IDAlijBrU02JVrHsWL9ef8i7BS7yWNYIz4WIiRAfZcVpqOF-h5J1zsoUkEVhONjpooMeL8r-m0apnakkdpnAoB8dFUF4xa-ykqyIDzq2VfaTFqq9GAlXmAhx3yeOkcAoWCssrz4spDHd-lW6RuFwfqbnG30SXT74GgygGyk4Rj3uuHUa3A4CSpNrFnVG45A"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/DJ7NUf6XCEWGrMl7lx4HRO9WMFQag_OqmMjCnUzdFxuiKO15jmetX_-HpVI-P_bs1VYVWqXqQdo1TUMRUe3P3Ssz7fFYuN-40XbrhZBPWlrtJgHtJZei1w-GS4Vezh0ys4WldklfKYyvgMblbP4PXRevdkoscu3lvtdbAOwiCtTYJaGqv-kZhozSRRk707qpLi0GKyY_MtQfL67Ct_hsN-HEklTfbZk8dNpeRZjwELucQPCrHYb4laFkwa98Pf-SBESB35u8vWQ4LqBLC96YsmGpmQwzteUvNGisXtrGkU9tZeo7dUqgA4xfBSyY7BKChjz1VTSOQeR356vg-G_b8w"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MoXqcpn2hUOVtIrvYdLJt248l2s5itTNij71FoQ_uQo9NjxMiHRv02QS1JFTdgE_uNppp1pxuvQ1qPV2mA6ySD2k-vwAVTqvAbxIw3J6oX_N9VK-zBVRIcvDiL0BHHHxu57MuPooEC7AX8Zkg4qQaLW76CcIphHU2cEsui4dDGlU06_SGgMx2HiwkpJmnH7bmAWP8Smq_Yj0w56HrIqjR3jPl3Sk9dxTU4VyNRtsy6OIDAAyQDPotLU7hcyyT8BDIfiMOk-kv_zJMdsJC4PEgvgNrkdJ-hdUzAE187WacbaIVgqzE41b6ZUQK7Y8OUxBupB2xBJDS0n40U0IoGXPAQ"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/juH13BRJguBURmVJlh2N4Seq5ozlqxC_4pLaDZJFUayG5s0rvURnoW0rrpvx03PEO3Dhtfs53dgRvgd_JxyWoXI9wXZFj1TD--mCduH6FSeBkGChYL9ZGzrlNwfXweGtCAPUhj9FD7vnmj1qU4K0LkKapjug8Tro7uAo5eRnJABV8WJPW_oDHIUkqURiXMq2gjQYlfMapwHPY2_3-lMpa5l_0M_bHBbGTP3CoIUj5VG2M7TRBnDu8KKhj8wIQSuBymP_pS8zNQ3r28ztVr7pZCOuIyNfcG45nBVvicVHNbnFb1cHxE9e_bkaglI4ROCO2XA9f5IgOvai4hFrSdnf1Q"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UU9hvFvjlqq_f0V94WOznDDC4i_BAxfHulWbNcHWqlo_j1HCXiFf8xt7aUXjFOBInX5PKRNcriU9y4vafP5gccyTXehs_OB7TTeUqRNVO6yloM7aUkTX74Qx6uTuwPYLseITUzU0ZcPJVt4teu-RDnIVAut_VebH8ROqPPyh2_zM4vgo4h28c1U8VgPPGTluX0qKR31XmDAoP0M3tJsJ7ETrwV9pAXXoXdRp8Dd6d6Iv8SSjXaUV4HCBLLS_TkNSVI-tw2b6AZfPWS2E6gjxqQOw0eWGMLIQH3ym2dk_eGAUGrZjYoE5ftSsTf27h_Jxe7i7VTwmU-ZtlKTuF5SbYA"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eویدئوی وایرال شده از اجرای امیرمحمد، نوجوون ارومیه‌ای داخل برنامه Kaos Show ترکیه\u003ctg-emoji emoji-id=\"5226948110873278599\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B9F09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇹🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e+ این برنامه، عقب‌افتاده‌هایی که تو فضای مجازی معروف شدن رو دعوت میکنه تا مردم بهشون بخندن.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-10-09T19:17:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 181000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/cBj7UmPHtyLIsa43H7-dCP7NFtjjhXkZJO11xcJaCTo0BqwX8iW4547DgTl49zhZ-bNzDeQVNtaauxlNwp7oKAcwP_whIugj9dAm_XeNJ8cX8TVicWJpYnRIpuaHM0X4fRzAZ-FiF7g8i9_gCr9DcK6EG4AFjJIgSXhYK_r5XCxo6ALnFVWkLXkznYjczhRGn0xzI9_Q6KrnIc_FOul3HQKpYeJnBCeokxJmlLjxWdSFXEC6QtoduTGZEtq_qSba3_BTeN1m59Lid28TvDwQi8kJoQwwN_StuvaYf4NCUY9kDk3DPjdC9nVeFjpkwqU3KgGabb15LBq01F931Hdeaw",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003cb\u003eتوافقِ آمریکا\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5202021044105257611\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e و روسیه\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5449408995691341691\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87B7F09F87BA.png\u0026#39;)\"\u003e\u003cb\u003e🇷🇺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e سرِ گازوئیل\u003c/b\u003e\u003cb\u003e\u003ctg-emoji emoji-id=\"5300983116444216573\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29BBD.png\u0026#39;)\"\u003e\u003cb\u003e⛽\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5321154112522305597\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F97A3.png\u0026#39;)\"\u003e\u003cb\u003e🗣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e ترامپ :\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eهمین الان یه گفت‌وگوی خیلی موفق با ولادیمیر پوتین، رئیس‌جمهور روسیه، داشتم و توافق کردیم که روسیه فوراً بیش از 300 هزار تُن گازوئیل وارد بازار آمریکا و جهان کنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eعلاوه بر این، روسیه قراره تو ماه نوامبر، 500 هزار تُن دیگه و بلافاصله بعد از اون هم 1 میلیون تُن گازوئیل عرضه کنه.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eهمچنین با توجه به وضعیت پالایشگاه‌های روسیه، این کشور قراره تو مدت کوتاهی، 3 میلیون تُن گازوئیل دیگه هم تحویل بده.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eبا توجه به کنترل کامل ما بر تنگه هرمز و این خبر بزرگ درباره انرژی روسیه، قیمت گازوئیل واسه مردم آمریکا و حتی کل جهان، با سرعتی بی‌سابقه کاهش پیدا می‌کنه!\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eعلاوه بر همه این‌ها، باید این موضوع رو هم کاملاً روشن کنم که ایران به سلاح هسته‌ای دست پیدا نخواهد کرد!\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
-      "date": "2026-10-09T19:41:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 176000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/n9tFx6uNzGWX19hHF5dXePASXM_gBXh361OTwElX-1EResQ7K5BFLxUo7rhtxfLCMwPN3icrfACWEFU75i_SQyhilBpBizMkA77nyQUDBqc81Sf03qx8u76-KNNmuf4w7oHOxn7g5b6fxxN96s6ds6ldrSdHJgaK7ALQMBnqhrRtJAizx7S4NeIgOiXQ8VzAq9Qs8EThQtn_P29dGmuOKmF44s42B7ZijSrqiivjBpVHLzfbVlFsmO-sCN3A8yX4nxa7VzTS1DOx_Cg5mNImY8CNhKYnnfv4HefKTlK2rnwJpiIUeXaN0LHHzNhMvk4BWV97GtZRpqgh196INpazTw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دادا داخل ایران هم گازوئیل ارزون میشه؟",
-      "date": "2026-10-09T19:52:08Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "𝐃𝐫 𝐓𝐞𝐥"
-    },
-    {
-      "id": 0,
       "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eشایان یو، رپر مملکت چند سال با این خانوم تو رابطه بوده که بالأخره کات کردن؛\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eحالا دختره رفته با \u0026#34;ارسلان قاسمی\u0026#34; بازیگر معروف سینما دوست شده و حتی امروز تو اکران یه فیلم هم باهم حضور پیدا کردن!\u003cbr/\u003e\u003c/blockquote\u003e\u003cb\u003eحالا شایان کسخلش در رفته و همین‌جوری داره موزیک‌های شکست عشقی میده...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
       "date": "2026-10-09T20:21:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 171000,
+      "views": 201000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,7 +42,7 @@
       "date": "2026-10-09T20:49:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161000,
+      "views": 195000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +61,7 @@
       "date": "2026-10-09T21:13:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 156000,
+      "views": 196000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +79,7 @@
       "date": "2026-10-09T21:56:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139000,
+      "views": 186000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +97,7 @@
       "date": "2026-10-09T22:21:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 187000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +115,7 @@
       "date": "2026-10-09T22:21:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 138000,
+      "views": 197000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +145,7 @@
       "date": "2026-10-10T07:26:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9950,
+      "views": 160000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +157,160 @@
           "width": 640
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5461172923999987290\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87BAF09F87B8.png\u0026#39;)\"\u003e\u003cb\u003e🇺🇸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e طبق اعلام ترامپ؛\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eکیتی زاکاریا\u003c/b\u003e، به عنوان سخنگوی جدیدِ دولت ترامپ انتخاب و جانشین کارولین لیویت شد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-10-10T09:14:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 147000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/DbVBMS8XFM5F0HV62_RdlKKQtHgzq91xeHT2JGQ6w6QOblcA_8rQDXVOWozZy_BpHSWZag2l6BAnjJKj4D8URd4lyC8LSEFYWH7yWFYxQKbGAPg80mSDlMULUmgz12Ag9V-sxgjsYfJCAVVPCbURvoYGauT8t3VzPYEuxonP4ywVM1fJyzAjxCt80c6z8JzyhHkBPAn5_V_38fVyzdOcdRrDpGIoBDFG_56oeoXf-jOMWdnxwcVOp8T5u3dsUu62FNfbju8DNJhFTZ2fT6vG5ES5o3w19vxdQqYv_0WhmF1EnHVSnWHrgrWIvjWq8luVHGf9s53Sm2uePICc_tHZtQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YunM_SrdeibEk-fiHDXAfG3FzD0MjBg0BmbPUtPTtc-KpDPsaRpDBUZje5G6f02b8UisZ2OTIC0uBwM-X_592O78CPs2XhnRGXSf4lBNp0eKCaOGDzPmTJ8RYUeASItqFVJML4RiHHPDaT3DAuW0xjljo3pbN15MnUsiGUTSciN0I4cnWBgC6QGeTendA0c-ZOhF9CSXXsS5QAb9ELVHqCzUsc7G95gFkNHxeTE8BjMWDViOxtC5O2bv-uQeaT-jLEevzEfdfUCE4J_8iZM1yTrZPK7oicbQATUttNyAPJJV6OKUV1lldb6-QdyNM2AIC8_Y1Mz1R2zdEvoWT8nm7w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5305527307807533251\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003e میرسلیم، عضو مجمع تشخیص مصلحت نظام:\u003cbr/\u003e\u003cbr/\u003eماشین‌های داخلی لگن نیستن، علت مرگ و میر تو تصادف‌ها، رانندگی بدِ مردمه!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eتیبا ، کوییک و سمند قابلیت رقابت با خودروهای خارجی دارن‌.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E99.png\u0026#39;)\"\u003e\u003cb\u003e🎙\u003c/b\u003e\u003c/i\u003eمجری :\u003cbr/\u003eکشورهای حاشیه خلیج فارس دارن بنز و بی‌ام‌و سوار میشن ما چرا باید تارا ، سمند و دنا سوار بشیم؟\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5305527307807533251\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eمیرسلیم :\u003cbr/\u003eمیل خودتونه، می‌تونید سوار نشید...\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-10-10T10:09:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 133000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dC7E3IOpCJVoFE8eQlPPw7EjSWISR950Ib54qvCWRJPj61Yb5ZvfID3AWqkGdBXkk2_JLSqVsfJFduRBfGkA20DuntD_3K1VgT5_d5FSk14hofoW7aLxm71mbOg_5v3XRezMUG7Iz4T3q0sxyvWxE9ZubJS3yMpDr5TFuAi0R-WTSnV9kHAeCPOcBV8X8YtErTV5MhEkhiP-t9FM2OSglGYwaK-C-u7zaI8YJiyKmvlgBPq3zRf0mI_3vLyIpvzovehsZe8AGuVklLFWbyMXgzsSxq13luzTMwmvB0f05hCltsOV9cWTH-pOYvJuY022PRUUXIJc-na6x2vWKR98JA",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8E99.png\u0026#39;)\"\u003e\u003cb\u003e🎙\u003c/b\u003e\u003c/i\u003eمجری :\u003cbr/\u003eچرا مسئولین ما تا عزرائیل نیاد سراغشون، از اون مقامی که دارن، دست نمیکشن؟\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5305527307807533251\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e میرسلیم، عضو مجمع تشخیص مصلحت نظام:\u003cbr/\u003e\u003cbr/\u003eاین فلسفه بازنشستگی اصلا واسه ما و کشورهای مسلمون و اسلام نیست!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eبازنشستگی تو انقلاب هیچ مفهومی نداره، آدم تا آخرین نفس باید به مردم خدمت کنه تا اهداف انقلاب پیش بره.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eنسل ما حرف جوون‌های امروز رو خیلی خوب متوجه میشه. \u003c/blockquote\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-10-10T10:27:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 128000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/UxRU_7XGZRgnq7YfRYb1U_nkOuT-AtqBpAxlhT3bV8LaQqgzquatvFCWMLWVig9DyXcxL7VMPbQJXD0j0mAXrp1ntB-6YmMbQGkEMrZ1wL59Qx7OINDWO4DFxeUxyudwCMb3RkLeKn9NKsBMAELHgwKOpKlyukYmj69g20h0uuO44SEiQ28jFJdT29Spcxlp0xqAfI1L4o08ZnpCWJN72_d5EQ8UdP71HT4cBuAp1T434ltX9-NOmioDj9w5zOaIssSrn2YMSneH8MUHez21ajWj55db1boTk1aTBimFi9ly6BKOMKZ6Z2Bv1CWBsS0enyQbgDQQPv-kvq536K1knQ",
+          "width": 640
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003cb\u003e\u003ctg-emoji emoji-id=\"5305527307807533251\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F87AEF09F87B7.png\u0026#39;)\"\u003e\u003cb\u003e🇮🇷\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003c/b\u003e\u003cb\u003eمیرسلیم، عضو مجمع تشخیص مصلحت نظام:\u003cbr/\u003e\u003cbr/\u003eنفت مالِ خدا و پیامبرشه، واسه مردم نیست!\u003c/b\u003e\u003cbr/\u003e\u003cblockquote\u003eنفت انفاله، مردم حکومت رو مشخص میکنن و حکومت انفال رو مدیریت می‌کنه. \u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eما این نفت رو همین‌جوری بدیم مردم برن تو ترافیک شمال بمونن تا سرمایه مملکت همین‌جوری تموم بشه بره؟ جواب نسل‌های آینده رو چی بدیم؟\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eهر مسئولی گفته نفت، حق مردمه، بی‌خود کرده.\u003c/blockquote\u003e\u003cbr/\u003e\u003cblockquote\u003eما بنزین رو داریم 10 هزارتومن می‌دیم به مردم، درحالی که همین رو می‌تونیم به آمریکا 1 دلار (۲۶۶ هزارتومن) بفروشیم ولی این کار رو نمی‌کنیم.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-10-10T10:47:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 132000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/C2oWwH6RsfOiCLUksS-2mvwMgZhoeolHV3eXXkBtQhqAFw81T1b-aBbON046D42sCP6pfZH_XXO3OApKh-X3BymIYCuzD82XN-f_8AsnrQz96kC2vSAtI8Q4NZNZxdNhTWj72gk19mhAXkiLYXzlYGptZRTVExaIgv_QL0ze09HeWQ310Uz5U0alEz844WRxh-cjoONbUQAP9YPbJYsDlY2plqorVD1xt2Y3JNxlvGiLVi3TcscHM_Uq5X_TD6xZ9piL-UdTNwEzYt_J7YwjbAfQE4tr6Y_OzVDQjpTPdJtrMabecpa65lv6Y-IWWZWpnUcBOQdQENz7V-OEjIFrEg",
+          "width": 320
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5787341931688250058\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9FA3.png\u0026#39;)\"\u003e\u003cb\u003e🟣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cb\u003e نبرد حیثیتی در لیگ برتر؛ شیاطین سرخ مقابل تاتنهام، جدالی برای اثبات قدرت و تثبیت جایگاه!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e[\u003c/b\u003e \u003ca href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eمنچستریونایتد\u003c/b\u003e\u003c/a\u003e \u003ctg-emoji emoji-id=\"5807626542536203753\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5881739793821344050\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F869A.png\u0026#39;)\"\u003e\u003cb\u003e🆚\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ctg-emoji emoji-id=\"5807578713780395956\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AAA.png\u0026#39;)\"\u003e\u003cb\u003e⚪️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003eت\u003c/b\u003e\u003c/a\u003eاتنهام\u003cb\u003e ]\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5780755238562570238\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e منچستریونایتد با تکیه بر امتیاز میزبانی و قدرت در انتقال سریع توپ، به‌دنبال ضربه‌زدن به فضای پشت خط دفاع تاتنهام است. تاتنهام با پرسینگ و بازی مستقیم می‌تواند موقعیت‌های خطرناکی خلق کند، اما فضای خالی پشت مدافعانش نقطه‌ضعف مهمی خواهد بود.\u003cbr/\u003e\u003cb\u003eسناریوی آماری محتمل: بازی پرموقعیت با شانس گلزنی هر دو تیم؛ نتیجه نهایی تا حد زیادی به کیفیت استفاده از موقعیت‌ها بستگی دارد.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003ctg-emoji emoji-id=\"5787541587537960743\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e    بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.\u003cbr/\u003e\u003c/blockquote\u003e\u003ctg-emoji emoji-id=\"5787272602326147993\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eبرای پیش‌بینی این دیدار همین حالا وارد سایت اسپورت‌نود شو و پیش‌بینی خودتو با بونوس ویژه ثبت کن: \u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5787608571847910502\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنسخه جدید سایت:\u003c/b\u003e \u003ca href=\"http://Sportn5b2.com/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003eSportn5b2.com\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5787608571847910502\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/32E283A3.png\u0026#39;)\"\u003e\u003cb\u003e2⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eنسخه قدیمی سایت:\u003c/b\u003e \u003ca href=\"http://Sport90.bet/\" target=\"_blank\" rel=\"noopener\"\u003e\u003cb\u003eSport90.bet\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5787272602326147993\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eکانال رسمی اسپورت نود:\u003c/b\u003e\u003ctg-emoji emoji-id=\"5231102735817918643\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5785385999286673311\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B5.png\u0026#39;)\"\u003e\u003cb\u003e🔵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003ca href=\"https://t.me/Sportnavad\" target=\"_blank\"\u003e@Sportnavad\u003c/a\u003e",
+      "date": "2026-10-10T11:19:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 114000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/asaztn0M4tX-CxnIfe7rbOPzboV3TfkbWKpnU6dKDxRQocFQXbM-HJNBv3aBIzgSJRHfsT0jFoAax_yhHk4CWfdInSGNTpn6FSQdZCceRrJfZeAVfALWgN0dPUVW-nvgXS--erL8YvWahAdJ5xexI2wbVorEeNAZmIgj6XFBnvjeuYalk1VuH365ugZSFVW2MnRwVGx_wJcSEE2rspFRU7gryG6-pAaVDhUB76HYpcW-bxlllOGexWlJc6ZkUtZU0X829Kz_wVxXqcjhWGIxEXj_LIWVID4AvtcgXmWnm9c4vlFqR_x2ReZm0AKXYvtqqWA53vn2d5PC_wFHNbDijA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eجان سینا از دومین ایرانی هم لب گرفت؛\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5375464961822695044\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e تو فیلم جدید Matchbox (2026)  | مچ‌باکس با بازی جان سینا، یهو گلشیفته وارد میشه و اينجوری لب‌های سینا جان رو به دور از چشمِ \u003ca href=\"https://t.me/FUTBALLI18/22574?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eشهرزاد\u003c/a\u003e (زن واقعیِ جان‌سینا) می‌خوره...\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eاین فیلم اکشن و ماجراجوییه، داستان هم درباره «شان واکر»، مأمور مخفی سازمان سیا با بازی جان سیناست که بعد از سال‌ها به زادگاهش برمی‌گرده و با دوستای دوران بچگیش دیدار می‌کنه.\u003cbr/\u003e\u003c/blockquote\u003e\u003cblockquote\u003eاما این دورهمی خیلی زود به یه ماجرای خطرناک بین‌المللی تبدیل می‌شه و همگی ناخواسته درگیر مأموریتی می‌شن که باید دنیا رو از یه فاجعه بزرگ نجات بدن.\u003cbr/\u003e\u003c/blockquote\u003e\u003ca href=\"https://t.me/FUTBALLI18\" target=\"_blank\"\u003e@FUTBALLI18\u003c/a\u003e",
+      "date": "2026-10-10T11:19:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 89700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VSxBeU7d7LYZ0iubZqR1xZ3ncO4cGCaBFBsSKr7qRjJ80N5fuY05XnNbs3IZ47zMADrP-X5Z5orLnm5D5Aee9lgDNCIUuuckRmemWa_8SWiOz6bXgUMWo0WDQtqY80P6UBOSdiRJRd3cFKVhMEJXVdmr64dJUb_R6--Hh70KdlEmLsYcvrJYZPotqsVWRO3JUsF5j2QFl3yAeJ0Ea2z9kdeDxLCE-RR9UlIlpgU-JdcBOqQZ6ySt_zyQdZ_Vsf7lOd7hXFDFjiYt8Aj0SSIaBGcdLyWl5w9GxOzhppZ8JEMpsbbgSxqbSiAwtbcwAor2pLlefBkhBKyroefW4yttfA",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eامروز صبح یه پسر جوون وارد یکی از واحدهای تجاری تو طبقه چهارمِ پاساژ سعدی تو خیابون سعدی تهران شد؛\u003cbr/\u003e\u003cbr/\u003eاین جوونِ 25 ساله همونجا کُلت رو درآورد و منشیِ زنِ شرکت رو کُشت و بعد تا قبل رسیدن پلیس، خودشم کُشت!\u003cbr/\u003e\u003cbr/\u003eهنوز علت این خون و خون‌ریزی معلوم نیست...\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e | MEHR",
+      "date": "2026-10-10T12:33:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 89200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HIlKplb-WzgnNLZ7WaoTLs1xrpaOv6GM00OMN1Oqu1CTLe_UmwfWPCK1W7GMxsWbo_VL5M0uLOJDIBtygFR_KtiBvtjHlw-2D2LlMYHEr9c5FQGjOYE1yGMnI25FSL88cwJOWs9iHCxE0NJFUF2qWSRygm9ObJXQk2vX21SDMHb6PhjolQLGNy-6T1ZdBOLq7XW7YI0Z6coFYAbP7dYnc2gKK8KOk3SfV24-d_-IgTVEbOJY3YnX979D4nkrOCjAn_eTnPFdB3BawiKEo19WWXRx5HYxZHe1s9fswIqnBvS8ynHCsfimpwfnDiTIbyQVp9JLM4fCTYmwdhOD6jPCaw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B4.png\u0026#39;)\"\u003e\u003cb\u003e🔴\u003c/b\u003e\u003c/i\u003eیا بچه مچه با خودتون نبرید طلافروشی، یا اگه میبرید با طناب ببندینش به خودتون که همچین منظره‌ای خلق نکنه :\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DrTeL\" target=\"_blank\"\u003e@DrTeL\u003c/a\u003e",
+      "date": "2026-10-10T13:10:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 64500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "𝐃𝐫 𝐓𝐞𝐥",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DkcYolDZqRIPwDjSdGjUm-7z8yocgmuYtJnhkYJCwg2SDPO7NygaxvhmKt22DGaxN9wT3__nmmrRzzh9fLlWqekn4N3DZO-SCf2OnRqvrwW2Xa7GO2jr6EH83Tt8DButkSaeDJjlY3Z_H3g4qLZNk_wgzSsb8HkPPfO1CrVuQ5pUA_Qzg9VSf2IH2NObwl53JJGkiuGjrRUMClZiskhwx9C6pCbjPOygaOrvOvmmM55Ja11zug_6zkaNw7TViQg4InILgqAAMqwaTcuY0PP765TWTCenDGKCSa-rAjib_bc_CIv2xueIFDVT2_7hvrQTDlrb_grDCKoGDop8zE2Yrg",
+          "width": 720
+        }
+      ]
     }
   ],
-  "last_updated": 1791617487
+  "last_updated": 1791641641
 }
