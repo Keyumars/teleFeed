@@ -8,18 +8,6 @@
   "posts": [
     {
       "id": 0,
-      "message": "\u003ctg-emoji emoji-id=\"5240241223632954241\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AAB.png\u0026#39;)\"\u003e\u003cb\u003e🚫\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e India’s IT ministry banned Telegram for one week because some users shared leaked exam questions.\u003cbr/\u003e\u003cbr/\u003eThis punishes \u003cb\u003e150 million\u003c/b\u003e ordinary Telegram users in India — not the insiders who leaked the exam materials.\u003cbr/\u003e\u003cbr/\u003eAnd the ban hasn\u0026#39;t stopped anything. The leaks just moved to other apps.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5348230282140993341\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9BA1.png\u0026#39;)\"\u003e\u003cb\u003e🛡\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e We’ve done a lot to help fix the problem — even though its source is not Telegram.\u003cbr/\u003e\u003cbr/\u003eOver the past few weeks, we removed hundreds of channels sharing leaked exam materials and related scams in India.\u003cbr/\u003e\u003cbr/\u003eWe’ve also been making the “edited” label more visible to prevent backdating scams.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5395335069671910047\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8FB3.png\u0026#39;)\"\u003e\u003cb\u003e🏳️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram is a force for good. Banning it — even temporarily — is a mistake.",
-      "date": "2026-06-16T15:05:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Pavel Durov"
-    },
-    {
-      "id": 0,
       "message": "\u003ctg-emoji emoji-id=\"5460865451586250451\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA9B5.png\u0026#39;)\"\u003e\u003cb\u003e🩵\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Telegram now has a \u003cb\u003eRich Text Editor\u003c/b\u003e.\u003cbr/\u003e\u003cbr/\u003eIt supports tables, headings, inline media, lists, AI content, formulas, and more.\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5357135183864667855\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9888.png\u0026#39;)\"\u003e\u003cb\u003e😈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e Messaging apps will never be the same!",
       "date": "2026-07-16T20:45:25Z",
       "edited": false,
@@ -51,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/va1B6BPpGgfLL-wEnbKqIeePF4aO2IHddmFD7ZpxUglJ8GGNeoHPRkbDWoCU4p0QO9rNTfE4IwtkJ0243VFSWaGRry0T5os0FAU4NJ4IBuN3UH9wLsfkR4SzIL6WwyQemKevJ6yLktZ9flgUnWAx1sGsOjuVJ23swtbFK6B5l7wJbUOvuBVcWIGLdKdCwNRu3_QQXR_w_ySReIASJNBksWQtzi7ow7rwicrM86UDolL05qi-7mJE-60nrcwau8FJknv0J0PihtVWZW6Q7m2U04uQ9LhDop4XYxSDvZnnK7OJCzHveX6D-N6_TrpBhjr3IDPS7bqQ4y_idvUTUZnVng",
+          "url": "https://cdn4.telesco.pe/file/ebZ8DK3cO72NGfoKGXKNWhhDf4cvomrS2bSnyDGXaDwfe7xV00IwOsKe5CqRtNTv702UbuZivji28RTpHzGebdTlsvFF5Yum8uJ2JITtKHis9agXIAHlptQQlQaaeOR1AsVTf9mFHNKewrEjg5hOK5BDBfstKbQAYEOSpDXSe1ieY7ZHsi6ho-tlILh9cI-3hcN61yh6NGnYU8QJU4dLksUYl5Yy-lwWuCk676yTAbGA1LK9qDpiTUvw3k75t9GPbKTc9i-AN0cS1Uj8dGhl8cNO-Yax2ikJ9XpPXUQqNJMexzr5Zh_oJKQra2Z0-RtufKixnaowwUumk1I7d7hM5g",
           "width": 1920
         }
       ]
@@ -124,7 +112,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GB_gi8AFh4sgMoxXrJcrfulFVzggD_UbHpRK7vzWBWqBaHtt4fXQpoPqE3m6VAnu3QYhSqjQBDZgkOUmHbUUJN0e9BJV1o-GlxODUP3m_fxnmb_uf5yn3q6qroZjWk4kcsJ2wS-YWR7Yc8oxnJuZh6wMWuY8GWPRBuUbNeOKdUNV-Je4TDZ0xKnGEkWRfGiqZy0RFDZMDaEI8YiAUNtQEdbW3dev04aqnrDDaZKjoazBPxaqG4yeg-nuNGjFBIg2EoKFuoKyzC9yBZQLdbPRyOu0O6Qo28qkitnKWeQCM37HfEVVb9XQnAomxmuSmJEPLlmg9yxABRIokth00pLcaw.jpg"
+          "url": "https://cdn4.telesco.pe/file/BnpzlJjkrEhKNSYDeRURlTWCpQkGe-Ppdmyy-jJiGJqbquSyc3068LzHIb-yGLyWQeAO6s0SEFm01TwSjCbM7Tm_KtNWM6nFCKoC_BCZq0zwjmlXWEWD0RFuT4RJ4nOAIRhnA6-vfV_1kz3SaRt8oFhhIhfAczsjuoyD-tyAQkrKa00W5YB8Q59aU7KKfLBTW1GcWRyUcS-iIPsplrFQwRrjabRzRutBPU0G9qPBHTavhEM3Z99TaYH_Jzawypbkx7P1aUzyMRiEidc4529T21shKMObmjMmTxIni_skaE-PRkWNKfCgffEer3wH5tgb90G-AmVOARAp5Q4lKYOUxQ.jpg"
         }
       ]
     },
@@ -267,7 +255,7 @@
       "date": "2026-09-11T16:04:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +267,7 @@
       "date": "2026-10-10T14:22:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 777000,
+      "views": 922000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -291,7 +279,26 @@
           "width": 1920
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ctg-emoji emoji-id=\"5325547803936572038\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29CA8.png\u0026#39;)\"\u003e\u003cb\u003e✨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eDesigners × AI\u003cbr/\u003e\u003cbr/\u003e\u003c/b\u003e\u003ctg-emoji emoji-id=\"5449786231258888184\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8695.png\u0026#39;)\"\u003e\u003cb\u003e🆕\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e The mockup era is over. Today’s AI tools give \u003cb\u003eevery\u003c/b\u003e designer a \u003cb\u003esuperpower\u003c/b\u003e: you can now \u003cb\u003ecraft\u003c/b\u003e your ideas, not just draw them. \u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eThe gap between “what if…?” and “look, it works!” has never been smaller, and that \u003cb\u003echanged\u003c/b\u003e how we build features in Telegram.\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eMessage \u003c/b\u003e\u003ca href=\"https://t.me/designers\" target=\"_blank\"\u003e\u003cb\u003e@designers\u003c/b\u003e\u003c/a\u003e\u003cb\u003e to submit your concepts.\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5206607081334906820\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C94.png\u0026#39;)\"\u003e\u003cb\u003e✔️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eWe accept\u003c/b\u003e\u003cbr/\u003e\u003ci\u003e– Working, ready-to-implement code\u003cbr/\u003e\u003c/i\u003e complemented by\u003ci\u003e\u003cbr/\u003e– A demo video of your feature in action\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445267414562389170\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9791.png\u0026#39;)\"\u003e\u003cb\u003e🗑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eWe no longer accept\u003c/b\u003e\u003cbr/\u003e\u003ci\u003e– Static mockups\u003cbr/\u003e– Demo videos with no code behind them\u003cbr/\u003e– Text-only concepts\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003eNo coding background? Curiosity, attention to detail and a good prompt will take you far. \u003cbr/\u003e\u003cbr/\u003eThe future of design isn’t drawn – it’s built. \u003cbr/\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5445284980978621387\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003eLet\u0026#39;s build it together!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003e(An example of what is possible by our iOS designer – this is a ready to use implementation not a motion video.) \u003c/i\u003e\u003ctg-emoji emoji-id=\"5470177992950946662\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9187.png\u0026#39;)\"\u003e\u003cb\u003e👇\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-10-11T14:52:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 452000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Pavel Durov",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ULl6pMfGMy0il4CzhJXaRJoEVTUbs93AnvlqgKhGM_vHga2X3pfyTsKyEeUgBhHSIjomRPS7-7YpQQ89yXOxDh4dCcu3dZLfKTzuUzyVXx61gkDdHntYBoMM7YzEJBV0LKne7UDLfJ_LdVzl8b3KVHsoq7i8HL_9DTqaMzXMobGsQMdZ2ofcyL7t_YF4N_yxlfXYnhLOSefw49VSqnjPkMD4VMRvkH367nBXiwk6Q74exLcS3OknIXSUW8OngWOmHCQLmIeXZT6UJ2GFiB9-T-DEBcoiuvxl3riqc3SWYXGPnZYoQXK9Hpl6OEE4SVDggnQzinH4kOyDSrWiujco1Q",
+          "width": 1080
+        }
+      ]
     }
   ],
-  "last_updated": 1791729627
+  "last_updated": 1791746536
 }
