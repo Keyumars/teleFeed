@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Pavel Durov",
     "username": "durov",
-    "photo_url": "https://cdn4.telesco.pe/file/h4tKF2qG_Q5VtXzV-oajgHOJ-F0lwQ6FKiTPV7rnbdnFQ5RyG0DkB7HkGmPcyNzCs-8XO5dyXhzxrd1gyu7X108mxBc9kuFO-EVxsYztmVx7FtPMLI00yhSSouuazGYY0atcXu-zaGkHVXUpdyfIdtlgVjY0W32QzourxBvBJdBMyDVSC7P6C8CWzC--rxeBvrxeAtXGsnPbH6eQBuYlaYaSXSgDRBCgX7FoqlEdVSQ9oN_6U__6kg3CpRrLccg8bL00Zc7HfAVYrgQF3QFcAlucoSqi0VRlIv-56703l-ridA5P-egO5pQTVyhtPdmFM14cp7uhD-3Y4Z-H0e1mmQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/Y31ziHTpiiTYUqv5QNMS7mZc8GGhp3uyu1v4BgJn8N68pbi8wNRcJUhUMC0hLugkR4-GjSJMO6TY2y2wlMFF30Zyt_Q772YzF3I9uON5jRB6w7PGvyyLIoTZ3GJPpQvtU-tkUJQQuADW3pUI4jFXTsp_gGdsxbWdrmTHJC6DrIlTPYfExtHzf0JPcYJLlWdUc37oHdYyOsipnqrKAne0ex8fS-0Ay2-BLwKu0fqYAEn2IoMRsXuoZ3rP_yq7aCl8BLbgf6vcUxa6B8_AGu-e1MeGzleZU3Quov265fx6qEg2q9ayBA8wjQalWg9NLRReadjbPiWQScGP3U30cQZJbg.jpg"
   },
   "posts": [
     {
@@ -94,7 +94,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/eO1NDJTG1mN5fU0eqJ1Yj-p6UMTQnNhi2psOvM7GAPVttvUghaXn1o2GOktW4fK8td7IAPsduz427uqwLbG678XnhsmFOa8NotcXIUYp9GeFa2Atz1xVfD-ZYoM706MPZaWXent7iPcjWV3qwq0RL_pdFiCTV6FrfNT86GR4zOQWFjKlt45kcKcuXYd92CxTESFOlU_Yn3SqSLIo7wMb4deOUYN0NYiC0PiyCRT8MW-1-GBJRTqlxJWw1YoLS73sX2M5ZeUxcddsZa2DF8_mRBbiMgMt_77RjYy7cmR5gSARb9vz2vBEE11j_c9zfUH6E7qslTYcbD50qeXqcp5vOA.jpg"
+          "url": "https://cdn4.telesco.pe/file/D4JgdfDSMgkPWGvbmUO3oaXYViIMn-Bmhp9t-QGVfKQDrPKyN6cjCi62v49opzoqSwX4ifjJN6xqWfJOXPJrIBmaRwEUNShJVwZMxxnGazVUIapY_DrHHf9_1g4IVig1P6HzSTI7KOVfHHNcEIibN1UM17K56e3fkZ20IPwj1k1XRQc6nxTNteVkOOoBZK_3cub8uH8q-MqGbtxIwnBO9584w5-GfkbVTnKWZxqG9r-OzLkp3Dt2LLbwZCsZIB6fWkZUs9ZwSQO6tDQpI69Oz0N_i92fPhB1W-OMVLHr9TLuN_91zmOmENZQoVo51vizf8kthjJaDILtLCHLlDbb0w.jpg"
         }
       ]
     },
@@ -154,7 +154,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Q8R-VJLFJCEHHKDU1l791iw-ZE_WPk90QP0wwxxk7zPDveLf--10slME9amccwB36NDYCkxKc4Z0RrExxCz_BYu1584T4LlgA0kZD81GT7lJRnv6l0H6ehU8l7VixhZn7ESzzJm_7jg2PXsLbGrWeiDSWYv3XieG37DsRiNVMahJUOsJdVmllFavDeirSUNf3ay838b-CvELq_f5MThi8GGrXecHsndylHi5lxziEvNjuTC5GpODEaXP1N0xhMQ4jmga5nh0WIMYQ4GlIfbDTqlze9_ECcU-lo2ufLIqIOX22N5en1QY7rKfxRwSi1DqKOn7S7t5Jj7-yPa4_WJdXg.jpg"
+          "url": "https://cdn4.telesco.pe/file/gHrlGQIrRH0dtUatpeq_GZ0F3UQTVqZO9_-4YfkYh2JTE-tHJmJZacayl1dtq0ZeIdMU3-1OVmBWJPZltyz3be2YgmWSg2XEpVW-XHzGfHw2047P1AF8fxc4yi_Db8YlTqWJ_VxDvUPSGC0WhG1t2o82ckqy1tt6aqG3oZ0Lw_uLiHGDpjCA-n9WW9HbX_3B9r3CznJrPAHIiyAaqxhgx1r8gbJgkVTRBn5ert3WF0B6yIzcTsb0E7h6ikq2ANkk9CqprtvzaT2bftBt3G7JN0ZQJe-vzNn_ucJgG4ef20jpTQyvi7BQwMBTZrP0VGJAcMBHB3gH2Iu6ZIARmg0gFw.jpg"
         }
       ]
     },
@@ -275,7 +275,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Juel6JYXOuXqqCT4PlSSAvtgw8F_LweEZJBphn6vgjRUsFBja-gyIPK5uCxgQph03QSi-WnHhIUV1IRUrxpAo7ovyVg_MZWkMz3ZP5wgQZLMvtUZELEbPaS-Tb-E7WvsGjQG04SL53_hPi2T0C5tqt-z0IscOx0ykwZVqDp3oJYQMvuoi3bseMEU1_7DmJHdI0ZwsMjHHG-cyX4yisICYUxATynchE8iH5-AwFfJp7kOPl6NNi67r0JdFyFsz7pE3UPt4LwWDJCYX_aZ3Ciz2OMpT96Bqa9O6g3Qq6yz6RluWkIZrRytnIb3KPUyBUOgEKy9idwvGs8HxMBmXwkBpQ",
+          "url": "https://cdn4.telesco.pe/file/CBJ-2Y0eqQkAiHDaWUxuDZ5CVDkpl94XLB-RvDrvKpZEUpCGqk4e_yqkP8m9lEtfTqc7uw42ZtJhN_Tnv2BF7ZQ8fCmYbkC5Vmfr0uEAU9iTeKHHHYp8O86x7DvODnGtHEe8GwKlpD-0JTMryI34NmTe1-5frkR8IcO5B5XXZjj-vx_pxtbZWiQO99JrHj1v7M6JUSAV16WBzqKG_dSRKd9hPHO_znCGVZOeu4JUcolPSlbgMbHmSQeut8xcvvV6fPYowjmhQqqXyUg5JgvPU7MXyxg9Nm18YmlIeUsQ-M2iLLeYflEe9eijDaRwCnVm4yL9jwKUAffZk_nHdXcyrg",
           "width": 1920
         }
       ]
@@ -286,7 +286,7 @@
       "date": "2026-10-11T14:52:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 734000,
+      "views": 768000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,11 +294,11 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/be3omnEYURrRFKYiaMsuOKRaIFj34DGMxcEOw98Nlhyw3FIh7-EG0ml3SaoWgvfXygFeJ8HwaRUye0xEODomoFrrOSanM2xH0qqavPd6S2KHKZrXuji5EPb_i93XILatbSACEDUcoppeXBmJLE_bBs5hru74Hb80BuROVXm9zM_R36OJmR5y-o36QKnxlRYDbmhTXrTSa98HwVnmse0NYdzMtEWL_XzsZtuTy5UUI_f9xGzQZUSb5BfyJHVfmVNc-0ANRtSLAVi4eOVkPBdgPfD8HuKK7OlVls7P_bw_0Zn8NvVcW6M6KiOab9FlQFPPblOZAiJjFQlAdc6YGe8_1A",
+          "url": "https://cdn4.telesco.pe/file/RDIQpCr2l9ac54axO6kRX2X-7PbodjKjYMbi4isiU8ewOjiznqWWRc3uUthbU9I3FSG2cs16ERJwAgkHXHOButZa6adpxtjGITKCFfKlJm7bU7B_mUsW33-Z6ciuXG9BWekIGSPHx9eztKJontpavIdKUItyMHio_daE0LQl_mGowUUJAW3YJoBh7OZo-lZp7RswbMB_SY74S3kmjaU6NpijhRc7FikWHlzi8SxRfjtFftyRdXoMcnSJJ4rXNk7huiCrb6bNTQo1iNCrIZeXJ8R4iOfo4Ioipel0AqJUui4VuOPjHBoAjs7iJv-o0UwVA4FnVQROGZkEb6Fr2eUJBw",
           "width": 1080
         }
       ]
     }
   ],
-  "last_updated": 1791881946
+  "last_updated": 1791910132
 }

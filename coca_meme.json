@@ -3,109 +3,16 @@
     "id": 0,
     "title": "کوکا میم| Coca Meme",
     "username": "Coca_Meme",
-    "photo_url": "https://cdn4.telesco.pe/file/IPACqUJuadYQxvHPS9C1lzmNsG3J4khzIH7XZRKnuR_hbfSpCc16JYYJeVzfAXQEHxg7w0pkcwaDOCwhFCCZ5FOII5arsibOttIPBKPJmXGTp5yGBLHQCYhyUj72CN2msZp3DYMqN_sLVWl5pk1vdBq4QBtdRLWh_wdTHEmF7Gy4H8V2EqnSKmwjkawmT22lBVYg_2Cd_4z46bBw9F-Vsxcx-wQ3NqCKRiO4LuxamW8FNvCqjltPz42fU1vid67CIxCEPqOQ9JRqYIjHveSdddf_E4qKuEiK-nVpkF6Do4HqSpv0WKNykk7UW02esHnbKoNvKkoAr6S8tf0HSqHzKA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/POd1ajythc_x-uEmUyvCr-4jEN_70g30FjQp1YyOORRbLPzcnN8j0IDmyWp8Nxkv9FY55xUC3r_rbiZBYULDUGmG4EK7VrSIb-9FJhamhVm52VdhH0-kRCNLcTBaM85U2Kr0UgW2H1uubMcXTeJt7KTzFXhcAHFbARfwO6Tf486ggui_80FTXlHxOEOZQ3CRltybV97tW0vRnyr8BrpUIRKrAGh5vQPnlIiXcJ58IFXedNNuEGRxtPtItkSNJu6v-dq3Rdby_xoO9jbf9ylZUskX3upndSiyQMkqwyev7zUybJQDtk7tuyEZmEJZIgTPdQoW1DfZMiQw_zqUk4DJNg.jpg"
   },
   "posts": [
-    {
-      "id": 0,
-      "message": "شوخوش یاران\u003cbr/\u003e\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-10-10T18:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/khE3OPNUBVdDepDu2l858bIDsfbNek_CRwwf9M7Wr_s90S1vTknKIohh0VeSJjbsjjXuaIKn32OLU35ATr6-YnpklRqAGr5n-PdPjLFHmgoUem6k8eY3ICcyjqw_FqxIFNgy_1KQorirb2hM-YWic0pqU1QM_fceOt41zD8UZBflyzeGvPOiKg0wcZyNQa2F7aqaGJ-4M3bA4TsnXnuHUjarTDsKa6bOVHkxfvIB34XcTGk7SWyQ1IH7Wlhl7lkSc-u6vsvIptGUm_HtKRXcypa0crbQLBRosD6hQQ2yMwOY40NIDOe-cC8MDhA5ojOvg6iKfupvHoebIUcv6L5lgw",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "صبح بخیر عزیزان\u003cbr/\u003e\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-10-11T06:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 977,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qejAGOb3nbVA_ZaxCepB4MmkQkUuvAMKTh4Pu-r-9_vyzvckJkockW-1KBfOi0iiwn0DXmUkTf3jMeIAIKTqpS-opCAlZQlMWxJ1NNnVu-bv__GR0_HhNFdfnVP8fkznkPnm1ygCPmZ54xnHX65-o9lHU5-4pMPYQ_cu3s3JxEWil5lSkEM13loRSC_Mc3V9oQj20NK4yi-2vEUMrcB65cVfLKDSLnB9mu0EHEhZamqnoVICP6zkp_76nWFPe6ajqxSCdDwLSMC9Cmu37AVqEphh8ESC49sOTIRiANH_Q4rWTMaN0k6oJg3YlBgx2nFxEJNvDdy4izSUjkbYqcVmUQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-10-11T08:31:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/acymA-fLX124tx5uJtw4MjVfwYQ-cgGhpJuJHhTHdwrZ-_RfeEJSyErKMRD7XlQbZXAsTxdiXlNwnJbloNb2Zi4NP5MX4nZDboj1-qFUkuixu_a5ukNOtXKh53JMoE_GcLCPxtRln-rYWUJnyEmVxZTZeJwKGaMY4DuGOnQrPvWR-8j3ALbWah1DucGQDdr3ZUOlicGCkIIlAxaNO4e7eF_Bu-ROYOIM3hxKV7KpUSD5Cocae8zLl6YMrwS-O90OQkJNIM55Ad_mfiICFcXUZxR6iMENnLSzaoQ3_vFxstvjs3ZAhZ562qU655Zkvs2SKAPHFvGgJmJhYisS0w1y4w",
-          "width": 478
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-10-11T10:32:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 939,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oB_TLK6TeMDoeYPmRDprCoOtHknePiz7YRfhDWpZKseXiil_B-O0XhsZD4zMnVYr1fW8fn5_SgNTARNoEYXfdxyIDNZGUInyilmFA_jxWId80HXQQLzOJ-EG0C3IZ0TWkfvPBg3UaqXMTIdNweJp7XWu3I1WqeNBwBgwqXD2BsKECXo4NH1CjRQCoM8BT0OJTwv7LQMuMTB8lOcNLPfx9B8dReinobN8xd-0Njdk1NxeOm-ZvPHuPAuOGAO529o20LMWnRe4ASAXeCrBxSmVBSmhLJF06l8nJIKuAlPozOKGyHxvHIHgvbWkhAu9cf2jKzvhBlsy6g61zJg8cRmjwg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
-      "date": "2026-10-11T12:29:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 932,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "کوکا میم| Coca Meme",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Phj_ZmF1Lc0j-wRE4oC29Fec8gzH9-DiK4UKYsgViE3ZPREsBlV-4k8hxjIsb4aJKr1UqQwQOSq0MaqY20aDduchT4VWxJ3xq3Lelzpo-_Nh225_c6xK-gbYvtlCtTF46EscwylOrYCSq_fOwYq2-2ZGIi9Cgua-XZXb2xJih590jpT9asobU91xZj34pe6LNR3W6rSfvjVyL_Y-gGdY6znttZOOb-nJFma1EiDA0O3ubYKLMXelg11D1uoJ-hsPKlUTZ37PB48HYsvqFD3KwyDbsHOuozOB_nJvH70T_SPZdcRsiVRxrk14wiCgCw9irF5d99m9KShAVcGdg5OEUg",
-          "width": 478
-        }
-      ]
-    },
     {
       "id": 0,
       "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
       "date": "2026-10-11T14:30:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 900,
+      "views": 973,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +20,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZQQ_dj3LJUf34BywoZq9E_ziBz5KZu6VTogXTZR6waocINNJixDIzGvIw7uSW0wMsgy7F6eAfuSPMdqmsA7bt-YHn-GU2TOZ1YXcnEhzsirl-pif_SHsK9kLZASs9nU1sBLaLmRqXz2Hn6vCacm0xCg3lCtteU_9pS9Uj7PoXDGcn_pVZoimY6rx4pw8AJ1j-cdAigImoIjBKsiLxNOJdqCbk0Nh7oKLfVzQSsEOdQVtBqWFZNdJLwJzpH-nIk1EtTTf7PGlv7LvMXRoJXUXa-h9_24r25zTwrjRGrGdkTZ0p7QDr_oOP1DQR7ETHmb8bnAR6BvXlorj25rEPSOIog.jpg"
+          "url": "https://cdn4.telesco.pe/file/mWmOl-GU4oJw7g0wrpf9bNcQ6G6AVd_hrbXxistHKIo0xR6MbAiw2zJfueGi7wiqKX03niggr0iU_fT5DgGq0rAyhkjUzZFfZDQLeaaCeyWy1aY70GbxFCkONUJt3kTnz0WwSVk_u79hyEoXoqAC3fnuSPbKxUu-erWv5Eu6-_XIFe6HEeGJpWPznpcos2RxhViPg3xPBSa5hWuq2p5S1HPV7R4NhazRMSR-HJ6jKuHTaQMYEjderbY9CnTKYpw-unelsOsvDo5chJlTJmdZscC6TYWFuJd9gG3uOyeewySr1knRN9ir4ffga5lg0uhMDdqANjAxH1AzQXU-_W7ddw.jpg"
         }
       ]
     },
@@ -123,7 +30,7 @@
       "date": "2026-10-11T16:20:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 917,
+      "views": 993,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/l1GdkfI-JgPq6yBSeFqh6vwKfI2j6db4Rw3BhnOkaZEC8LX2XC91NchsaUmg_tnjROiSI0I6NwxDxNUbcuUTS1w_Y6xafcslMCzx42F_6G0FSLFdWkSaN1GP0GNNAAY6QVsDy_WlzZIuWh4O5iKRMw6y3K5QKDvgNs5u6sNNv2ZmFjBCDJCRTgMoUhlDfR9mJuFOlLVUA5MC3-6xBg0oQM2MRQy1VM6qLbuoAWJZPWOngyz7D_vnlwaJadPorn9duDzSVJ6XQ9cSpNDK729ixSFHtE3MJg2OmLanE-ogXAF2UDguQJO6O44lxYaZCFpIHdMQtpN3Nm_Z0YxYTWGljw.jpg"
+          "url": "https://cdn4.telesco.pe/file/FoJ38YYJxDUt81D5qa6bmi-ffWoBsClIsyhbnPclouVweFS1HGwfRLbARhKCbuP4mOT4O6owXbDf8N5TKHducWZhWiGPQwAWOpRCi5Ovy7-ZKsuqHh0pIG4Mh6zG1wPhS1hUJF8PfQMi411oIrMBq_kAXiyWa2apJ5Gnzn6NBwifgNnXS6uXo4S-3LBs02MKJCgNbR3rCRDqf3N4F8QC6nJ7UnCBYX_7HPwGsYSXWywheunHlM_MLaa94TLj-9aVjKSTXcAb2bgnuX1UwTJmUy_oxaL8joa1kSLg6Qv_ewKPQ02-Qkc7qGLI7ok47JrafVwZOqbjuZmeOmz-jrbzKQ.jpg"
         }
       ]
     },
@@ -141,7 +48,7 @@
       "date": "2026-10-11T16:32:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1020,
+      "views": 1110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,7 +56,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Dzj-2yRfZen5TH7JWEaZd7p6gyB6hMYPJ8mvmBU0Tpki-U05rn__itfzce2D9DoeVYyciFv3lTTIcbsP2IPdYwh00Mx9R6ZOOSVOg16XuvOUGigD_Ym5qIORD_RzCMgNAncfE38fdMW-R8nRaF6RDvqryNzgvuNZcx6n5fcQZlcvRPxhCqz4pPq-g4wTfaNEdt2EOxSu3TVwjamFY2qJAS6VWpBdX-Va6gFtjaOREqV1H-5w-W-qRaXgbOmD6-tGKvWPoIYOBgDl3eIOj1u1VcfESI50G0dA-Nn34I8XJJ7FjVxw6oPbkNjNwYloI6urf2GBf6SerJTGnvsikWEqOw",
+          "url": "https://cdn4.telesco.pe/file/hoohir9ByjD7ucCdJD4uw1ddBTyMUp83Lgfnwqt2c31T6AuHgIrZkFIXB15vCgpY18dhk9gC8WczFfFFsOFkH6pIuC_PKXf7NMxSrIWZ8WmmpNbpdMR18BNnuzPFLf1jIb_Q2CJAe-NX7WxVf1IAqqCITTZ5gXvixHFK-NrvBNeVeTYTtid1Vk14uWAuBYMArEu91JmG6Sz4m8SiNKfIc50yrvADhiDrWF2uqFrroM3vwW_888GnFwh7S_MqqmhUW1_6-PiJP1cjYS7X0JVxePXbd3iBmTedFkvG9g_ok5xthJlQLijBeh4g5s94Jrd0Se7MUMiPGIPJfbJUApdoZg",
           "width": 720
         }
       ]
@@ -160,7 +67,7 @@
       "date": "2026-10-11T18:30:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 908,
+      "views": 991,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -178,7 +85,7 @@
       "date": "2026-10-12T06:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 882,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +104,7 @@
       "date": "2026-10-12T08:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 797,
+      "views": 889,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +123,7 @@
       "date": "2026-10-12T10:31:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 775,
+      "views": 876,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +131,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YjIH6Zmu3qC2RcWyuVAzIumvb_FYgAHaPrv-RA_TdUcSXzx8TmMLUY7bJKYN9esmHjyCiJyY_N9VqJv6E7FaIetzuyFB4TwDDeMvGH50g6m0yLcwzz1ea-FKkQXi8ihb0D1Ci6a2mUi4QOY9TNVYmExPfBGJZDXshosZh5GRkX45rfr0L0uegY3fkGm8mwBmBZ2jPZDtATPFe8fezcFXp4QdbyInUIpvQHE2yHFkFy6DMhtsID3oyljTkrHpcbfcxBf3V11_Ws9YAzaXoIayeDLhybBrS3v8yNxq6q9cXYM7JkaKkHV-ql2YBLYLVOOjy0l7xRhA3sj8gv7TpByAsA",
+          "url": "https://cdn4.telesco.pe/file/oDs50x-h4MSS6g75uiM7jzomgVxMdaau40nwiMWoUhuKN1G71QxVNeyjt6kShSr2_Au94pIXXdvQ25cawf-SyYj_LefVRZXUN3oOIWkwVut3ew11bzHVQ5vqupRYJHecqyFk89MtHWYH81TEweqpjs21w3H8gJqSSDrAqHIAx9aB3OL79baP63jO0tMPHxFA5356TrNL9dQdrc6dAT583zRLsSUACvI7G5t9lCW0U0Fm7vhSmSiYAYDeigu5kZ2b0lklnXRjW4-Nh5c2zdwtfj-PvZW3THjjVJcWw696BMgTZaePxnO-OBHpgN8fwOBZPOzsnToDoc_aLN4apS6OGA",
           "width": 478
         }
       ]
@@ -235,7 +142,7 @@
       "date": "2026-10-12T12:31:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 727,
+      "views": 845,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +150,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kLCJXT6cCk6PluZAIR5I-wMDcUNmx4DbP7ZcoEOAo5M-9afhXoYROXvhb0pBpTTvNP47NHjpBBNjOgDy0V6J0cvUxXFhQTWrFcDAANVjosA0n8317gdyQDOF360BghiDIbi7fb2CUxKDGSNpyHbXUoF3TWjnrEPjQo9YprY87r7Mc8ASijanIQo_D2YLNucy2pvaYbz4w3o6U5PcxXelvh_gZVk45jUl3yFhZBjK9rsYIsSOqdVWVRD3aub1X20-_2az4O_B_2ASdoEJEPS9FCObBH6rBeu8gO0jxr7W_AvBmrrmn_fhdencalCHN_dfF5WdXqjxbC5ZUZjjsDC0UQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/Z7vSgMaCiu9WXHgy8-knilrBFC6rBGa2KrsiwcV-eqSQMlVuyhlx6DznD9f2V-zG66DfLn-czoF3XpJzP9Wruvkd79tQvUflRh9LdreDbQs6K9KNt-uPt5myaYyUr3x4r3JX5ZXGtKLkzP0WpUMy_-iyyB1PcuNr8cv5DmSCKHf1q0je9zqNSdxqB8VS0Yz6Koi_qCrHPnm1XuAhoNCNGtoy-_nveJmbqAloxq6QEGWHLIaIQTsEX85Y9sZZdlmScc3BzIu16CDQBL8_v4fDbWYIUP3hO9wCqHW7fOeN0Z52j66FE9YiORKuoGY7eElJneYTh9pxYBH0mQX1ipTUhQ.jpg"
         }
       ]
     },
@@ -253,7 +160,7 @@
       "date": "2026-10-12T14:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 649,
+      "views": 776,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -261,7 +168,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/hC9B7F0XR0IwUhH9XwtwBLX3k4kXvhBUpmWf86zA8rw4Xd6_xIdJjOjdMOh34xqB8bc66n0ceMT0b7tCNLxS9JCJJ45kzoQ3YfSw3t-T9fHivNcX4Lb1_NSvq2-qyjo8cKCkEKBePRQoQhBD_v4ar8RGjFf_Dev2dnJTVYH1cQmIGQT4eeVhn6NA5mmrrKrnx7-GpcyE0sp7z_mTpElIMpUZ-9jXYN1o13-EUw9BlBXpl8Yrlzm6fteekLX_Dg37TYx7mezH_1TR6VbvJY6BdFJsYo-4_1SSYfk8KtuynIXPb2IXgANNk8Fa8rxG43eIvrzLu3CfHeimKNBDbNOdaQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/tmNOwUHlX4vBbRWrYMp_JnZLFKob6Zlbeso0WMYhoPJ09yfhJYftgOy4qEjrtOJmJozJ8CPKLlhpOaICNQ_qR0XoBQ__DpdSTeE_f4o4R1PTZMOFcjOK954v1MXh8zb09vMOUc5JAnVDtvUr4XpuzbR4Of66fVGMt5rw_bAM1qgqpD2qAyOEFuvUR5bHnPQX1oL6_U_I5pUuskYbxDkr4oYMMQZmFyolHtMcoJSxrgSIApsD7GodDe9JZIYq58T1X4J-XJCWOHaA7ST749ZVOdqvSmLllY03LzJleig4hvi9ccLfBIAnMdKbpO4D6bcoESvVFRImzr54VjKebsuOjA.jpg"
         }
       ]
     },
@@ -271,7 +178,7 @@
       "date": "2026-10-12T16:30:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 627,
+      "views": 835,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -279,7 +186,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/lqx-UR2tjj0-Lu23ti62BZkqvRF0SLTh2rfTYN268AP767Y_uPNW8sHeMTendTkcVwDmHiy6gZ17oHTFclWpSZtGOWv1hwViFMg1c0OeWD7IDbfYf_C8fLTVK7XI-cIl4XvMuV4tAjIlY5pEoYbnbgMrgjIlAylzmPcns9XPwidf0gAJbKfbItSN4pOXJYjIwJ-3nrj0lIOZ0Ufw9ggMAT6XL76kwbhodnWkk4TE1ERPBDlU7_gLitMVOmyw8DcTQMo4FQbfjdESu0YLk88i8nT-HJYUoJmF4BROPCflwDHZid12o1M5Uzs6nLmTEW7ORvgIr9088zCXsLmVgYkm-g",
+          "url": "https://cdn4.telesco.pe/file/sL5pSD-q6RQmsOxAu-9960mJk2fhvr3_eDhlSvxr_JJzPWWU6ntUUNOEGiey3fN5yAUhzYFNe_nkgQG94Y28WxFYiJeBHvKB3OJ926Tu-2gZnQbSSmzCURBFZOAwnAyCLo4JzU55DBFiVaCWkleaPwvql-zBRJYvYFjZUNAtkd8SWGFLdSu77OMptAOlWZK8gKlwk1vR4GgyD5CVbqOnvHWS-CNxFotdrE5EFua_Zp3YS186-V8MsGF70Zf6uF5N33E4ijGJQuQzJYMcscZNK4ofSY88HS2o9uB3o39r56lRMQdEkjFj4GXHolLkhp2g10_PdKTQvIIBYmmTva5QJQ",
           "width": 470
         }
       ]
@@ -290,7 +197,7 @@
       "date": "2026-10-12T17:32:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 591,
+      "views": 791,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +216,7 @@
       "date": "2026-10-12T18:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 544,
+      "views": 813,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +235,7 @@
       "date": "2026-10-13T06:31:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 182,
+      "views": 582,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -347,7 +254,7 @@
       "date": "2026-10-13T08:31:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 72,
+      "views": 574,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -359,7 +266,101 @@
           "width": 820
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-10-13T10:31:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 502,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/E-9JJzc5DyW_CSzLWXQIwiqMB_VEu6jLIZSo0Bhrs2XrkRyNX28ve8ynYr2rlwzYv2q2EXenvVE6SlR4kSs0YPJ3QM2JhQcHr-UmtGO7zhAb1f56IUIWGCsEtKZQ2P6Gc-AiVkHl8PCbeaHq67MEXhPVsFM2w_H_4xwPkrvPLW9PZO12f2Zgogs9xrOI3zET53wRSGjT-OsnS8J2H3eOKmEJkTAtrC2GTs3ZRrUn_Ptbtgvy2DKPSymIA3HboqR51CTwzTOeOonxicwk03e7oQqbq_VT_uy4jCDht2TdoDocbIUtOw29byAD8kSdL6LwF4dn4C8UQJmVbLj9aHcAvQ",
+          "width": 478
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-10-13T12:31:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 417,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/eBzr7UHbKDZY6sybJi5gyIiXIrzAzTJpYCinOVEyv9XO8n5XrTXcvKLe68wR1tKGvTyZ0mOV0tujX3wk2yqjtl4tR7rLzgkgBE6gj7UbCGAtFzy5gfMPHBAuzmRbOUYbZ8fOWcpHQKHBLGjQre1Q-3uUz6u6ZWk-IkhK45GRqHBBvSEpxjQv0f4Q0x_UOiOnRhUgQw5YgXg9QYQPBNfkECiuPYqGROlBmcAmTH6V1Pn9FqiNl1BYUC5B2GnngbGjI0ddxw5slQtyOBFNIu6yAJbxNaIWeHLmDc4FOUYqq14vmJ73MulLNvDJY9VUI9c1ikJ3PinVg99BZ3uLCHBiTw",
+          "width": 530
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "● Join us: \u003ca href=\"https://t.me/bros_Meme\" target=\"_blank\"\u003e@bros_Meme\u003c/a\u003e",
+      "date": "2026-10-13T14:31:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 294,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/RC0PJhgnod1hbgEoEl2ulB78XoikGv4eqaV3K7OfEI6lOAK-N0KjpnhZJgCC0AMCliKuoMDw51n47RfYoKxHxCX5qpoPSvZX7I3SbSPMQhD7BPnqzHTYJb4DDa4fEboW3S0SxuO-wW_ZXaTa8epx7P3n0WWE5-JdYEe6RQA-oWVh9gP4l-0tki7DeQS-aL5fbOMhW9K6WxgTNfKRNYu7BqD2D9jkg4BrVMtltc-i99erkd0Qzv5u8Ft0-Ix06kpxx48wrzSk65erH7MJmzYkuXk45_KXjTk1f2hzfLsu8CNE0MWYBRCB2_-C-aEnQN539Bs3JCInkrGcp9Ih7ZbDyA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-10-13T16:32:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 64,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Ux_weTWTE1e6HOCe8x4A8PKqKT4I3LEERC6pngwxTGW4XxDWAnWRMxoXz8whhrCczuSKcvQPT1dj0K9zcVafOY-w0s23hr3AbrUYQAX2UjBdMUX6JQ1iaNKFsLZVTe_RL74V_ozWmi9goKohEsh7MGtrsI42uhCeAeJL5O0pt4mp794WLLdKM9eGJ_L3qF4kZ1zI_PFpgwgZtwnKdB9yEcuzYXSsifRop5Kw8m7ebXLexNZiGKCLKtc1cbmSpqSq4YJQztdIejN0q9Tztsh1l05EaCW_UUGNOMK6165jgkX9Ia8A4hKqz3SLO3_b4P8QtTZGWCA9LxuETkgiIwPXhA",
+          "width": 352
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ca href=\"https://t.me/coca_meme\" target=\"_blank\"\u003e@coca_meme\u003c/a\u003e",
+      "date": "2026-10-13T16:32:35Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 56,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "کوکا میم| Coca Meme",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qcbvETzqv4V9yRpz0sLiZoN_5pOkAS6E_C_A9ulb2dSLi1wZ_xKoDqPjmd-mbaOONzrFKMmXv4vUyOYWIf6Zb41sx1CYB8Iu3n_5cAK3P2N81mkz7cqozUyRrmsD-6R1aNHCC-aDot-xYVcBYXdVbg_MMq1V8DPU2TWwTwDg-eFFpMC0Z40LIPy6QwqabaVoJDJp9_drZ4eHjirnGgw9oySAinlaWxmopPyVsqK9H0Z31bSk6_sHfbiEQzadyFey3cyi0F4vY5sddUF0Tg29L8yPEHx2DYfktI95OvyVC1YunAfxWEmDc6mvJGie2MeCWL9FUTOL0vkM8s3ApfCkCA",
+          "width": 480
+        }
+      ]
     }
   ],
-  "last_updated": 1791881905
+  "last_updated": 1791910088
 }
