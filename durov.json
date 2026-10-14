@@ -39,7 +39,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oXz3Eeh5a7FGn_Rxc3RSFkL9KnCLKFoUSH7kC1FM4hxKXKYzcQMfGE2UhFMEYabgIghDCpwD7iHppypWlpfCZSho5O3IYDAclT41cqRtrN5J2X0dfs12PDcjnlOXStKAPSsSe9cQH15UVekbKlVHD3WFVGa0eTaly6ydkBOMq5M5knW_gLvEpMk-eBKV-llDlef2iTcN4cHT_lW7XnkLu1Rwp6aQ4tFMXyADbtos6b5CJiN9FMEz73aK_1O8XTg3AAQMoHeyBhw3HTH8jGdC7V6EOuCjPC4YUfA11liLrWmuZnzZ7YbNFvyHgHexCoI-_TIh1u-WHr63TYKX_l6b6w",
+          "url": "https://cdn4.telesco.pe/file/Phn51ib-BZ3QfWrxWnEcsl6byYyTHALKnX4B220gDt8pmzA4u7gMwlAB-JMoI8h-g2LlvlsIbEEKHAPZDWnFPKwZ2GtQ6i2K5DQePN-p4pBPQwb6_AEalg2ZUw4RE2ACSFgYjju_Z_xmKrunLLMmU1J1rixFofbwMeEOiQlUcDG4qPbCWeR8kQwwF6JycGEmSl-zr8krvyeaemETJ8nGpAoGCoVL3q4ubSl2T6a_Hd8X8EYDnJTu1vul9C3c99g2u855l0Yibfsg4OSfWnFyTBhjinVs7KGUrZBr9o2hTwankCBbBqmQkDhzgcRzdymzPV_IZpWfVqsx4yGUhjExOA",
           "width": 1920
         }
       ]
@@ -112,7 +112,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XraTfvGSVcFc5r-16Zj8KQYgrswF8zYXzdzMmoPL1uYJgcgVjOzbvfQUTHFCwL4guggNOlhFVL9XjpCQmTL-NQqSvvHZn-PF8CXYdGTYLQomLHuTxJcBybBHFIMmWAed9c4hQlckNtKJ08g6UqE2ahz7wjN4hE34jMvdYissjlADm8grvASWg2PWAqw4qGVP2IiLI14nkSVcAusTMLQx77bd_TPqdPbLXgHzt3ZuxLn8IhTJAMqAxP2QC0bmMuGEcm7qkOaAzef_SF0JsXuU-bg3G85wHGXyvflkqRdcFftKFZ15zRE7V-tw3Pi49XQiLU0u1Y9vdKm6W92O4Cts8Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/DGuq3Gy2tcjp0vgHxW0TOXm4tJd8v0JVvSrnfnstbVhUeJvBmTeA0GJD_7dRUmhSBmYPhGZUDWw-hy3ICduHHgcgod_oIt46NJNTx3go2LBANJWkWkQMrLFSsw4FOMDbYYEF6AHQLwzruker13qMv7TY3OGbT4TdM0we-H_tnNS9QhGUGkPg4ZyL77ztu4vunFwsxpMRv47bJ-ljk3X5VCB_igiPzJv0xjjPf4ABHGVTtU4-j4MgaxYHLOy8LGXuZMNlWJNkgZ1V-nyxWn6Gm6AX-q1n5i7OdqF6R5ikJnHKDwEv4UgKtWKQfD5_XdsYGjXJcfu7vzZ73JL5cGqYdQ.jpg"
         }
       ]
     },
@@ -286,7 +286,7 @@
       "date": "2026-10-11T14:52:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 834000,
+      "views": 849000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,5 +300,5 @@
       ]
     }
   ],
-  "last_updated": 1791993358
+  "last_updated": 1792008030
 }
